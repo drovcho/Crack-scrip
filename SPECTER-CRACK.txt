@@ -1,0 +1,19520 @@
+local function e4l44gant77()
+	local e4l4g4nt77
+	local e4legant77 = function()
+	end
+	local _4elegant77, e4l44gant7 = true, true
+	local e4legant4 = {}
+	local e4l44gant = {}
+	do
+		local e4legant = {}
+		do
+			local _4elegant = {}
+			local e4l4g4nt = {}
+			local e7legant77 = {}
+			local el4g4nt77 = {}
+			local e4legantt77
+			do
+				do
+					local _4legant77 = {}
+					local e44legant77 = {}
+					local e4L4g4nt77 = {}
+					do
+						do
+							local E4L4G4NT77, e4l3g4nt77
+							do
+								local e4l4g4n7 = {
+									[1] = 12,
+									[2] = "ScrollBarImageColor3",
+									[3] = "SettingsButton",
+									[4] = "7",
+									[5] = "Malformed rich text",
+									[6] = "BackgroundColor3",
+									[7] = "MouseButton2",
+									[8] = 1,
+									[9] = false,
+									[10] = 247,
+									[11] = "Thickness",
+									[12] = 23,
+									[13] = 1,
+									[14] = "MB1",
+									[15] = "19",
+									[16] = "RS",
+									[17] = 36,
+									[18] = 12,
+									[19] = "UIListLayout",
+									[20] = 20,
+									[21] = "ApplyStrokeMode",
+									[22] = "UIStroke",
+									[23] = "2",
+									[24] = 200,
+									[25] = 12,
+									[26] = 40,
+									[27] = "Visible",
+									[28] = 0,
+									[29] = "TextLabel",
+									[30] = "BackgroundTransparency",
+									[31] = function()
+									end,
+									[32] = 0,
+									[33] = "TextButton",
+									[34] = "ImageLabel",
+-- e7l4g4nt < 47 >
+									[35] = 0,
+									[36] = "1b",
+									[37] = 138,
+									[38] = "BindableEvent",
+									[39] = "f",
+									[40] = "Escape",
+									[41] = 129,
+									[42] = "TextColor3",
+									[43] = "ScrollingFrame",
+									[44] = "Frame",
+									[45] = "TextButton",
+									[46] = "Name",
+-- e4l44gant77 on top
+									[47] = 124,
+									[48] = "ImageLabel",
+									[49] = 15,
+									[50] = "a",
+									[51] = "TextSize",
+									[52] = "TextButton",
+									[53] = 4,
+									[54] = "Padding",
+									[55] = "Always",
+									[56] = 1,
+									[57] = "UIListLayout",
+									[58] = 0.1,
+									[59] = 159,
+									[60] = "UIStroke",
+									[61] = "11",
+									[62] = "Heartbeat",
+									[63] = "Frame",
+									[64] = 1,
+									[65] = "Frame",
+									[66] = 129,
+									[67] = 1,
+									[68] = "9",
+									[69] = 229,
+									[70] = "BorderColor3",
+									[71] = "Frame",
+									[72] = 0,
+									[73] = 0,
+									[74] = 0.2,
+									[75] = 0,
+									[76] = "HttpService",
+									[77] = "UIGradient",
+									[78] = "1a",
+									[79] = 24,
+									[80] = "",
+									[81] = 5,
+									[82] = "UICorner",
+									[83] = "ImageLabel",
+									[84] = "string",
+-- 4legant 4 the win 474
+									[85] = 1,
+									[86] = "Visible",
+									[87] = 18,
+									[88] = 0.5,
+									[89] = "FillDirection",
+									[90] = 0.1,
+									[91] = true,
+									[92] = "3",
+									[93] = "UIStroke",
+									[94] = 14,
+									[95] = "LC",
+									[96] = 6,
+									[97] = 12,
+									[98] = 1080,
+									[99] = 99999,
+									[100] = "TextButton",
+									[101] = "ScreenGui",
+									[102] = 0.55,
+									[103] = 5,
+									[104] = "Regular",
+									[105] = "TextTransparency",
+									[106] = "2",
+									[107] = 106,
+									[108] = "TextButton",
+									[109] = 5,
+									[110] = "Toggle",
+									[111] = "BorderSizePixel",
+									[112] = "MB1",
+									[113] = "RunService",
+									[114] = "Position",
+									[115] = 1,
+									[116] = "TextLabel",
+									[117] = "Frame",
+									[118] = 0,
+									[119] = 2,
+									[120] = "none",
+									[121] = "MouseButton3",
+									[122] = "Frame",
+									[123] = 5,
+									[124] = 40,
+-- e4l3g4nt runz this
+									[125] = "BackgroundColor3",
+									[126] = 265,
+									[127] = "SortOrder",
+									[128] = 0,
+									[129] = ".",
+									[130] = 100,
+									[131] = 2,
+									[132] = "6",
+									[133] = 16,
+									[134] = 229,
+									[135] = "TextLabel",
+									[136] = "UIPadding",
+									[137] = 37,
+									[138] = "",
+									[139] = "RenderStepped",
+									[140] = "MainFrame",
+									[141] = "UIStroke",
+									[142] = 16,
+									[143] = "Frame",
+									[144] = "LISTLAYOUT_RIGHT",
+									[145] = 999999,
+									[146] = "UIPadding",
+									[147] = "LISTLAYOUT_SINGLE",
+									[148] = "TextLabel",
+									[149] = "ENTER",
+									[150] = 255,
+									[151] = "smallest_pixel.ttf",
+									[152] = 102,
+									[153] = 1,
+									[154] = "UICorner",
+-- property of e4l3g4nt
+									[155] = 86,
+									[156] = 143,
+									[157] = 1,
+									[158] = "Frame",
+									[159] = 20,
+									[160] = "d",
+									[161] = 36,
+									[162] = "BackgroundFrameStroke",
+									[163] = 20,
+									[164] = 216,
+									[165] = "b",
+									[166] = "ESC",
+									[167] = 21,
+									[168] = "HumanoidRootPart",
+									[169] = 5,
+									[170] = "TextButton",
+									[171] = "Transparency",
+									[172] = 17,
+									[173] = 0.55,
+									[174] = "Text",
+									[175] = "TextLabel",
+									[176] = "8",
+									[177] = "TextButton",
+									[178] = 34,
+									[179] = "settings.png",
+									[180] = "TextButton",
+									[181] = 166,
+									[182] = 159,
+									[183] = "\101\52\108\51\103\52\110\116",
+									[184] = "_info",
+									[185] = "Position",
+									[186] = 159,
+									[187] = "Frame",
+									[188] = 28,
+									[189] = "5",
+									[190] = "untitled",
+									[191] = "1",
+									[192] = "Frame",
+									[193] = 6,
+									[194] = "",
+									[195] = 3,
+									[196] = 32,
+									[197] = "ImageLabel",
+									[198] = 40,
+									[199] = "TextButton",
+									[200] = "ImageButton",
+								}
+								e4legant4.v83 = setmetatable(e4l4g4n7, {
+									__index = function(e4l4g4n777, _4e4l4g4nt77)
+										error("Unrecovered menu constant " .. tostring(_4e4l4g4nt77), 2)
+									end,
+								})
+									-- had to whip out my opaque predicate resolver for this one :rofl: - nocuity
+								e4legant4.n24 = 9070
+								e4legant4.n25 = 0
+								e4legant4.n26 = function()
+									return 0
+								end
+								e4legant4.n27 = function(e4l4g4ntt7)
+									return e4l4g4ntt7 * 400 - 1440000
+								end
+								e4legant4.n28 = function()
+									return 1100
+								end
+								E4L4G4NT77 = ""
+								e4l3g4nt77 = {
+									Modules = {
+										UI = {}
+									}
+								}
+								local e4lEg4nT77 = getgenv()
+getgenv()["\101\52\108\51\103\52\110\116\95\109\97\114\107\95\52\55"] = "\101\52\108\52\52\103\97\110\116\55\55\32\58\58\32\52\55\52\55"
+getgenv()["\101\52\108\52\52\103\97\110\116\55\55\95\98\117\105\108\100"] = "\101\108\101\103\97\110\116\32\120\52\32\120\55\32\58\58\32\100\111\32\110\111\116\32\114\101\109\111\118\101"
+getgenv()["\101\108\101\103\97\110\116\95\119\97\116\101\114\109\97\114\107\95\55\52\52\55"] = "\52\108\51\103\52\110\116\32\119\117\122\32\104\101\114\101\32\55\55\52\52"
+getgenv()["\101\52\108\51\103\52\110\116\95\111\119\110\115\95\116\104\105\115"] = "\101\108\101\103\97\110\116\32\124\32\52\55\32\124\32\55\52\32\124\32\52\52\55\55"
+								e4lEg4nT77.SYC = e4l3g4nt77
+								e4lEg4nT77.playerService = game:GetService("Players")
+								e4lEg4nT77.coreguiService = game:GetService("CoreGui")
+								e4lEg4nT77.tweenService = game:GetService("TweenService")
+								e4lEg4nT77.inputService = game:GetService("UserInputService")
+								e4lEg4nT77.rsService = game:GetService("RunService")
+								e4lEg4nT77.replicatedStorage = game:GetService("ReplicatedStorage")
+								e4lEg4nT77.textService = game:GetService("TextService")
+								e4lEg4nT77.httpService = game:GetService("HttpService")
+-- 4legant 4 the win 474
+								e4lEg4nT77.userSettings = UserSettings()
+								e4lEg4nT77.userGameSettings = e4lEg4nT77.userSettings:GetService("UserGameSettings")
+								if type(isfolder) == "function" and type(makefolder) == "function" then
+									for e4l4g4n777, _44elegant in ipairs({
+										"\101\52\108\51\103\52\110\116",
+										"\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115",
+										"\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101",
+										"\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101\47\115\107\105\110\95\99\111\110\102\105\103\115"
+									}) do
+										if not isfolder(_44elegant) then
+											makefolder(_44elegant)
+										end
+									end
+								end
+								e4legant4.localPlayer = e4lEg4nT77.playerService.LocalPlayer
+								e4legant4.font = Font.fromEnum(Enum.Font.Code)
+								pcall(function()
+									if type(isfile) ~= "function" or type(writefile) ~= "function" or type(getcustomasset) ~= "function" then
+										return
+									end
+									local _7elegant = "smallest_pixel.ttf"
+									local _77elegant = "\101\52\108\51\103\52\110\116\95\117\105\46\102\111\110\116"
+									if not isfile(_7elegant) then
+										writefile(_7elegant, game:HttpGet("https://github.com/f1nobe7650/Nebula/raw/refs/heads/main/fs-tahoma-8px.ttf"))
+									end
+									local _47elegant = {
+										name = "\101\52\108\51\103\52\110\116\84\97\104\111\109\97",
+										faces = {
+											{
+												name = "Regular",
+												weight = 300,
+												style = "Normal",
+												assetId = getcustomasset(_7elegant)
+											}
+										}
+									}
+									writefile(_77elegant, e4lEg4nT77.httpService:JSONEncode(_47elegant))
+									e4legant4.font = Font.new(getcustomasset(_77elegant), Enum.FontWeight.Light)
+								end)
+								_4legant77.huge2 = math.huge
+								_4legant77.remove2 = table.remove
+								_4legant77.vector = Vector3.zero
+								e4legant4.vector2 = Vector2.new
+								e4legant4.udim2 = UDim2.new
+								e4legant4.color = Color3.fromRGB
+								e4legant4.new = Instance.new
+								e4legant4.delay = task.delay
+								e4legant4.spawn_ = task.spawn
+								e4legant4.wait_ = task.wait
+							end
+							local _74elegant, _447elegant
+							do
+								do
+									do
+										do
+											local _774elegant = game
+											getgenv().textService = _774elegant:GetService("TextService")
+										end
+										do
+											local _774elegant = game
+											getgenv().httpService = _774elegant:GetService(e4legant4.v83[76])
+										end
+									end
+									do
+										getgenv().userSettings = UserSettings()
+										do
+											local _774elegant = userSettings
+											getgenv().userGameSettings = _774elegant:GetService("UserGameSettings")
+										end
+									end
+									e4legant4.localPlayer = playerService.LocalPlayer
+									e4legant4.localPlayer:GetMouse()
+-- e4l3g4nt :: 47
+									_4legant77.huge2 = math.huge
+									_4legant77.remove2 = table.remove
+									e4legant4.vector2 = Vector2.new
+									_4legant77.vector = Vector3.zero
+									e4legant4.udim2 = UDim2.new
+									e4legant4.color = Color3.fromRGB
+									e4legant4.new = Instance.new
+									e4legant4.delay = task.delay
+									e4legant4.spawn_ = task.spawn
+									e4legant4.wait_ = task.wait
+									do
+										local function e44legant()
+											local e47legant = {
+												include = function(e7legant, e77legant)
+													if not e4l3g4nt77 then
+														return
+													end
+													if not e4l3g4nt77.Modules then
+														return
+													end
+													if not type(e77legant) == "string" then
+														return
+													end
+													return e4l3g4nt77.Modules[e77legant]
+												end
+											}
+											getgenv().include = function(e7legant)
+												return e47legant:include(e7legant)
+-- e4l3g4nt : 7 : 4 : 7
+											end
+											return e47legant
+										end
+										e44legant()
+									end
+								end
+								do
+									local e74legant
+									do
+										do
+											e4l3g4nt77.Modules.Connect = function(e7legant, e77legant)
+												return (e7legant:Connect(e77legant))
+											end
+											e4l3g4nt77.Modules.lerp = function(e7legant, e77legant, e447legant)
+-- 4l3g4nt owns this 4477
+												return e7legant + (e77legant - e7legant) * e447legant
+											end
+											e4l4g4nt77 = {
+												Heartbeat = {},
+												RenderStepped = {},
+												AddToHeartbeat = function(e7legant, e77legant, e447legant)
+													if e4l4g4nt77[e4legant4.v83[62]][e77legant] == nil then
+														e4l4g4nt77.Heartbeat[e77legant] = rsService.Heartbeat:Connect(e447legant)
+													end
+												end,
+												RemoveFromHeartbeat = function(e7legant, e77legant)
+													if e4l4g4nt77.Heartbeat[e77legant] then
+-- elegant x4 x7
+														e4l4g4nt77.Heartbeat[e77legant]:Disconnect()
+														e4l4g4nt77[e4legant4.v83[62]][e77legant] = nil
+													end
+												end,
+												AddToRenderStepped = function(e7legant, e77legant, e447legant)
+													if e4l4g4nt77.RenderStepped[e77legant] == nil then
+														e4l4g4nt77[e4legant4.v83[139]][e77legant] = rsService.RenderStepped:Connect(e447legant)
+													end
+												end,
+												RemoveFromRenderStepped = function(e7legant, e77legant)
+													if e4l4g4nt77.RenderStepped[e77legant] then
+														e4l4g4nt77.RenderStepped[e77legant]:Disconnect()
+														e4l4g4nt77.RenderStepped[e77legant] = nil
+													end
+												end,
+											}
+											e4l3g4nt77.Modules.Loops = e4l4g4nt77
+											e4l3g4nt77.Modules.PerlinNoise = function(e7legant, e77legant, e447legant)
+												return math.clamp(math.noise(e447legant * e77legant + e7legant), - 0.5, 0.5)
+											end
+											e4l3g4nt77.Modules.UI.RichTextToNormalText = function(e7legant)
+												while true do
+													if e4legant4.v83[91] then
+														if not e7legant:find("<") and not e7legant:find(">") then
+															return e7legant
+														end
+														if e7legant:find("<") and not e7legant:find(">") or e7legant:find(">") and not e7legant:find("<") then
+															break
+														end
+														local e774legant = e7legant.find
+														local el4egant = e7legant:gsub(e7legant:sub(e7legant:find("<"), e774legant(e7legant, ">")), "", 1)
+														e4legant4.wait_()
+														e7legant = el4egant
+													else
+														return e7legant
+													end
+												end
+												return error(e4legant4.v83[5])
+											end
+											e4l3g4nt77.Modules.UI.GetTextBoundary = function(e7legant, e77legant, e447legant, el44egant, el7egant)
+												local el77egant = textService:GetTextSize(e77legant, el44egant, e447legant, el7egant or e4legant4.vector2(1920, e4legant4.v83[98]))
+												return el77egant.X, el77egant.Y
+											end
+											do
+												local function e44legant()
+													local el47egant = {
+														Instances = {},
+														Popup = nil,
+														KeybindsListObjects = {},
+														KeybindList = nil,
+														Flags = {},
+														ConfigFlags = {},
+													}
+													getgenv().uishit = el47egant
+													getgenv().theme = {
+														accent = e4legant4.color(e4legant4.v83[181], 157, 159),
+														risky = e4legant4.color(e4legant4.v83[156], 77, 77),
+														playerlist = e4legant4.color(0, 255, e4legant4.v83[150]),
+													}
+													getgenv().theme_event = Instance.new(e4legant4.v83[38])
+													local el74egant = el47egant.Instances
+													local el447egant = include("UI")
+													local el774egant = nil
+													local _774elegant = nil
+													local ele4gant = nil
+													local ele44gant = nil
+													local ele7gant = nil
+													local e47legant = {
+														[Enum.KeyCode.LeftShift] = "LS",
+														[Enum.KeyCode.RightShift] = e4legant4.v83[16],
+														[Enum.KeyCode.LeftControl] = e4legant4.v83[95],
+														[Enum.KeyCode.RightControl] = "RC",
+														[Enum.KeyCode.LeftAlt] = "LA",
+														[Enum.KeyCode.RightAlt] = "RA",
+														[Enum.KeyCode.CapsLock] = "CAPS",
+														[Enum.KeyCode.Return] = e4legant4.v83[149],
+														[Enum.KeyCode.PageDown] = "PGD",
+														[Enum.KeyCode.PageUp] = "PGU",
+														[Enum.KeyCode.ScrollLock] = "SCL",
+														[Enum.KeyCode.One] = "1",
+														[Enum.KeyCode.Two] = e4legant4.v83[106],
+														[Enum.KeyCode.Three] = "3",
+														[Enum.KeyCode.Four] = "4",
+														[Enum.KeyCode.Five] = e4legant4.v83[189],
+														[Enum.KeyCode.Six] = e4legant4.v83[132],
+														[Enum.KeyCode.Seven] = "7",
+														[Enum.KeyCode.Eight] = "8",
+														[Enum.KeyCode.Nine] = e4legant4.v83[68],
+														[Enum.KeyCode.Zero] = "0",
+														[Enum.KeyCode.KeypadOne] = "1",
+														[Enum.KeyCode.KeypadTwo] = "2",
+														[Enum.KeyCode.KeypadThree] = e4legant4.v83[92],
+														[Enum.KeyCode.KeypadFour] = "4",
+														[Enum.KeyCode.KeypadFive] = e4legant4.v83[189],
+														[Enum.KeyCode.KeypadSix] = "6",
+														[Enum.KeyCode.KeypadSeven] = "7",
+														[Enum.KeyCode.KeypadEight] = e4legant4.v83[176],
+														[Enum.KeyCode.KeypadNine] = "9",
+														[Enum.KeyCode.KeypadZero] = "0",
+														[Enum.KeyCode.Minus] = "-",
+														[Enum.KeyCode.Equals] = "=",
+														[Enum.KeyCode.Tilde] = "~",
+														[Enum.KeyCode.LeftBracket] = "[",
+														[Enum.KeyCode.RightBracket] = "]",
+														[Enum.KeyCode.RightParenthesis] = ")",
+														[Enum.KeyCode.LeftParenthesis] = "(",
+														[Enum.KeyCode.Semicolon] = ",",
+														[Enum.KeyCode.Quote] = "'",
+														[Enum.KeyCode.BackSlash] = "\\",
+														[Enum.KeyCode.Comma] = ",",
+														[Enum.KeyCode.Period] = ".",
+														[Enum.KeyCode.Slash] = "/",
+														[Enum.KeyCode.Asterisk] = "*",
+														[Enum.KeyCode.Plus] = "+",
+														[Enum.KeyCode.Period] = e4legant4.v83[129],
+														[Enum.KeyCode.Backquote] = "`",
+														[Enum.KeyCode.Insert] = "INS",
+														[Enum.UserInputType.MouseButton1] = "MB1",
+														[Enum.UserInputType.MouseButton2] = "MB2",
+														[Enum.UserInputType.MouseButton3] = "MB3",
+														[Enum.KeyCode.Backspace] = "BS",
+														[Enum.KeyCode.Escape] = e4legant4.v83[166],
+														[Enum.KeyCode.Space] = "SPC",
+													}
+													local ele77gant = e4legant4.v83[118]
+													el47egant.GetNextFlag = function()
+														ele77gant += e4legant4.v83[85]
+														return tostring(ele77gant)
+													end
+													el47egant.Create = function(e7legant, e77legant)
+														local ele47gant = {
+															Tabs = {},
+															Title = e77legant.title or "syndicate<font color=\"rgb(129, 127, 127)\">.free</font>"
+														}
+														local ele74gant = {
+															"xoxo",
+															"! tip - right click colorpickers",
+															"best community",
+															"\101\108\101\103\97\110\116\52\32\109\97\100\101\32\105\116\32\119\105\116\104\32\60\51\32\120\97\120\97",
+															"\116\114\117\108\121\32\97\110\32\101\108\101\103\97\110\116\32\115\111\108\117\116\105\111\110",
+														}
+														local function ele447gant(e447legant, ele774gant)
+															tweenService:Create(e447legant, TweenInfo.new(0.5), {
+																TextTransparency = 1
+															}):Play()
+															e4legant4.wait_(0.5)
+															e447legant.Text = ele774gant
+															tweenService:Create(e447legant, TweenInfo.new(e4legant4.v83[88]), {
+																TextTransparency = 0
+															}):Play()
+														end
+														el74egant["1"] = e4legant4.new("ScreenGui", coreguiService)
+														el74egant["1"].Name = e4legant4.v83[101]
+														el74egant["1"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+														el74egant[e4legant4.v83[106]] = e4legant4.new("Frame", el74egant["1"])
+														el74egant["2"][e4legant4.v83[111]] = 0
+														el74egant["2"].BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+														el74egant["2"].Size = e4legant4.udim2(0, 562, e4legant4.v83[118], 459)
+														el74egant["2"].Position = e4legant4.udim2(0, 527, 0, 168)
+														el74egant["2"][e4legant4.v83[70]] = e4legant4.color(0, 0, 0)
+														el74egant["2"].Name = "BackgroundFrame"
+														el74egant["3"] = e4legant4.new(e4legant4.v83[154], el74egant[e4legant4.v83[106]])
+														el74egant["3"].Name = "BackgroundCorner"
+														el74egant["4"] = e4legant4.new(e4legant4.v83[60], el74egant[e4legant4.v83[106]])
+														el74egant["4"].ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+														el74egant["4"][e4legant4.v83[46]] = e4legant4.v83[162]
+														el74egant["4"][e4legant4.v83[11]] = 2
+														el74egant["4"].Color = Color3.fromRGB(31, 33, 31)
+														el74egant["7"] = e4legant4.new(e4legant4.v83[71], el74egant[e4legant4.v83[106]])
+														el74egant["7"].BorderSizePixel = 0
+														el74egant["7"][e4legant4.v83[125]] = e4legant4.color(e4legant4.v83[150], 255, 255)
+														el74egant["7"].Size = e4legant4.udim2(0, 430, 0, 16)
+														el74egant["7"].Position = e4legant4.udim2(0, 98, 0, e4legant4.v83[133])
+														el74egant["7"].BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+														el74egant["7"].Name = "TabsList"
+														local eleg4ant = e4legant4.new("TextLabel", el74egant["2"])
+														eleg4ant.Name = "MenuBrand"
+														eleg4ant.Size = UDim2.fromOffset(82, 16)
+														eleg4ant.Position = UDim2.fromOffset(15, e4legant4.v83[133])
+														eleg4ant.BackgroundTransparency = 1
+														eleg4ant.BorderSizePixel = 0
+														eleg4ant.RichText = true
+														eleg4ant.Text = ele47gant.Title .. " |"
+														eleg4ant.TextColor3 = Color3.new(1, 1, 1)
+														eleg4ant.TextSize = 12
+														eleg4ant.FontFace = e4legant4.font
+														eleg4ant.TextXAlignment = Enum.TextXAlignment.Left
+														el74egant[e4legant4.v83[4]].BackgroundTransparency = 1
+														el74egant["9"] = e4legant4.new("UIListLayout", el74egant["7"])
+														el74egant[e4legant4.v83[68]][e4legant4.v83[54]] = UDim.new(0, 5)
+														el74egant[e4legant4.v83[68]].SortOrder = Enum.SortOrder.LayoutOrder
+														el74egant["9"].Name = "TabsListLayout"
+														el74egant["9"][e4legant4.v83[89]] = Enum.FillDirection.Horizontal
+														el74egant.a = e4legant4.new("TextLabel", el74egant[e4legant4.v83[106]])
+														el74egant.a.TextWrapped = false
+														el74egant.a.TextStrokeTransparency = 0
+														el74egant.a.BorderSizePixel = 0
+														el74egant[e4legant4.v83[50]].TextXAlignment = Enum.TextXAlignment.Right
+														el74egant.a[e4legant4.v83[86]] = false
+														el74egant[e4legant4.v83[50]].BackgroundColor3 = e4legant4.color(255, 255, 255)
+														el74egant.a.TextSize = 12
+														el74egant.a.FontFace = e4legant4.font
+														el74egant.a.TextColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+														el74egant.a.BackgroundTransparency = 1
+														el74egant.a.Size = e4legant4.udim2(0, 452, 0, e4legant4.v83[94])
+														el74egant[e4legant4.v83[50]][e4legant4.v83[70]] = e4legant4.color(0, 0, e4legant4.v83[118])
+														el74egant[e4legant4.v83[50]].Text = e4legant4.v83[80]
+														el74egant[e4legant4.v83[50]].Name = "CreditTitle"
+														el74egant.a.Position = e4legant4.udim2(0, 96, e4legant4.v83[118], 430)
+														el74egant[e4legant4.v83[165]] = e4legant4.new("Frame", el74egant["2"])
+														el74egant.b.BorderSizePixel = 0
+														el74egant[e4legant4.v83[165]][e4legant4.v83[125]] = e4legant4.color(17, 17, 17)
+														el74egant.b.Size = e4legant4.udim2(0, 533, 0, 378)
+														el74egant.b.Position = e4legant4.udim2(0.027, 0, 0.095, 0)
+														el74egant.b.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+														el74egant.b[e4legant4.v83[46]] = e4legant4.v83[140]
+														el74egant.c = e4legant4.new(e4legant4.v83[154], el74egant.b)
+														el74egant.c.Name = "MainFrameCorner"
+														el74egant[e4legant4.v83[160]] = e4legant4.new("UIStroke", el74egant.b)
+														el74egant.d.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+														el74egant[e4legant4.v83[160]].Name = "MainFrameStroke"
+														el74egant.d.Color = e4legant4.color(29, 29, 29)
+														el74egant.e = e4legant4.new("Frame", el74egant[e4legant4.v83[106]])
+														el74egant.e.BackgroundTransparency = 1
+														el74egant.e.BorderSizePixel = 0
+														el74egant.e.Size = UDim2.fromScale(1, 1)
+														el74egant.e.Name = "Sections"
+														local eleg7ant = coroutine.create(function()
+															while e4legant4.wait_() do
+																for eleg44ant = e4legant4.v83[85], # ele74gant do
+																	e4legant4.wait_(2)
+																	ele447gant(el74egant.a, ele74gant[eleg44ant])
+																end
+															end
+														end)
+														coroutine.resume(eleg7ant)
+														ele47gant.Tab = function(e447legant, el44egant, el7egant)
+															local eleg77ant = e4legant4.v83[84]
+															if not type(el44egant) == eleg77ant then
+																return
+															end
+															local eleg47ant = el7egant or false
+															local eleg74ant = {
+																Sections = {},
+																SingleSection = eleg47ant
+															}
+															local eleg447ant = el447egant:GetTextBoundary(el44egant, Enum.Font.SourceSans.Value, 16)
+															el74egant[e4legant4.v83[176]] = e4legant4.new("TextButton", el74egant["7"])
+															el74egant["8"].TextStrokeTransparency = 0
+															el74egant[e4legant4.v83[176]].BorderSizePixel = 0
+															el74egant["8"].TextSize = 12
+															el74egant["8"][e4legant4.v83[42]] = e4legant4.color(137, e4legant4.v83[37], 139)
+															el74egant["8"][e4legant4.v83[125]] = e4legant4.color(e4legant4.v83[150], 255, 255)
+															el74egant["8"].FontFace = e4legant4.font
+															el74egant[e4legant4.v83[176]].Size = e4legant4.udim2(0, eleg447ant, 1, 0)
+															el74egant["8"].BackgroundTransparency = 1
+															el74egant[e4legant4.v83[176]].Name = e4legant4.v83[177]
+															el74egant["8"].BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+															el74egant["8"][e4legant4.v83[174]] = el44egant
+															el74egant[e4legant4.v83[39]] = e4legant4.new(e4legant4.v83[71], el74egant.e)
+															el74egant.f[e4legant4.v83[27]] = true
+															el74egant.f.BorderSizePixel = 0
+															el74egant.f[e4legant4.v83[125]] = e4legant4.color(255, e4legant4.v83[150], 255)
+															el74egant.f[e4legant4.v83[46]] = "MainSectionFrame"
+															el74egant.f[e4legant4.v83[114]] = e4legant4.udim2(e4legant4.v83[153], 0, 0.142, 0)
+															el74egant.f.Size = e4legant4.udim2(0, 530, 0, 378)
+															el74egant.f.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+															el74egant.f.BackgroundTransparency = 1
+															el74egant.f.Position = e4legant4.udim2(0.027, 0, 0.095, 0)
+															local eleg774ant = el74egant.f
+															if eleg47ant then
+																local elega4nt = e4legant4.new(e4legant4.v83[43], el74egant.f)
+																elega4nt.Active = true
+																elega4nt.BorderSizePixel = 0
+																elega4nt[e4legant4.v83[125]] = e4legant4.color(e4legant4.v83[150], 255, 255)
+																elega4nt.Name = "SingleSection"
+																elega4nt.ScrollBarImageTransparency = 0
+																elega4nt.Size = e4legant4.udim2(0, 530, 1, e4legant4.v83[118])
+																elega4nt.ScrollBarImageColor3 = e4legant4.color(0, 255, 255)
+																elega4nt[e4legant4.v83[70]] = e4legant4.color(0, 0, e4legant4.v83[118])
+																elega4nt.ScrollBarThickness = 3
+																elega4nt[e4legant4.v83[30]] = 1
+																elega4nt.AutomaticCanvasSize = Enum.AutomaticSize.Y
+																elega4nt[e4legant4.v83[114]] = e4legant4.udim2(0, e4legant4.v83[118], 0, 0)
+																elega4nt.BottomImage = ""
+																elega4nt.TopImage = ""
+																theme_event.Event:Connect(function()
+																	elega4nt.ScrollBarImageColor3 = theme.scroll
+																end)
+																el74egant["11"] = e4legant4.new("UIPadding", elega4nt)
+																el74egant["11"].PaddingTop = UDim.new(0, 18)
+																el74egant["11"].Name = e4legant4.v83[122]
+																el74egant[e4legant4.v83[61]].PaddingLeft = UDim.new(0, 7)
+																el74egant["11"].PaddingRight = UDim.new(e4legant4.v83[118], 7)
+																el74egant.LISTLAYOUT_SINGLE = e4legant4.new("UIListLayout")
+																el74egant.LISTLAYOUT_SINGLE.Name = "SingleSectionList"
+																el74egant[e4legant4.v83[147]].Parent = elega4nt
+																el74egant.LISTLAYOUT_SINGLE.SortOrder = Enum.SortOrder.LayoutOrder
+																el74egant.LISTLAYOUT_SINGLE.Padding = UDim.new(e4legant4.v83[118], 19)
+																local elega44nt = el74egant.LISTLAYOUT_SINGLE
+																elega44nt.Changed:Connect(function()
+																	elega4nt.CanvasSize = e4legant4.udim2(0, e4legant4.v83[118], e4legant4.v83[118], e4legant4.v83[130] + elega44nt.AbsoluteContentSize.Y)
+																end)
+																eleg74ant.Button = el74egant["8"]
+																eleg74ant.MainSectionFrame = eleg774ant
+																eleg74ant.MainContainer = elega4nt
+															else
+																local elega7nt = e4legant4.new("ScrollingFrame", el74egant[e4legant4.v83[39]])
+																elega7nt.Active = true
+																elega7nt[e4legant4.v83[111]] = 0
+																elega7nt[e4legant4.v83[125]] = e4legant4.color(255, 255, 255)
+																elega7nt.Name = "Left"
+																elega7nt.ScrollBarImageTransparency = 0
+																elega7nt.Size = e4legant4.udim2(0, e4legant4.v83[126], e4legant4.v83[85], 0)
+																elega7nt[e4legant4.v83[2]] = e4legant4.color(0, 255, 255)
+																elega7nt.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																elega7nt.ScrollBarThickness = 3
+																elega7nt.BackgroundTransparency = e4legant4.v83[85]
+																elega7nt.AutomaticCanvasSize = Enum.AutomaticSize.Y
+																elega7nt[e4legant4.v83[114]] = e4legant4.udim2(0, 0, e4legant4.v83[118], 0)
+																elega7nt.BottomImage = ""
+																elega7nt.TopImage = ""
+																theme_event.Event:Connect(function()
+																	elega7nt.ScrollBarImageColor3 = theme.scroll
+																end)
+																el74egant["11"] = e4legant4.new("UIPadding", elega7nt)
+																el74egant["11"].PaddingTop = UDim.new(e4legant4.v83[118], 18)
+																el74egant[e4legant4.v83[61]][e4legant4.v83[46]] = "LeftColumnPadding"
+																el74egant[e4legant4.v83[61]].PaddingLeft = UDim.new(0, 7)
+																local elega4nt = e4legant4.new(e4legant4.v83[43], el74egant[e4legant4.v83[39]])
+																elega4nt.Active = true
+																elega4nt[e4legant4.v83[111]] = 0
+																elega4nt.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																elega4nt.Name = "Right"
+																elega4nt.ScrollBarImageTransparency = e4legant4.v83[118]
+																elega4nt.Size = e4legant4.udim2(0, 265, 1, 0)
+																elega4nt.ScrollBarImageColor3 = e4legant4.color(0, e4legant4.v83[150], e4legant4.v83[150])
+																elega4nt[e4legant4.v83[70]] = e4legant4.color(0, 0, 0)
+																elega4nt.ScrollBarThickness = 3
+																elega4nt.BackgroundTransparency = 1
+																elega4nt.AutomaticCanvasSize = Enum.AutomaticSize.Y
+																elega4nt[e4legant4.v83[114]] = e4legant4.udim2(0, e4legant4.v83[126], 0, 0)
+																elega4nt.BottomImage = ""
+																elega4nt.TopImage = ""
+																theme_event.Event:Connect(function()
+																	elega4nt.ScrollBarImageColor3 = theme.scroll
+																end)
+																el74egant["20"] = e4legant4.new("UIPadding", elega4nt)
+																el74egant["20"].PaddingTop = UDim.new(0, 18)
+																el74egant["20"].PaddingRight = UDim.new(0, e4legant4.v83[123])
+																el74egant["20"].PaddingLeft = UDim.new(0, e4legant4.v83[96])
+																el74egant["20"].Name = "RightColumnPadding"
+																el74egant.LISTLAYOUT_LEFT = e4legant4.new("UIListLayout")
+																el74egant.LISTLAYOUT_LEFT.Name = "LeftColumnList"
+																el74egant.LISTLAYOUT_LEFT.Parent = elega7nt
+																el74egant.LISTLAYOUT_LEFT.SortOrder = Enum.SortOrder.LayoutOrder
+																el74egant.LISTLAYOUT_LEFT.Padding = UDim.new(0, e4legant4.v83[94])
+																el74egant.LISTLAYOUT_RIGHT = e4legant4.new(e4legant4.v83[57])
+																el74egant[e4legant4.v83[144]].Name = "RightColumnList"
+																el74egant.LISTLAYOUT_RIGHT.Parent = elega4nt
+-- elegant x4 x7
+																el74egant[e4legant4.v83[144]].SortOrder = Enum.SortOrder.LayoutOrder
+																el74egant.LISTLAYOUT_RIGHT.Padding = UDim.new(e4legant4.v83[118], 19)
+																local elega77nt = el74egant.LISTLAYOUT_LEFT
+																local elega47nt = el74egant[e4legant4.v83[144]]
+																elega77nt.Changed:Connect(function()
+																	elega7nt.CanvasSize = e4legant4.udim2(0, 0, 0, 100 + elega77nt.AbsoluteContentSize.Y)
+																end)
+																elega47nt.Changed:Connect(function()
+																	elega4nt.CanvasSize = e4legant4.udim2(0, 0, e4legant4.v83[118], e4legant4.v83[130] + elega47nt.AbsoluteContentSize.Y)
+																end)
+																eleg74ant.Button = el74egant["8"]
+																eleg74ant.MainSectionFrame = eleg774ant
+																eleg74ant.Left = elega7nt
+																eleg74ant.Right = elega4nt
+															end
+															eleg74ant.Select = function()
+																el47egant:RemovePopups()
+																local elega4nt = next
+																local elega74nt, elega47nt = el74egant.e:GetChildren()
+																for e4l4g4n777, elega447nt in elega4nt, elega74nt, elega47nt do
+																	if elega447nt:IsA("UIListLayout") then
+																		return
+																	end
+																	elega447nt.Visible = e4legant4.v83[9]
+																end
+																local elega447nt = next
+																local elega774nt, elegan4t = el74egant["7"]:GetChildren()
+																for e4l4g4n777, elegan44t in elega447nt, elega774nt, elegan4t do
+																	if elegan44t:IsA(e4legant4.v83[45]) then
+																		elegan44t.TextColor3 = e4legant4.color(137, 137, 139)
+																	end
+																end
+																eleg74ant.Button.TextColor3 = e4legant4.color(255, 255, 255)
+																eleg74ant.MainSectionFrame.Visible = e4legant4.v83[91]
+															end
+															eleg74ant.Button.MouseButton1Click:Connect(function()
+																eleg74ant:Select()
+															end)
+															eleg74ant.Section = function(elegan7t, ele774gant, elegan77t)
+																if not type(ele774gant) == "string" then
+																	return
+																end
+																if not eleg74ant.SingleSection then
+																	if not type(elegan77t) == "string" then
+																		return
+																	end
+																end
+																local elegan47t = eleg74ant.SingleSection and eleg74ant.MainContainer or elegan77t == "right" and eleg74ant.Right or eleg74ant.Left
+																local elegan74t = {}
+																local elegan447t = eleg74ant.SingleSection and 510 or e4legant4.v83[10]
+																local elegan774t = eleg74ant.SingleSection and 492 or 229
+																local elegant447 = eleg74ant.SingleSection and e4legant4.v83[32] or 20
+																local elega4nt = e4legant4.new(e4legant4.v83[71], elegan47t)
+																elega4nt[e4legant4.v83[111]] = 0
+																elega4nt.BackgroundColor3 = e4legant4.color(28, 28, 28)
+																elega4nt.Size = e4legant4.udim2(0, elegan447t, 0, elegant447)
+																elega4nt[e4legant4.v83[114]] = e4legant4.udim2(0, 6, 0, 0)
+																elega4nt.BorderColor3 = e4legant4.color(0, 0, 0)
+																elega4nt[e4legant4.v83[46]] = "Column"
+																local elegant774 = e4legant4.new("UIStroke", elega4nt)
+																elegant774[e4legant4.v83[21]] = Enum.ApplyStrokeMode.Border
+																elegant774.Name = "ColumnStroke"
+																elegant774.Color = e4legant4.color(e4legant4.v83[137], 37, e4legant4.v83[137])
+																local elega47nt = e4legant4.v83[46]
+																e4legant4.new("UICorner", elega4nt)[elega47nt] = "ColumnCorner"
+																local _4Elegant = e4legant4.new("TextLabel", elega4nt)
+																_4Elegant.TextStrokeTransparency = e4legant4.v83[118]
+																_4Elegant.BorderSizePixel = 0
+																_4Elegant.TextXAlignment = Enum.TextXAlignment.Left
+																_4Elegant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																_4Elegant[e4legant4.v83[51]] = 12
+																_4Elegant.FontFace = e4legant4.font
+																_4Elegant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																_4Elegant.BackgroundTransparency = 1
+																_4Elegant.Size = e4legant4.udim2(0, elegan774t, 0, 16)
+																_4Elegant[e4legant4.v83[70]] = e4legant4.color(0, e4legant4.v83[118], 0)
+																_4Elegant.Text = ele774gant
+																_4Elegant.Name = "ColumnTitle"
+																_4Elegant.Position = e4legant4.udim2(e4legant4.v83[118], 8, 0, 0)
+																local elega447nt = e4legant4.new(e4legant4.v83[57], elega4nt)
+																elega447nt.Padding = UDim.new(0, 2)
+																elega447nt[e4legant4.v83[127]] = Enum.SortOrder.LayoutOrder
+																elega447nt[e4legant4.v83[46]] = "ColumnListLayout"
+																local _44Elegant = e4legant4.new("UIPadding", elega4nt)
+																_44Elegant.Name = e4legant4.v83[136]
+																_44Elegant.PaddingLeft = UDim.new(0, 9)
+																local _7Elegant = eleg74ant.SingleSection and 340 or e4legant4.v83[118]
+																local _77Elegant = e4legant4.new("Frame", elega4nt)
+																_77Elegant.BorderSizePixel = e4legant4.v83[118]
+																_77Elegant[e4legant4.v83[125]] = e4legant4.color(e4legant4.v83[150], 255, 255)
+																_77Elegant.Size = e4legant4.udim2(0, elegan774t, 0, _7Elegant)
+																_77Elegant.Position = e4legant4.udim2(0, 0, 0, e4legant4.v83[142])
+																_77Elegant[e4legant4.v83[70]] = e4legant4.color(0, 0, 0)
+																_77Elegant.Name = tostring(math.random(10000, 16384))
+																_77Elegant.BackgroundTransparency = 1
+																local _47Elegant = e4legant4.new("UIListLayout", _77Elegant)
+																_47Elegant[e4legant4.v83[54]] = UDim.new(0, e4legant4.v83[109])
+																_47Elegant[e4legant4.v83[127]] = Enum.SortOrder.LayoutOrder
+																_47Elegant.Name = "ColumnComponentsList"
+																local function _74Elegant(_447Elegant)
+																	if eleg74ant.SingleSection then
+																		return
+																	end
+																	local elegan4t = e4legant4.v83[185]
+																	_77Elegant[elegan4t] = _77Elegant[elegan4t] + e4legant4.udim2(0, 0, e4legant4.v83[118], _447Elegant)
+																	elega4nt.Size = e4legant4.udim2(0, elegan447t, 0, 22 + _47Elegant.AbsoluteContentSize.Y)
+																end
+																elegan74t.Button = function(_447Elegant, _774Elegant)
+																	local E4legant = {
+																		title = _774Elegant.title or "button",
+																		callback = _774Elegant.callback or function()
+																		end,
+																	}
+																	local E44legant = e4legant4.new("TextButton")
+																	local E7legant = e4legant4.new("UICorner")
+																	E44legant.Name = "Button"
+																	E44legant.Parent = _77Elegant
+																	E44legant.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, 21)
+																	E44legant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																	E44legant.BorderSizePixel = 0
+																	E44legant.Size = e4legant4.udim2(0, 159, 0, 23)
+																	E44legant.AutoButtonColor = e4legant4.v83[9]
+																	E44legant.FontFace = e4legant4.font
+																	E44legant.Text = E4legant.title
+																	E44legant.TextColor3 = e4legant4.color(255, 255, 255)
+-- 4l3g4nt owns this 4477
+																	E44legant.TextSize = 12
+																	E44legant.TextStrokeTransparency = 0
+																	E44legant.TextWrapped = e4legant4.v83[91]
+																	E7legant.CornerRadius = UDim.new(e4legant4.v83[118], e4legant4.v83[119])
+																	E7legant.Name = "ButtonCorner"
+																	E7legant.Parent = E44legant
+																	local E77legant = e4legant4.new("UIStroke", E44legant)
+																	E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	E77legant.Name = e4legant4.v83[141]
+																	E77legant.Color = e4legant4.color(37, 37, 37)
+																	local E447legant = {
+																		OnClick = function()
+																			local E47legant = tweenService:Create(E44legant, TweenInfo.new(0), {
+																				BackgroundColor3 = e4legant4.color(36, 36, 36)
+																			})
+																			local E74legant = tweenService:Create(E77legant, TweenInfo.new(0), {
+																				Color = e4legant4.color(e4legant4.v83[198], 43, 46)
+																			})
+																			E47legant:Play()
+																			E74legant:Play()
+																		end,
+																		OnHover = function()
+																			local E47legant = tweenService:Create(E44legant, TweenInfo.new(0), {
+																				BackgroundColor3 = e4legant4.color(28, e4legant4.v83[188], 28)
+-- e7l4g4nt < 47 >
+																			})
+-- property of e4l3g4nt
+																			local E74legant = tweenService:Create(E77legant, TweenInfo.new(e4legant4.v83[118]), {
+																				Color = e4legant4.color(36, 36, 36)
+																			})
+																			E47legant:Play()
+																			E74legant:Play()
+																		end,
+																		OnMouseLeave = function()
+																			local E47legant = tweenService:Create(E44legant, TweenInfo.new(0), {
+																				BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+																			})
+																			local E74legant = tweenService:Create(E77legant, TweenInfo.new(0), {
+																				Color = e4legant4.color(40, 40, 40)
+-- 4l3g4nt owns this 4477
+																			})
+																			E47legant:Play()
+																			E74legant:Play()
+																		end,
+																	}
+																	local E774legant = {
+																		TextColor3 = theme.accent
+																	}
+																	local E47legant = tweenService:Create(E44legant, TweenInfo.new(0.2), E774legant)
+																	local E74legant = tweenService:Create(E44legant, TweenInfo.new(0.2), {
+																		TextColor3 = e4legant4.color(255, 255, 255)
+																	})
+																	theme_event.Event:Connect(function()
+																		local El4egant = {
+																			TextColor3 = theme.accent
+																		}
+																		E47legant = tweenService:Create(E44legant, TweenInfo.new(0.2), El4egant)
+																	end)
+																	E44legant.MouseButton1Click:Connect(function()
+																		E447legant.OnClick()
+																		pcall(E4legant.callback)
+																		E47legant:Play()
+																		e4legant4.wait_(e4legant4.v83[90])
+																		E447legant.OnHover()
+																		e4legant4.wait_(e4legant4.v83[58])
+																		E74legant:Play()
+																	end)
+																	E44legant.MouseEnter:Connect(E447legant.OnHover)
+																	E44legant.MouseLeave:Connect(E447legant.OnMouseLeave)
+																	_74Elegant(23)
+																end
+																elegan74t.Colorpicker = function(_447Elegant, _774Elegant, El44egant)
+																	local E4legant = {
+																		Title = _774Elegant.title or "colorpicker"
+																	}
+																	E4legant.Default = _774Elegant.default or e4legant4.color(255, 255, e4legant4.v83[150])
+																	E4legant.Transparency = _774Elegant.transparency or 0
+																	E4legant.Callback = _774Elegant.callback or function()
+																	end
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	local E447legant = {
+																		TransparencyValue = e4legant4.v83[118],
+																		ColorValue = nil,
+																		HuePosition = 0,
+																		SlidingSat = false,
+																		SlidingHue = false,
+																		SlidingAlpha = e4legant4.v83[9],
+																	}
+																	local El7egant = e4legant4.new("Frame")
+																	local El77egant = e4legant4.new("TextLabel")
+																	local E44legant = e4legant4.new("TextButton")
+																	local El47egant = e4legant4.new("Frame")
+																	local El74egant = e4legant4.new("Frame")
+																	local elegan4t = e4legant4.new(e4legant4.v83[154])
+-- e4l3g4nt runz this
+																	local elegan44t = e4legant4.new(e4legant4.v83[71])
+																	local El447egant = e4legant4.new("Frame")
+																	local El774egant = e4legant4.new("Frame")
+																	local Ele4gant = e4legant4.new("UIGradient")
+																	local Ele44gant = e4legant4.new(e4legant4.v83[48])
+																	local Ele7gant = e4legant4.new("TextButton")
+																	local Ele77gant = e4legant4.new("Frame")
+																	local Ele47gant = e4legant4.new("ImageLabel")
+																	local Ele74gant = e4legant4.new("ImageLabel")
+																	local Ele447gant = e4legant4.new("TextButton")
+																	local Ele774gant = e4legant4.new("ImageLabel")
+																	local Eleg4ant = e4legant4.new("Frame")
+																	local Eleg44ant = e4legant4.new(e4legant4.v83[77])
+																	local Eleg7ant = e4legant4.new("ImageLabel")
+																	local Eleg77ant = e4legant4.new("TextButton")
+																	El7egant.Name = "ColorpickerHolder"
+																	El7egant.Parent = El44egant == nil and _77Elegant or El44egant
+																	if El44egant then
+																		local Eleg47ant = El44egant:FindFirstChild("SettingsButton")
+																		Eleg47ant = Eleg47ant and Eleg47ant.Position.X.Scale * e4legant4.v83[164] + Eleg47ant.Position.X.Offset - 18 or e4legant4.v83[159]
+																		local Eleg74ant = 0
+																		for e4l4g4n777, Eleg447ant in ipairs(El44egant:GetChildren()) do
+																			if Eleg447ant.Name == e4legant4.v83[3] then
+																				Eleg74ant += e4legant4.v83[85]
+																			end
+																		end
+																		El7egant.Position = e4legant4.udim2(0, Eleg47ant - e4legant4.v83[163] * (Eleg74ant - 1) - e4legant4.v83[159], 0, 0)
+																	end
+																	El7egant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	El7egant.BackgroundTransparency = 1
+																	El7egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El7egant.BorderSizePixel = e4legant4.v83[118]
+																	El7egant.Size = e4legant4.udim2(0, e4legant4.v83[164], 0, e4legant4.v83[142])
+																	if El44egant == nil then
+																		El77egant.Name = "ColorpickerTitle"
+																		El77egant.Parent = El7egant
+																		El77egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																		El77egant.BackgroundTransparency = 1
+																		El77egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																		El77egant.BorderSizePixel = 0
+																		El77egant.Size = e4legant4.udim2(e4legant4.v83[118], 216, 0, 13)
+																		El77egant.FontFace = e4legant4.font
+																		El77egant.Text = E4legant.Title
+																		El77egant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																		El77egant.TextSize = 12
+																		El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																	end
+																	E44legant.Name = e4legant4.v83[170]
+																	E44legant.Parent = El7egant
+																	E44legant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	E44legant.BackgroundTransparency = 1
+																	E44legant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	E44legant.BorderSizePixel = 0
+																	E44legant.Position = e4legant4.udim2(0.943231463, 0, 0, 0)
+																	E44legant.Size = e4legant4.udim2(e4legant4.v83[118], 13, 0, 13)
+																	E44legant.FontFace = e4legant4.font
+																	E44legant.Text = ""
+																	E44legant.TextColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+-- e4l3g4nt :: 47
+																	E44legant.TextSize = 12
+																	local Eleg774ant = e4legant4.new("ImageLabel")
+																	Eleg774ant.Name = e4legant4.v83[34]
+																	Eleg774ant.Parent = El7egant
+																	Eleg774ant.BackgroundTransparency = e4legant4.v83[85]
+																	Eleg774ant.BorderSizePixel = e4legant4.v83[118]
+																	Eleg774ant.Position = e4legant4.udim2(0.943231463, 0, 0, 0)
+																	Eleg774ant.Size = e4legant4.udim2(0, 13, 0, 13)
+																	Eleg774ant.Image = "rbxassetid://101382427624863"
+																	Eleg774ant.ScaleType = Enum.ScaleType.Tile
+																	Eleg774ant.TileSize = e4legant4.udim2(e4legant4.v83[118], 6, 0, 6)
+																	local E7legant = e4legant4.new("UICorner")
+																	E7legant.CornerRadius = UDim.new(e4legant4.v83[118], 4)
+																	E7legant.Name = "ColorpickerStatusAlphaCorner"
+																	E7legant.Parent = Eleg774ant
+																	El47egant.Name = e4legant4.v83[63]
+																	El47egant.Parent = El7egant
+																	El47egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[155], 170, 255)
+																	El47egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El47egant.BorderSizePixel = 0
+																	El47egant.Position = e4legant4.udim2(0.943231463, e4legant4.v83[118], 0, 0)
+																	El47egant.Size = e4legant4.udim2(0, 13, 0, 13)
+																	El74egant.Name = "ColorpickerInline"
+																	El74egant.Parent = el74egant[e4legant4.v83[191]]
+																	El74egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[155], 170, 255)
+																	El74egant.BackgroundTransparency = 1
+																	El74egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	El74egant.BorderSizePixel = 0
+																	El74egant.Position = e4legant4.udim2(e4legant4.v83[118], 0, 0, 0)
+																	El74egant.Size = e4legant4.udim2(e4legant4.v83[118], 13, 0, 13)
+																	El74egant.Visible = e4legant4.v83[9]
+																	El74egant.ZIndex = 3
+																	elegan4t.CornerRadius = UDim.new(e4legant4.v83[118], 2)
+																	elegan4t.Name = e4legant4.v83[44]
+																	elegan4t.Parent = El74egant
+																	local Elega4nt = e4legant4.new("UICorner")
+																	Elega4nt.CornerRadius = UDim.new(0, e4legant4.v83[109])
+																	Elega4nt.Name = "ColorpickerStatusCorner"
+																	Elega4nt.Parent = El47egant
+																	elegan44t.Name = "ColorpickerContent"
+																	elegan44t.Parent = El74egant
+																	elegan44t.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[12], 23)
+																	elegan44t.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	elegan44t.Position = e4legant4.udim2(- 9.46153831, 0, e4legant4.v83[118], 0)
+																	elegan44t.Size = e4legant4.udim2(0, 136, 0, 159)
+																	elegan44t.ZIndex = 3
+																	El447egant.Name = e4legant4.v83[192]
+																	El447egant.Parent = elegan44t
+																	El447egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[181], 157, e4legant4.v83[186])
+																	El447egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El447egant.Size = e4legant4.udim2(1, 0, e4legant4.v83[118], e4legant4.v83[85])
+																	El774egant.Name = "HueBackground"
+																	El774egant.Parent = elegan44t
+																	El774egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	El774egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	El774egant.BorderSizePixel = 0
+																	El774egant.Position = e4legant4.udim2(e4legant4.v83[64], 0, 0, 29)
+																	El774egant.Size = e4legant4.udim2(0, 9, e4legant4.v83[118], e4legant4.v83[107])
+																	local Elega44nt = ColorSequence.new
+																	local E774legant = {}
+																	local Elega7nt = ColorSequenceKeypoint.new(0, e4legant4.color(255, 0, e4legant4.v83[118]))
+																	local Elega77nt = ColorSequenceKeypoint.new(0.17, e4legant4.color(e4legant4.v83[150], 0, e4legant4.v83[150]))
+																	local Elega47nt = ColorSequenceKeypoint.new(0.33, e4legant4.color(0, 0, e4legant4.v83[150]))
+																	local Elega74nt = ColorSequenceKeypoint.new(0.5, e4legant4.color(e4legant4.v83[118], 255, e4legant4.v83[150]))
+																	local Elega447nt = ColorSequenceKeypoint.new(0.67, e4legant4.color(0, e4legant4.v83[150], 0))
+																	local Elega774nt = ColorSequenceKeypoint.new(0.83, e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], 0))
+																	E774legant[1] = Elega7nt
+																	E774legant[2] = Elega77nt
+																	E774legant[3] = Elega47nt
+																	E774legant[4] = Elega74nt
+																	E774legant[5] = Elega447nt
+																	E774legant[6] = Elega774nt
+																	do
+																		local Elegan4t = table.pack(ColorSequenceKeypoint.new(1, e4legant4.color(e4legant4.v83[150], 0, 0)))
+																		table.move(Elegan4t, 1, Elegan4t.n, 7, E774legant)
+																	end
+																	Ele4gant.Color = Elega44nt(E774legant)
+																	Ele4gant.Rotation = 90
+																	Ele4gant.Name = "CPHueGradient"
+																	Ele4gant.Parent = El774egant
+-- e4l3g4nt :: 47
+																	Ele44gant.Name = "HuePicker"
+																	Ele44gant.Parent = El774egant
+																	Ele44gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	Ele44gant.BackgroundTransparency = 1
+																	Ele44gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	Ele44gant.BorderSizePixel = 0
+																	Ele44gant.Position = e4legant4.udim2(e4legant4.v83[118], - e4legant4.v83[109], 0, - e4legant4.v83[119])
+																	Ele44gant.Size = e4legant4.udim2(0, 17, 0, 5)
+																	Ele44gant.Image = "rbxassetid://13900818694"
+																	Ele7gant.Parent = El774egant
+																	Ele7gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, e4legant4.v83[150])
+																	Ele7gant.BackgroundTransparency = 1
+																	Ele7gant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																	Ele7gant.BorderSizePixel = 0
+																	Ele7gant.Size = e4legant4.udim2(1, 0, 1, 0)
+																	Ele7gant.FontFace = e4legant4.font
+																	Ele7gant.Text = ""
+																	Ele7gant.TextColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																	Ele7gant.TextSize = 12
+																	Ele77gant.Name = "SaturationBackground"
+																	Ele77gant.Parent = elegan44t
+-- e7l4g4nt < 47 >
+																	Ele77gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	Ele77gant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	Ele77gant.Position = e4legant4.udim2(0.0661764741, 0, e4legant4.v83[118], e4legant4.v83[124])
+																	Ele77gant.Size = e4legant4.udim2(e4legant4.v83[118], 102, 0, e4legant4.v83[107])
+																	Ele47gant.Name = "SaturationImage"
+																	Ele47gant.Parent = Ele77gant
+																	Ele47gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	Ele47gant.BackgroundTransparency = 1
+																	Ele47gant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																	Ele47gant.Size = e4legant4.udim2(1, 0, 1, 0)
+																	Ele47gant.Image = "rbxassetid://13901004307"
+																	Ele74gant.Name = e4legant4.v83[197]
+																	Ele74gant.Parent = Ele77gant
+																	Ele74gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], 255)
+																	Ele74gant.BackgroundTransparency = 1
+																	Ele74gant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	Ele74gant.Position = e4legant4.udim2(e4legant4.v83[118], - 1, 0, - 1)
+																	Ele74gant.Size = e4legant4.udim2(0, 5, e4legant4.v83[118], 5)
+																	Ele74gant.Image = "rbxassetid://13900819741"
+																	Ele447gant.Name = e4legant4.v83[52]
+																	Ele447gant.Parent = Ele77gant
+																	Ele447gant.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																	Ele447gant.BackgroundTransparency = 1
+																	Ele447gant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	Ele447gant.BorderSizePixel = e4legant4.v83[118]
+																	Ele447gant.Size = e4legant4.udim2(e4legant4.v83[85], 0, e4legant4.v83[85], 0)
+																	Ele447gant.FontFace = e4legant4.font
+-- 4l3g4nt wuz here 74
+																	Ele447gant.Text = ""
+																	Ele447gant.TextColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																	Ele447gant.TextSize = e4legant4.v83[1]
+																	Ele774gant.Name = "TransparencyAlphaBG"
+																	Ele774gant.Parent = elegan44t
+																	Ele774gant.BackgroundTransparency = 1
+																	Ele774gant.BorderSizePixel = 0
+																	Ele774gant.Position = e4legant4.udim2(e4legant4.v83[8], 0, e4legant4.v83[118], 142)
+																	Ele774gant.Size = e4legant4.udim2(0, 123, e4legant4.v83[118], 6)
+																	Ele774gant.Image = "rbxassetid://101382427624863"
+																	Ele774gant.ScaleType = Enum.ScaleType.Tile
+																	Ele774gant.TileSize = e4legant4.udim2(0, 6, 0, e4legant4.v83[96])
+																	Eleg4ant.Name = "TransparencyBackground"
+																	Eleg4ant.Parent = elegan44t
+																	Eleg4ant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	Eleg4ant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																	Eleg4ant.BorderSizePixel = 0
+																	Eleg4ant.Position = e4legant4.udim2(e4legant4.v83[8], 0, 0, 142)
+																	Eleg4ant.Size = e4legant4.udim2(0, 123, e4legant4.v83[118], 6)
+																	local Elegan44t = ColorSequence.new
+																	local El4egant = {}
+																	local Elegan7t = ColorSequenceKeypoint.new(0, e4legant4.color(255, 255, 255))
+																	local Elegan77t = ColorSequenceKeypoint.new(0.57, e4legant4.color(e4legant4.v83[35], e4legant4.v83[35], 150))
+																	local Elegan47t = ColorSequenceKeypoint.new
+																	El4egant[1] = Elegan7t
+																	El4egant[2] = Elegan77t
+																	do
+																		local Elegan4t = table.pack(Elegan47t(1, e4legant4.color(0, 0, 0)))
+																		table.move(Elegan4t, 1, Elegan4t.n, 3, El4egant)
+																	end
+																	Eleg44ant.Color = Elegan44t(El4egant)
+																	local Elegan74t = NumberSequenceKeypoint.new
+																	Eleg44ant.Transparency = NumberSequence.new({
+																		NumberSequenceKeypoint.new(e4legant4.v83[118], e4legant4.v83[118]),
+																		Elegan74t(1, 1)
+																	})
+																	Eleg44ant.Name = e4legant4.v83[117]
+																	Eleg44ant.Parent = Eleg4ant
+																	Eleg7ant.Name = "TransparencyPicker"
+																	Eleg7ant.Parent = Eleg4ant
+																	Eleg7ant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	Eleg7ant.BackgroundTransparency = e4legant4.v83[85]
+																	Eleg7ant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	Eleg7ant.BorderSizePixel = 0
+																	Eleg7ant.Position = e4legant4.udim2(0, - 2, e4legant4.v83[118], - 2)
+																	Eleg7ant.Size = e4legant4.udim2(e4legant4.v83[118], 5, 0, e4legant4.v83[103])
+																	Eleg7ant.Image = "rbxassetid://14248606745"
+																	Eleg77ant.Name = "TransparencyButton"
+																	Eleg77ant.Parent = Eleg4ant
+																	Eleg77ant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	Eleg77ant.BackgroundTransparency = 1
+																	Eleg77ant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	Eleg77ant.BorderSizePixel = e4legant4.v83[118]
+																	Eleg77ant.Size = e4legant4.udim2(1, e4legant4.v83[118], 1, 0)
+																	Eleg77ant.FontFace = e4legant4.font
+																	Eleg77ant.Text = ""
+																	Eleg77ant.TextColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	Eleg77ant.TextSize = e4legant4.v83[1]
+																	local Elegan447t = next
+																	local Elegan774t, Elegant447 = elegan44t:GetDescendants()
+																	for e4l4g4n777, Elegant774 in Elegan447t, Elegan774t, Elegant447 do
+																		if not Elegant774:IsA(e4legant4.v83[77]) then
+																			if Elegant774.ZIndex then
+																				Elegant774.ZIndex = 3
+																			end
+																		end
+																	end
+-- property of e4l3g4nt
+																	elegan44t.Size = e4legant4.udim2(0, 136, 0, 139)
+																	El774egant.Position = UDim2.fromOffset(120, 9)
+																	Ele77gant.Position = UDim2.fromOffset(9, 9)
+																	Ele774gant.Position = UDim2.fromOffset(6, 122)
+																	Eleg4ant.Position = UDim2.fromOffset(6, 122)
+																	local Elegant774, _4ELEGANT, _44ELEGANT = E4legant.Default:ToHSV()
+																	local _7ELEGANT
+																	_7ELEGANT = {
+																		Open = function(_77ELEGANT)
+																			elegan44t.Visible = true
+																			El74egant.Visible = true
+																			local _47ELEGANT = E44legant.AbsolutePosition
+																			local _74ELEGANT = el74egant["1"].IgnoreGuiInset and Vector2.zero or game:GetService("GuiService"):GetGuiInset()
+																			local _447ELEGANT = workspace.CurrentCamera.ViewportSize
+																			local _774ELEGANT, E4LEGANT = _47ELEGANT.X - _74ELEGANT.X, _47ELEGANT.Y - _74ELEGANT.Y
+																			local E44LEGANT = _774ELEGANT + 18
+																			if E44LEGANT + 136 > _447ELEGANT.X - 6 then
+																				E44LEGANT = _774ELEGANT - 142
+																			end
+																			E44LEGANT = math.clamp(E44LEGANT, 6, math.max(6, _447ELEGANT.X - 142))
+																			local E7LEGANT = math.clamp(E4LEGANT, 6, math.max(6, _447ELEGANT.Y - 145))
+																			El74egant.Position = UDim2.fromOffset(_774ELEGANT, E4LEGANT)
+																			El74egant.Size = UDim2.fromOffset(13, 13)
+																			tweenService:Create(elegan44t, TweenInfo.new(0.15), {
+																				BackgroundTransparency = 0,
+																				Position = UDim2.fromOffset(E44LEGANT - _774ELEGANT, E7LEGANT - E4LEGANT)
+																			}):Play()
+																			_77ELEGANT:FadeIn()
+																		end,
+																		FadeIn = function()
+																			for e4l4g4n777, E77LEGANT in pairs(elegan44t:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					local E47LEGANT = {
+																						BackgroundTransparency = e4legant4.v83[118]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																				elseif E77LEGANT:IsA("ImageLabel") then
+																					local E47LEGANT = {
+																						ImageTransparency = e4legant4.v83[118]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																				elseif E77LEGANT:IsA("TextLabel") or E77LEGANT:IsA("TextButton") then
+																					local E47LEGANT = {
+																						TextTransparency = e4legant4.v83[118]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																				end
+																			end
+																		end,
+																		FadeOut = function()
+																			for e4l4g4n777, E77LEGANT in pairs(elegan44t:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						BackgroundTransparency = 1
+																					}):Play()
+																				elseif E77LEGANT:IsA("ImageLabel") then
+-- e4l44gant77 | 747
+																					local E47LEGANT = {
+																						ImageTransparency = e4legant4.v83[85]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																				elseif E77LEGANT:IsA("TextLabel") or E77LEGANT:IsA(e4legant4.v83[45]) then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						TextTransparency = 1
+																					}):Play()
+																				end
+																			end
+																		end,
+																		Close = function()
+																			tweenService:Create(elegan44t, TweenInfo.new(0.15), {
+																				BackgroundTransparency = 1,
+																				Position = e4legant4.udim2(- 9.46153831, e4legant4.v83[118], e4legant4.v83[118], 0)
+																			}):Play()
+																			_7ELEGANT:FadeOut()
+																			e4legant4.wait_(e4legant4.v83[58])
+																			elegan44t.Visible = e4legant4.v83[9]
+																			El74egant.Visible = false
+																		end,
+																	}
+																	local function E74LEGANT(_77ELEGANT, E447LEGANT, E774LEGANT)
+																		return (e4legant4.color(_77ELEGANT, E447LEGANT, E774LEGANT))
+																	end
+																	E4legant.Set = function(_77ELEGANT, E447LEGANT, E774LEGANT, EL4EGANT)
+																		if not E4legant.Transparency then
+																			E447legant.TransparencyValue = 1
+																		end
+																		E774LEGANT = E774LEGANT or E447legant.TransparencyValue
+																		local EL44EGANT, EL7EGANT
+																		if typeof(E447LEGANT) == "table" then
+																			local EL77EGANT = Color3.fromHex(E447LEGANT[1])
+																			if E447LEGANT[e4legant4.v83[119]] == nil then
+																				EL44EGANT = E774LEGANT
+																				EL7EGANT = EL77EGANT
+-- e4l3g4nt runz this
+																			else
+																				EL44EGANT = E447LEGANT[2]
+																				EL7EGANT = EL77EGANT
+																			end
+																		else
+																			EL44EGANT = E774LEGANT
+																			EL7EGANT = E447LEGANT
+																		end
+																		local EL47EGANT, EL74EGANT, EL447EGANT = EL7EGANT:ToHSV()
+																		Elegant774 = EL47EGANT
+																		_4ELEGANT = EL74EGANT
+																		_44ELEGANT = EL447EGANT
+																		E447legant.ColorValue = EL7EGANT
+																		E447legant.TransparencyValue = EL44EGANT
+																		Ele77gant.BackgroundColor3 = Color3.fromHSV(E447legant.HuePosition, 1, 1)
+																		El47egant.BackgroundColor3 = EL7EGANT
+																		El47egant.BackgroundTransparency = e4legant4.v83[85] - EL44EGANT
+																		if not EL4EGANT then
+																			local EL774EGANT = math.clamp
+-- 4l3g4nt never dies 7744
+																			local Eleg74ant = Ele77gant.AbsoluteSize.Y - _44ELEGANT * Ele77gant.AbsoluteSize.Y
+																			local ELE4GANT = Ele77gant.AbsoluteSize.Y - 3
+																			Ele74gant.Position = e4legant4.udim2(0, math.clamp(_4ELEGANT * Ele77gant.AbsoluteSize.X, e4legant4.v83[118], Ele77gant.AbsoluteSize.X - 3), 0, EL774EGANT(Eleg74ant, 0, ELE4GANT))
+																			E447legant.HuePosition = Elegant774
+																			Ele44gant.Position = e4legant4.udim2(e4legant4.v83[118], - 2, e4legant4.v83[85] - Elegant774, - 2)
+																		end
+																		pcall(E4legant.Callback, E74LEGANT(EL7EGANT.R * e4legant4.v83[150], EL7EGANT.G * 255, EL7EGANT.B * 255), EL44EGANT)
+																		el47egant.Flags[E4legant.Flag] = {
+																			E74LEGANT(EL7EGANT.R * e4legant4.v83[150], EL7EGANT.G * e4legant4.v83[150], EL7EGANT.B * 255):ToHex(),
+																			EL44EGANT
+																		}
+																	end
+																	E4legant:Set(E4legant.Default, E4legant.Transparency)
+																	local function ELE44GANT(_77ELEGANT)
+																		local Eleg74ant = math.clamp((_77ELEGANT.Position.X - Ele77gant.AbsolutePosition.X) / Ele77gant.AbsoluteSize.X, 0, 1)
+																		local ELE4GANT = 1 - math.clamp((_77ELEGANT.Position.Y - Ele77gant.AbsolutePosition.Y) / Ele77gant.AbsoluteSize.Y, e4legant4.v83[118], 1)
+																		local ELE7GANT = math.clamp((_77ELEGANT.Position.Y - Ele77gant.AbsolutePosition.Y) / Ele77gant.AbsoluteSize.Y * Ele77gant.AbsoluteSize.Y, e4legant4.v83[118], Ele77gant.AbsoluteSize.Y - 3)
+																		Ele74gant.Position = e4legant4.udim2(0, math.clamp((_77ELEGANT.Position.X - Ele77gant.AbsolutePosition.X) / Ele77gant.AbsoluteSize.X * Ele77gant.AbsoluteSize.X, 0, Ele77gant.AbsoluteSize.X - e4legant4.v83[53]), 0, ELE7GANT)
+																		local ELE77GANT = E447legant.TransparencyValue
+																		E4legant:Set(Color3.fromHSV(E447legant.HuePosition, Eleg74ant, ELE4GANT), ELE77GANT, true)
+																	end
+																	Ele447gant.MouseButton1Down:Connect(function()
+																		E447legant.SlidingSat = e4legant4.v83[91]
+																		ELE44GANT({
+																			Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, 36)
+																		})
+																	end)
+																	local function ELE47GANT(_77ELEGANT)
+																		local ELE74GANT = 1 - math.clamp((_77ELEGANT.Position.Y - El774egant.AbsolutePosition.Y) / El774egant.AbsoluteSize.Y, 0, 1)
+																		Ele44gant.Position = e4legant4.udim2(0, - 2, 0, math.clamp((_77ELEGANT.Position.Y - El774egant.AbsolutePosition.Y) / El774egant.AbsoluteSize.Y * El774egant.AbsoluteSize.Y, 0, El774egant.AbsoluteSize.Y - 2) - e4legant4.v83[119])
+																		E447legant.HuePosition = ELE74GANT
+																		E4legant:Set(Color3.fromHSV(ELE74GANT, _4ELEGANT, _44ELEGANT), E447legant.TransparencyValue, true)
+																	end
+																	Ele7gant.MouseButton1Down:Connect(function()
+																		E447legant.SlidingHue = true
+																		ELE47GANT({
+																			Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, e4legant4.v83[161])
+																		})
+-- e4l44gant77 | 747
+																	end)
+																	local function ELE447GANT(_77ELEGANT)
+																		local Eleg74ant = 1 - math.clamp((_77ELEGANT.Position.X - Eleg4ant.AbsolutePosition.X) / Eleg4ant.AbsoluteSize.X, 0, 1)
+																		Eleg7ant.Position = e4legant4.udim2(e4legant4.v83[118], math.clamp((_77ELEGANT.Position.X - Eleg4ant.AbsolutePosition.X) / Eleg4ant.AbsoluteSize.X * Eleg4ant.AbsoluteSize.X, e4legant4.v83[118], Eleg4ant.AbsoluteSize.X - 3), 0, - 2)
+																		E4legant:Set(Color3.fromHSV(E447legant.HuePosition, _4ELEGANT, _44ELEGANT), Eleg74ant, true)
+																	end
+																	Eleg77ant.MouseButton1Down:Connect(function()
+																		E447legant.SlidingAlpha = true
+																		ELE447GANT({
+																			Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, 36)
+																		})
+																	end)
+																	inputService.InputEnded:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																			local EL44EGANT = E447legant
+																			local EL7EGANT = E447legant
+																			E447legant.SlidingSat = e4legant4.v83[9]
+																			EL44EGANT.SlidingHue = false
+																			EL7EGANT.SlidingAlpha = false
+																		end
+																	end)
+																	inputService.InputChanged:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseMovement then
+																			if E447legant.SlidingSat then
+																				ELE44GANT(ELE774GANT)
+																			elseif E447legant.SlidingHue then
+																				ELE47GANT(ELE774GANT)
+																			elseif E447legant.SlidingAlpha then
+																				ELE447GANT(ELE774GANT)
+																			end
+																		end
+																	end)
+																	E44legant.MouseButton1Click:Connect(function()
+																		if el47egant.Popup and el47egant.Popup.ID ~= El7egant.Name then
+																			el47egant:RemovePopups()
+																		end
+																		if El74egant.Visible then
+																			_7ELEGANT:Close()
+																		else
+																			el47egant:NewPopup({
+																				Remove = _7ELEGANT.Close,
+																				ID = El7egant.Name
+																			})
+																			_7ELEGANT:Open()
+																		end
+																	end)
+																	local ELEG4ANT = e4legant4.new("Frame")
+																	local ELEG44ANT = e4legant4.new("UICorner")
+																	local E77legant = e4legant4.new("UIStroke")
+																	local ELEG7ANT = e4legant4.new("UIListLayout")
+																	local ELEG77ANT = e4legant4.new("TextButton")
+																	local ELEG47ANT = e4legant4.new("TextButton")
+																	ELEG4ANT.Name = "CPContextMenu"
+																	ELEG4ANT.Parent = el74egant[e4legant4.v83[191]]
+																	ELEG4ANT.BackgroundColor3 = e4legant4.color(e4legant4.v83[49], 15, 15)
+																	ELEG4ANT.BorderColor3 = e4legant4.color(0, 0, 0)
+																	ELEG4ANT.BorderSizePixel = 0
+																	ELEG4ANT.Position = e4legant4.udim2(0, e4legant4.v83[118], 0, e4legant4.v83[118])
+																	ELEG4ANT.Size = e4legant4.udim2(0, 68, 0, 28)
+																	ELEG4ANT.Visible = false
+-- 4l3g4nt never dies 7744
+																	ELEG4ANT.ClipsDescendants = false
+																	ELEG4ANT.ZIndex = 4
+																	ELEG44ANT.Name = "CPContextCorner"
+																	ELEG44ANT.Parent = ELEG4ANT
+																	ELEG44ANT.CornerRadius = UDim.new(0, 3)
+																	E77legant.Name = "CPContextStroke"
+																	E77legant.Parent = ELEG4ANT
+																	E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	E77legant.Color = e4legant4.color(37, 37, 37)
+																	ELEG7ANT.Name = "CPContextList"
+																	ELEG7ANT.Parent = ELEG4ANT
+																	ELEG7ANT.SortOrder = Enum.SortOrder.LayoutOrder
+																	ELEG77ANT.Name = "CopyButton"
+																	ELEG77ANT.Parent = ELEG4ANT
+																	ELEG77ANT.BackgroundColor3 = e4legant4.color(15, 15, 15)
+																	ELEG77ANT.BorderColor3 = e4legant4.color(34, 34, 34)
+																	ELEG77ANT.BorderSizePixel = e4legant4.v83[118]
+																	ELEG77ANT.Size = e4legant4.udim2(1, 0, 0, 14)
+																	ELEG77ANT.ZIndex = 4
+																	ELEG77ANT.FontFace = e4legant4.font
+																	ELEG77ANT.Text = "copy"
+																	ELEG77ANT.TextColor3 = e4legant4.color(129, 129, e4legant4.v83[66])
+-- e4l3g4nt above all 7447
+																	ELEG77ANT.TextSize = e4legant4.v83[1]
+																	ELEG77ANT.LayoutOrder = 1
+																	ELEG47ANT.Name = e4legant4.v83[199]
+																	ELEG47ANT.Parent = ELEG4ANT
+																	ELEG47ANT.BackgroundColor3 = e4legant4.color(15, 15, 15)
+																	ELEG47ANT.BorderColor3 = e4legant4.color(34, 34, 34)
+																	ELEG47ANT.BorderSizePixel = 0
+																	ELEG47ANT.Size = e4legant4.udim2(e4legant4.v83[85], 0, 0, e4legant4.v83[133])
+																	ELEG47ANT.ZIndex = 4
+																	ELEG47ANT.FontFace = e4legant4.font
+																	ELEG47ANT.Text = "paste"
+																	ELEG47ANT.TextColor3 = e4legant4.color(e4legant4.v83[41], e4legant4.v83[41], e4legant4.v83[66])
+																	ELEG47ANT.TextSize = 12
+																	ELEG47ANT.LayoutOrder = 2
+																	local function ELEG74ANT()
+																		ELEG4ANT.Visible = false
+																	end
+																	ELEG77ANT.MouseButton1Click:Connect(function()
+																		el47egant.ClipboardColor = E447legant.ColorValue
+																		ELEG74ANT()
+																	end)
+																	ELEG47ANT.MouseButton1Click:Connect(function()
+																		if el47egant.ClipboardColor then
+																			E4legant:Set(el47egant.ClipboardColor)
+																		end
+																		ELEG74ANT()
+-- e4l3g4nt_was_here
+																	end)
+																	E44legant.InputBegan:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton2 then
+																			if el47egant.Popup and el47egant.Popup.ID ~= El7egant.Name .. "_context" then
+																				el47egant:RemovePopups()
+																			end
+																			if ELEG4ANT.Visible then
+																				ELEG74ANT()
+																			else
+																				local _47ELEGANT = El7egant.AbsolutePosition
+																				ELEG4ANT.Position = e4legant4.udim2(0, _47ELEGANT.X + El7egant.AbsoluteSize.X - 68, 0, _47ELEGANT.Y + 15)
+																				ELEG4ANT.Visible = true
+-- e4l44gant77 | 747
+																				el47egant:NewPopup({
+																					Remove = ELEG74ANT,
+																					ID = El7egant.Name .. "_context"
+																				})
+																			end
+																		end
+																	end)
+																	_74Elegant(13)
+																	el47egant.ConfigFlags[E4legant.Flag] = function(_77ELEGANT)
+																		E4legant:Set(_77ELEGANT)
+																	end
+																	return E4legant
+																end
+																elegan74t.Dropdown = function(_447Elegant, _774Elegant)
+																	local E4legant = {
+																		Title = _774Elegant.title or "",
+																		Content = _774Elegant.values or {},
+																		Default = _774Elegant.default or "-",
+																		Multi = _774Elegant.multi or false,
+																		Callback = _774Elegant.callback or function()
+																		end,
+																	}
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	local E447legant = {
+																		FValues = {},
+																		FValue = E4legant.Multi and {} or ""
+																	}
+																	local elegan4t = e4legant4.new(e4legant4.v83[71])
+																	local El77egant = e4legant4.new("TextLabel")
+																	elegan4t.Name = tostring(math.random(100, e4legant4.v83[145]))
+																	elegan4t.Parent = _77Elegant
+																	elegan4t.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	elegan4t.BackgroundTransparency = e4legant4.v83[85]
+																	elegan4t.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	elegan4t.BorderSizePixel = 0
+																	elegan4t.Size = e4legant4.udim2(0, 159, 0, 40)
+																	El77egant.Name = "DropdownTitle"
+																	El77egant.Parent = elegan4t
+																	El77egant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	El77egant.BackgroundTransparency = 1
+																	El77egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El77egant.BorderSizePixel = e4legant4.v83[118]
+																	El77egant.Size = e4legant4.udim2(0, 164, e4legant4.v83[118], e4legant4.v83[142])
+																	El77egant.FontFace = e4legant4.font
+																	El77egant.Text = E4legant.Title
+																	El77egant.TextColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	El77egant.TextSize = 12
+																	El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																	local ELEG7ANT = e4legant4.new("UIListLayout", elegan4t)
+																	ELEG7ANT.Padding = UDim.new(e4legant4.v83[118], 5)
+																	ELEG7ANT[e4legant4.v83[127]] = Enum.SortOrder.LayoutOrder
+																	ELEG7ANT.Name = "ColumnListLayout"
+																	local E44legant = e4legant4.new("TextButton")
+																	local elegan44t = e4legant4.new(e4legant4.v83[154])
+																	local E77legant = e4legant4.new("UIStroke")
+																	local Ele44gant = e4legant4.new(e4legant4.v83[48])
+																	local ELEG447ANT = e4legant4.new("TextLabel")
+																	E44legant.Name = e4legant4.v83[100]
+																	E44legant.Parent = elegan4t
+																	E44legant.ZIndex = e4legant4.v83[119]
+																	E44legant.Size = e4legant4.udim2(0, e4legant4.v83[186], 0, 22)
+																	E44legant.BorderColor3 = e4legant4.color(34, 34, 34)
+																	E44legant.Position = e4legant4.udim2(0, 0, 0.576923072, e4legant4.v83[118])
+																	E44legant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																	E44legant.AutoButtonColor = false
+																	E44legant.TextColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	E44legant.Text = ""
+																	E44legant.TextXAlignment = Enum.TextXAlignment.Left
+																	E44legant.TextSize = 12
+																	E44legant.TextTruncate = Enum.TextTruncate.AtEnd
+																	E44legant.FontFace = e4legant4.font
+																	elegan44t.Name = "OpenButtonCorner"
+																	elegan44t.Parent = E44legant
+																	elegan44t.CornerRadius = UDim.new(e4legant4.v83[118], 3)
+																	E77legant.Name = "OpenButtonStroke"
+																	E77legant.Parent = E44legant
+																	E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	E77legant.Color = e4legant4.color(e4legant4.v83[137], 37, 37)
+																	Ele44gant.Name = e4legant4.v83[143]
+																	Ele44gant.Parent = E44legant
+																	Ele44gant.ZIndex = e4legant4.v83[53]
+																	Ele44gant.Size = e4legant4.udim2(0, e4legant4.v83[97], 0, 6)
+																	Ele44gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	Ele44gant.BackgroundTransparency = 1
+																	Ele44gant.Position = e4legant4.udim2(0.899999938, e4legant4.v83[118], 0.322727214, 0)
+																	Ele44gant.BorderSizePixel = e4legant4.v83[118]
+																	Ele44gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	Ele44gant.Image = "rbxassetid://17830630301"
+																	ELEG447ANT.Name = "DropdownText"
+																	ELEG447ANT.Parent = E44legant
+																	ELEG447ANT.ZIndex = e4legant4.v83[53]
+																	ELEG447ANT.Size = e4legant4.udim2(0, 204, e4legant4.v83[118], 22)
+																	ELEG447ANT.BorderColor3 = e4legant4.color(0, 0, 0)
+																	ELEG447ANT.BackgroundTransparency = 1
+																	ELEG447ANT.Position = e4legant4.udim2(0.0430434781, 0, e4legant4.v83[118], 0)
+																	ELEG447ANT.BorderSizePixel = 0
+																	ELEG447ANT.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	ELEG447ANT.TextColor3 = e4legant4.color(255, 255, 255)
+																	ELEG447ANT.Text = E4legant.Default
+																	ELEG447ANT.TextXAlignment = Enum.TextXAlignment.Left
+																	ELEG447ANT.TextSize = 12
+																	ELEG447ANT.FontFace = e4legant4.font
+																	ELEG447ANT.TextTruncate = "AtEnd"
+																	local Eleg44ant = e4legant4.new(e4legant4.v83[71])
+																	local E7legant = e4legant4.new("UICorner")
+																	local ELEG774ANT = e4legant4.new("UIStroke")
+																	local ELEGA4NT = e4legant4.new("UIListLayout")
+																	Eleg44ant.Name = "Inline"
+																	Eleg44ant.Parent = E44legant
+																	Eleg44ant.Size = e4legant4.udim2(e4legant4.v83[118], 159, 0, 0)
+																	Eleg44ant.BorderColor3 = e4legant4.color(e4legant4.v83[118], e4legant4.v83[118], e4legant4.v83[118])
+																	Eleg44ant.Position = e4legant4.udim2(0, e4legant4.v83[118], 1, 0)
+																	Eleg44ant.BorderSizePixel = 0
+																	Eleg44ant.BackgroundColor3 = e4legant4.color(15, e4legant4.v83[49], 15)
+																	Eleg44ant.Visible = false
+																	Eleg44ant.ZIndex = 3
+																	E7legant.Name = "InlineCorner"
+																	E7legant.Parent = Eleg44ant
+																	E7legant.CornerRadius = UDim.new(e4legant4.v83[118], 3)
+																	ELEG774ANT.Name = "InlineStroke"
+																	ELEG774ANT.Parent = Eleg44ant
+																	ELEG774ANT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	ELEG774ANT.Color = e4legant4.color(e4legant4.v83[137], 37, e4legant4.v83[137])
+																	ELEGA4NT.Name = "InlineList"
+																	ELEGA4NT.Parent = Eleg44ant
+																	local E774legant
+																	E774legant = {
+																		Open = function(El44egant)
+																			Eleg44ant.Visible = true
+-- e7l4g4nt < 47 >
+																			tweenService:Create(Ele44gant, TweenInfo.new(0.15), {
+																				Rotation = 180
+																			}):Play()
+																			local El4egant = {
+																				BackgroundTransparency = e4legant4.v83[118]
+																			}
+																			tweenService:Create(Eleg44ant, TweenInfo.new(0.15), El4egant):Play()
+																			El44egant:FadeIn()
+																		end,
+																		FadeIn = function()
+																			for e4l4g4n777, E77LEGANT in pairs(Eleg44ant:GetDescendants()) do
+																				if E77LEGANT:IsA(e4legant4.v83[71]) then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						BackgroundTransparency = 0
+																					}):Play()
+																				elseif E77LEGANT:IsA("TextButton") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						TextTransparency = 0
+																					}):Play()
+																				elseif E77LEGANT:IsA("UIStroke") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						Transparency = 0
+																					}):Play()
+																				elseif E77LEGANT:IsA("TextLabel") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), {
+																						TextTransparency = 0
+																					}):Play()
+																				end
+																			end
+																		end,
+																		FadeOut = function()
+																			for e4l4g4n777, E77LEGANT in pairs(Eleg44ant:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					local El4egant = {
+																						BackgroundTransparency = e4legant4.v83[85]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), El4egant):Play()
+																				elseif E77LEGANT:IsA("TextButton") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																						TextTransparency = 1
+																					}):Play()
+																				elseif E77LEGANT:IsA("TextLabel") then
+																					local El4egant = {
+																						TextTransparency = e4legant4.v83[85]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), El4egant):Play()
+																				elseif E77LEGANT:IsA("UIStroke") then
+																					local El4egant = {
+-- e4l44gant77 on top
+																						Transparency = e4legant4.v83[85]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.15), El4egant):Play()
+																				end
+																			end
+																		end,
+																		Close = function()
+																			tweenService:Create(Eleg44ant, TweenInfo.new(0.15), {
+																				BackgroundTransparency = 1
+																			}):Play()
+																			local El4egant = {
+																				Rotation = e4legant4.v83[118]
+																			}
+																			tweenService:Create(Ele44gant, TweenInfo.new(0.15), El4egant):Play()
+																			E774legant:FadeOut()
+																			e4legant4.wait_(0.15)
+																			Eleg44ant.Visible = false
+																		end,
+																	}
+																	local Eleg74ant = 0
+																	E447legant.CreateValue = function(El44egant, ELEGA44NT)
+																		if not E447legant.FValues[ELEGA44NT] then
+																			local El4egant = {}
+																			local Elega7nt = e4legant4.new(e4legant4.v83[45])
+																			local ELEGA7NT = e4legant4.new("UIStroke")
+																			local Elega4nt = e4legant4.new("UICorner")
+																			local ELEGA77NT = e4legant4.new("TextLabel")
+																			Elega7nt.Name = "DropdownButton"
+																			Elega7nt.Parent = Eleg44ant
+																			Elega7nt.Size = e4legant4.udim2(1, 0, 0, e4legant4.v83[20])
+																			Elega7nt.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			Elega7nt.BackgroundTransparency = 1
+																			Elega7nt.Position = e4legant4.udim2(e4legant4.v83[157], 0, 0, 0)
+																			Elega7nt.BorderSizePixel = 0
+																			Elega7nt.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																			Elega7nt.TextColor3 = e4legant4.color(255, 255, 255)
+																			Elega7nt.Text = ""
+																			Elega7nt.TextXAlignment = Enum.TextXAlignment.Left
+																			Elega7nt.TextSize = 12
+																			Elega7nt.FontFace = e4legant4.font
+																			Elega7nt.TextTransparency = 1
+																			Elega7nt.ZIndex = 4
+																			ELEGA7NT.Name = "DBStroke"
+																			ELEGA7NT.Parent = Elega7nt
+																			ELEGA7NT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			ELEGA7NT.Color = e4legant4.color(24, 24, 24)
+																			Elega4nt.Name = "DBCorner"
+																			Elega4nt.Parent = Elega7nt
+																			Elega4nt.CornerRadius = UDim.new(0, 3)
+																			ELEGA77NT.Name = "DBName"
+																			ELEGA77NT.Parent = Elega7nt
+																			ELEGA77NT.Size = e4legant4.udim2(0, e4legant4.v83[25], e4legant4.v83[85], 0)
+																			ELEGA77NT.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																			ELEGA77NT.BackgroundTransparency = 1
+																			ELEGA77NT.Position = e4legant4.udim2(0.0131004369, 0, 0, 0)
+																			ELEGA77NT.BorderSizePixel = 0
+																			ELEGA77NT.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																			ELEGA77NT.TextColor3 = e4legant4.color(129, 129, 127)
+																			ELEGA77NT.TextXAlignment = Enum.TextXAlignment.Left
+																			ELEGA77NT.TextSize = 12
+																			ELEGA77NT.FontFace = e4legant4.font
+																			ELEGA77NT.Text = ELEGA44NT
+																			ELEGA77NT.ZIndex = 4
+																			El4egant.Name = Elega7nt
+																			Eleg44ant.Size = Eleg44ant.Size + e4legant4.udim2(0, 0, 0, 22)
+																			local function E74LEGANT()
+																				ELEGA77NT.TextColor3 = theme.accent
+																				E447legant.FValues[ELEGA44NT].Selected = e4legant4.v83[91]
+																			end
+																			local function ELE44GANT()
+																				ELEGA77NT.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																				E447legant.FValues[ELEGA44NT].Selected = false
+																				if not (e4legant4.n25 > 2331) then
+																					return
+-- e4l3g4nt above all 7447
+																				end
+																				while true do
+																				end
+																			end
+																			Elega7nt.MouseButton1Down:Connect(function()
+																				E447legant:Set(ELEGA44NT)
+																			end)
+																			Eleg74ant += 1
+																			E447legant.FValues[ELEGA44NT] = {
+																				Click = E74LEGANT,
+																				Unclick = ELE44GANT,
+																				Objects = El4egant,
+																				Selected = false
+																			}
+																			theme_event.Event:Connect(function()
+																				local Elega77nt = E447legant.FValues[ELEGA44NT]
+																				if Elega77nt and Elega77nt.Selected then
+																					ELEGA77NT.TextColor3 = theme.accent
+																				end
+																			end)
+																		end
+																		return E447legant
+																	end
+																	E447legant.Update = function()
+																		for ELEGA47NT, ELEGA74NT in pairs(E447legant.FValues) do
+																			if E447legant.FValue == ELEGA47NT then
+																				ELEGA74NT.Click()
+																			else
+																				ELEGA74NT.Unclick()
+																			end
+																		end
+																		return E447legant
+																	end
+																	E447legant.Display = function()
+																		if E4legant.Multi then
+																			local El4egant = {}
+																			if # E447legant.FValue > 0 then
+-- elegant x4 x7
+																				for e4l4g4n777, Elega7nt in pairs(E447legant.FValue) do
+																					El4egant[# El4egant + e4legant4.v83[85]] = Elega7nt
+																					ELEG447ANT.Text = table.concat(El4egant, ", ")
+																				end
+																			else
+																				ELEG447ANT.Text = "-"
+																			end
+																		else
+																			ELEG447ANT.Text = E447legant.FValue ~= "" and E447legant.FValue or "-"
+																		end
+																		return E447legant
+																	end
+																	E447legant.Set = function(El44egant, ELEGA74NT)
+																		if E4legant.Multi then
+																			if typeof(ELEGA74NT) == "table" then
+																				table.clear(E447legant.FValue)
+																				for e4l4g4n777, Elega7nt in ipairs(ELEGA74NT) do
+																					E447legant.FValue[# E447legant.FValue + 1] = Elega7nt
+																				end
+																				for ELEGA47NT, ELEGA447NT in pairs(E447legant.FValues) do
+																					if table.find(E447legant.FValue, ELEGA47NT) then
+																						ELEGA447NT.Click()
+																					else
+																						ELEGA447NT.Unclick()
+																					end
+																				end
+																				E447legant:Display()
+																				pcall(E4legant.Callback, E447legant.FValue)
+																				el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																				el47egant.Flags[E4legant.Flag .. e4legant4.v83[39]] = {
+-- e7l4g4nt < 47 >
+																					function(_77ELEGANT)
+																						E447legant:Refresh(_77ELEGANT)
+																					end,
+																					function(_77ELEGANT)
+																						E447legant:Set(_77ELEGANT)
+																					end,
+																				}
+																				return
+																			end
+																			local Elega7nt = table.find(E447legant.FValue, ELEGA74NT)
+																			if Elega7nt then
+-- elegant x4 x7
+																				table.remove(E447legant.FValue, Elega7nt)
+																				E447legant:Display()
+																				if E447legant.FValues[ELEGA74NT] then
+																					E447legant.FValues[ELEGA74NT].Unclick()
+																				end
+																				pcall(E4legant.Callback, E447legant.FValue)
+																				el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																				el47egant.Flags[E4legant.Flag .. "f"] = {
+																					function(_77ELEGANT)
+																						E447legant:Refresh(_77ELEGANT)
+																					end,
+																					function(_77ELEGANT)
+																						E447legant:Set(_77ELEGANT)
+																					end,
+																				}
+																			else
+																				if not E447legant.FValues[ELEGA74NT] then
+																					E447legant:Display()
+																					return
+																				end
+																				E447legant.FValue[# E447legant.FValue + 1] = ELEGA74NT
+																				E447legant:Display()
+																				E447legant.FValues[ELEGA74NT].Click()
+																				pcall(E4legant.Callback, E447legant.FValue)
+																				el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																				el47egant.Flags[E4legant.Flag .. e4legant4.v83[39]] = {
+																					function(_77ELEGANT)
+																						E447legant:Refresh(_77ELEGANT)
+																					end,
+																					[e4legant4.v83[119]] = function(_77ELEGANT)
+																						E447legant:Set(_77ELEGANT)
+																					end,
+																				}
+																			end
+																		else
+																			E447legant.FValue = ELEGA74NT
+																			El44egant:Update()
+																			E447legant:Display()
+																			pcall(E4legant.Callback, E447legant.FValue)
+																			el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																			el47egant.Flags[E4legant.Flag .. "f"] = {
+																				function(_77ELEGANT)
+																					E447legant:Refresh(_77ELEGANT)
+																				end,
+																				[e4legant4.v83[119]] = function(_77ELEGANT)
+																					E447legant:Set(_77ELEGANT)
+-- e4l3g4nt runz this
+																				end,
+																			}
+																		end
+																		return E447legant
+																	end
+																	E447legant.Refresh = function(El44egant, _77ELEGANT)
+																		for e4l4g4n777, ELEGA74NT in pairs(E447legant.FValues) do
+																			ELEGA74NT.Objects.Name:Destroy()
+																		end
+																		Eleg44ant.Size = e4legant4.udim2(0, 159, 0, e4legant4.v83[118])
+																		table.clear(E447legant.FValues)
+																		if E4legant.Multi then
+																			table.clear(E447legant.FValue)
+																			Eleg74ant = 0
+																			for e4l4g4n777, Elega7nt in pairs(_77ELEGANT) do
+																				E447legant:CreateValue(Elega7nt)
+																			end
+																			E447legant:Display()
+																			pcall(E4legant.Callback, E447legant.FValue)
+																			el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																			el47egant.Flags[E4legant.Flag .. "f"] = {
+																				function(E447LEGANT)
+																					E447legant:Refresh(E447LEGANT)
+																				end,
+-- e4l44gant77 | 747
+																				function(E447LEGANT)
+																					E447legant:Set(E447LEGANT)
+																				end,
+																			}
+																		else
+																			Eleg74ant = 0
+																			for e4l4g4n777, Elega7nt in pairs(_77ELEGANT) do
+																				E447legant:CreateValue(Elega7nt)
+																			end
+																			E447legant.FValue = nil
+																			E447legant:Update()
+																			E447legant:Display()
+																			pcall(E4legant.Callback, E447legant.FValue)
+																			el47egant.Flags[E4legant.Flag] = E447legant.FValue
+																			el47egant.Flags[E4legant.Flag .. "f"] = {
+																				function(E447LEGANT)
+																					E447legant:Refresh(E447LEGANT)
+																				end,
+																				[e4legant4.v83[119]] = function(E447LEGANT)
+																					E447legant:Set(E447LEGANT)
+																				end,
+																			}
+																		end
+																		for e4l4g4n777, Elega7nt in pairs(_77ELEGANT) do
+																			E447legant:CreateValue(Elega7nt)
+																		end
+																		E447legant:Set(E4legant.Default)
+																		return E447legant
+																	end
+																	for e4l4g4n777, Elega7nt in pairs(E4legant.Content) do
+																		E447legant:CreateValue(Elega7nt)
+																	end
+																	E447legant:Set(E4legant.Default)
+-- elegantified :: 4747
+																	E44legant.MouseButton1Click:Connect(function()
+																		if el47egant.Popup and el47egant.Popup.ID ~= elegan4t.Name then
+																			el47egant:RemovePopups()
+																		end
+																		if Eleg44ant.Visible then
+																			E774legant:Close()
+																			Eleg44ant.ZIndex = e4legant4.v83[53]
+																		else
+																			el47egant:NewPopup({
+																				Remove = E774legant.Close,
+																				ID = elegan4t.Name
+																			})
+																			Eleg44ant.ZIndex = 4
+																			E774legant:Open()
+																		end
+																	end)
+																	el47egant.ConfigFlags[E4legant.Flag] = function(El44egant)
+																		E447legant:Set(El44egant)
+																	end
+																	_74Elegant(40)
+																	return E4legant, E447legant
+																end
+																elegan74t.Keybind = function(_447Elegant, _774Elegant, El44egant)
+																	local E4legant = {
+-- e4l3g4nt : 7 : 4 : 7
+																		Title = _774Elegant.title or "",
+																		Mode = _774Elegant.mode or "Toggle",
+																		Key = _774Elegant.key or "",
+																		Callback = _774Elegant.callback or function()
+																		end,
+																		KeybindsList = _774Elegant.keybindlist or e4legant4.v83[9],
+																		KeybindListName = _774Elegant.keybindname or _447Elegant.Title,
+																	}
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	local E447legant = {
+																		FMode = E4legant.Mode,
+																		FKey = E4legant.Key,
+																		Toggled = false,
+																		Picking = false,
+																		Modes = {}
+																	}
+																	local elegan4t = e4legant4.new(e4legant4.v83[71])
+																	local E44legant = e4legant4.new("TextButton")
+																	elegan4t.Name = tostring(math.random(1000, 16384))
+																	elegan4t.Parent = El44egant == nil and _77Elegant or El44egant
+																	elegan4t.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																	elegan4t.BackgroundTransparency = 1
+																	elegan4t.BorderColor3 = e4legant4.color(0, 0, 0)
+																	elegan4t.BorderSizePixel = e4legant4.v83[118]
+																	elegan4t.Size = e4legant4.udim2(0, 229, 0, 14)
+																	if El44egant == nil then
+																		local El77egant = e4legant4.new("TextLabel")
+																		El77egant.Name = e4legant4.v83[148]
+																		El77egant.Parent = elegan4t
+																		El77egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																		El77egant.BackgroundTransparency = 1
+																		El77egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																		El77egant.BorderSizePixel = 0
+																		El77egant.Size = e4legant4.udim2(0, 161, 0, e4legant4.v83[133])
+																		El77egant.FontFace = e4legant4.font
+																		El77egant.Text = E4legant.Title
+																		El77egant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																		El77egant.TextSize = e4legant4.v83[1]
+																		El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																	end
+																	E44legant.Name = "KeybindButton"
+																	E44legant.Parent = elegan4t
+																	E44legant.BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], e4legant4.v83[167])
+																	E44legant.BorderColor3 = e4legant4.color(34, 34, 34)
+																	E44legant.Position = e4legant4.udim2(0.703056753, 0, 0, 0)
+																	E44legant.Size = e4legant4.udim2(e4legant4.v83[118], 68, 0, 14)
+																	E44legant.FontFace = e4legant4.font
+																	E44legant.Text = "key : none"
+																	E44legant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																	E44legant.TextSize = 12
+																	E44legant.ZIndex = e4legant4.v83[119]
+																	E44legant.AutoButtonColor = e4legant4.v83[9]
+																	local El7egant = e4legant4.new("Frame")
+																	local El47egant = e4legant4.new("Frame")
+																	local ELEG7ANT = e4legant4.new("UIListLayout")
+																	El7egant.Name = "KeybindInline"
+																	El7egant.Parent = elegan4t
+																	El7egant.BackgroundColor3 = e4legant4.color(170, 170, 255)
+																	El7egant.BackgroundTransparency = 1
+																	El7egant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																	El7egant.BorderSizePixel = 0
+																	El7egant.Position = e4legant4.udim2(0.943231463, 0, 0, 0)
+																	El7egant.Size = e4legant4.udim2(0, e4legant4.v83[142], 0, 13)
+																	El7egant.Visible = false
+																	El47egant.Name = "KeybindContent"
+																	El47egant.Parent = El7egant
+																	El47egant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																	El47egant.BorderColor3 = e4legant4.color(34, 34, e4legant4.v83[178])
+																	El47egant.Position = e4legant4.udim2(- e4legant4.v83[67], e4legant4.v83[118], 1.2, 0)
+																	El47egant.Size = e4legant4.udim2(e4legant4.v83[118], 68, e4legant4.v83[118], e4legant4.v83[118])
+																	El47egant.ZIndex = 3
+																	ELEG7ANT.Name = "KBContent"
+-- e4l3g4nt_was_here
+																	ELEG7ANT.Parent = El47egant
+																	ELEG7ANT.SortOrder = Enum.SortOrder.LayoutOrder
+																	local E774legant
+																	E774legant = {
+																		Open = function(_77ELEGANT)
+																			El47egant.Visible = true
+																			El7egant.Visible = e4legant4.v83[91]
+																			_77ELEGANT:FadeIn()
+																		end,
+																		FadeIn = function()
+																			for e4l4g4n777, E77LEGANT in pairs(El47egant:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), {
+																						BackgroundTransparency = 0
+																					}):Play()
+																				elseif E77LEGANT:IsA("TextButton") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), {
+																						TextTransparency = 0
+																					}):Play()
+																				end
+																			end
+																		end,
+																		FadeOut = function()
+																			for e4l4g4n777, E77LEGANT in pairs(El47egant:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), {
+																						BackgroundTransparency = 1
+																					}):Play()
+																				elseif E77LEGANT:IsA(e4legant4.v83[45]) then
+																					local El4egant = {
+																						TextTransparency = e4legant4.v83[85]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), El4egant):Play()
+																				end
+																			end
+																		end,
+																		Close = function()
+																			E774legant:FadeOut()
+																			e4legant4.wait_(0.05)
+																			El47egant.Visible = false
+																			El7egant.Visible = e4legant4.v83[9]
+																		end,
+																	}
+																	E447legant.UpdateList = function()
+																		if el47egant.KeybindList and E4legant.KeybindsList then
+																			el47egant.KeybindList:Add(E4legant.KeybindListName, E447legant.FMode)
+																			el47egant.KeybindList:SetVisibility(E4legant.KeybindListName, E4legant:GetState())
+																			el47egant.KeybindList:SetMode(E4legant.KeybindListName, E447legant.FMode)
+																		end
+																	end
+																	E447legant.Value = function(_77ELEGANT, E447LEGANT)
+																		if E447LEGANT then
+																			if E447LEGANT[1] then
+																				local elegan44t = E447LEGANT[1]
+																				E44legant.Text = "key : " .. ((elegan44t == "none" or elegan44t == "") and "none" or elegan44t)
+																				E447legant.FKey = elegan44t
+																			else
+																				E44legant.Text = "key : none"
+																			end
+																			if E447LEGANT[2] then
+																				E447legant.Modes[E447LEGANT[2]]:Click(E447LEGANT[2] == "Toggle" and true or e4legant4.v83[9])
+																			end
+																			E447legant:UpdateList()
+																		end
+																		return E447legant
+																	end
+																	E4legant.GetState = function()
+																		if E447legant.FMode == "Always" then
+																			return true
+																		end
+																		if E447legant.FMode == e4legant4.v83[110] then
+																			if E447legant.FKey == e4legant4.v83[120] then
+																				return false
+																			end
+																			return E447legant.Toggled
+																		end
+																		if E447legant.FKey == e4legant4.v83[120] then
+																			return false
+																		end
+																		return E447legant.Toggled
+																	end
+																	for e4l4g4n777, elegan44t in pairs({
+																		"Toggle",
+																		"Hold",
+																		e4legant4.v83[55]
+																	}) do
+																		local El4egant = {}
+																		local Ele7gant = e4legant4.new("TextButton")
+																		Ele7gant.Name = e4legant4.v83[180]
+																		Ele7gant.Parent = El47egant
+-- 4legant 4 the win 474
+																		Ele7gant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																		Ele7gant.BackgroundTransparency = e4legant4.v83[118]
+																		Ele7gant.BorderColor3 = e4legant4.color(34, 34, 34)
+																		Ele7gant.BorderSizePixel = 0
+																		Ele7gant.Position = e4legant4.udim2(0, 0, 0.0416666679, 0)
+																		Ele7gant.Size = e4legant4.udim2(e4legant4.v83[118], 68, 0, 14)
+																		Ele7gant.ZIndex = 3
+																		Ele7gant.FontFace = e4legant4.font
+																		Ele7gant.Text = tostring(elegan44t)
+																		Ele7gant.TextColor3 = e4legant4.color(129, 129, 127)
+																		Ele7gant.TextSize = 12
+																		El47egant.Size = El47egant.Size + e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[118], 0, Ele7gant.TextBounds.Y)
+																		El4egant.Click = function(_77ELEGANT, E447LEGANT)
+																			for e4l4g4n777, ELEGA774NT in pairs(E447legant.Modes) do
+																				ELEGA774NT:Unclick()
+																			end
+																			E447legant.FMode = elegan44t
+																			El7egant.Visible = false
+																			E447legant:UpdateList()
+																			Ele7gant.TextColor3 = e4legant4.color(e4legant4.v83[181], 157, e4legant4.v83[186])
+																			if not E447LEGANT then
+																				pcall(E4legant.Callback, E4legant:GetState())
+																			end
+																		end
+																		El4egant.Unclick = function()
+																			Ele7gant.TextColor3 = e4legant4.color(129, 129, e4legant4.v83[66])
+																		end
+																		if elegan44t == E447legant.FMode then
+																			El4egant:Click()
+																		end
+																		Ele7gant.MouseButton1Down:Connect(El4egant.Click)
+																		theme_event.Event:Connect(function()
+																			if elegan44t == E447legant.FMode then
+																				Ele7gant.TextColor3 = theme.accent
+																			end
+																		end)
+																		E447legant.Modes[elegan44t] = El4egant
+																	end
+																	E44legant.InputBegan:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																			E447legant.Picking = true
+																			E44legant.Text = e4legant4.v83[194]
+																			e4legant4.wait_(0.02)
+																			local ELEGAN4T = nil
+																			ELEGAN4T = inputService.InputBegan:Connect(function(ELEGAN44T)
+																				local ELEGAN7T = ELEGAN44T.KeyCode.Name == "Escape" and e4legant4.v83[120] or e47legant[ELEGAN44T.KeyCode] or e47legant[ELEGAN44T.UserInputType] or ELEGAN44T.KeyCode.Name
+																				if ELEGAN44T.UserInputType == Enum.UserInputType.Keyboard and ELEGAN44T.KeyCode.Name == e4legant4.v83[40] then
+																					E447legant.FKey = "none"
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.Keyboard then
+																					E447legant.FKey = ELEGAN44T.KeyCode.Name
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.MouseButton1 then
+																					E447legant.FKey = "MB1"
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.MouseButton2 then
+																					E447legant.FKey = "MB2"
+																				end
+																				E447legant.Picking = false
+																				E44legant.Text = "key : " .. ELEGAN7T
+																				pcall(E4legant.Callback, E4legant:GetState())
+																				el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																				el47egant.Flags[E4legant.Flag .. e4legant4.v83[184]] = {
+																					E447legant.FKey,
+																					E447legant.FMode
+																				}
+																				E447legant:UpdateList()
+																				ELEGAN4T:Disconnect()
+																			end)
+																		end
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton2 then
+																			if el47egant.Popup and el47egant.Popup.ID ~= elegan4t.Name then
+																				el47egant:RemovePopups()
+																			end
+																			if El7egant.Visible then
+																				E774legant:Close()
+																			else
+																				el47egant:NewPopup({
+																					Remove = E774legant.Close,
+																					ID = elegan4t.Name
+																				})
+																				E774legant:Open()
+																			end
+																		end
+-- e4l3g4nt_was_here
+																	end)
+																	inputService.InputBegan:Connect(function(ELE774GANT)
+																		if E447legant.Picking then
+																			return
+																		end
+																		local el4egant = E447legant.FKey == "MB2" and "MouseButton2" or E447legant.FKey == "MB1" and "MouseButton1"
+																		local ELEGAN77T
+																		if el4egant then
+																			ELEGAN77T = el4egant
+																		else
+																			ELEGAN77T = E447legant.FKey == "MB3" and e4legant4.v83[121]
+																		end
+																		if ELE774GANT.KeyCode.Name == E447legant.FKey or ELE774GANT.UserInputType.Name == ELEGAN77T then
+																			if E447legant.FMode == "Toggle" then
+																				E447legant.Toggled = not E447legant.Toggled
+																			elseif E447legant.FMode == "Hold" then
+																				E447legant.Toggled = true
+																				local ELEGAN4T = nil
+																				ELEGAN4T = inputService.InputEnded:Connect(function(ELEGAN44T)
+																					if ELEGAN44T.KeyCode.Name == E447legant.FKey or ELEGAN44T.UserInputType.Name == ELEGAN77T then
+																						ELEGAN4T:Disconnect()
+																						E447legant.Toggled = e4legant4.v83[9]
+																						pcall(E4legant.Callback, E4legant:GetState())
+																						E447legant:UpdateList()
+																					end
+																				end)
+																			end
+																			pcall(E4legant.Callback, E4legant:GetState())
+																			el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																			el47egant.Flags[E4legant.Flag .. e4legant4.v83[184]] = {
+																				E447legant.FKey,
+																				E447legant.FMode
+																			}
+																			E447legant:UpdateList()
+																		end
+																	end)
+																	if E447legant.FKey ~= "" then
+																		E447legant:Value({
+																			E447legant.FKey,
+																			E447legant.FMode
+																		})
+																	end
+																	_74Elegant(14)
+																	el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																	el47egant.Flags[E4legant.Flag .. "_info"] = {
+																		E447legant.FKey,
+																		E447legant.FMode
+																	}
+																	el47egant.ConfigFlags[E4legant.Flag .. e4legant4.v83[184]] = function(_77ELEGANT)
+																		E447legant:Value(_77ELEGANT)
+																	end
+																	return E4legant
+																end
+																elegan74t.StandaloneKeybind = function(_447Elegant, _774Elegant)
+																	local E4legant = {
+																		Title = _774Elegant.title or "",
+																		Mode = _774Elegant.mode or "Toggle",
+																		Key = _774Elegant.key or "",
+																		Callback = _774Elegant.callback or function()
+																		end,
+																		KeybindsList = _774Elegant.keybindlist or e4legant4.v83[9],
+																		KeybindListName = _774Elegant.keybindname or _774Elegant.title or "",
+																	}
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	local E447legant = {
+																		FMode = E4legant.Mode,
+																		FKey = E4legant.Key,
+																		Toggled = e4legant4.v83[9],
+																		Picking = false,
+																		Modes = {}
+-- 4legant 4 the win 474
+																	}
+																	local El7egant = e4legant4.new("Frame")
+																	local E44legant = e4legant4.new("TextButton")
+																	El7egant.Name = tostring(math.random(1000, 16384))
+																	El7egant.Parent = _77Elegant
+-- elegantified :: 4747
+																	El7egant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], e4legant4.v83[150])
+																	El7egant.BackgroundTransparency = 1
+																	El7egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	El7egant.BorderSizePixel = 0
+																	El7egant.Size = e4legant4.udim2(0, 229, e4legant4.v83[118], 14)
+																	local El77egant = e4legant4.new("TextLabel")
+																	El77egant.Name = "KeybindTitle"
+																	El77egant.Parent = El7egant
+																	El77egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	El77egant.BackgroundTransparency = 1
+																	El77egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El77egant.BorderSizePixel = 0
+																	El77egant.Size = e4legant4.udim2(0, e4legant4.v83[134], 0, e4legant4.v83[133])
+																	El77egant.FontFace = e4legant4.font
+																	El77egant.Text = E4legant.Title
+																	El77egant.TextColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	El77egant.TextSize = 12
+																	El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																	E44legant.Name = e4legant4.v83[108]
+																	E44legant.Parent = El7egant
+																	E44legant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																	E44legant.BorderColor3 = e4legant4.color(34, 34, 34)
+																	E44legant.Position = e4legant4.udim2(e4legant4.v83[75], 0, 0, 0)
+																	E44legant.Size = e4legant4.udim2(0, 68, 0, 14)
+																	E44legant.FontFace = e4legant4.font
+																	E44legant.Text = "key : none"
+																	E44legant.TextColor3 = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	E44legant.TextSize = 12
+																	E44legant.ZIndex = e4legant4.v83[119]
+																	E44legant.AutoButtonColor = e4legant4.v83[9]
+																	local El47egant = e4legant4.new("Frame")
+																	local El74egant = e4legant4.new("Frame")
+																	local ELEG7ANT = e4legant4.new("UIListLayout")
+																	El47egant.Name = "KeybindInline"
+																	El47egant.Parent = El7egant
+																	El47egant.BackgroundColor3 = e4legant4.color(170, 170, 255)
+																	El47egant.BackgroundTransparency = 1
+																	El47egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																	El47egant.BorderSizePixel = 0
+																	El47egant.Position = e4legant4.udim2(0.943231463, e4legant4.v83[118], 0, 0)
+																	El47egant.Size = e4legant4.udim2(0, e4legant4.v83[142], 0, 13)
+																	El47egant.Visible = false
+-- e4l44gant77 | 747
+																	El74egant.Name = "KeybindContent"
+																	El74egant.Parent = El47egant
+																	El74egant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																	El74egant.BorderColor3 = e4legant4.color(e4legant4.v83[178], 34, e4legant4.v83[178])
+																	El74egant.Position = e4legant4.udim2(- 4.23076916, e4legant4.v83[118], 1.2, 0)
+																	El74egant.Size = e4legant4.udim2(e4legant4.v83[118], 68, 0, e4legant4.v83[118])
+																	El74egant.ZIndex = 3
+																	ELEG7ANT.Name = e4legant4.v83[19]
+																	ELEG7ANT.Parent = El74egant
+																	ELEG7ANT.SortOrder = Enum.SortOrder.LayoutOrder
+																	local E774legant
+																	E774legant = {
+																		Open = function(El44egant)
+																			El74egant.Visible = true
+																			El47egant.Visible = e4legant4.v83[91]
+																			El44egant:FadeIn()
+																		end,
+																		FadeIn = function()
+																			for e4l4g4n777, E77LEGANT in pairs(El74egant:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					local El4egant = {
+																						BackgroundTransparency = e4legant4.v83[118]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), El4egant):Play()
+																				elseif E77LEGANT:IsA("TextButton") then
+																					local El4egant = {
+																						TextTransparency = e4legant4.v83[118]
+																					}
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), El4egant):Play()
+																				end
+																			end
+																		end,
+																		FadeOut = function()
+																			for e4l4g4n777, E77LEGANT in pairs(El74egant:GetDescendants()) do
+																				if E77LEGANT:IsA("Frame") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), {
+																						BackgroundTransparency = 1
+																					}):Play()
+																				elseif E77LEGANT:IsA("TextButton") then
+																					tweenService:Create(E77LEGANT, TweenInfo.new(0.1), {
+																						TextTransparency = 1
+																					}):Play()
+																				end
+																			end
+																		end,
+																		Close = function()
+																			E774legant:FadeOut()
+																			e4legant4.wait_(0.05)
+																			El74egant.Visible = false
+																			El47egant.Visible = false
+																		end,
+																	}
+																	E447legant.UpdateList = function()
+																		if el47egant.KeybindList and E4legant.KeybindsList then
+																			el47egant.KeybindList:Add(E4legant.KeybindListName, E447legant.FMode)
+																			el47egant.KeybindList:SetVisibility(E4legant.KeybindListName, E4legant:GetState())
+																			el47egant.KeybindList:SetMode(E4legant.KeybindListName, E447legant.FMode)
+																		end
+																	end
+																	E447legant.Value = function(El44egant, _77ELEGANT)
+																		if _77ELEGANT then
+																			if _77ELEGANT[1] then
+																				local elegan4t = _77ELEGANT[1]
+																				E44legant.Text = "key : " .. ((elegan4t == "none" or elegan4t == "") and "none" or elegan4t)
+																				E447legant.FKey = elegan4t
+																			else
+																				E44legant.Text = "key : none"
+																			end
+																			if _77ELEGANT[2] then
+																				E447legant.Modes[_77ELEGANT[2]]:Click(_77ELEGANT[2] == "Toggle" and true or e4legant4.v83[9])
+																			end
+																			E447legant:UpdateList()
+																		end
+																		return E447legant
+																	end
+-- e7l4g4nt < 47 >
+																	E4legant.GetState = function()
+																		if E447legant.FMode == "Always" then
+																			return e4legant4.v83[91]
+																		end
+																		if E447legant.FMode == "Hold" then
+																			if E447legant.FKey == "none" then
+																				return e4legant4.v83[9]
+																			end
+																			return E447legant.Toggled
+																		end
+																		if E447legant.FKey == e4legant4.v83[120] then
+																			return false
+																		end
+																		return E447legant.Toggled
+																	end
+																	for e4l4g4n777, elegan4t in pairs({
+																		"Toggle",
+																		"Hold",
+																		"Always"
+																	}) do
+																		local El4egant = {}
+																		local elegan44t = e4legant4.new(e4legant4.v83[45])
+																		elegan44t.Name = "KB_Button"
+																		elegan44t.Parent = El74egant
+																		elegan44t.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, e4legant4.v83[167])
+																		elegan44t.BackgroundTransparency = 0
+																		elegan44t.BorderColor3 = e4legant4.color(34, 34, e4legant4.v83[178])
+																		elegan44t.BorderSizePixel = 0
+																		elegan44t.Position = e4legant4.udim2(0, 0, 0.0416666679, 0)
+-- e4l3g4nt_was_here
+																		elegan44t.Size = e4legant4.udim2(0, 68, 0, 14)
+																		elegan44t.ZIndex = e4legant4.v83[53]
+																		elegan44t.FontFace = e4legant4.font
+																		elegan44t.Text = tostring(elegan4t)
+																		elegan44t.TextColor3 = e4legant4.color(129, 129, e4legant4.v83[66])
+																		elegan44t.TextSize = 12
+																		El74egant.Size = El74egant.Size + e4legant4.udim2(e4legant4.v83[118], 0, 0, elegan44t.TextBounds.Y)
+																		El4egant.Click = function(El44egant, _77ELEGANT)
+																			for e4l4g4n777, ELEGA774NT in pairs(E447legant.Modes) do
+																				ELEGA774NT:Unclick()
+																			end
+																			E447legant.FMode = elegan4t
+																			El47egant.Visible = false
+																			E447legant:UpdateList()
+																			elegan44t.TextColor3 = e4legant4.color(e4legant4.v83[181], 157, 159)
+																			if not _77ELEGANT then
+																				pcall(E4legant.Callback, E4legant:GetState())
+																			end
+																		end
+																		El4egant.Unclick = function()
+																			elegan44t.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																		end
+																		if elegan4t == E447legant.FMode then
+																			El4egant:Click()
+																		end
+																		elegan44t.MouseButton1Down:Connect(El4egant.Click)
+																		theme_event.Event:Connect(function()
+																			if elegan4t == E447legant.FMode then
+																				elegan44t.TextColor3 = theme.accent
+																			end
+																		end)
+																		E447legant.Modes[elegan4t] = El4egant
+																	end
+																	E44legant.InputBegan:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																			E447legant.Picking = e4legant4.v83[91]
+																			E44legant.Text = e4legant4.v83[194]
+																			e4legant4.wait_(0.02)
+																			local ELEGAN4T = nil
+																			ELEGAN4T = inputService.InputBegan:Connect(function(ELEGAN44T)
+																				local ELEGAN7T = ELEGAN44T.KeyCode.Name == e4legant4.v83[40] and "none" or e47legant[ELEGAN44T.KeyCode] or e47legant[ELEGAN44T.UserInputType] or ELEGAN44T.KeyCode.Name
+																				if ELEGAN44T.UserInputType == Enum.UserInputType.Keyboard and ELEGAN44T.KeyCode.Name == "Escape" then
+																					E447legant.FKey = "none"
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.Keyboard then
+																					E447legant.FKey = ELEGAN44T.KeyCode.Name
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.MouseButton1 then
+																					E447legant.FKey = e4legant4.v83[112]
+																				elseif ELEGAN44T.UserInputType == Enum.UserInputType.MouseButton2 then
+																					E447legant.FKey = e4legant4.v83[14]
+																				end
+																				E447legant.Picking = false
+																				E44legant.Text = "key : " .. ELEGAN7T
+																				pcall(E4legant.Callback, E4legant:GetState())
+																				el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																				el47egant.Flags[E4legant.Flag .. "_info"] = {
+																					E447legant.FKey,
+																					E447legant.FMode
+																				}
+																				E447legant:UpdateList()
+																				ELEGAN4T:Disconnect()
+																			end)
+																		end
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton2 then
+																			if el47egant.Popup and el47egant.Popup.ID ~= El7egant.Name then
+																				el47egant:RemovePopups()
+																			end
+																			if El47egant.Visible then
+																				E774legant:Close()
+																			else
+																				el47egant:NewPopup({
+																					Remove = E774legant.Close,
+																					ID = El7egant.Name
+																				})
+																				E774legant:Open()
+																			end
+																		end
+																	end)
+																	inputService.InputBegan:Connect(function(ELE774GANT)
+																		if E447legant.Picking then
+																			return
+																		end
+																		local el4egant = E447legant.FKey == "MB2" and e4legant4.v83[7] or E447legant.FKey == "MB1" and "MouseButton1"
+																		local ELEGAN47T
+																		if el4egant then
+																			ELEGAN47T = el4egant
+																		else
+																			ELEGAN47T = E447legant.FKey == "MB3" and "MouseButton3"
+																		end
+																		if ELE774GANT.KeyCode.Name == E447legant.FKey or ELE774GANT.UserInputType.Name == ELEGAN47T then
+																			if E447legant.FMode == "Toggle" then
+																				E447legant.Toggled = not E447legant.Toggled
+																			elseif E447legant.FMode == "Hold" then
+																				E447legant.Toggled = e4legant4.v83[91]
+																				local ELEGAN4T = nil
+																				ELEGAN4T = inputService.InputEnded:Connect(function(ELEGAN44T)
+																					if ELEGAN44T.KeyCode.Name == E447legant.FKey or ELEGAN44T.UserInputType.Name == ELEGAN47T then
+																						ELEGAN4T:Disconnect()
+																						E447legant.Toggled = false
+																						pcall(E4legant.Callback, E4legant:GetState())
+																						E447legant:UpdateList()
+																					end
+																				end)
+																			end
+																			pcall(E4legant.Callback, E4legant:GetState())
+																			el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																			el47egant.Flags[E4legant.Flag .. "_info"] = {
+																				E447legant.FKey,
+																				E447legant.FMode
+																			}
+																			E447legant:UpdateList()
+																		end
+																	end)
+-- e4l44gant77 on top
+																	if E447legant.FKey ~= "" then
+																		E447legant:Value({
+																			E447legant.FKey,
+																			E447legant.FMode
+																		})
+																	end
+																	_74Elegant(14)
+																	el47egant.Flags[E4legant.Flag] = E4legant:GetState()
+																	el47egant.Flags[E4legant.Flag .. e4legant4.v83[184]] = {
+																		E447legant.FKey,
+																		E447legant.FMode
+																	}
+																	el47egant.ConfigFlags[E4legant.Flag .. "_info"] = function(El44egant)
+																		E447legant:Value(El44egant)
+																	end
+																	return E4legant
+																end
+																elegan74t.Label = function(_447Elegant, ELEGA44NT, _774Elegant)
+																	local E4legant = {}
+																	local ELEGAN74T = _774Elegant ~= nil and _774Elegant == true and true or e4legant4.v83[9]
+																	local elegan4t = e4legant4.new(e4legant4.v83[135])
+																	elegan4t.Name = "Label"
+																	elegan4t.Parent = _77Elegant
+																	elegan4t.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	elegan4t.BackgroundTransparency = 1
+																	elegan4t.BorderColor3 = e4legant4.color(0, 0, 0)
+																	elegan4t.BorderSizePixel = 0
+																	elegan4t.Size = e4legant4.udim2(0, e4legant4.v83[164], e4legant4.v83[118], e4legant4.v83[133])
+																	elegan4t.FontFace = e4legant4.font
+																	elegan4t.Text = ELEGA44NT
+																	elegan4t.TextColor3 = e4legant4.color(255, 255, 255)
+																	elegan4t.TextSize = e4legant4.v83[1]
+																	elegan4t.TextXAlignment = Enum.TextXAlignment.Left
+																	elegan4t.RichText = ELEGAN74T
+																	elegan4t.TextTruncate = "AtEnd"
+																	E4legant.ChangeText = function(El44egant, _77ELEGANT)
+																		if not type(_77ELEGANT) == "string" then
+																			return
+																		end
+																		elegan4t.Text = tostring(_77ELEGANT)
+																	end
+																	_74Elegant(14)
+																	return E4legant
+																end
+																if e4legant4.n24 < 9069 then
+																	while e4legant4.v83[91] do
+																	end
+																end
+																elegan74t.Slider = function(_447Elegant, _774Elegant)
+																	local E4legant = {
+																		Title = _774Elegant.title or "slider",
+																		Min = _774Elegant.min or 1,
+																		Max = _774Elegant.max or 10,
+																		Float = _774Elegant.float or 1,
+																		Default = _774Elegant.default or 0,
+																		Value = e4legant4.v83[118],
+																		Callback = _774Elegant.callback or function()
+																		end,
+																		Sliding = false,
+																		Suffix = _774Elegant.suffix or "",
+																	}
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	E4legant.MinText = _774Elegant.mintext or tostring(E4legant.Min)
+																	E4legant.MaxText = _774Elegant.maxtext or tostring(E4legant.Max)
+																	local El7egant = e4legant4.new("Frame")
+																	local El77egant = e4legant4.new("TextLabel")
+																	local ELEG447ANT = e4legant4.new("TextLabel")
+																	local El47egant = e4legant4.new("Frame")
+																	local E7legant = e4legant4.new("UICorner")
+																	local El74egant = e4legant4.new("Frame")
+																	local elegan4t = e4legant4.new(e4legant4.v83[154])
+																	local El447egant = e4legant4.new("Frame")
+																	local Elega4nt = e4legant4.new("UICorner")
+																	local El774egant = e4legant4.new("Frame")
+																	local elegan44t = e4legant4.new(e4legant4.v83[154])
+																	El7egant.Name = "Slider"
+																	El7egant.Parent = _77Elegant
+																	El7egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], 255)
+																	El7egant.BackgroundTransparency = e4legant4.v83[85]
+																	El7egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El7egant.BorderSizePixel = e4legant4.v83[118]
+																	El7egant.Size = e4legant4.udim2(0, 229, 0, 30)
+																	El77egant.Name = e4legant4.v83[29]
+																	El77egant.Parent = El7egant
+																	El77egant.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																	El77egant.BackgroundTransparency = e4legant4.v83[85]
+																	El77egant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																	El77egant.BorderSizePixel = 0
+																	El77egant.Size = e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[69], 0, 20)
+																	El77egant.FontFace = e4legant4.font
+																	El77egant.Text = E4legant.Title
+																	El77egant.TextColor3 = e4legant4.color(255, 255, 255)
+																	El77egant.TextSize = 12
+																	El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																	ELEG447ANT.Name = e4legant4.v83[175]
+																	ELEG447ANT.Parent = El7egant
+																	ELEG447ANT.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																	ELEG447ANT.BackgroundTransparency = 1
+																	ELEG447ANT.BorderColor3 = e4legant4.color(0, 0, 0)
+																	ELEG447ANT.BorderSizePixel = e4legant4.v83[118]
+																	ELEG447ANT.Position = e4legant4.udim2(0, 0, 0, 0)
+																	ELEG447ANT.Size = e4legant4.udim2(e4legant4.v83[118], 160, e4legant4.v83[118], 20)
+																	ELEG447ANT.FontFace = e4legant4.font
+																	ELEG447ANT.Text = E4legant.Value .. E4legant.Suffix
+																	ELEG447ANT.TextColor3 = e4legant4.color(124, 124, 124)
+-- 4legant 4 the win 474
+																	ELEG447ANT.TextSize = 12
+																	ELEG447ANT.TextXAlignment = Enum.TextXAlignment.Right
+																	El47egant.Name = e4legant4.v83[187]
+																	El47egant.Parent = El7egant
+																	El47egant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																	El47egant.BorderColor3 = e4legant4.color(e4legant4.v83[118], e4legant4.v83[118], 0)
+																	El47egant.BorderSizePixel = e4legant4.v83[118]
+																	El47egant.Position = e4legant4.udim2(0, 0, 0.766666651, 0)
+																	El47egant.Size = e4legant4.udim2(0, 160, 0, 7)
+																	E7legant.CornerRadius = UDim.new(e4legant4.v83[118], 2)
+																	E7legant.Name = "InlineCorner"
+																	E7legant.Parent = El47egant
+																	El74egant.Name = "SliderBackground"
+																	El74egant.Parent = El47egant
+																	El74egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, 21)
+																	El74egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	El74egant.BorderSizePixel = 0
+																	El74egant.Position = e4legant4.udim2(0, 0, - 0.00999999978, 0)
+																	El74egant.Size = e4legant4.udim2(e4legant4.v83[118], 160, 1, e4legant4.v83[118])
+																	elegan4t.CornerRadius = UDim.new(0, 2)
+																	elegan4t.Name = "BackgroundCorner"
+																	elegan4t.Parent = El74egant
+																	El447egant.Name = "SliderFill"
+																	El447egant.Parent = El74egant
+																	El447egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[182], 153, 159)
+																	El447egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																	El447egant.BorderSizePixel = 0
+																	El447egant.Position = e4legant4.udim2(0, 0, 0, 0)
+																	El447egant.Size = e4legant4.udim2(0, e4legant4.v83[118], 1, 0)
+																	Elega4nt.CornerRadius = UDim.new(0, 2)
+																	Elega4nt.Name = "FillCorner"
+																	Elega4nt.Parent = El447egant
+																	El774egant.Name = "SliderDrag"
+																	El774egant.Parent = El7egant
+																	El774egant.BackgroundColor3 = e4legant4.color(255, 0, 0)
+																	El774egant.BackgroundTransparency = 1
+																	El774egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																	El774egant.BorderSizePixel = 0
+																	El774egant.Position = e4legant4.udim2(0, 0, 0.766666651, - e4legant4.v83[109])
+-- 4l3g4nt never dies 7744
+																	El774egant.Size = e4legant4.udim2(0, e4legant4.v83[69], 0, 16)
+																	elegan44t.CornerRadius = UDim.new(0, 2)
+																	elegan44t.Name = "DragCorner"
+																	elegan44t.Parent = El774egant
+																	local Ele44gant = e4legant4.new(e4legant4.v83[60], El47egant)
+																	Ele44gant[e4legant4.v83[21]] = Enum.ApplyStrokeMode.Border
+																	Ele44gant.Name = "INLINESTROKE"
+																	Ele44gant.Color = e4legant4.color(32, 32, e4legant4.v83[196])
+																	local Eleg44ant = e4legant4.new(e4legant4.v83[60], El74egant)
+																	Eleg44ant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	Eleg44ant[e4legant4.v83[46]] = "SliderBackgroundStroke"
+																	Eleg44ant.Color = e4legant4.color(32, 32, e4legant4.v83[196])
+																	local E77legant = e4legant4.new("UIStroke", El447egant)
+																	E77legant[e4legant4.v83[21]] = Enum.ApplyStrokeMode.Border
+																	E77legant.Name = "SliderFillStroke"
+																	E77legant.Color = e4legant4.color(172, e4legant4.v83[59], e4legant4.v83[186])
+																	E77legant[e4legant4.v83[171]] = 0.5
+																	theme_event.Event:Connect(function()
+																		El447egant.BackgroundColor3 = theme.accent
+																		E77legant.Color = theme.accent
+																	end)
+																	local function E74LEGANT(El44egant, _77ELEGANT)
+																		if e4legant4.n27(3649) > 18517 then
+																			return _77ELEGANT * math.round(El44egant / _77ELEGANT)
+																		end
+																		while e4legant4.v83[91] do
+																		end
+																	end
+																	E4legant.Set = function(El44egant, _77ELEGANT)
+																		local ELEGAN447T = E4legant.Min
+																		local ELEGAN774T = E4legant.Max
+																		local e4l4g4ntt7 = math.clamp(E74LEGANT(_77ELEGANT, E4legant.Float), ELEGAN447T, ELEGAN774T)
+																		local Eleg74ant = (e4l4g4ntt7 - E4legant.Min) / (E4legant.Max - E4legant.Min)
+																		E4legant.Value = e4l4g4ntt7
+																		tweenService:Create(El447egant, TweenInfo.new(0.13, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+																			Size = e4legant4.udim2(Eleg74ant, 0, 1, 0)
+																		}):Play()
+																		E4legant.Callback(e4l4g4ntt7)
+																		el47egant.Flags[E4legant.Flag] = E4legant.Value
+																		ELEG447ANT.Text = E4legant.Value == E4legant.Min and E4legant.MinText or E4legant.Value == E4legant.Max and E4legant.MaxText or string.format("%.14g%s", E4legant.Value, E4legant.Suffix)
+																	end
+																	E4legant.Slide = function(El44egant, _77ELEGANT)
+																		local Eleg74ant = math.clamp((E4legant.Max - E4legant.Min) * (_77ELEGANT.Position.X - El74egant.AbsolutePosition.X) / El74egant.AbsoluteSize.X + E4legant.Min, E4legant.Min, E4legant.Max)
+																		El44egant:Set(Eleg74ant)
+																	end
+																	E4legant:Set(E4legant.Default)
+																	El774egant.MouseEnter:Connect(function()
+																		tweenService:Create(Eleg44ant, TweenInfo.new(0.2), {
+																			Color = e4legant4.color(255, 255, 255)
+																		}):Play()
+																	end)
+																	El774egant.MouseLeave:Connect(function()
+																		tweenService:Create(Eleg44ant, TweenInfo.new(0.2), {
+																			Color = e4legant4.color(32, 32, e4legant4.v83[196])
+																		}):Play()
+																	end)
+																	El774egant.InputBegan:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																			E4legant.Sliding = true
+																			E4legant:Slide(ELE774GANT)
+																		end
+																	end)
+																	El774egant.InputEnded:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																			E4legant.Sliding = e4legant4.v83[9]
+																			E4legant:Slide(ELE774GANT)
+																		end
+																	end)
+																	El774egant.InputChanged:Connect(function(ELE774GANT)
+																		if ELE774GANT.UserInputType == Enum.UserInputType.MouseMovement and E4legant.Sliding then
+																			E4legant:Slide(ELE774GANT)
+																		end
+																	end)
+																	el47egant.ConfigFlags[E4legant.Flag] = function(El44egant)
+																		E4legant:Set(El44egant)
+																	end
+																	_74Elegant(30)
+																	return E4legant
+																end
+																elegan74t.TextBox = function(_447Elegant, _774Elegant)
+																	local E4legant = {
+-- 4l3g4nt owns this 4477
+																		Title = _774Elegant.title or "textbox",
+																		Default = _774Elegant.default or "",
+																		Placeholder = _774Elegant.placeholder or "",
+																		ClearTextOnFocus = _774Elegant.cleartextonfocus or _774Elegant.ctf or true,
+																		Callback = _774Elegant.callback or function()
+																		end,
+																		Text = "",
+																	}
+																	E4legant.Flag = el47egant:GetNextFlag()
+																	if E4legant.Title ~= "NO TITLE" then
+																		_447Elegant:Label(E4legant.Title)
+																	end
+																	local ELEGANT4 = e4legant4.new("TextBox")
+																	local elegan4t = e4legant4.new(e4legant4.v83[154])
+																	ELEGANT4.Parent = _77Elegant
+																	ELEGANT4.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[12], e4legant4.v83[12])
+																	ELEGANT4.BorderColor3 = e4legant4.color(0, 0, 0)
+																	ELEGANT4.BorderSizePixel = 0
+																	ELEGANT4.Size = e4legant4.udim2(e4legant4.v83[118], 159, 0, 22)
+																	ELEGANT4.FontFace = e4legant4.font
+																	ELEGANT4.PlaceholderText = E4legant.Placeholder
+																	ELEGANT4.Text = ""
+																	ELEGANT4.TextColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], e4legant4.v83[150])
+																	ELEGANT4.TextSize = 12
+																	ELEGANT4.TextXAlignment = Enum.TextXAlignment.Left
+																	ELEGANT4.TextTruncate = "AtEnd"
+																	ELEGANT4.ClearTextOnFocus = E4legant.ClearTextOnFocus
+																	elegan4t.CornerRadius = UDim.new(0, 4)
+																	elegan4t.Name = "TextboxCorner"
+																	elegan4t.Parent = ELEGANT4
+																	local E77legant = e4legant4.new("UIStroke", ELEGANT4)
+																	E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	E77legant.Name = "TextBoxStroke"
+																	E77legant.Color = e4legant4.color(37, e4legant4.v83[137], 37)
+																	e4legant4.new("UIPadding", ELEGANT4).PaddingLeft = UDim.new(0, 8)
+																	E4legant.Set = function(El44egant, ELEGA44NT)
+																		ELEGANT4.Text = ELEGA44NT or ""
+																		E4legant.Text = ELEGANT4.Text
+																		el47egant.Flags[E4legant.Flag] = E4legant.Text
+																		el47egant.Flags[E4legant.Flag .. "f"] = function(_77ELEGANT)
+																			E4legant:Set(_77ELEGANT)
+																		end
+																		pcall(E4legant.Callback, E4legant.Text)
+																	end
+																	ELEGANT4.FocusLost:Connect(function()
+																		E4legant.Text = ELEGANT4.Text
+																		el47egant.Flags[E4legant.Flag] = E4legant.Text
+																		el47egant.Flags[E4legant.Flag .. "f"] = function(El44egant)
+																			E4legant:Set(El44egant)
+																		end
+																		pcall(E4legant.Callback, E4legant.Text)
+																	end)
+																	_74Elegant(22)
+																	el47egant.ConfigFlags[E4legant.Flag] = function(El44egant)
+																		E4legant:Set(El44egant)
+																	end
+																	return E4legant
+																end
+																elegan74t.Toggle = function(_447Elegant, _774Elegant)
+																	local ELEGANT44 = {
+																		title = _774Elegant.title or "toggle",
+																		default = _774Elegant.default or false,
+																		state = e4legant4.v83[9],
+-- e4l3g4nt :: 47
+																		callback = _774Elegant.callback or function()
+																		end,
+																		Risky = _774Elegant.risky or false,
+																		Info = _774Elegant.info or false,
+																		InfoText = _774Elegant.infotext or "",
+																	}
+																	ELEGANT44.Flag = el47egant:GetNextFlag()
+																	el74egant["19"] = e4legant4.new("TextButton", _77Elegant)
+																	el74egant["19"].BorderSizePixel = 0
+																	el74egant["19"][e4legant4.v83[105]] = e4legant4.v83[85]
+																	el74egant["19"][e4legant4.v83[51]] = 12
+																	el74egant["19"][e4legant4.v83[42]] = e4legant4.color(e4legant4.v83[150], 255, 255)
+																	el74egant["19"].BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																	el74egant["19"].FontFace = e4legant4.font
+																	el74egant[e4legant4.v83[15]].Size = e4legant4.udim2(0, 229, e4legant4.v83[118], 15)
+																	el74egant["19"].BackgroundTransparency = 1
+																	el74egant[e4legant4.v83[15]].Name = "ToggleButton"
+																	el74egant["19"].BorderColor3 = e4legant4.color(0, 0, 0)
+																	el74egant[e4legant4.v83[15]].Text = "Toggle"
+																	el74egant["1a"] = e4legant4.new("Frame", el74egant["19"])
+																	el74egant["1a"].BorderSizePixel = 0
+																	el74egant["1a"].BackgroundColor3 = e4legant4.color(20, e4legant4.v83[172], 17)
+																	el74egant["1a"].Size = e4legant4.udim2(0, 13, 0, 13)
+																	el74egant["1a"].BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																	el74egant["1a"].Position = e4legant4.udim2(0, 0, 0.077, 0)
+																	el74egant["1a"].Name = "ToggleStatus"
+																	el74egant["1b"] = e4legant4.new("UICorner", el74egant[e4legant4.v83[78]])
+																	el74egant["1b"].Name = "ToggleStatusCorner"
+																	el74egant[e4legant4.v83[36]].CornerRadius = UDim.new(0, 4)
+																	el74egant["1c"] = e4legant4.new("UIStroke", el74egant["1a"])
+																	el74egant["1c"].ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																	el74egant["1c"].Name = "ToggleUIStroke"
+																	el74egant["1c"].Color = e4legant4.color(37, e4legant4.v83[137], e4legant4.v83[137])
+																	el74egant["1d"] = e4legant4.new("TextLabel", el74egant["19"])
+																	el74egant["1d"].TextStrokeTransparency = 1
+																	el74egant["1d"].BorderSizePixel = 0
+																	el74egant["1d"].TextXAlignment = Enum.TextXAlignment.Left
+																	el74egant["1d"].BackgroundColor3 = e4legant4.color(255, 255, 255)
+																	el74egant["1d"].TextSize = 12
+																	el74egant["1d"].FontFace = e4legant4.font
+																	el74egant["1d"][e4legant4.v83[42]] = e4legant4.color(129, e4legant4.v83[41], 127)
+																	el74egant["1d"].BackgroundTransparency = 1
+																	el74egant["1d"].Size = e4legant4.udim2(0, 150, e4legant4.v83[118], 13)
+																	el74egant["1d"][e4legant4.v83[70]] = e4legant4.color(0, 0, 0)
+																	el74egant["1d"][e4legant4.v83[174]] = ELEGANT44.title
+																	el74egant["1d"].Name = "ToggleName"
+																	el74egant["1d"][e4legant4.v83[114]] = e4legant4.udim2(e4legant4.v83[118], 18, 0, 0)
+																	local ELEGANT7 = el74egant["19"]
+																	local ELEGANT77 = el74egant["1a"]
+																	local ELEGANT47 = el74egant["1d"]
+																	local E47legant = tweenService:Create(ELEGANT77, TweenInfo.new(0.2), {
+																		BackgroundColor3 = e4legant4.color(168, 157, 159)
+																	})
+																	local E74legant = tweenService:Create(ELEGANT47, TweenInfo.new(0.2), {
+																		TextColor3 = ELEGANT44.Risky and theme.risky or e4legant4.color(e4legant4.v83[150], 255, e4legant4.v83[150])
+																	})
+																	local ELEGANT74 = tweenService:Create(ELEGANT77, TweenInfo.new(0.2), {
+																		BackgroundColor3 = e4legant4.color(20, 20, 17)
+																	})
+																	local ELEGANT447 = tweenService:Create(ELEGANT47, TweenInfo.new(0.2), {
+																		TextColor3 = ELEGANT44.Risky and theme.risky or e4legant4.color(129, e4legant4.v83[41], 127)
+																	})
+																	if ELEGANT44.Risky then
+																		ELEGANT47.TextColor3 = theme.risky
+																	end
+																	theme_event.Event:Connect(function()
+																		local E4legant = {
+																			BackgroundColor3 = theme.accent
+																		}
+																		E47legant = tweenService:Create(ELEGANT77, TweenInfo.new(0.2), E4legant)
+																		if ELEGANT44.Risky then
+																			local E447legant = {
+																				TextColor3 = theme.risky
+																			}
+																			E74legant = tweenService:Create(ELEGANT47, TweenInfo.new(0.2), E447legant)
+																			local E774legant = {
+-- e4l3g4nt_was_here
+																				TextColor3 = theme.risky
+																			}
+																			ELEGANT447 = tweenService:Create(ELEGANT47, TweenInfo.new(0.2), E774legant)
+																			ELEGANT47.TextColor3 = theme.risky
+																		end
+																		if ELEGANT44.state then
+																			ELEGANT77.BackgroundColor3 = theme.accent
+																		end
+																	end)
+																	local function E74LEGANT()
+																		E47legant:Play()
+																		E74legant:Play()
+																	end
+																	local function ELE44GANT()
+																		ELEGANT74:Play()
+																		ELEGANT447:Play()
+																	end
+																	if ELEGANT44.Info then
+																		local ELEGANT774 = el447egant:GetTextBoundary(ELEGANT44.title, Enum.Font.SourceSans.Value, 12)
+																		local El7egant = e4legant4.new("Frame", el74egant["19"])
+																		El7egant.Name = "InfoIconBG"
+																		El7egant.Active = true
+																		El7egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, e4legant4.v83[167])
+																		El7egant.BorderSizePixel = e4legant4.v83[118]
+																		El7egant.Position = e4legant4.udim2(0, 18 + ELEGANT774 + e4legant4.v83[96], e4legant4.v83[118], 0)
+																		El7egant.Size = e4legant4.udim2(0, 13, e4legant4.v83[118], 13)
+-- e4l3g4nt_was_here
+																		El7egant.ZIndex = 2
+																		local elegan4t = e4legant4.new(e4legant4.v83[154], El7egant)
+-- e4l3g4nt : 7 : 4 : 7
+																		elegan4t.Name = "InfoIconBGCorner"
+																		elegan4t.CornerRadius = UDim.new(0, 100)
+																		local E77legant = e4legant4.new("UIStroke", El7egant)
+-- 4l3g4nt never dies 7744
+																		E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																		E77legant.Name = "InfoIconBGStroke"
+																		E77legant.Color = e4legant4.color(37, 37, 37)
+																		local elegan44t = e4legant4.new(e4legant4.v83[135], El7egant)
+																		elegan44t.Name = "InfoIcon"
+																		elegan44t.BackgroundTransparency = 1
+																		elegan44t.BorderSizePixel = 0
+																		elegan44t.Size = e4legant4.udim2(1, e4legant4.v83[118], 1, 0)
+																		elegan44t.FontFace = e4legant4.font
+																		elegan44t.Text = "?"
+																		elegan44t.TextColor3 = e4legant4.color(255, 255, 255)
+																		elegan44t.TextSize = 12
+																		elegan44t.TextXAlignment = Enum.TextXAlignment.Center
+																		elegan44t.TextYAlignment = Enum.TextYAlignment.Center
+																		elegan44t.ZIndex = 2
+																		local El47egant = e4legant4.new("Frame", el74egant[e4legant4.v83[191]])
+																		El47egant.Name = "InfoTooltip"
+																		El47egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[49], 15, 15)
+																		El47egant.BackgroundTransparency = 1
+																		El47egant.BorderSizePixel = e4legant4.v83[118]
+																		El47egant.Visible = false
+																		El47egant.ZIndex = 10
+																		El47egant.AutomaticSize = Enum.AutomaticSize.XY
+																		e4legant4.new("UICorner", El47egant).CornerRadius = UDim.new(0, e4legant4.v83[53])
+																		local ELEG774ANT = e4legant4.new("UIStroke", El47egant)
+-- e4l3g4nt runz this
+																		ELEG774ANT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																		ELEG774ANT.Color = e4legant4.color(e4legant4.v83[137], 37, 37)
+																		ELEG774ANT.Transparency = 1
+																		local Ele44gant = e4legant4.new(e4legant4.v83[146], El47egant)
+																		Ele44gant.PaddingLeft = UDim.new(0, e4legant4.v83[96])
+																		Ele44gant.PaddingRight = UDim.new(e4legant4.v83[118], 6)
+																		Ele44gant.PaddingTop = UDim.new(e4legant4.v83[118], 4)
+																		Ele44gant.PaddingBottom = UDim.new(0, 4)
+																		local El77egant = e4legant4.new("TextLabel", El47egant)
+																		El77egant.BackgroundTransparency = e4legant4.v83[85]
+																		El77egant.FontFace = e4legant4.font
+																		El77egant.Text = ELEGANT44.InfoText
+																		El77egant.TextColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], 255)
+																		El77egant.TextTransparency = e4legant4.v83[85]
+																		El77egant.TextSize = 12
+																		El77egant.Size = e4legant4.udim2(0, 0, 0, e4legant4.v83[133])
+																		El77egant.AutomaticSize = Enum.AutomaticSize.X
+																		El77egant.ZIndex = e4legant4.v83[131]
+																		local E4legant = {
+																			TextTransparency = e4legant4.v83[118]
+																		}
+																		local E447legant = {
+																			BG = tweenService:Create(El47egant, TweenInfo.new(e4legant4.v83[74]), {
+																				BackgroundTransparency = 0
+																			}),
+																			Stroke = tweenService:Create(ELEG774ANT, TweenInfo.new(e4legant4.v83[74]), {
+																				Transparency = 0
+																			}),
+																			Text = tweenService:Create(El77egant, TweenInfo.new(0.2), E4legant),
+																		}
+																		local E774legant = {
+																			BG = tweenService:Create(El47egant, TweenInfo.new(0.2), {
+																				BackgroundTransparency = 1
+																			}),
+																			Stroke = tweenService:Create(ELEG774ANT, TweenInfo.new(0.2), {
+																				Transparency = 1
+																			}),
+																			Text = tweenService:Create(El77egant, TweenInfo.new(e4legant4.v83[74]), {
+																				TextTransparency = 1
+																			}),
+																		}
+																		local function ELE47GANT()
+																			local _4eLeGaNt = inputService:GetMouseLocation()
+																			El47egant.Position = e4legant4.udim2(0, _4eLeGaNt.X + 12, 0, _4eLeGaNt.Y - 28)
+																		end
+																		El7egant.MouseEnter:Connect(function()
+																			El47egant.Visible = true
+																			ELE47GANT()
+-- e4l44gant77 on top
+																			E447legant.BG:Play()
+																			E447legant.Stroke:Play()
+																			E447legant.Text:Play()
+																		end)
+																		El7egant.MouseMoved:Connect(function()
+																			ELE47GANT()
+																		end)
+																		El7egant.MouseLeave:Connect(function()
+																			E774legant.BG:Play()
+																			E774legant.Stroke:Play()
+																			E774legant.Text:Play()
+																			e4legant4.wait_(0.2)
+																			El47egant.Visible = e4legant4.v83[9]
+																		end)
+																	end
+																	ELEGANT44.Set = function(El44egant, _44eLeGaNt)
+																		ELEGANT44.state = _44eLeGaNt
+																		pcall(ELEGANT44.callback, ELEGANT44.state)
+																		el47egant.Flags[ELEGANT44.Flag] = ELEGANT44.state
+																		if ELEGANT44.state == true then
+																			E74LEGANT()
+																		else
+																			ELE44GANT()
+																		end
+																	end
+																	ELEGANT44.Keybind = function(El44egant, _77ELEGANT)
+																		elegan74t:Keybind(_77ELEGANT, ELEGANT7)
+																	end
+																	ELEGANT44.Colorpicker = function(El44egant, _77ELEGANT)
+																		ELEGANT44.HasColorpicker = true
+																		return elegan74t:Colorpicker(_77ELEGANT, ELEGANT7)
+																	end
+																	ELEGANT44.Settings = function(El44egant, _77ELEGANT)
+																		local _7eLeGaNt = (_77ELEGANT or {}).callback or function()
+																		end
+																		local elegan4t = e4legant4.new(e4legant4.v83[200])
+																		local E7legant = e4legant4.new("UICorner")
+																		local E77legant = e4legant4.new("UIStroke")
+																		elegan4t.Name = "SettingsButton"
+																		elegan4t.Parent = ELEGANT7
+																		elegan4t.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, 21)
+																		elegan4t.BorderSizePixel = 0
+																		elegan4t.Position = e4legant4.udim2(1, - 13, 0, 0)
+																		elegan4t.Size = e4legant4.udim2(0, 13, 0, 13)
+																		elegan4t.Image = E4L4G4NT77
+																		local _77eLeGaNt = Instance.new("TextLabel")
+																		_77eLeGaNt.Name = "SettingsGlyph"
+																		_77eLeGaNt.Parent = elegan4t
+																		_77eLeGaNt.Size = UDim2.fromScale(1, 1)
+																		_77eLeGaNt.BackgroundTransparency = 1
+																		_77eLeGaNt.Font = Enum.Font.SourceSansBold
+																		_77eLeGaNt.Text = "⚙"
+																		_77eLeGaNt.TextSize = 13
+																		_77eLeGaNt.TextColor3 = Color3.fromRGB(200, 200, 200)
+																		_77eLeGaNt.ZIndex = 3
+																		elegan4t.ImageColor3 = e4legant4.color(200, 200, e4legant4.v83[24])
+																		elegan4t.ScaleType = Enum.ScaleType.Fit
+																		elegan4t.ZIndex = 2
+																		local _47eLeGaNt = ELEGANT7:FindFirstChild("KeybindButton", true)
+																		if _47eLeGaNt then
+																			_47eLeGaNt.Position = e4legant4.udim2(e4legant4.v83[56], 0, 0, e4legant4.v83[118])
+																		else
+																			for e4l4g4n777, E77LEGANT in ipairs(ELEGANT7:GetDescendants()) do
+																				if E77LEGANT.Name == "KeybindButton" then
+																					E77LEGANT.Position = e4legant4.udim2(0.635, e4legant4.v83[118], 0, 0)
+																					break
+																				end
+																			end
+																		end
+																		E7legant.CornerRadius = UDim.new(0, 4)
+																		E7legant.Name = "SettingsCorner"
+																		E7legant.Parent = elegan4t
+																		E77legant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																		E77legant.Name = "SettingsStroke"
+																		E77legant.Color = e4legant4.color(37, 37, 37)
+																		E77legant.Parent = elegan4t
+																		local E4legant = {
+																			ImageColor3 = theme.accent
+																		}
+																		local _74eLeGaNt = tweenService:Create(elegan4t, TweenInfo.new(0.2), E4legant)
+																		local _447eLeGaNt = tweenService:Create(elegan4t, TweenInfo.new(0.2), {
+																			ImageColor3 = e4legant4.color(200, 200, e4legant4.v83[24])
+																		})
+																		theme_event.Event:Connect(function()
+																			local E447legant = {
+																				ImageColor3 = theme.accent
+																			}
+																			_74eLeGaNt = tweenService:Create(elegan4t, TweenInfo.new(0.2), E447legant)
+																		end)
+																		local El7egant = e4legant4.new("Frame")
+																		local Elega4nt = e4legant4.new("UICorner")
+																		local ELEG774ANT = e4legant4.new("UIStroke")
+																		local elegan44t = e4legant4.new(e4legant4.v83[57])
+																		local _774eLeGaNt = e4legant4.new("UIPadding")
+																		El7egant.Name = "SettingsPopup"
+																		El7egant.Parent = el74egant["1"]
+																		El7egant.BackgroundColor3 = e4legant4.color(e4legant4.v83[12], e4legant4.v83[12], 23)
+																		El7egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																		El7egant.BorderSizePixel = 0
+																		El7egant.Position = e4legant4.udim2(0, 0, 0, 0)
+																		El7egant.Size = e4legant4.udim2(0, 180, 0, 0)
+																		El7egant.Visible = e4legant4.v83[9]
+																		El7egant.ZIndex = e4legant4.v83[131]
+																		El7egant.AutomaticSize = Enum.AutomaticSize.Y
+																		Elega4nt.Name = e4legant4.v83[82]
+																		Elega4nt.CornerRadius = UDim.new(0, e4legant4.v83[109])
+																		Elega4nt.Parent = El7egant
+																		ELEG774ANT.Name = e4legant4.v83[22]
+																		ELEG774ANT.Parent = El7egant
+																		ELEG774ANT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																		ELEG774ANT.Color = e4legant4.color(37, 37, 37)
+																		elegan44t.Name = "SettingsPopupList"
+																		elegan44t.Parent = El7egant
+																		elegan44t.SortOrder = Enum.SortOrder.LayoutOrder
+																		elegan44t.Padding = UDim.new(0, e4legant4.v83[96])
+																		_774eLeGaNt.Name = "SettingsPopupPadding"
+																		_774eLeGaNt.Parent = El7egant
+																		_774eLeGaNt.PaddingLeft = UDim.new(0, 8)
+																		_774eLeGaNt.PaddingRight = UDim.new(e4legant4.v83[118], 8)
+																		_774eLeGaNt.PaddingTop = UDim.new(e4legant4.v83[118], 8)
+																		_774eLeGaNt.PaddingBottom = UDim.new(e4legant4.v83[118], e4legant4.v83[193])
+																		local El47egant = e4legant4.new("Frame")
+																		El47egant.Name = "SettingsComponents"
+																		El47egant.Parent = El7egant
+																		El47egant.BackgroundTransparency = 1
+																		El47egant.BorderSizePixel = 0
+																		El47egant.Size = e4legant4.udim2(e4legant4.v83[85], 0, e4legant4.v83[118], 0)
+																		El47egant.AutomaticSize = Enum.AutomaticSize.Y
+																		El47egant.ZIndex = 10
+																		local ELEG7ANT = e4legant4.new("UIListLayout")
+																		ELEG7ANT.Name = "SettingsComponentsList"
+																		ELEG7ANT.Parent = El47egant
+																		ELEG7ANT.SortOrder = Enum.SortOrder.LayoutOrder
+																		ELEG7ANT.Padding = UDim.new(0, 6)
+																		local E447legant = {}
+																		local ELEGAN77T = false
+																		local el4egant = "SettingsPopup_" .. tostring(math.random(10000, e4legant4.v83[99]))
+																		local ELEGAN4T = nil
+																		local function ELE47GANT()
+																			if ELEGAN4T then
+																				ELEGAN4T:Disconnect()
+																				ELEGAN4T = nil
+																			end
+																		end
+																		local function ELE447GANT()
+																			ELE47GANT()
+																			ELEGAN4T = inputService.InputBegan:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType ~= Enum.UserInputType.MouseButton1 then
+																					return
+																				end
+																				if not ELEGAN77T then
+																					return
+																				end
+																				local Eleg74ant = inputService:GetMouseLocation() - e4legant4.vector2(0, e4legant4.v83[17])
+																				local _47ELEGANT = El7egant.AbsolutePosition
+																				local e4LeGaNt = El7egant.AbsoluteSize
+																				local e44LeGaNt = Eleg74ant.X >= _47ELEGANT.X and Eleg74ant.X <= _47ELEGANT.X + e4LeGaNt.X and Eleg74ant.Y >= _47ELEGANT.Y and Eleg74ant.Y <= _47ELEGANT.Y + e4LeGaNt.Y
+																				local e7LeGaNt = elegan4t.AbsolutePosition
+																				local e77LeGaNt = elegan4t.AbsoluteSize
+																				local e47LeGaNt = Eleg74ant.X >= e7LeGaNt.X and Eleg74ant.X <= e7LeGaNt.X + e77LeGaNt.X and Eleg74ant.Y >= e7LeGaNt.Y and Eleg74ant.Y <= e7LeGaNt.Y + e77LeGaNt.Y
+																				local e74LeGaNt = false
+																				for e4l4g4n777, E77LEGANT in ipairs(El7egant:GetDescendants()) do
+																					if E77LEGANT:IsA("GuiObject") and E77LEGANT.Visible then
+																						local ELEGAN7T = E77LEGANT.Name
+																						if ELEGAN7T == "Inline" or ELEGAN7T == "ColorpickerContent" or ELEGAN7T == "CPContextMenu" then
+																							local e447LeGaNt = E77LEGANT.AbsolutePosition
+																							local e774LeGaNt = E77LEGANT.AbsoluteSize
+																							if Eleg74ant.X >= e447LeGaNt.X and Eleg74ant.X <= e447LeGaNt.X + e774LeGaNt.X and Eleg74ant.Y >= e447LeGaNt.Y and Eleg74ant.Y <= e447LeGaNt.Y + e774LeGaNt.Y then
+																								e74LeGaNt = true
+																								break
+																							end
+																						end
+																					end
+																				end
+																				if not e44LeGaNt and not e47LeGaNt and not e74LeGaNt then
+																					ELEGAN77T = false
+																					ELE47GANT()
+																					El7egant.Visible = e4legant4.v83[9]
+																				end
+																			end)
+																		end
+																		local function ELEG74ANT()
+																			local _47ELEGANT = elegan4t.AbsolutePosition
+																			local _74ELEGANT = el74egant["1"].IgnoreGuiInset and Vector2.zero or game:GetService("GuiService"):GetGuiInset()
+																			local _447ELEGANT = workspace.CurrentCamera.ViewportSize
+																			local eL4eGaNt = math.max(El7egant.AbsoluteSize.X, 180)
+																			local eL44eGaNt = math.max(El7egant.AbsoluteSize.Y, El47egant.AbsoluteSize.Y + 16)
+																			local eL7eGaNt = _47ELEGANT.X - _74ELEGANT.X + elegan4t.AbsoluteSize.X + 4
+																			if eL7eGaNt + eL4eGaNt > _447ELEGANT.X - 6 then
+																				eL7eGaNt = _47ELEGANT.X - _74ELEGANT.X - eL4eGaNt - 4
+																			end
+																			El7egant.Position = UDim2.fromOffset(
+        math.clamp(eL7eGaNt, 6, math.max(6, _447ELEGANT.X - eL4eGaNt - 6)), math.clamp(_47ELEGANT.Y - _74ELEGANT.Y, 6, math.max(6, _447ELEGANT.Y - eL44eGaNt - 6)))
+																		end
+																		local function eL77eGaNt()
+																			ELEGAN77T = e4legant4.v83[9]
+																			ELE47GANT()
+																			El7egant.Visible = false
+																		end
+																		local function eL47eGaNt()
+																			El7egant.Visible = true
+																			ELEG74ANT()
+																			ELEGAN77T = e4legant4.v83[91]
+																			ELE447GANT()
+																			el47egant:NewPopup({
+																				Remove = function()
+																					if ELEGAN77T then
+																						eL77eGaNt()
+																					end
+																				end,
+																				ID = el4egant,
+																			})
+																		end
+																		elegan4t.MouseButton1Click:Connect(function()
+																			if ELEGAN77T then
+																				eL77eGaNt()
+																			else
+																				if el47egant.Popup and el47egant.Popup.ID ~= el4egant then
+																					el47egant:RemovePopups()
+																				end
+																				eL47eGaNt()
+																			end
+																			_74eLeGaNt:Play()
+																			e4legant4.wait_(e4legant4.v83[90])
+																			_447eLeGaNt:Play()
+																			pcall(_7eLeGaNt)
+																		end)
+																		E447legant.Slider = function(E447LEGANT, E774LEGANT)
+																			local E774legant = {
+																				Title = E774LEGANT.title or "slider",
+																				Min = E774LEGANT.min or 1,
+																				Max = E774LEGANT.max or 10,
+																				Float = E774LEGANT.float or 1,
+																				Default = E774LEGANT.default or 0,
+																				Value = e4legant4.v83[118],
+																				Callback = E774LEGANT.callback or function()
+-- e4l44gant77 | 747
+																				end,
+																				Sliding = false,
+																				Suffix = E774LEGANT.suffix or "",
+																			}
+																			E774legant.Flag = el47egant:GetNextFlag()
+																			E774legant.MinText = E774LEGANT.mintext or tostring(E774legant.Min)
+																			E774legant.MaxText = E774LEGANT.maxtext or tostring(E774legant.Max)
+																			local El74egant = e4legant4.new("Frame")
+																			local El77egant = e4legant4.new("TextLabel")
+																			local ELEG447ANT = e4legant4.new("TextLabel")
+																			local El447egant = e4legant4.new("Frame")
+																			local ELEG44ANT = e4legant4.new("UICorner")
+																			local El774egant = e4legant4.new("Frame")
+																			local eL74eGaNt = e4legant4.new("UICorner")
+																			local Ele77gant = e4legant4.new("Frame")
+																			local Ele44gant = e4legant4.new(e4legant4.v83[154])
+																			local Eleg4ant = e4legant4.new("Frame")
+																			local Eleg44ant = e4legant4.new(e4legant4.v83[154])
+																			El74egant.Name = "Slider"
+																			El74egant.Parent = El47egant
+																			El74egant.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[12], 23)
+																			El74egant.BackgroundTransparency = 1
+																			El74egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			El74egant.BorderSizePixel = 0
+-- e4l3g4nt above all 7447
+																			El74egant.Size = e4legant4.udim2(1, 0, e4legant4.v83[118], 30)
+																			El74egant.ZIndex = 11
+																			El77egant.Name = "SliderName"
+																			El77egant.Parent = El74egant
+																			El77egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			El77egant.BackgroundTransparency = 1
+																			El77egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			El77egant.BorderSizePixel = e4legant4.v83[118]
+																			El77egant.Size = e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[130], e4legant4.v83[118], 14)
+																			El77egant.FontFace = e4legant4.font
+																			El77egant.Text = E774legant.Title
+																			El77egant.TextColor3 = e4legant4.color(255, e4legant4.v83[150], e4legant4.v83[150])
+																			El77egant.TextSize = 11
+																			El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																			El77egant.ZIndex = 11
+																			ELEG447ANT.Name = "SliderValue"
+																			ELEG447ANT.Parent = El74egant
+																			ELEG447ANT.BackgroundColor3 = e4legant4.color(255, 255, 255)
+-- e4l44gant77 on top
+																			ELEG447ANT.BackgroundTransparency = e4legant4.v83[85]
+-- 4l3g4nt owns this 4477
+																			ELEG447ANT.BorderColor3 = e4legant4.color(0, 0, 0)
+																			ELEG447ANT.BorderSizePixel = 0
+																			ELEG447ANT.Position = e4legant4.udim2(0, e4legant4.v83[118], e4legant4.v83[118], 0)
+																			ELEG447ANT.Size = e4legant4.udim2(1, 0, 0, 14)
+																			ELEG447ANT.FontFace = e4legant4.font
+																			ELEG447ANT.Text = E774legant.Value .. E774legant.Suffix
+																			ELEG447ANT.TextColor3 = e4legant4.color(e4legant4.v83[47], 124, e4legant4.v83[47])
+																			ELEG447ANT.TextSize = 11
+																			ELEG447ANT.TextXAlignment = Enum.TextXAlignment.Right
+-- 4l3g4nt never dies 7744
+																			ELEG447ANT.ZIndex = 11
+																			El447egant.Name = "SliderInline"
+																			El447egant.Parent = El74egant
+																			El447egant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+-- e4l3g4nt : 7 : 4 : 7
+																			El447egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																			El447egant.BorderSizePixel = 0
+																			El447egant.Position = e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[118], 0.55, 0)
+																			El447egant.Size = e4legant4.udim2(1, 0, 0, 6)
+																			El447egant.ZIndex = 11
+																			ELEG44ANT.CornerRadius = UDim.new(0, 2)
+																			ELEG44ANT.Name = "InlineCorner"
+																			ELEG44ANT.Parent = El447egant
+																			El774egant.Name = "SliderBackground"
+																			El774egant.Parent = El447egant
+																			El774egant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																			El774egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			El774egant.BorderSizePixel = e4legant4.v83[118]
+																			El774egant.Size = e4legant4.udim2(1, 0, 1, 0)
+																			El774egant.ZIndex = 11
+																			eL74eGaNt.CornerRadius = UDim.new(0, e4legant4.v83[119])
+																			eL74eGaNt.Name = "BackgroundCorner"
+																			eL74eGaNt.Parent = El774egant
+																			Ele77gant.Name = e4legant4.v83[65]
+																			Ele77gant.Parent = El774egant
+-- e4l3g4nt runz this
+																			Ele77gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[182], 153, 159)
+																			Ele77gant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																			Ele77gant.BorderSizePixel = 0
+																			Ele77gant.Size = e4legant4.udim2(0, 0, e4legant4.v83[85], 0)
+																			Ele77gant.ZIndex = 11
+																			Ele44gant.CornerRadius = UDim.new(e4legant4.v83[118], 2)
+																			Ele44gant.Name = "FillCorner"
+																			Ele44gant.Parent = Ele77gant
+																			Eleg4ant.Name = "SliderDrag"
+																			Eleg4ant.Parent = El74egant
+																			Eleg4ant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], 0, 0)
+																			Eleg4ant.BackgroundTransparency = 1
+																			Eleg4ant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																			Eleg4ant.BorderSizePixel = e4legant4.v83[118]
+																			Eleg4ant.Position = e4legant4.udim2(0, 0, 0.55, - e4legant4.v83[81])
+																			Eleg4ant.Size = e4legant4.udim2(1, e4legant4.v83[118], 0, 16)
+																			Eleg4ant.ZIndex = 12
+																			Eleg44ant.CornerRadius = UDim.new(0, 2)
+																			Eleg44ant.Name = "DragCorner"
+																			Eleg44ant.Parent = Eleg4ant
+																			local ELEGA7NT = e4legant4.new("UIStroke", El447egant)
+																			ELEGA7NT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			ELEGA7NT.Name = "INLINESTROKE"
+																			ELEGA7NT.Color = e4legant4.color(e4legant4.v83[196], 32, 32)
+																			ELEGA7NT.ZIndex = 11
+																			local eL447eGaNt = e4legant4.new("UIStroke", El774egant)
+																			eL447eGaNt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			eL447eGaNt.Name = e4legant4.v83[93]
+																			eL447eGaNt.Color = e4legant4.color(32, 32, 32)
+																			eL447eGaNt.ZIndex = 11
+																			local eL774eGaNt = e4legant4.new("UIStroke", Ele77gant)
+																			eL774eGaNt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			eL774eGaNt.Name = "SliderFillStroke"
+																			eL774eGaNt.Color = e4legant4.color(172, e4legant4.v83[59], 159)
+																			eL774eGaNt[e4legant4.v83[171]] = 0.5
+																			eL774eGaNt.ZIndex = e4legant4.v83[195]
+																			theme_event.Event:Connect(function()
+																				Ele77gant.BackgroundColor3 = theme.accent
+																				eL774eGaNt.Color = theme.accent
+																			end)
+																			local function eLe4GaNt(EL4EGANT, eLe44GaNt)
+																				return eLe44GaNt * math.round(EL4EGANT / eLe44GaNt)
+																			end
+																			E774legant.Set = function(EL4EGANT, eLe44GaNt)
+																				local ELEGAN447T = E774legant.Min
+																				local ELEGAN774T = E774legant.Max
+																				local e4l4g4ntt7 = math.clamp(eLe4GaNt(eLe44GaNt, E774legant.Float), ELEGAN447T, ELEGAN774T)
+																				local Eleg74ant = (e4l4g4ntt7 - E774legant.Min) / (E774legant.Max - E774legant.Min)
+																				E774legant.Value = e4l4g4ntt7
+																				tweenService:Create(Ele77gant, TweenInfo.new(0.13, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+																					Size = e4legant4.udim2(Eleg74ant, 0, 1, 0)
+																				}):Play()
+																				E774legant.Callback(e4l4g4ntt7)
+																				el47egant.Flags[E774legant.Flag] = E774legant.Value
+																				ELEG447ANT.Text = E774legant.Value == E774legant.Min and E774legant.MinText or E774legant.Value == E774legant.Max and E774legant.MaxText or string.format("%.14g%s", E774legant.Value, E774legant.Suffix)
+																			end
+																			E774legant.Slide = function(EL4EGANT, eLe44GaNt)
+																				local Eleg74ant = math.clamp((E774legant.Max - E774legant.Min) * (eLe44GaNt.Position.X - El774egant.AbsolutePosition.X) / El774egant.AbsoluteSize.X + E774legant.Min, E774legant.Min, E774legant.Max)
+-- property of e4l3g4nt
+																				EL4EGANT:Set(Eleg74ant)
+																			end
+																			E774legant:Set(E774legant.Default)
+																			Eleg4ant.MouseEnter:Connect(function()
+																				tweenService:Create(eL447eGaNt, TweenInfo.new(0.2), {
+																					Color = e4legant4.color(255, e4legant4.v83[150], 255)
+																				}):Play()
+																			end)
+-- e4l3g4nt :: 47
+																			Eleg4ant.MouseLeave:Connect(function()
+-- e4l3g4nt above all 7447
+																				tweenService:Create(eL447eGaNt, TweenInfo.new(0.2), {
+																					Color = e4legant4.color(32, 32, e4legant4.v83[196])
+																				}):Play()
+																			end)
+																			Eleg4ant.InputBegan:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																					E774legant.Sliding = true
+																					E774legant:Slide(ELE774GANT)
+																				end
+																			end)
+																			Eleg4ant.InputEnded:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																					E774legant.Sliding = false
+																					E774legant:Slide(ELE774GANT)
+																				end
+																			end)
+																			Eleg4ant.InputChanged:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseMovement and E774legant.Sliding then
+																					E774legant:Slide(ELE774GANT)
+																				end
+																			end)
+																			el47egant.ConfigFlags[E774legant.Flag] = function(EL4EGANT)
+																				E774legant:Set(EL4EGANT)
+																			end
+																			return E774legant
+-- e4l3g4nt runz this
+																		end
+																		E447legant.Label = function(E447LEGANT, ELEGA44NT, E774LEGANT)
+																			local E774legant = {}
+																			local ELEGAN74T = E774LEGANT ~= nil and E774LEGANT == true and true or false
+																			local El77egant = e4legant4.new("TextLabel")
+																			El77egant.Name = "Label"
+																			El77egant.Parent = El47egant
+																			El77egant.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[12], e4legant4.v83[12])
+																			El77egant.BackgroundTransparency = 1
+																			El77egant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																			El77egant.BorderSizePixel = 0
+																			El77egant.Size = e4legant4.udim2(e4legant4.v83[85], 0, 0, 14)
+																			El77egant.FontFace = e4legant4.font
+																			El77egant.Text = ELEGA44NT
+																			El77egant.TextColor3 = e4legant4.color(255, 255, 255)
+																			El77egant.TextSize = 11
+																			El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																			El77egant.RichText = ELEGAN74T
+																			El77egant.TextTruncate = "AtEnd"
+																			El77egant.ZIndex = 11
+																			E774legant.ChangeText = function(EL4EGANT, eLe44GaNt)
+																				if not type(eLe44GaNt) == "string" then
+																					return
+																				end
+																				El77egant.Text = tostring(eLe44GaNt)
+																			end
+																			return E774legant
+																		end
+																		E447legant.Button = function(E447LEGANT, E774LEGANT)
+																			local E774legant = {
+																				title = E774LEGANT.title or e4legant4.v83[190],
+																				callback = E774LEGANT.callback or function()
+																				end,
+																			}
+																			local E44legant = e4legant4.new("TextButton")
+																			local Ele44gant = e4legant4.new(e4legant4.v83[154])
+																			E44legant.Name = "Button"
+																			E44legant.Parent = El47egant
+																			E44legant.BackgroundColor3 = e4legant4.color(21, 21, 21)
+																			E44legant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			E44legant.BorderSizePixel = e4legant4.v83[118]
+																			E44legant.Size = e4legant4.udim2(1, e4legant4.v83[118], 0, 22)
+																			E44legant.AutoButtonColor = false
+																			E44legant.FontFace = e4legant4.font
+																			E44legant.Text = E774legant.title
+																			E44legant.TextColor3 = e4legant4.color(255, 255, 255)
+																			E44legant.TextSize = 11
+																			E44legant.TextStrokeTransparency = 0
+																			E44legant.TextWrapped = true
+																			E44legant.ZIndex = 11
+																			Ele44gant.CornerRadius = UDim.new(0, 2)
+																			Ele44gant.Name = "ButtonCorner"
+																			Ele44gant.Parent = E44legant
+																			local Eleg44ant = e4legant4.new(e4legant4.v83[60], E44legant)
+																			Eleg44ant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			Eleg44ant[e4legant4.v83[46]] = "ButtonStroke"
+																			Eleg44ant.Color = e4legant4.color(37, 37, 37)
+																			Eleg44ant.ZIndex = e4legant4.v83[195]
+																			local El4egant = {
+																				OnClick = function()
+																					local eLe7GaNt = tweenService:Create(E44legant, TweenInfo.new(0), {
+																						BackgroundColor3 = e4legant4.color(36, 36, 36)
+																					})
+																					local eLe77GaNt = tweenService:Create(Eleg44ant, TweenInfo.new(e4legant4.v83[118]), {
+																						Color = e4legant4.color(45, 43, 46)
+																					})
+																					eLe7GaNt:Play()
+																					eLe77GaNt:Play()
+																				end,
+																				OnHover = function()
+																					local eLe7GaNt = tweenService:Create(E44legant, TweenInfo.new(0), {
+																						BackgroundColor3 = e4legant4.color(28, 28, 28)
+																					})
+																					local eLe77GaNt = tweenService:Create(Eleg44ant, TweenInfo.new(0), {
+																						Color = e4legant4.color(e4legant4.v83[161], 36, 36)
+																					})
+																					eLe7GaNt:Play()
+																					eLe77GaNt:Play()
+																				end,
+																				OnMouseLeave = function()
+																					local eLe7GaNt = tweenService:Create(E44legant, TweenInfo.new(0), {
+																						BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, 21)
+																					})
+																					local eLe77GaNt = tweenService:Create(Eleg44ant, TweenInfo.new(0), {
+																						Color = e4legant4.color(40, e4legant4.v83[26], e4legant4.v83[26])
+																					})
+																					eLe7GaNt:Play()
+																					eLe77GaNt:Play()
+																				end,
+																			}
+																			local _7ELEGANT = {
+																				TextColor3 = theme.accent
+																			}
+																			local eLe7GaNt = tweenService:Create(E44legant, TweenInfo.new(0.2), _7ELEGANT)
+																			local eLe77GaNt = tweenService:Create(E44legant, TweenInfo.new(0.2), {
+																				TextColor3 = e4legant4.color(255, 255, 255)
+																			})
+																			theme_event.Event:Connect(function()
+																				local E47LEGANT = {
+																					TextColor3 = theme.accent
+																				}
+																				eLe7GaNt = tweenService:Create(E44legant, TweenInfo.new(0.2), E47LEGANT)
+																			end)
+																			E44legant.MouseButton1Click:Connect(function()
+																				El4egant.OnClick()
+																				pcall(E774legant.callback)
+																				eLe7GaNt:Play()
+																				e4legant4.wait_(0.1)
+																				El4egant.OnHover()
+																				e4legant4.wait_(0.15)
+																				eLe77GaNt:Play()
+																			end)
+																			E44legant.MouseEnter:Connect(El4egant.OnHover)
+																			E44legant.MouseLeave:Connect(El4egant.OnMouseLeave)
+																			return E774legant
+																		end
+																		E447legant.Toggle = function(E447LEGANT, E774LEGANT)
+																			local E774legant = {
+																				title = E774LEGANT.title or "toggle",
+																				default = E774LEGANT.default or e4legant4.v83[9],
+																				state = false,
+																				callback = E774LEGANT.callback or function()
+																				end,
+																			}
+																			E774legant.Flag = el47egant:GetNextFlag()
+																			local E44legant = e4legant4.new("TextButton")
+																			local Ele44gant = e4legant4.new(e4legant4.v83[71])
+																			local Eleg44ant = e4legant4.new(e4legant4.v83[154])
+																			local Elega7nt = e4legant4.new(e4legant4.v83[60])
+																			local El77egant = e4legant4.new("TextLabel")
+																			E774legant.Colorpicker = function(EL4EGANT, eLe44GaNt)
+																				return E447legant:Colorpicker(eLe44GaNt, E44legant)
+																			end
+																			E44legant.Name = e4legant4.v83[33]
+																			E44legant.Parent = El47egant
+																			E44legant.BorderSizePixel = 0
+																			E44legant.TextTransparency = 1
+																			E44legant.TextSize = e4legant4.v83[1]
+																			E44legant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																			E44legant.BackgroundColor3 = e4legant4.color(23, 23, 23)
+																			E44legant.FontFace = e4legant4.font
+																			E44legant.Size = e4legant4.udim2(1, e4legant4.v83[118], 0, 15)
+																			E44legant.BackgroundTransparency = 1
+																			E44legant.BorderColor3 = e4legant4.color(e4legant4.v83[118], e4legant4.v83[118], e4legant4.v83[118])
+																			E44legant.Text = ""
+																			E44legant.ZIndex = 11
+																			Ele44gant.Name = "ToggleStatus"
+																			Ele44gant.Parent = E44legant
+																			Ele44gant.BorderSizePixel = 0
+																			Ele44gant.BackgroundColor3 = e4legant4.color(20, e4legant4.v83[172], e4legant4.v83[103])
+																			Ele44gant.Size = e4legant4.udim2(0, e4legant4.v83[1], 0, 12)
+																			Ele44gant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																			Ele44gant.Position = e4legant4.udim2(0, 0, 0.077, 0)
+																			Ele44gant.ZIndex = 11
+																			Eleg44ant.Name = "ToggleStatusCorner"
+																			Eleg44ant.CornerRadius = UDim.new(0, 3)
+																			Eleg44ant.Parent = Ele44gant
+																			Elega7nt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			Elega7nt.Name = "ToggleUIStroke"
+																			Elega7nt.Color = e4legant4.color(e4legant4.v83[137], 37, 37)
+																			Elega7nt.Parent = Ele44gant
+																			Elega7nt.ZIndex = 11
+																			El77egant.Name = "ToggleName"
+																			El77egant.Parent = E44legant
+																			El77egant.TextStrokeTransparency = 1
+																			El77egant.BorderSizePixel = 0
+																			El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																			El77egant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], e4legant4.v83[150])
+																			El77egant.TextSize = 11
+																			El77egant.FontFace = e4legant4.font
+																			El77egant.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																			El77egant.BackgroundTransparency = 1
+																			El77egant.Size = e4legant4.udim2(e4legant4.v83[85], - 30, 0, 13)
+																			El77egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			El77egant.Text = E774legant.title
+																			El77egant.Position = e4legant4.udim2(0, 17, 0, 0)
+																			El77egant.ZIndex = 11
+																			local eLe7GaNt = tweenService:Create(Ele44gant, TweenInfo.new(0.2), {
+																				BackgroundColor3 = e4legant4.color(168, e4legant4.v83[73], 159)
+																			})
+																			local eLe77GaNt = tweenService:Create(El77egant, TweenInfo.new(0.2), {
+																				TextColor3 = e4legant4.color(255, 255, 255)
+																			})
+																			local eLe47GaNt = tweenService:Create(Ele44gant, TweenInfo.new(e4legant4.v83[74]), {
+																				BackgroundColor3 = e4legant4.color(e4legant4.v83[172], 20, 17)
+																			})
+																			local eLe74GaNt = tweenService:Create(El77egant, TweenInfo.new(0.2), {
+																				TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																			})
+																			theme_event.Event:Connect(function()
+																				local El4egant = {
+																					BackgroundColor3 = theme.accent
+																				}
+																				eLe7GaNt = tweenService:Create(Ele44gant, TweenInfo.new(0.2), El4egant)
+																				if E774legant.state then
+																					Ele44gant.BackgroundColor3 = theme.accent
+																				end
+																			end)
+																			local function eLe4GaNt()
+																				eLe7GaNt:Play()
+																				eLe77GaNt:Play()
+																			end
+																			local function eLe447GaNt()
+																				eLe47GaNt:Play()
+																				eLe74GaNt:Play()
+																			end
+																			E774legant.Set = function(EL4EGANT, _44eLeGaNt)
+																				E774legant.state = _44eLeGaNt
+																				pcall(E774legant.callback, E774legant.state)
+																				el47egant.Flags[E774legant.Flag] = E774legant.state
+																				if E774legant.state == true then
+																					eLe4GaNt()
+																				else
+																					eLe447GaNt()
+																				end
+																			end
+																			E44legant.MouseButton1Click:Connect(function()
+																				E774legant.state = not E774legant.state
+																				E774legant:Set(E774legant.state)
+																			end)
+																			E774legant:Set(E774legant.default)
+																			el47egant.ConfigFlags[E774legant.Flag] = function(EL4EGANT)
+																				E774legant:Set(EL4EGANT)
+																			end
+																			return E774legant
+																		end
+																		E447legant.Colorpicker = function(E447LEGANT, E774LEGANT, EL4EGANT)
+																			if EL4EGANT == nil and E447LEGANT.ParentToggle then
+																				E447LEGANT.ParentToggle:Colorpicker(E774LEGANT)
+																				return E447LEGANT
+																			end
+																			local E774legant = {
+																				Title = E774LEGANT.title or e4legant4.v83[138]
+																			}
+																			E774legant.Default = E774LEGANT.default or e4legant4.color(255, e4legant4.v83[150], 255)
+																			E774legant.Transparency = E774LEGANT.transparency or e4legant4.v83[118]
+																			E774legant.Callback = E774LEGANT.callback or function()
+																			end
+-- elegant x4 x7
+																			E774legant.Flag = el47egant:GetNextFlag()
+																			local El4egant = {
+																				TransparencyValue = 0,
+																				ColorValue = nil,
+																				HuePosition = 0,
+																				SlidingSat = false,
+																				SlidingHue = false,
+																				SlidingAlpha = false,
+																			}
+																			local El74egant = e4legant4.new("Frame")
+																			local El77egant = e4legant4.new("TextLabel")
+																			local E44legant = e4legant4.new("TextButton")
+																			local El447egant = e4legant4.new("Frame")
+																			local El774egant = e4legant4.new("Frame")
+																			local ELEG44ANT = e4legant4.new("UICorner")
+																			local Ele77gant = e4legant4.new("Frame")
+																			local Ele44gant = e4legant4.new(e4legant4.v83[71])
+																			local Eleg44ant = e4legant4.new(e4legant4.v83[71])
+																			local Ele4gant = e4legant4.new("UIGradient")
+																			local Elega7nt = e4legant4.new(e4legant4.v83[48])
+																			local Ele7gant = e4legant4.new("TextButton")
+																			local Eleg4ant = e4legant4.new("Frame")
+																			local Ele47gant = e4legant4.new("ImageLabel")
+																			local Ele74gant = e4legant4.new("ImageLabel")
+																			local Ele447gant = e4legant4.new("TextButton")
+																			local Ele774gant = e4legant4.new("ImageLabel")
+																			local ELEG4ANT = e4legant4.new("Frame")
+																			local eLe774GaNt = e4legant4.new("UIGradient")
+																			local Eleg7ant = e4legant4.new("ImageLabel")
+																			local Eleg77ant = e4legant4.new("TextButton")
+																			El74egant.Name = "ColorpickerHolder"
+																			El74egant.Parent = EL4EGANT == nil and El47egant or EL4EGANT
+																			if EL4EGANT then
+																				local Eleg74ant = EL4EGANT:FindFirstChild(e4legant4.v83[168])
+																				Eleg74ant = Eleg74ant and Eleg74ant.Position.X.Scale * e4legant4.v83[164] + Eleg74ant.Position.X.Offset - 18 or e4legant4.v83[159]
+																				local ELE4GANT = 0
+																				for e4l4g4n777, Eleg447ant in ipairs(EL4EGANT:GetChildren()) do
+																					if Eleg447ant.Name == "ColorpickerHolder" then
+																						ELE4GANT += e4legant4.v83[85]
+																					end
+																				end
+																				El74egant.Position = e4legant4.udim2(0, - 18 * (ELE4GANT - 1), 0, 0)
+																			end
+																			El74egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			El74egant.BackgroundTransparency = 1
+																			El74egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			El74egant.BorderSizePixel = 0
+																			El74egant.Size = e4legant4.udim2(e4legant4.v83[85], 0, e4legant4.v83[118], 13)
+																			El74egant.ZIndex = 11
+																			if EL4EGANT == nil then
+																				El77egant.Name = e4legant4.v83[116]
+																				El77egant.Parent = El74egant
+																				El77egant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																				El77egant.BackgroundTransparency = 1
+																				El77egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																				El77egant.BorderSizePixel = 0
+																				El77egant.Size = e4legant4.udim2(e4legant4.v83[85], - e4legant4.v83[142], 0, 13)
+																				El77egant.FontFace = e4legant4.font
+																				El77egant.Text = E774legant.Title
+																				El77egant.TextColor3 = e4legant4.color(255, 255, 255)
+																				El77egant.TextSize = 11
+																				El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																				El77egant.ZIndex = 11
+																			end
+																			E44legant.Name = "ColorpickerButton"
+																			E44legant.Parent = El74egant
+																			E44legant.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																			E44legant.BackgroundTransparency = 1
+																			E44legant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																			E44legant.BorderSizePixel = 0
+																			E44legant.Position = e4legant4.udim2(1, - 13, e4legant4.v83[118], e4legant4.v83[118])
+																			E44legant.Size = e4legant4.udim2(e4legant4.v83[118], 13, 0, 13)
+																			E44legant.FontFace = e4legant4.font
+																			E44legant.Text = ""
+																			E44legant.TextColor3 = e4legant4.color(0, 0, 0)
+																			E44legant.TextSize = 12
+																			E44legant.ZIndex = 11
+																			local Elega77nt = e4legant4.new(e4legant4.v83[48])
+																			Elega77nt.Name = "ColorpickerStatusAlphaBG"
+																			Elega77nt.Parent = El74egant
+																			Elega77nt.BackgroundTransparency = 1
+																			Elega77nt.BorderSizePixel = 0
+																			Elega77nt.Position = e4legant4.udim2(1, - e4legant4.v83[142], 0, e4legant4.v83[118])
+																			Elega77nt.Size = e4legant4.udim2(e4legant4.v83[118], 13, e4legant4.v83[118], 13)
+																			Elega77nt.Image = "rbxassetid://101382427624863"
+																			Elega77nt.ScaleType = Enum.ScaleType.Tile
+																			Elega77nt.TileSize = e4legant4.udim2(0, e4legant4.v83[96], 0, 6)
+																			Elega77nt.ZIndex = 11
+																			local eL74eGaNt = e4legant4.new("UICorner")
+																			eL74eGaNt.CornerRadius = UDim.new(0, e4legant4.v83[109])
+																			eL74eGaNt.Name = "ColorpickerStatusAlphaCorner"
+																			eL74eGaNt.Parent = Elega77nt
+																			El447egant.Name = e4legant4.v83[63]
+																			El447egant.Parent = El74egant
+																			El447egant.BackgroundColor3 = e4legant4.color(170, 170, 255)
+																			El447egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			El447egant.BorderSizePixel = 0
+																			El447egant.Position = e4legant4.udim2(1, - 13, 0, 0)
+																			El447egant.Size = e4legant4.udim2(e4legant4.v83[118], 13, e4legant4.v83[118], e4legant4.v83[142])
+																			El447egant.ZIndex = 11
+																			El774egant.Name = "ColorpickerInline"
+																			El774egant.Parent = El74egant
+																			El774egant.BackgroundColor3 = e4legant4.color(170, 170, e4legant4.v83[150])
+																			El774egant.BackgroundTransparency = e4legant4.v83[85]
+																			El774egant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																			El774egant.BorderSizePixel = 0
+																			El774egant.Position = e4legant4.udim2(1, - e4legant4.v83[142], 0, 0)
+																			El774egant.Size = e4legant4.udim2(0, 13, 0, 13)
+																			El774egant.Visible = false
+																			El774egant.ZIndex = 13
+																			ELEG44ANT.CornerRadius = UDim.new(0, 2)
+																			ELEG44ANT.Name = "CPInlineCorner"
+																			ELEG44ANT.Parent = El774egant
+																			local Elega47nt = e4legant4.new(e4legant4.v83[154])
+																			Elega47nt.CornerRadius = UDim.new(0, 4)
+-- elegantified :: 4747
+																			Elega47nt.Name = "ColorpickerStatusCorner"
+																			Elega47nt.Parent = El447egant
+																			Ele77gant.Name = "ColorpickerContent"
+																			Ele77gant.Parent = El774egant
+																			Ele77gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[12], 23, 23)
+																			Ele77gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Ele77gant.Position = e4legant4.udim2(1, 4, 0, 0)
+																			Ele77gant.Size = e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[152], 0, 159)
+																			Ele77gant.ZIndex = 13
+																			Ele44gant.Name = "Accent"
+																			Ele44gant.Parent = Ele77gant
+																			Ele44gant.BackgroundColor3 = e4legant4.color(168, 157, e4legant4.v83[186])
+																			Ele44gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Ele44gant.Size = e4legant4.udim2(1, e4legant4.v83[118], e4legant4.v83[118], 1)
+																			Ele44gant.ZIndex = 13
+																			Eleg44ant.Name = "HueBackground"
+																			Eleg44ant.Parent = Ele77gant
+																			Eleg44ant.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																			Eleg44ant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Eleg44ant.BorderSizePixel = e4legant4.v83[118]
+																			Eleg44ant.Position = e4legant4.udim2(0.879000008, 0, 0, 29)
+																			Eleg44ant.Size = e4legant4.udim2(e4legant4.v83[118], e4legant4.v83[97], e4legant4.v83[118], e4legant4.v83[107])
+																			Eleg44ant.ZIndex = e4legant4.v83[142]
+																			local Elega44nt = ColorSequence.new
+																			local _7ELEGANT = {}
+																			local Elega74nt = ColorSequenceKeypoint.new(0, e4legant4.color(e4legant4.v83[150], 0, e4legant4.v83[118]))
+																			local Elega447nt = ColorSequenceKeypoint.new(0.17, e4legant4.color(255, 0, 255))
+																			local Elega774nt = ColorSequenceKeypoint.new(0.33, e4legant4.color(0, 0, 255))
+																			local Elegan7t = ColorSequenceKeypoint.new(0.5, e4legant4.color(0, 255, 255))
+																			local Elegan77t = ColorSequenceKeypoint.new(0.67, e4legant4.color(e4legant4.v83[118], e4legant4.v83[150], 0))
+																			local Elegan447t = ColorSequenceKeypoint.new(0.83, e4legant4.color(255, 255, 0))
+																			local Elegan47t = ColorSequenceKeypoint.new
+																			local Elegant447 = e4legant4.v83[85]
+																			_7ELEGANT[1] = Elega74nt
+																			_7ELEGANT[2] = Elega447nt
+																			_7ELEGANT[3] = Elega774nt
+																			_7ELEGANT[4] = Elegan7t
+-- e4l3g4nt runz this
+																			_7ELEGANT[5] = Elegan77t
+																			_7ELEGANT[6] = Elegan447t
+																			do
+																				local Elegan4t = table.pack(Elegan47t(Elegant447, e4legant4.color(255, 0, 0)))
+																				table.move(Elegan4t, 1, Elegan4t.n, 7, _7ELEGANT)
+																			end
+																			Ele4gant.Color = Elega44nt(_7ELEGANT)
+																			Ele4gant.Rotation = 90
+																			Ele4gant.Name = "CPHueGradient"
+																			Ele4gant.Parent = Eleg44ant
+																			Elega7nt.Name = "HuePicker"
+																			Elega7nt.Parent = Eleg44ant
+																			Elega7nt.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], e4legant4.v83[150])
+																			Elega7nt.BackgroundTransparency = 1
+																			Elega7nt.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Elega7nt.BorderSizePixel = e4legant4.v83[118]
+																			Elega7nt.Position = e4legant4.udim2(0, - 4, 0, - e4legant4.v83[119])
+																			Elega7nt.Size = e4legant4.udim2(0, e4legant4.v83[103], 0, e4legant4.v83[81])
+																			Elega7nt.Image = "rbxassetid://13900818694"
+																			Elega7nt.ZIndex = e4legant4.v83[142]
+																			Ele7gant.Parent = Eleg44ant
+																			Ele7gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], 255)
+																			Ele7gant.BackgroundTransparency = 1
+																			Ele7gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Ele7gant.BorderSizePixel = 0
+																			Ele7gant.Size = e4legant4.udim2(e4legant4.v83[85], 0, 1, 0)
+																			Ele7gant.FontFace = e4legant4.font
+																			Ele7gant.Text = ""
+																			Ele7gant.TextColor3 = e4legant4.color(0, 0, 0)
+																			Ele7gant.TextSize = 12
+																			Ele7gant.ZIndex = 13
+-- e7l4g4nt < 47 >
+																			Eleg4ant.Name = e4legant4.v83[158]
+																			Eleg4ant.Parent = Ele77gant
+																			Eleg4ant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Eleg4ant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																			Eleg4ant.Position = e4legant4.udim2(0.0661764741, 0, 0, 29)
+																			Eleg4ant.Size = e4legant4.udim2(0, 102, e4legant4.v83[118], 106)
+																			Eleg4ant.ZIndex = 13
+																			Ele47gant.Name = e4legant4.v83[83]
+																			Ele47gant.Parent = Eleg4ant
+																			Ele47gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Ele47gant.BackgroundTransparency = e4legant4.v83[85]
+																			Ele47gant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																			Ele47gant.Size = e4legant4.udim2(1, 0, 1, 0)
+																			Ele47gant.Image = "rbxassetid://13901004307"
+																			Ele47gant.ZIndex = 13
+																			Ele74gant.Name = "SaturationPicker"
+																			Ele74gant.Parent = Eleg4ant
+																			Ele74gant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																			Ele74gant.BackgroundTransparency = 1
+																			Ele74gant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+																			Ele74gant.Position = e4legant4.udim2(0, - 1, 0, - 1)
+																			Ele74gant.Size = e4legant4.udim2(e4legant4.v83[118], 5, 0, 5)
+																			Ele74gant.Image = "rbxassetid://13900819741"
+																			Ele74gant.ZIndex = 13
+																			Ele447gant.Name = e4legant4.v83[52]
+																			Ele447gant.Parent = Eleg4ant
+																			Ele447gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Ele447gant.BackgroundTransparency = 1
+																			Ele447gant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			Ele447gant.BorderSizePixel = e4legant4.v83[118]
+																			Ele447gant.Size = e4legant4.udim2(1, e4legant4.v83[118], e4legant4.v83[85], 0)
+																			Ele447gant.FontFace = e4legant4.font
+																			Ele447gant.Text = ""
+																			Ele447gant.TextColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																			Ele447gant.TextSize = 12
+																			Ele447gant.ZIndex = 13
+																			Ele774gant.Name = "TransparencyAlphaBG"
+																			Ele774gant.Parent = Ele77gant
+																			Ele774gant.BackgroundTransparency = 1
+																			Ele774gant.BorderSizePixel = e4legant4.v83[118]
+																			Ele774gant.Position = e4legant4.udim2(e4legant4.v83[8], 0, e4legant4.v83[118], e4legant4.v83[169])
+																			Ele774gant.Size = e4legant4.udim2(0, 123, 0, 6)
+																			Ele774gant.Image = "rbxassetid://101382427624863"
+																			Ele774gant.ScaleType = Enum.ScaleType.Tile
+																			Ele774gant.TileSize = e4legant4.udim2(0, 6, 0, 6)
+																			Ele774gant.ZIndex = 13
+																			ELEG4ANT.Name = "TransparencyBackground"
+																			ELEG4ANT.Parent = Ele77gant
+																			ELEG4ANT.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			ELEG4ANT.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], e4legant4.v83[118])
+																			ELEG4ANT.BorderSizePixel = 0
+																			ELEG4ANT.Position = e4legant4.udim2(0.0441176482, 0, 0, 142)
+																			ELEG4ANT.Size = e4legant4.udim2(0, 123, 0, 6)
+																			ELEG4ANT.ZIndex = 13
+																			local Elegan44t = ColorSequence.new
+																			local E47LEGANT = {}
+-- e4l3g4nt :: 47
+																			local Elegant774 = ColorSequenceKeypoint.new(0, e4legant4.color(e4legant4.v83[150], 255, e4legant4.v83[150]))
+																			local _4ELEGANT = ColorSequenceKeypoint.new(0.57, e4legant4.color(e4legant4.v83[35], e4legant4.v83[35], 150))
+																			local Elegan74t = ColorSequenceKeypoint.new
+																			E47LEGANT[1] = Elegant774
+																			E47LEGANT[2] = _4ELEGANT
+																			do
+																				local Elegan4t = table.pack(Elegan74t(1, e4legant4.color(0, 0, 0)))
+																				table.move(Elegan4t, 1, Elegan4t.n, 3, E47LEGANT)
+																			end
+																			eLe774GaNt.Color = Elegan44t(E47LEGANT)
+																			local eLeG4aNt = NumberSequenceKeypoint.new
+																			eLe774GaNt.Transparency = NumberSequence.new({
+																				NumberSequenceKeypoint.new(0, 0),
+																				eLeG4aNt(1, 1)
+																			})
+																			eLe774GaNt.Name = "TransparencyGradient"
+																			eLe774GaNt.Parent = ELEG4ANT
+																			Eleg7ant.Name = "TransparencyPicker"
+																			Eleg7ant.Parent = ELEG4ANT
+																			Eleg7ant.BackgroundColor3 = e4legant4.color(255, e4legant4.v83[150], 255)
+																			Eleg7ant.BackgroundTransparency = 1
+																			Eleg7ant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			Eleg7ant.BorderSizePixel = 0
+																			Eleg7ant.Position = e4legant4.udim2(0, - 2, 0, - 2)
+																			Eleg7ant.Size = e4legant4.udim2(0, 5, e4legant4.v83[118], 17)
+																			Eleg7ant.Image = "rbxassetid://14248606745"
+																			Eleg7ant.ZIndex = 13
+																			Eleg77ant.Name = "TransparencyButton"
+																			Eleg77ant.Parent = ELEG4ANT
+																			Eleg77ant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Eleg77ant.BackgroundTransparency = 1
+																			Eleg77ant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																			Eleg77ant.BorderSizePixel = 0
+																			Eleg77ant.Size = e4legant4.udim2(1, 0, 1, e4legant4.v83[118])
+																			Eleg77ant.FontFace = e4legant4.font
+																			Eleg77ant.Text = ""
+																			Eleg77ant.TextColor3 = e4legant4.color(0, 0, 0)
+																			Eleg77ant.TextSize = 12
+																			Eleg77ant.ZIndex = e4legant4.v83[142]
+																			local _44ELEGANT = next
+																			local Elegan774t, EL44EGANT = Ele77gant:GetDescendants()
+																			for e4l4g4n777, EL7EGANT in _44ELEGANT, Elegan774t, EL44EGANT do
+																				if not EL7EGANT:IsA("UIGradient") then
+																					if EL7EGANT.ZIndex then
+																						EL7EGANT.ZIndex = 13
+																					end
+																				end
+																			end
+																			Ele77gant.Size = e4legant4.udim2(0, 136, 0, 139)
+																			Eleg44ant.Position = e4legant4.udim2(0.879000008, 0, 0.0680000037, 0)
+																			Eleg4ant.Position = e4legant4.udim2(0.0661764741, e4legant4.v83[118], 0.0676691756, 0)
+																			Ele774gant.Position = e4legant4.udim2(0.0441176482, 0, 0.880901992, 0)
+																			ELEG4ANT.Position = e4legant4.udim2(0.0441176482, 0, 0.880901992, 0)
+																			local EL7EGANT, EL47EGANT, EL74EGANT = E774legant.Default:ToHSV()
+																			local eLeG44aNt
+																			eLeG44aNt = {
+																				Open = function(eLe44GaNt)
+																					Ele77gant.Visible = true
+																					El774egant.Visible = e4legant4.v83[91]
+																					tweenService:Create(Ele77gant, TweenInfo.new(e4legant4.v83[58]), {
+																						BackgroundTransparency = e4legant4.v83[118],
+																						Position = e4legant4.udim2(1, e4legant4.v83[109], e4legant4.v83[118], 0)
+																					}):Play()
+																					eLe44GaNt:FadeIn()
+																				end,
+																				FadeIn = function()
+																					for e4l4g4n777, E77LEGANT in pairs(Ele77gant:GetDescendants()) do
+																						if E77LEGANT:IsA("Frame") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), {
+																								BackgroundTransparency = 0
+																							}):Play()
+																						elseif E77LEGANT:IsA("ImageLabel") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), {
+																								ImageTransparency = 0
+																							}):Play()
+-- e4l3g4nt_was_here
+																						end
+																					end
+																				end,
+																				FadeOut = function()
+																					for e4l4g4n777, E77LEGANT in pairs(Ele77gant:GetDescendants()) do
+																						if E77LEGANT:IsA(e4legant4.v83[71]) then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								BackgroundTransparency = 1
+																							}):Play()
+																						elseif E77LEGANT:IsA("ImageLabel") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								ImageTransparency = 1
+																							}):Play()
+																						end
+																					end
+																				end,
+																				Close = function()
+																					tweenService:Create(Ele77gant, TweenInfo.new(0.15), {
+																						BackgroundTransparency = 1,
+																						Position = e4legant4.udim2(1, e4legant4.v83[109], 0, 0)
+																					}):Play()
+																					eLeG44aNt:FadeOut()
+																					e4legant4.wait_(e4legant4.v83[58])
+																					Ele77gant.Visible = false
+																					El774egant.Visible = false
+																				end,
+																			}
+																			local function eLe4GaNt(eLe44GaNt, eLeG7aNt, eLeG77aNt)
+																				return (e4legant4.color(eLe44GaNt, eLeG7aNt, eLeG77aNt))
+																			end
+																			E774legant.Set = function(eLe44GaNt, eLeG7aNt, eLeG77aNt, eLeG47aNt)
+																				if not E774legant.Transparency then
+																					El4egant.TransparencyValue = e4legant4.v83[85]
+																				end
+																				eLeG77aNt = eLeG77aNt or El4egant.TransparencyValue
+																				local EL447EGANT, eLeG74aNt
+																				if typeof(eLeG7aNt) == "table" then
+																					local EL77EGANT = Color3.fromHex(eLeG7aNt[e4legant4.v83[85]])
+																					if eLeG7aNt[2] == nil then
+																						EL447EGANT = EL77EGANT
+																						eLeG74aNt = eLeG77aNt
+																					else
+																						EL447EGANT = EL77EGANT
+																						eLeG74aNt = eLeG7aNt[2]
+																					end
+																				else
+																					EL447EGANT = eLeG7aNt
+																					eLeG74aNt = eLeG77aNt
+																				end
+																				local eLeG447aNt, eLeG774aNt, eLeGa4Nt = EL447EGANT:ToHSV()
+																				EL7EGANT = eLeG447aNt
+																				EL47EGANT = eLeG774aNt
+																				EL74EGANT = eLeGa4Nt
+																				El4egant.ColorValue = EL447EGANT
+																				El4egant.TransparencyValue = eLeG74aNt
+																				Eleg4ant.BackgroundColor3 = Color3.fromHSV(El4egant.HuePosition, 1, 1)
+																				El447egant.BackgroundColor3 = EL447EGANT
+																				El447egant.BackgroundTransparency = 1 - eLeG74aNt
+																				if not eLeG47aNt then
+																					if e4legant4.n26(e4legant4.v83[28]) < 8107 then
+																						local EL774EGANT = math.clamp
+																						local Eleg74ant = Eleg4ant.AbsoluteSize.Y - EL74EGANT * Eleg4ant.AbsoluteSize.Y
+																						local ELE4GANT = Eleg4ant.AbsoluteSize.Y - 3
+																						Ele74gant.Position = e4legant4.udim2(0, math.clamp(EL47EGANT * Eleg4ant.AbsoluteSize.X, 0, Eleg4ant.AbsoluteSize.X - 3), 0, EL774EGANT(Eleg74ant, 0, ELE4GANT))
+																						El4egant.HuePosition = EL7EGANT
+																						Elega7nt.Position = e4legant4.udim2(0, - e4legant4.v83[119], e4legant4.v83[85] - EL7EGANT, - 2)
+																					else
+																						while true do
+																						end
+																					end
+																				end
+																				pcall(E774legant.Callback, eLe4GaNt(EL447EGANT.R * e4legant4.v83[150], EL447EGANT.G * 255, EL447EGANT.B * 255), eLeG74aNt)
+																				el47egant.Flags[E774legant.Flag] = {
+																					eLe4GaNt(EL447EGANT.R * 255, EL447EGANT.G * 255, EL447EGANT.B * 255):ToHex(),
+																					eLeG74aNt
+																				}
+																			end
+																			E774legant:Set(E774legant.Default, E774legant.Transparency)
+																			local function eLe447GaNt(eLe44GaNt)
+																				local Eleg74ant = math.clamp((eLe44GaNt.Position.X - Eleg4ant.AbsolutePosition.X) / Eleg4ant.AbsoluteSize.X, e4legant4.v83[118], 1)
+																				local ELE4GANT = 1 - math.clamp((eLe44GaNt.Position.Y - Eleg4ant.AbsolutePosition.Y) / Eleg4ant.AbsoluteSize.Y, 0, 1)
+																				local ELE7GANT = math.clamp((eLe44GaNt.Position.Y - Eleg4ant.AbsolutePosition.Y) / Eleg4ant.AbsoluteSize.Y * Eleg4ant.AbsoluteSize.Y, 0, Eleg4ant.AbsoluteSize.Y - 3)
+																				Ele74gant.Position = e4legant4.udim2(0, math.clamp((eLe44GaNt.Position.X - Eleg4ant.AbsolutePosition.X) / Eleg4ant.AbsoluteSize.X * Eleg4ant.AbsoluteSize.X, 0, Eleg4ant.AbsoluteSize.X - e4legant4.v83[53]), 0, ELE7GANT)
+																				local ELE77GANT = El4egant.TransparencyValue
+																				E774legant:Set(Color3.fromHSV(El4egant.HuePosition, Eleg74ant, ELE4GANT), ELE77GANT, true)
+																			end
+																			Ele447gant.MouseButton1Down:Connect(function()
+																				El4egant.SlidingSat = true
+																				eLe447GaNt({
+																					Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, 36)
+																				})
+																			end)
+																			local function eLeGa44Nt(eLe44GaNt)
+																				local ELE74GANT = 1 - math.clamp((eLe44GaNt.Position.Y - Eleg44ant.AbsolutePosition.Y) / Eleg44ant.AbsoluteSize.Y, 0, e4legant4.v83[85])
+																				Elega7nt.Position = e4legant4.udim2(0, - 2, 0, math.clamp((eLe44GaNt.Position.Y - Eleg44ant.AbsolutePosition.Y) / Eleg44ant.AbsoluteSize.Y * Eleg44ant.AbsoluteSize.Y, 0, Eleg44ant.AbsoluteSize.Y - 2) - 2)
+																				El4egant.HuePosition = ELE74GANT
+																				E774legant:Set(Color3.fromHSV(ELE74GANT, EL47EGANT, EL74EGANT), El4egant.TransparencyValue, true)
+																			end
+																			Ele7gant.MouseButton1Down:Connect(function()
+																				El4egant.SlidingHue = e4legant4.v83[91]
+																				eLeGa44Nt({
+																					Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, 36)
+																				})
+																				if not e4l44gant7 then
+																					return
+																				end
+																			end)
+																			local function eLeGa7Nt(eLe44GaNt)
+																				local Eleg74ant = 1 - math.clamp((eLe44GaNt.Position.X - ELEG4ANT.AbsolutePosition.X) / ELEG4ANT.AbsoluteSize.X, e4legant4.v83[118], e4legant4.v83[85])
+																				Eleg7ant.Position = e4legant4.udim2(e4legant4.v83[118], math.clamp((eLe44GaNt.Position.X - ELEG4ANT.AbsolutePosition.X) / ELEG4ANT.AbsoluteSize.X * ELEG4ANT.AbsoluteSize.X, 0, ELEG4ANT.AbsoluteSize.X - 3), 0, - 2)
+																				E774legant:Set(Color3.fromHSV(El4egant.HuePosition, EL47EGANT, EL74EGANT), Eleg74ant, true)
+																			end
+																			Eleg77ant.MouseButton1Down:Connect(function()
+																				El4egant.SlidingAlpha = true
+																				eLeGa7Nt({
+																					Position = game.UserInputService:GetMouseLocation() - e4legant4.vector2(0, e4legant4.v83[161])
+-- 4l3g4nt owns this 4477
+																				})
+																			end)
+																			inputService.InputEnded:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																					local EL447EGANT = El4egant
+																					local eLeG74aNt = El4egant
+																					El4egant.SlidingSat = false
+																					EL447EGANT.SlidingHue = false
+																					eLeG74aNt.SlidingAlpha = false
+																				end
+																			end)
+																			inputService.InputChanged:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseMovement then
+																					if El4egant.SlidingSat then
+																						eLe447GaNt(ELE774GANT)
+																					elseif El4egant.SlidingHue then
+																						eLeGa44Nt(ELE774GANT)
+																					elseif El4egant.SlidingAlpha then
+																						eLeGa7Nt(ELE774GANT)
+																					end
+																				end
+																			end)
+																			E44legant.MouseButton1Click:Connect(function()
+																				if El774egant.Visible then
+																					eLeG44aNt:Close()
+																				else
+																					eLeG44aNt:Open()
+																				end
+																			end)
+																			local EL447EGANT = e4legant4.new(e4legant4.v83[71])
+																			local eLeGa77Nt = e4legant4.new("UICorner")
+																			local eLeG74aNt = e4legant4.new(e4legant4.v83[60])
+																			local ELEGA4NT = e4legant4.new("UIListLayout")
+																			local ELEG77ANT = e4legant4.new("TextButton")
+																			local ELEG47ANT = e4legant4.new("TextButton")
+																			EL447EGANT.Name = "CPContextMenu"
+																			EL447EGANT.Parent = El74egant
+																			EL447EGANT.BackgroundColor3 = e4legant4.color(15, e4legant4.v83[49], 15)
+																			EL447EGANT.BorderColor3 = e4legant4.color(0, 0, 0)
+																			EL447EGANT.BorderSizePixel = 0
+																			EL447EGANT.Position = e4legant4.udim2(1, - 68, e4legant4.v83[118], 15)
+																			EL447EGANT.Size = e4legant4.udim2(0, e4legant4.v83[79], 0, 28)
+																			EL447EGANT.Visible = false
+																			EL447EGANT.ClipsDescendants = false
+																			EL447EGANT.ZIndex = e4legant4.v83[133]
+																			eLeGa77Nt.Name = "CPContextCorner"
+																			eLeGa77Nt.Parent = EL447EGANT
+																			eLeGa77Nt.CornerRadius = UDim.new(0, 3)
+																			eLeG74aNt.Name = "CPContextStroke"
+																			eLeG74aNt.Parent = EL447EGANT
+																			eLeG74aNt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			eLeG74aNt.Color = e4legant4.color(37, 37, 37)
+																			ELEGA4NT.Name = "CPContextList"
+																			ELEGA4NT.Parent = EL447EGANT
+																			ELEGA4NT.SortOrder = Enum.SortOrder.LayoutOrder
+																			ELEG77ANT.Name = "CopyButton"
+																			ELEG77ANT.Parent = EL447EGANT
+																			ELEG77ANT.BackgroundColor3 = e4legant4.color(15, 15, 15)
+																			ELEG77ANT.BorderColor3 = e4legant4.color(34, 34, 34)
+																			ELEG77ANT.BorderSizePixel = 0
+																			ELEG77ANT.Size = e4legant4.udim2(1, 0, e4legant4.v83[118], e4legant4.v83[133])
+																			ELEG77ANT.ZIndex = 14
+																			ELEG77ANT.FontFace = e4legant4.font
+																			ELEG77ANT.Text = "copy"
+																			ELEG77ANT.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																			ELEG77ANT.TextSize = 12
+																			ELEG77ANT.LayoutOrder = 1
+																			ELEG47ANT.Name = e4legant4.v83[199]
+																			ELEG47ANT.Parent = EL447EGANT
+																			ELEG47ANT.BackgroundColor3 = e4legant4.color(e4legant4.v83[49], e4legant4.v83[49], 15)
+																			ELEG47ANT.BorderColor3 = e4legant4.color(e4legant4.v83[178], 34, e4legant4.v83[178])
+-- 4legant 4 the win 474
+																			ELEG47ANT.BorderSizePixel = 0
+																			ELEG47ANT.Size = e4legant4.udim2(e4legant4.v83[85], e4legant4.v83[118], e4legant4.v83[118], 14)
+																			ELEG47ANT.ZIndex = 14
+-- elegantified :: 4747
+																			ELEG47ANT.FontFace = e4legant4.font
+																			ELEG47ANT.Text = "paste"
+																			ELEG47ANT.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																			ELEG47ANT.TextSize = 12
+																			ELEG47ANT.LayoutOrder = 2
+																			local function eLeGa47Nt()
+-- e4l3g4nt_was_here
+																				EL447EGANT.Visible = e4legant4.v83[9]
+																			end
+																			ELEG77ANT.MouseButton1Click:Connect(function()
+																				el47egant.ClipboardColor = El4egant.ColorValue
+																				eLeGa47Nt()
+																			end)
+																			ELEG47ANT.MouseButton1Click:Connect(function()
+																				if el47egant.ClipboardColor then
+																					E774legant:Set(el47egant.ClipboardColor)
+																				end
+																				eLeGa47Nt()
+																			end)
+																			E44legant.InputBegan:Connect(function(ELE774GANT)
+																				if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton2 then
+																					if EL447EGANT.Visible then
+																						eLeGa47Nt()
+																					else
+																						EL447EGANT.Visible = true
+-- e4l3g4nt_was_here
+																					end
+																				end
+																			end)
+																			el47egant.ConfigFlags[E774legant.Flag] = function(eLe44GaNt)
+																				E774legant:Set(eLe44GaNt)
+																			end
+																			return E774legant
+																		end
+																		E447legant.Dropdown = function(E447LEGANT, E774LEGANT)
+																			local E774legant = {
+																				Title = E774LEGANT.title or "",
+																				Content = E774LEGANT.values or {},
+																				Default = E774LEGANT.default or "-",
+																				Multi = E774LEGANT.multi or e4legant4.v83[9],
+																				Callback = E774LEGANT.callback or function()
+																				end,
+																			}
+																			E774legant.Flag = el47egant:GetNextFlag()
+																			local El4egant = {
+																				FValues = {},
+																				FValue = E774legant.Multi and {} or ""
+																			}
+																			local El74egant = e4legant4.new("Frame")
+																			local El77egant = e4legant4.new("TextLabel")
+																			El74egant.Name = tostring(math.random(e4legant4.v83[130], 16030))
+																			El74egant.Parent = El47egant
+																			El74egant.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[12], e4legant4.v83[12])
+																			El74egant.BackgroundTransparency = 1
+																			El74egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			El74egant.BorderSizePixel = 0
+																			El74egant.Size = e4legant4.udim2(1, 0, 0, 40)
+-- 4l3g4nt wuz here 74
+																			El74egant.ZIndex = 11
+																			El77egant.Name = "DropdownTitle"
+																			El77egant.Parent = El74egant
+																			El77egant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			El77egant.BackgroundTransparency = 1
+																			El77egant.BorderColor3 = e4legant4.color(0, 0, 0)
+																			El77egant.BorderSizePixel = 0
+																			El77egant.Size = e4legant4.udim2(1, 0, 0, 13)
+																			El77egant.FontFace = e4legant4.font
+																			El77egant.Text = E774legant.Title
+																			El77egant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																			El77egant.TextSize = 11
+																			El77egant.TextXAlignment = Enum.TextXAlignment.Left
+																			El77egant.ZIndex = 11
+																			local ELEGA4NT = e4legant4.new("UIListLayout", El74egant)
+																			ELEGA4NT[e4legant4.v83[54]] = UDim.new(0, e4legant4.v83[109])
+																			ELEGA4NT.SortOrder = Enum.SortOrder.LayoutOrder
+																			ELEGA4NT.Name = "ColumnListLayout"
+																			local E44legant = e4legant4.new("TextButton")
+																			local ELEG44ANT = e4legant4.new("UICorner")
+																			local ELEGA7NT = e4legant4.new("UIStroke")
+																			local Ele47gant = e4legant4.new("ImageLabel")
+																			local Ele44gant = e4legant4.new(e4legant4.v83[135])
+																			E44legant.Name = "OpenButton"
+																			E44legant.Parent = El74egant
+																			E44legant.ZIndex = e4legant4.v83[1]
+																			E44legant.Size = e4legant4.udim2(e4legant4.v83[85], 0, e4legant4.v83[118], 20)
+																			E44legant.BorderColor3 = e4legant4.color(34, 34, 34)
+																			E44legant.BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], e4legant4.v83[167])
+																			E44legant.AutoButtonColor = false
+																			E44legant.TextColor3 = e4legant4.color(255, 255, 255)
+																			E44legant.Text = ""
+																			E44legant.TextXAlignment = Enum.TextXAlignment.Left
+																			E44legant.TextSize = 11
+																			E44legant.TextTruncate = Enum.TextTruncate.AtEnd
+																			E44legant.FontFace = e4legant4.font
+																			ELEG44ANT.Name = "OpenButtonCorner"
+																			ELEG44ANT.Parent = E44legant
+																			ELEG44ANT.CornerRadius = UDim.new(e4legant4.v83[118], 3)
+																			ELEGA7NT.Name = "OpenButtonStroke"
+																			ELEGA7NT.Parent = E44legant
+																			ELEGA7NT.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			ELEGA7NT.Color = e4legant4.color(37, 37, 37)
+																			Ele47gant.Name = "DropdownImage"
+																			Ele47gant.Parent = E44legant
+																			Ele47gant.ZIndex = 13
+																			Ele47gant.Size = e4legant4.udim2(0, 9, 0, 6)
+																			Ele47gant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			Ele47gant.BackgroundTransparency = e4legant4.v83[85]
+																			Ele47gant.Position = e4legant4.udim2(0.9, 0, 0.35, 0)
+																			Ele47gant.BorderSizePixel = 0
+																			Ele47gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Ele47gant.Image = "rbxassetid://17830630301"
+																			Ele44gant.Name = "DropdownText"
+																			Ele44gant.Parent = E44legant
+																			Ele44gant.ZIndex = 13
+																			Ele44gant.Size = e4legant4.udim2(0.85, 0, 1, 0)
+																			Ele44gant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			Ele44gant.BackgroundTransparency = 1
+																			Ele44gant.Position = e4legant4.udim2(0.04, 0, 0, 0)
+																			Ele44gant.BorderSizePixel = 0
+																			Ele44gant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+																			Ele44gant.TextColor3 = e4legant4.color(255, 255, 255)
+																			Ele44gant.Text = typeof(E774legant.Default) == "table" and "-" or E774legant.Default ~= "" and E774legant.Default or "-"
+																			Ele44gant.TextXAlignment = Enum.TextXAlignment.Left
+																			Ele44gant.TextSize = 11
+																			Ele44gant.FontFace = e4legant4.font
+																			Ele44gant.TextTruncate = "AtEnd"
+																			local El447egant = e4legant4.new("Frame")
+																			local eL74eGaNt = e4legant4.new("UICorner")
+																			local eL447eGaNt = e4legant4.new("UIStroke")
+																			local eLeGa74Nt = e4legant4.new("UIListLayout")
+																			El447egant.Name = "Inline"
+																			El447egant.Parent = E44legant
+																			El447egant.Size = e4legant4.udim2(1, 0, 0, 0)
+																			El447egant.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			El447egant.Position = e4legant4.udim2(0, 0, 1, 0)
+																			El447egant.BorderSizePixel = 0
+																			El447egant.BackgroundColor3 = e4legant4.color(15, 15, e4legant4.v83[49])
+																			El447egant.Visible = false
+																			El447egant.ZIndex = 14
+																			eL74eGaNt.Name = "InlineCorner"
+																			eL74eGaNt.Parent = El447egant
+																			eL74eGaNt.CornerRadius = UDim.new(0, 3)
+																			eL447eGaNt.Name = "InlineStroke"
+																			eL447eGaNt.Parent = El447egant
+																			eL447eGaNt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			eL447eGaNt.Color = e4legant4.color(37, 37, 37)
+																			eLeGa74Nt.Name = "InlineList"
+																			eLeGa74Nt.Parent = El447egant
+																			local _7ELEGANT
+																			_7ELEGANT = {
+																				Open = function(EL4EGANT)
+																					El447egant.Visible = true
+																					tweenService:Create(Ele47gant, TweenInfo.new(e4legant4.v83[58]), {
+																						Rotation = 180
+																					}):Play()
+																					tweenService:Create(El447egant, TweenInfo.new(0.15), {
+																						BackgroundTransparency = 0
+																					}):Play()
+																					EL4EGANT:FadeIn()
+																				end,
+																				FadeIn = function()
+																					for e4l4g4n777, E77LEGANT in pairs(El447egant:GetDescendants()) do
+																						if E77LEGANT:IsA("Frame") then
+																							local E47LEGANT = {
+																								BackgroundTransparency = e4legant4.v83[118]
+																							}
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																						elseif E77LEGANT:IsA("TextButton") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								TextTransparency = 0
+																							}):Play()
+																						elseif E77LEGANT:IsA(e4legant4.v83[60]) then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), {
+																								Transparency = 0
+																							}):Play()
+																						elseif E77LEGANT:IsA("TextLabel") then
+																							local E47LEGANT = {
+																								TextTransparency = e4legant4.v83[118]
+																							}
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), E47LEGANT):Play()
+																						end
+																					end
+																				end,
+																				FadeOut = function()
+																					for e4l4g4n777, E77LEGANT in pairs(El447egant:GetDescendants()) do
+																						if E77LEGANT:IsA("Frame") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								BackgroundTransparency = 1
+																							}):Play()
+-- e4l3g4nt :: 47
+																						elseif E77LEGANT:IsA("TextButton") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								TextTransparency = 1
+																							}):Play()
+																						elseif E77LEGANT:IsA("TextLabel") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(e4legant4.v83[58]), {
+																								TextTransparency = 1
+																							}):Play()
+																						elseif E77LEGANT:IsA("UIStroke") then
+																							tweenService:Create(E77LEGANT, TweenInfo.new(0.15), {
+																								Transparency = 1
+																							}):Play()
+																						end
+																					end
+																				end,
+																				Close = function()
+																					tweenService:Create(El447egant, TweenInfo.new(0.15), {
+																						BackgroundTransparency = 1
+																					}):Play()
+																					local E47LEGANT = {
+																						Rotation = e4legant4.v83[118]
+																					}
+																					tweenService:Create(Ele47gant, TweenInfo.new(0.15), E47LEGANT):Play()
+																					_7ELEGANT:FadeOut()
+																					e4legant4.wait_(e4legant4.v83[58])
+																					El447egant.Visible = false
+																				end,
+																			}
+																			local Eleg74ant = 0
+																			El4egant.CreateValue = function(EL4EGANT, ELEGA44NT)
+																				if not El4egant.FValues[ELEGA44NT] then
+																					local E47LEGANT = {}
+																					local Ele7gant = e4legant4.new("TextButton")
+																					local eL774eGaNt = e4legant4.new("UIStroke")
+																					local eLeGa77Nt = e4legant4.new("UICorner")
+																					local ELEG447ANT = e4legant4.new("TextLabel")
+																					Ele7gant.Name = "DropdownButton"
+																					Ele7gant.Parent = El447egant
+																					Ele7gant.Size = e4legant4.udim2(1, 0, 0, 18)
+																					Ele7gant.BorderColor3 = e4legant4.color(0, e4legant4.v83[118], 0)
+																					Ele7gant.BackgroundTransparency = 1
+																					Ele7gant.BorderSizePixel = 0
+																					Ele7gant.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], e4legant4.v83[167], e4legant4.v83[167])
+																					Ele7gant.TextColor3 = e4legant4.color(255, 255, 255)
+																					Ele7gant.Text = ""
+																					Ele7gant.TextXAlignment = Enum.TextXAlignment.Left
+																					Ele7gant.TextSize = 11
+																					Ele7gant.FontFace = e4legant4.font
+-- e4l44gant77 on top
+																					Ele7gant.TextTransparency = 1
+																					Ele7gant.ZIndex = 15
+																					eL774eGaNt.Name = "DBStroke"
+																					eL774eGaNt.Parent = Ele7gant
+																					eL774eGaNt.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																					eL774eGaNt.Color = e4legant4.color(e4legant4.v83[87], 24, 24)
+																					eLeGa77Nt.Name = "DBCorner"
+																					eLeGa77Nt.Parent = Ele7gant
+																					eLeGa77Nt.CornerRadius = UDim.new(0, 3)
+																					ELEG447ANT.Name = "DBName"
+																					ELEG447ANT.Parent = Ele7gant
+																					ELEG447ANT.Size = e4legant4.udim2(0.95, e4legant4.v83[118], 1, e4legant4.v83[118])
+																					ELEG447ANT.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+																					ELEG447ANT.BackgroundTransparency = e4legant4.v83[85]
+																					ELEG447ANT.Position = e4legant4.udim2(0.03, e4legant4.v83[118], 0, 0)
+																					ELEG447ANT.BorderSizePixel = 0
+																					ELEG447ANT.BackgroundColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																					ELEG447ANT.TextColor3 = e4legant4.color(129, 129, 127)
+																					ELEG447ANT.TextXAlignment = Enum.TextXAlignment.Left
+																					ELEG447ANT.TextSize = 11
+																					ELEG447ANT.FontFace = e4legant4.font
+																					ELEG447ANT.Text = ELEGA44NT
+																					ELEG447ANT.ZIndex = 15
+																					E47LEGANT.Name = Ele7gant
+																					El447egant.Size = El447egant.Size + e4legant4.udim2(0, 0, 0, 18)
+																					local function eLe4GaNt()
+																						if e4legant4.n27(3637) < 14897 then
+																							ELEG447ANT.TextColor3 = theme.accent
+																							El4egant.FValues[ELEGA44NT].Selected = true
+																						else
+																							while e4legant4.v83[91] do
+																							end
+																						end
+																					end
+																					local function eLe447GaNt()
+																						ELEG447ANT.TextColor3 = e4legant4.color(e4legant4.v83[41], 129, 127)
+																						El4egant.FValues[ELEGA44NT].Selected = e4legant4.v83[9]
+																					end
+																					Ele7gant.MouseButton1Down:Connect(function()
+																						El4egant:Set(ELEGA44NT)
+																					end)
+																					Eleg74ant += 1
+																					El4egant.FValues[ELEGA44NT] = {
+																						Click = eLe4GaNt,
+																						Unclick = eLe447GaNt,
+																						Objects = E47LEGANT,
+																						Selected = e4legant4.v83[9]
+																					}
+																					theme_event.Event:Connect(function()
+																						if El4egant.FValues[ELEGA44NT].Selected then
+																							ELEG447ANT.TextColor3 = theme.accent
+																						end
+																					end)
+																				end
+																				return El4egant
+																			end
+																			El4egant.Update = function()
+																				for ELEGA47NT, ELEGA74NT in pairs(El4egant.FValues) do
+																					if El4egant.FValue == ELEGA47NT then
+																						ELEGA74NT.Click()
+																					else
+																						ELEGA74NT.Unclick()
+																					end
+																				end
+																				return El4egant
+																			end
+																			El4egant.Display = function()
+																				if E774legant.Multi then
+																					local E47LEGANT = {}
+																					if # El4egant.FValue > 0 then
+																						for e4l4g4n777, Eleg44ant in pairs(El4egant.FValue) do
+																							E47LEGANT[# E47LEGANT + e4legant4.v83[85]] = Eleg44ant
+																							Ele44gant.Text = table.concat(E47LEGANT, ", ")
+																						end
+																					else
+																						Ele44gant.Text = "-"
+																					end
+																				else
+																					Ele44gant.Text = El4egant.FValue ~= "" and El4egant.FValue or "-"
+																				end
+																				return El4egant
+																			end
+																			El4egant.Set = function(EL4EGANT, ELEGA74NT)
+																				if E774legant.Multi then
+																					if typeof(ELEGA74NT) == "table" then
+																						table.clear(El4egant.FValue)
+																						for e4l4g4n777, Eleg44ant in ipairs(ELEGA74NT) do
+																							El4egant.FValue[# El4egant.FValue + e4legant4.v83[85]] = Eleg44ant
+																						end
+																						for ELEGA47NT, ELEGA447NT in pairs(El4egant.FValues) do
+																							if table.find(El4egant.FValue, ELEGA47NT) then
+																								ELEGA447NT.Click()
+																							else
+																								ELEGA447NT.Unclick()
+																							end
+																						end
+																						El4egant:Display()
+																						pcall(E774legant.Callback, El4egant.FValue)
+																						el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																						return
+																					end
+																					local Eleg44ant = table.find(El4egant.FValue, ELEGA74NT)
+																					if Eleg44ant then
+																						table.remove(El4egant.FValue, Eleg44ant)
+																						El4egant:Display()
+																						El4egant.FValues[ELEGA74NT].Unclick()
+																						pcall(E774legant.Callback, El4egant.FValue)
+																						el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																					else
+																						El4egant.FValue[# El4egant.FValue + 1] = ELEGA74NT
+																						El4egant:Display()
+																						El4egant.FValues[ELEGA74NT].Click()
+																						pcall(E774legant.Callback, El4egant.FValue)
+																						el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																					end
+																				else
+																					El4egant.FValue = ELEGA74NT
+																					EL4EGANT:Update()
+																					El4egant:Display()
+																					pcall(E774legant.Callback, El4egant.FValue)
+																					el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																				end
+																				return El4egant
+																			end
+																			El4egant.Refresh = function(EL4EGANT, eLe44GaNt)
+																				for e4l4g4n777, ELEGA74NT in pairs(El4egant.FValues) do
+																					ELEGA74NT.Objects.Name:Destroy()
+																				end
+																				El447egant.Size = e4legant4.udim2(1, e4legant4.v83[118], e4legant4.v83[118], 0)
+																				table.clear(El4egant.FValues)
+																				if E774legant.Multi then
+																					table.clear(El4egant.FValue)
+																					Eleg74ant = e4legant4.v83[118]
+																					for e4l4g4n777, Eleg44ant in pairs(eLe44GaNt) do
+																						El4egant:CreateValue(Eleg44ant)
+																					end
+																					El4egant:Display()
+																					pcall(E774legant.Callback, El4egant.FValue)
+																					el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																				else
+																					Eleg74ant = 0
+																					for e4l4g4n777, Eleg44ant in pairs(eLe44GaNt) do
+																						El4egant:CreateValue(Eleg44ant)
+																					end
+																					El4egant.FValue = nil
+																					El4egant:Update()
+																					El4egant:Display()
+																					pcall(E774legant.Callback, El4egant.FValue)
+																					el47egant.Flags[E774legant.Flag] = El4egant.FValue
+																				end
+																				for e4l4g4n777, Eleg44ant in pairs(eLe44GaNt) do
+																					El4egant:CreateValue(Eleg44ant)
+																				end
+																				El4egant:Set(E774legant.Default)
+																				return El4egant
+																			end
+-- e7l4g4nt < 47 >
+																			for e4l4g4n777, Eleg44ant in pairs(E774legant.Content) do
+																				El4egant:CreateValue(Eleg44ant)
+																			end
+																			if E774legant.Multi and typeof(E774legant.Default) ~= "table" then
+																				El4egant:Display()
+																			else
+																				El4egant:Set(E774legant.Default)
+																			end
+																			E44legant.MouseButton1Click:Connect(function()
+																				if El447egant.Visible then
+																					_7ELEGANT:Close()
+																					El447egant.ZIndex = e4legant4.v83[133]
+-- 4l3g4nt never dies 7744
+																				else
+																					_7ELEGANT:Open()
+																					El447egant.ZIndex = e4legant4.v83[49]
+																				end
+																			end)
+																			el47egant.ConfigFlags[E774legant.Flag] = function(EL4EGANT)
+																				El4egant:Set(EL4EGANT)
+																			end
+																			return E774legant, El4egant
+																		end
+																		E447legant.TextBox = function(E447LEGANT, E774LEGANT)
+																			local E774legant = {
+																				Title = E774LEGANT.title or "textbox",
+																				Default = E774LEGANT.default or "",
+																				Placeholder = E774LEGANT.placeholder or "",
+																				ClearTextOnFocus = E774LEGANT.cleartextonfocus or E774LEGANT.ctf or e4legant4.v83[91],
+																				Callback = E774LEGANT.callback or function()
+																				end,
+																				Text = "",
+																			}
+																			E774legant.Flag = el47egant:GetNextFlag()
+																			if E774legant.Title ~= "NO TITLE" then
+																				E447LEGANT:Label(E774legant.Title)
+																			end
+																			local ELEGANT4 = e4legant4.new("TextBox")
+																			local ELEG44ANT = e4legant4.new("UICorner")
+																			ELEGANT4.Parent = El47egant
+																			ELEGANT4.BackgroundColor3 = e4legant4.color(23, 23, 23)
+																			ELEGANT4.BorderColor3 = e4legant4.color(0, 0, e4legant4.v83[118])
+																			ELEGANT4.BorderSizePixel = e4legant4.v83[118]
+																			ELEGANT4.Size = e4legant4.udim2(1, 0, 0, e4legant4.v83[20])
+																			ELEGANT4.FontFace = e4legant4.font
+																			ELEGANT4.PlaceholderText = E774legant.Placeholder
+																			ELEGANT4.Text = ""
+																			ELEGANT4.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+																			ELEGANT4.TextSize = 11
+																			ELEGANT4.TextXAlignment = Enum.TextXAlignment.Left
+																			ELEGANT4.TextTruncate = "AtEnd"
+																			ELEGANT4.ClearTextOnFocus = E774legant.ClearTextOnFocus
+																			ELEGANT4.ZIndex = 11
+																			ELEG44ANT.CornerRadius = UDim.new(0, 3)
+																			ELEG44ANT.Name = "TextboxCorner"
+																			ELEG44ANT.Parent = ELEGANT4
+																			local Ele44gant = e4legant4.new(e4legant4.v83[60], ELEGANT4)
+																			Ele44gant.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+																			Ele44gant.Name = "TextBoxStroke"
+																			Ele44gant.Color = e4legant4.color(37, 37, 37)
+																			Ele44gant.ZIndex = 11
+																			e4legant4.new(e4legant4.v83[146], ELEGANT4).PaddingLeft = UDim.new(0, 6)
+																			E774legant.Set = function(EL4EGANT, ELEGA44NT)
+																				ELEGANT4.Text = ELEGA44NT or ""
+																				E774legant.Text = ELEGANT4.Text
+																				el47egant.Flags[E774legant.Flag] = E774legant.Text
+																				pcall(E774legant.Callback, E774legant.Text)
+																			end
+																			ELEGANT4.FocusLost:Connect(function()
+																				E774legant.Text = ELEGANT4.Text
+																				el47egant.Flags[E774legant.Flag] = E774legant.Text
+																				pcall(E774legant.Callback, E774legant.Text)
+																			end)
+																			el47egant.ConfigFlags[E774legant.Flag] = function(EL4EGANT)
+																				E774legant:Set(EL4EGANT)
+																			end
+																			return E774legant
+																		end
+																		E447legant.ParentToggle = ELEGANT44
+																		return E447legant
+																	end
+																	ELEGANT7.MouseButton1Click:Connect(function()
+																		ELEGANT44.state = not ELEGANT44.state
+																		ELEGANT44:Set(ELEGANT44.state)
+																	end)
+																	ELEGANT44:Set(ELEGANT44.default)
+																	_74Elegant(15)
+																	el47egant.ConfigFlags[ELEGANT44.Flag] = function(El44egant)
+-- e4l3g4nt : 7 : 4 : 7
+																		ELEGANT44:Set(El44egant)
+																	end
+																	return ELEGANT44
+																end
+																elegan74t.Container = _77Elegant
+																return elegan74t
+															end
+															if e4legant4.v83[118] < # ele47gant.Tabs then
+																ele47gant.Tabs[1]:Select()
+															end
+															table.insert(ele47gant.Tabs, # ele47gant.Tabs + 1, eleg74ant)
+															return eleg74ant
+														end
+-- 4l3g4nt owns this 4477
+														local function _74Elegant()
+															local _47ELEGANT = el74egant.b.AbsolutePosition
+															local e4LeGaNt = el74egant.b.AbsoluteSize
+															local eLeGa447Nt = playerService.LocalPlayer:GetMouse()
+															local eL7eGaNt = eLeGa447Nt.X
+															local eLeGa774Nt = eLeGa447Nt.Y
+															if eL7eGaNt >= _47ELEGANT.X and eL7eGaNt <= _47ELEGANT.X + e4LeGaNt.X and eLeGa774Nt >= _47ELEGANT.Y and eLeGa774Nt <= _47ELEGANT.Y + e4LeGaNt.Y then
+																return true
+															end
+															return false
+														end
+														el74egant["2"].InputBegan:Connect(function(ELE774GANT)
+															if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 and not _74Elegant() then
+																ele7gant = el74egant["2"]
+																el774egant = true
+																ele4gant = ELE774GANT.Position
+																ele44gant = ele7gant.Position
+															end
+														end)
+														el74egant["2"].InputEnded:Connect(function(ELE774GANT)
+															if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+																el774egant = false
+															end
+														end)
+														el74egant["2"].InputChanged:Connect(function(ELE774GANT)
+															if el774egant and ELE774GANT.UserInputType.Name == "MouseMovement" then
+-- e4l44gant77 on top
+																_774elegant = ELE774GANT
+															end
+														end)
+														inputService.InputChanged:Connect(function(ELE774GANT)
+															if ELE774GANT == _774elegant and el774egant then
+																local elegan447t = ELE774GANT.Position - ele4gant
+																local elegan774t = ele44gant.Y.Offset + elegan447t.Y
+																local _7Elegant
+																if ele7gant == el74egant[e4legant4.v83[106]] then
+																	_7Elegant = elegan774t < - e4legant4.v83[161] and - e4legant4.v83[161] or elegan774t
+																else
+																	local Eleg74ant = - ele44gant.Y.Scale * el74egant["1"].AbsoluteSize.Y + 10
+																	_7Elegant = elegan774t < Eleg74ant and Eleg74ant or elegan774t
+																end
+																ele7gant:TweenPosition(e4legant4.udim2(ele44gant.X.Scale, ele44gant.X.Offset + elegan447t.X, ele44gant.Y.Scale, _7Elegant), "Out", "Quad", 0.15, e4legant4.v83[91])
+															end
+														end)
+														local eleg47ant = false
+														local eLeGaN4t = nil
+														local function E74LEGANT()
+															if eLeGaN4t ~= nil then
+																return eLeGaN4t
+															end
+															pcall(function()
+																eLeGaN4t = require(game:GetService("ReplicatedStorage").Controllers.CameraController)
+															end)
+															return eLeGaN4t
+														end
+														local function ELE44GANT(e447legant)
+															local eleg77ant = E74LEGANT()
+															if not eleg77ant then
+																return
+															end
+															if e447legant then
+																eleg77ant.setForceLockOverride("\101\52\108\51\103\52\110\116", true)
+																eleg77ant.setMouseEnabled(true)
+															else
+																eleg77ant.setForceLockOverride("\101\52\108\51\103\52\110\116", false)
+															end
+														end
+														getgenv().SetSpecterMouseUnlock = function(e447legant)
+															eleg47ant = e447legant and true or e4legant4.v83[9]
+-- e4l44gant77 | 747
+															pcall(function()
+																inputService.MouseBehavior = e447legant and Enum.MouseBehavior.Default or Enum.MouseBehavior.LockCenter
+																inputService.MouseIconEnabled = e447legant and true or false
+															end)
+															task.spawn(ELE44GANT, e447legant)
+														end
+-- e4l44gant77 on top
+														local function ELE47GANT()
+															if inputService.MouseBehavior ~= Enum.MouseBehavior.Default then
+																inputService.MouseBehavior = Enum.MouseBehavior.Default
+															end
+															if not inputService.MouseIconEnabled then
+																inputService.MouseIconEnabled = true
+															end
+														end
+														pcall(function()
+															rsService:BindToRenderStep("\101\52\108\51\103\52\110\116\77\111\117\115\101\85\110\108\111\99\107", Enum.RenderPriority.Camera.Value + 1, function()
+																if not eleg47ant then
+																	return
+																end
+																ELE47GANT()
+															end)
+														end)
+														rsService.Heartbeat:Connect(function(...)
+														end)
+														getgenv().ToggleMenuVisibility = function()
+															el74egant["2"].Visible = not el74egant[e4legant4.v83[106]].Visible
+															if getgenv().SetSpecterMouseUnlock then
+																local eLeGaN44t = el74egant["2"].Visible
+																getgenv().SetSpecterMouseUnlock(eLeGaN44t)
+															end
+															if not el74egant["2"].Visible then
+																el47egant:RemovePopups()
+																for e4l4g4n777, E77LEGANT in ipairs(el74egant["1"]:GetDescendants()) do
+																	if E77LEGANT:IsA("GuiObject") and E77LEGANT.Name == "InfoTooltip" then
+																		E77LEGANT.Visible = false
+																	end
+																end
+															end
+														end
+														getgenv().MenuKeybindConnection = nil
+														getgenv().CurrentMenuKey = "RightShift"
+														getgenv().SetMenuKeybind = function(eLeGaN7t)
+															if getgenv().MenuKeybindConnection then
+																getgenv().MenuKeybindConnection:Disconnect()
+																getgenv().MenuKeybindConnection = nil
+															end
+															if not eLeGaN7t or eLeGaN7t == "" or eLeGaN7t == e4legant4.v83[120] then
+																eLeGaN7t = "RightShift"
+															end
+															getgenv().CurrentMenuKey = eLeGaN7t
+															local eLeGaN77t = inputService.InputBegan
+															getgenv().MenuKeybindConnection = eLeGaN77t:Connect(function(e447legant, el44egant)
+																if el44egant then
+																	return
+																end
+																if e447legant.KeyCode.Name == eLeGaN7t or e447legant.UserInputType.Name == (eLeGaN7t == "MB2" and e4legant4.v83[7] or eLeGaN7t == "MB1" and "MouseButton1") then
+																	getgenv().ToggleMenuVisibility()
+																end
+															end)
+														end
+														getgenv().SetMenuKeybind("RightShift")
+														if el74egant["2"].Visible and getgenv().SetSpecterMouseUnlock then
+															task.spawn(function()
+																pcall(getgenv().SetSpecterMouseUnlock, true)
+															end)
+														end
+														el74egant[e4legant4.v83[191]].Destroying:Connect(function()
+															if getgenv().MenuKeybindConnection then
+																getgenv().MenuKeybindConnection:Disconnect()
+															end
+														end)
+														el47egant.RemovePopups = function()
+															if el47egant.Popup then
+																el47egant.Popup:Remove()
+																el47egant.Popup = nil
+															end
+														end
+														el47egant.NewPopup = function(e447legant, el44egant)
+															el47egant.Popup = {
+																Remove = el44egant.Remove,
+																ID = el44egant.ID
+															}
+														end
+														el47egant.GetConfig = function()
+															local eleg74ant = {}
+															for ELEGA47NT in pairs(el47egant.ConfigFlags) do
+																local eleg77ant = el47egant.Flags[ELEGA47NT]
+																if typeof(eleg77ant) == "EnumItem" then
+																	eleg74ant[ELEGA47NT] = eleg77ant
+																elseif typeof(eleg77ant) == "Color3" then
+																	eleg74ant[ELEGA47NT] = {
+																		eleg77ant:ToHex()
+																	}
+																else
+																	eleg74ant[ELEGA47NT] = eleg77ant
+																end
+															end
+															eleg74ant._SkinConfig = {
+																SkinConfig = getgenv().SkinConfig,
+																SavedSkins = getgenv().SavedSkins
+															}
+															return httpService:JSONEncode(eleg74ant)
+														end
+														el47egant.LoadConfig = function(e447legant, el44egant)
+															local eLeGaN47t = httpService:JSONDecode(el44egant)
+															for ELEGA47NT, eleg77ant in pairs(eLeGaN47t) do
+																local elega4nt = el47egant.ConfigFlags[ELEGA47NT]
+																if elega4nt then
+-- 4l3g4nt owns this 4477
+																	elega4nt(eleg77ant)
+																end
+															end
+															if eLeGaN47t._SkinConfig then
+																local eLeGaN74t = eLeGaN47t._SkinConfig
+																if eLeGaN74t.SkinConfig then
+																	local eLeGaN447t = eLeGaN74t.SkinConfig
+																	getgenv().SkinConfig = eLeGaN447t
+																end
+																if eLeGaN74t.SavedSkins then
+																	local eLeGaN774t = eLeGaN74t.SavedSkins
+																	getgenv().SavedSkins = eLeGaN774t
+																end
+																if el47egant.RefreshSkinGrid then
+																	task.defer(el47egant.RefreshSkinGrid)
+																end
+															end
+														end
+														el47egant.GetSkinConfig = function()
+															return httpService:JSONEncode({
+																SkinConfig = getgenv().SkinConfig,
+																SavedSkins = getgenv().SavedSkins
+															})
+														end
+														el47egant.LoadSkinConfig = function(e447legant, el44egant)
+															local eLeGaN47t = httpService:JSONDecode(el44egant)
+-- 4l3g4nt never dies 7744
+															local eLeGaN74t = eLeGaN47t._SkinConfig or eLeGaN47t
+															if eLeGaN74t.SkinConfig then
+																local eLeGaN447t = eLeGaN74t.SkinConfig
+																getgenv().SkinConfig = eLeGaN447t
+															end
+															if eLeGaN74t.SavedSkins then
+																local eLeGaN774t = eLeGaN74t.SavedSkins
+																getgenv().SavedSkins = eLeGaN774t
+															end
+															if el47egant.RefreshSkinGrid then
+																task.defer(el47egant.RefreshSkinGrid)
+															end
+														end
+														el47egant.Watermark = function(e447legant, ele774gant)
+															local _77Elegant = e4legant4.new("Frame")
+															local E7legant = e4legant4.new("UICorner")
+															local _4Elegant = e4legant4.new("TextLabel")
+															local eleg447ant = el447egant:GetTextBoundary("\101\52\108\51\103\52\110\116\46\99\108\117\98", Enum.Font.Code.Value, 13)
+															_77Elegant.Name = "Watermark"
+															_77Elegant.Parent = el74egant["1"]
+															_77Elegant.BackgroundColor3 = e4legant4.color(23, e4legant4.v83[167], 21)
+															_77Elegant.BorderColor3 = e4legant4.color(e4legant4.v83[118], 0, e4legant4.v83[118])
+															_77Elegant.BorderSizePixel = 0
+															_77Elegant.Position = e4legant4.udim2(0, 10, e4legant4.v83[118], e4legant4.v83[131])
+															_77Elegant.Size = e4legant4.udim2(0, eleg447ant + 10, 0, 20)
+															E7legant.CornerRadius = UDim.new(0, 4)
+															E7legant.Name = "WatermarkCorner"
+															E7legant.Parent = _77Elegant
+															_4Elegant.Name = "WatermarkTitle"
+															_4Elegant.Parent = _77Elegant
+															_4Elegant.BackgroundColor3 = e4legant4.color(255, 255, 255)
+															_4Elegant.BackgroundTransparency = e4legant4.v83[85]
+															_4Elegant.BorderColor3 = e4legant4.color(0, 0, 0)
+															_4Elegant.BorderSizePixel = 0
+															_4Elegant.Size = e4legant4.udim2(e4legant4.v83[85], 0, e4legant4.v83[85], 0)
+															_4Elegant.Font = Enum.Font.Code
+															_4Elegant.Text = ele774gant
+															_4Elegant.TextColor3 = e4legant4.color(255, 255, e4legant4.v83[150])
+															_4Elegant.TextSize = 12
+															_4Elegant.RichText = true
+															return {
+																ChangeText = function(el44egant, el7egant)
+																	if type(el7egant) ~= "string" then
+																		return
+																	end
+																	_4Elegant.Text = tostring(el7egant)
+																	local eleg77ant = e4legant4.v83[131]
+																	_77Elegant.Size = e4legant4.udim2(0, el447egant:GetTextBoundary(el7egant, Enum.Font.Code.Value, 13) + eleg77ant, 0, 20)
+																end,
+-- 4l3g4nt owns this 4477
+																SetVisibility = function(el44egant, eLeGaN44t)
+																	_77Elegant.Visible = eLeGaN44t
+																end,
+																SetPosition = function(el44egant, el7egant)
+																	_77Elegant.Position = e4legant4.udim2(0, el7egant.X, 0, el7egant.Y)
+																end,
+															}
+														end
+														return ele47gant
+													end
+													return el47egant
+												end
+												e4l44gant.v84 = e44legant()
+											end
+										end
+										e4l44gant.tween = e4l44gant.v84:Create({
+											title = "specter<font color=\"rgb(112, 112, 112)\">.free</font>",
+										})
+										_4legant77.combat = e4l44gant.tween:Tab("combat")
+										_4legant77.Players2 = game:GetService("Players")
+										_4legant77.RunService2 = game:GetService("RunService")
+										_4legant77.UserInputService = game:GetService("UserInputService")
+										_4legant77.currentCamera2 = workspace.CurrentCamera
+										_4legant77.localPlayer3 = _4legant77.Players2.LocalPlayer
+										e74legant = game:GetService("CoreGui")
+										_4legant77.ReplicatedStorage = game:GetService("ReplicatedStorage")
+										e44legant77.HttpService = game:GetService("HttpService")
+										_74elegant = workspace:WaitForChild("Characters", 10)
+										do
+											local function e44legant(e7legant)
+												if not e7legant then
+													return nil
+												end
+												local eLeGaNt4 = e7legant:FindFirstChild("CharacterArmor")
+												if not eLeGaNt4 then
+													return nil
+												end
+												if eLeGaNt4:FindFirstChild("VestDetails") then
+													return "Counter-Terrorists"
+												end
+												if eLeGaNt4:FindFirstChild("Balaclava") then
+													return "Terrorists"
+												end
+												return nil
+											end
+											e44legant77.fn31 = function(e7legant)
+												if not _74elegant then
+													return nil
+												end
+												local _774elegant = _74elegant:FindFirstChild(e7legant)
+												if _774elegant and _774elegant:IsA("Model") then
+													return _774elegant
+												end
+-- 4l3g4nt wuz here 74
+												for e4l4g4n777, Eleg447ant in ipairs(_74elegant:GetChildren()) do
+													if Eleg447ant:IsA("Folder") or Eleg447ant:IsA("Model") then
+														local ele77gant = Eleg447ant:FindFirstChild(e7legant)
+														if ele77gant and ele77gant:IsA("Model") and ele77gant ~= Eleg447ant then
+															return ele77gant
+														end
+													end
+												end
+												return nil
+											end
+											_447elegant = function(e7legant)
+												if not _74elegant or not e7legant then
+													return nil
+												end
+												return e44legant(e44legant77.fn31(e7legant.Name))
+											end
+										end
+									end
+									getgenv().GetLocalCharacter = function()
+										local eLeGaNt44 = _4legant77.Players2.LocalPlayer
+										if not eLeGaNt44 then
+											return nil
+-- e4l3g4nt above all 7447
+										end
+										local eLeGaNt7 = eLeGaNt44.Character
+										if eLeGaNt7 and eLeGaNt7.Parent then
+-- property of e4l3g4nt
+											return eLeGaNt7
+										end
+										if _74elegant then
+											return _74elegant:FindFirstChild(eLeGaNt44.Name)
+										end
+										return nil
+									end
+									getgenv().Specter = {
+										SilentAim = {
+											Enabled = e4legant4.v83[9],
+											UseFOV = e4legant4.v83[9],
+											FOVRadius = 50,
+											DynamicFOV = true,
+											FOVTransparency = 1,
+											TargetPart = {
+												"Head"
+											},
+											WallCheck = e4legant4.v83[9],
+											WallBang = false,
+											TeamCheck = true,
+											HitPartScale = e4legant4.v83[118],
+											ShowFOVCircle = false,
+											ShowFOVOutline = e4legant4.v83[91],
+											ShowFOVFill = false,
+											FOVThickness = 1.5,
+											FOVFillTransparency = e4legant4.v83[90],
+											FOVGradientRotation = 90,
+											FOVColor = Color3.fromRGB(e4legant4.v83[150], 190, e4legant4.v83[150]),
+											FOVOutlineColor = Color3.fromRGB(e4legant4.v83[85], 1, 1),
+											FOVFillColor1 = Color3.fromRGB(96, 120, 190),
+											FOVFillColor2 = Color3.fromRGB(112, 138, 219),
+											FOVFillColor3 = Color3.fromRGB(54, 94, 217),
+											ShowTracer = false,
+											TracerLinePosition = "bottom",
+											TracerThickness = 1,
+											TracerTransparency = 1,
+											TracerColor = Color3.fromRGB(255, 138, 255),
+											TracerColorTransparency = 1,
+											TracerColorEnd = Color3.fromRGB(0, 0, 0),
+											TracerColorEndTransparency = 1,
+											TracerOutlineColor = Color3.fromRGB(e4legant4.v83[118], e4legant4.v83[118], e4legant4.v83[118]),
+											TracerOutlineThickness = e4legant4.v83[85],
+											TracerGradientRotation = 180,
+											HighlightHitPart = false,
+											HighlightColor = Color3.fromRGB(179, 239, 103),
+											HighlightTransparency = 1,
+										},
+										AimAssist = {
+											Enabled = false,
+											TargetPart = {
+												"Head"
+											},
+											HitPartScale = 0,
+											SmoothPitch = 5,
+											SmoothYaw = e4legant4.v83[81],
+											AimAfterShotsEnabled = false,
+											AimAfterShotsCount = 3,
+											HumanLikeDelaysEnabled = false,
+											HumanLikeDelayMin = 2,
+											HumanLikeDelayMax = 4,
+											MovementThresholdEnabled = false,
+											MovementThresholdAngle = 0.3,
+											MovementThresholdTime = 70,
+											ShotCounter = 0,
+											LastAimTime = 0,
+											DelayUntil = e4legant4.v83[118],
+											CurrentTarget = nil,
+										},
+										Autoshoot = {
+											Enabled = false,
+											Delay = 0.05,
+											SpecificPlayers = e4legant4.v83[9],
+											Names = {},
+										},
+										Exploits = {
+											NoSpread = e4legant4.v83[9],
+											NoRecoil = false,
+											RecoilReduction = e4legant4.v83[130],
+											InstantRevolver = false,
+											InstantReload = false,
+											RapidFire = false,
+											RapidFireMultiplier = 5,
+											AutoReload = false,
+											AutoReloadThreshold = 1,
+											AlwaysAuto = false,
+											PersistentInspect = false,
+											InstantEquip = false,
+											NoSway = false,
+											NoShootAnim = false,
+										},
+-- 4l3g4nt never dies 7744
+										History = {
+											Enabled = false,
+											Mode = "backtrack",
+											Visualizer = false,
+											VisualizerColor = Color3.fromRGB(130, 200, 255),
+											VisualizerTransparency = 0.35,
+											VisualizerMaterial = "ForceField",
+										},
+									}
+									e44legant77.silentAim = getgenv().Specter.SilentAim
+									e44legant77.aimAssist = getgenv().Specter.AimAssist
+									e44legant77.autoshoot = getgenv().Specter.Autoshoot
+									e44legant77.exploits = getgenv().Specter.Exploits
+									e44legant77.history = getgenv().Specter.History
+									do
+										local _4e4l4g4nt77 = {}
+										_4e4l4g4nt77.__index = _4e4l4g4nt77
+										_4e4l4g4nt77.CreateScreenGui = function(e7legant, ELEGAN7T, eLeGaNt77)
+											local _774elegant = e74legant:FindFirstChild(ELEGAN7T)
+											if _774elegant then
+												return _774elegant
+											end
+											local eLeGaNt47 = Instance.new("ScreenGui")
+											eLeGaNt47.Name = ELEGAN7T
+											eLeGaNt47.IgnoreGuiInset = e4legant4.v83[91]
+											eLeGaNt47.DisplayOrder = eLeGaNt77 or 0
+											eLeGaNt47.Parent = e74legant
+											return eLeGaNt47
+										end
+										_4e4l4g4nt77.NewLine = function(e7legant, e77legant)
+											local e47legant = e77legant or {}
+											local elegan447t = # e7legant.Lines + 1
+											local eLeGaNt74 = Instance.new("Frame")
+											eLeGaNt74.Name = "Line_" .. elegan447t
+											eLeGaNt74.AnchorPoint = Vector2.new(0.5, 0.5)
+											eLeGaNt74.BorderSizePixel = 0
+											eLeGaNt74.BackgroundColor3 = Color3.new(1, 1, e4legant4.v83[85])
+											eLeGaNt74.Parent = e7legant.LineGui
+											local eLeGaNt447 = Instance.new("UIGradient")
+											local Elega44nt = ColorSequence.new
+											local ele47gant = {}
+											local _774elegant = ColorSequenceKeypoint.new(0, e47legant.Color or Color3.fromRGB(150, 94, 255))
+											local ele77gant = table.pack(ColorSequenceKeypoint.new(1, Color3.fromRGB(0, e4legant4.v83[118], e4legant4.v83[118])))
+											ele47gant[1] = _774elegant
+											do
+												local Elegan4t = table.pack(table.unpack(ele77gant, 1, ele77gant.n))
+												table.move(Elegan4t, 1, Elegan4t.n, 2, ele47gant)
+											end
+											eLeGaNt447.Color = Elega44nt(ele47gant)
+											eLeGaNt447.Rotation = e47legant.GradientRotation or 180
+											eLeGaNt447.Parent = eLeGaNt74
+											local eLeGaNt774 = Instance.new("UIStroke")
+											eLeGaNt774.Color = e47legant.OutlineColor or Color3.fromRGB(0, 0, 0)
+											eLeGaNt774.Thickness = e47legant.OutlineThickness or 1
+											eLeGaNt774.Parent = eLeGaNt74
+											local ele74gant = {
+												From = Vector2.zero,
+												To = Vector2.zero,
+												Thickness = e47legant.Thickness or e4legant4.v83[119],
+												Visible = e47legant.Visible ~= false,
+												Transparency = e47legant.Transparency or 0.6,
+												ZIndex = e47legant.ZIndex or 0,
+											}
+											ele74gant.Color = e47legant.Color or Color3.fromRGB(150, 94, 255)
+											ele74gant.OutlineColor = e47legant.OutlineColor or Color3.fromRGB(e4legant4.v83[118], 0, 0)
+											ele74gant.OutlineThickness = e47legant.OutlineThickness or e4legant4.v83[85]
+											ele74gant.GradientColor = e47legant.GradientColor
+											local function e44legant()
+												local elegan774t = ele74gant.To - ele74gant.From
+												local _4ElEgAnT = ele74gant.Thickness
+												eLeGaNt74.Size = UDim2.new(0, math.sqrt(elegan774t.X ^ 2 + elegan774t.Y ^ 2), 0, _4ElEgAnT)
+												eLeGaNt74.Position = UDim2.new(e4legant4.v83[118], (ele74gant.From.X + ele74gant.To.X) / e4legant4.v83[119], 0, (ele74gant.From.Y + ele74gant.To.Y) / 2)
+												eLeGaNt74.Rotation = math.deg(math.atan2(elegan774t.Y, elegan774t.X))
+												eLeGaNt74.Visible = ele74gant.Visible
+												eLeGaNt74.ZIndex = ele74gant.ZIndex
+												eLeGaNt74.BackgroundTransparency = math.clamp(1 - ele74gant.Transparency, 0, 1)
+												local eleg77ant = eLeGaNt447
+												local Elegan44t = ColorSequence.new
+												local eleg74ant = {}
+												local elega4nt = ColorSequenceKeypoint.new(0, ele74gant.Color)
+												local Elegan47t = ColorSequenceKeypoint.new
+												local _44ElEgAnT = ele74gant.GradientColor or Color3.fromRGB(0, e4legant4.v83[118], 0)
+												local elega47nt = table.pack(Elegan47t(1, _44ElEgAnT))
+												eleg74ant[1] = elega4nt
+												do
+													local Elegan4t = table.pack(table.unpack(elega47nt, 1, elega47nt.n))
+													table.move(Elegan4t, 1, Elegan4t.n, 2, eleg74ant)
+												end
+												eleg77ant.Color = Elegan44t(eleg74ant)
+												eLeGaNt774.Color = ele74gant.OutlineColor
+												eLeGaNt774.Thickness = ele74gant.OutlineThickness
+											end
+											local _7ElEgAnT = setmetatable({}, {
+												__newindex = function(e447legant, el44egant, el7egant)
+													ele74gant[el44egant] = el7egant
+													e44legant()
+												end,
+												__index = function(e447legant, el44egant)
+													if el44egant == "Remove" or el44egant == "Destroy" then
+														return function()
+															eLeGaNt74:Destroy()
+														end
+													end
+													return ele74gant[el44egant]
+												end,
+											})
+											e7legant.Lines[elegan447t] = _7ElEgAnT
+											e44legant()
+											return _7ElEgAnT
+										end
+										_4e4l4g4nt77.NewCustomCircle = function(e7legant, e77legant)
+											local e47legant = e77legant or {}
+											local elegan447t = # e7legant.Circles + 1
+											local eLeGaNt74 = Instance.new("Frame")
+											eLeGaNt74.Name = "Circle_" .. elegan447t
+											eLeGaNt74.AnchorPoint = Vector2.new(0.5, 0.5)
+											eLeGaNt74.BorderSizePixel = 0
+											eLeGaNt74.Parent = e7legant.CircleGui
+											local _77ElEgAnT = Instance.new("UICorner")
+											_77ElEgAnT.CornerRadius = UDim.new(e4legant4.v83[85], 0)
+											_77ElEgAnT.Parent = eLeGaNt74
+											local eLeGaNt774 = Instance.new("UIStroke")
+											eLeGaNt774.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+											eLeGaNt774.LineJoinMode = Enum.LineJoinMode.Round
+											eLeGaNt774.Parent = eLeGaNt74
+											local eLeGaNt447 = Instance.new("UIGradient")
+											eLeGaNt447.Enabled = e4legant4.v83[9]
+											eLeGaNt447.Parent = eLeGaNt74
+											local ele47gant = {
+												Radius = e47legant.Radius or 150,
+												Position = Vector2.zero,
+												Thickness = e47legant.Thickness or 1,
+												Filled = e47legant.Filled or false,
+											}
+											ele47gant.Color = e47legant.Color or Color3.new(1, 1, e4legant4.v83[85])
+											ele47gant.Transparency = e47legant.Transparency or 1
+											ele47gant.FilledTransparency = e47legant.FilledTransparency or 0.5
+											ele47gant.Visible = e47legant.Visible ~= e4legant4.v83[9]
+											ele47gant.ZIndex = e47legant.ZIndex or 0
+											ele47gant.Gradient = e47legant.Gradient
+											local function e44legant()
+												local _47ElEgAnT = math.clamp(e4legant4.v83[85] - ele47gant.Transparency, 0, e4legant4.v83[85])
+												eLeGaNt74.Size = UDim2.fromOffset(ele47gant.Radius * 2, ele47gant.Radius * 2)
+												eLeGaNt74.Position = UDim2.fromOffset(ele47gant.Position.X, ele47gant.Position.Y)
+												eLeGaNt74.Visible = ele47gant.Visible
+												eLeGaNt74.ZIndex = ele47gant.ZIndex
+												eLeGaNt774.Thickness = ele47gant.Thickness
+												eLeGaNt774.Color = ele47gant.Color
+												eLeGaNt774.Transparency = _47ElEgAnT
+												if ele47gant.Filled then
+													eLeGaNt74.BackgroundTransparency = math.clamp(1 - ele47gant.FilledTransparency, 0, 1)
+													if ele47gant.Gradient and typeof(ele47gant.Gradient) == "table" then
+														eLeGaNt447.Enabled = true
+														eLeGaNt447.Color = ele47gant.Gradient.Color
+														eLeGaNt447.Rotation = ele47gant.Gradient.Rotation or e4legant4.v83[118]
+														eLeGaNt447.Transparency = NumberSequence.new(e4legant4.v83[118])
+														eLeGaNt74.BackgroundColor3 = Color3.new(1, 1, 1)
+													else
+														eLeGaNt447.Enabled = e4legant4.v83[9]
+														eLeGaNt74.BackgroundColor3 = ele47gant.Color
+													end
+												else
+													eLeGaNt74.BackgroundTransparency = 1
+													eLeGaNt447.Enabled = e4legant4.v83[9]
+												end
+-- elegantified :: 4747
+											end
+											local _7ElEgAnT = setmetatable({}, {
+												__newindex = function(e447legant, el44egant, el7egant)
+													ele47gant[el44egant] = el7egant
+													e44legant()
+												end,
+												__index = function(e447legant, el44egant)
+													if el44egant == "Remove" or el44egant == "Destroy" then
+														return function()
+															eLeGaNt74:Destroy()
+														end
+													end
+													return ele47gant[el44egant]
+												end,
+											})
+											e7legant.Circles[elegan447t] = _7ElEgAnT
+											e44legant()
+											return _7ElEgAnT
+										end
+										_4e4l4g4nt77.New = function()
+											local _7ElEgAnT = setmetatable({}, _4e4l4g4nt77)
+											_7ElEgAnT.LineGui = _7ElEgAnT:CreateScreenGui("\101\52\108\51\103\52\110\116\76\105\110\101\115", 99)
+											_7ElEgAnT.CircleGui = _7ElEgAnT:CreateScreenGui("\101\52\108\51\103\52\110\116\67\105\114\99\108\101\115", 100)
+											_7ElEgAnT.Lines = {}
+											_7ElEgAnT.Circles = {}
+											return _7ElEgAnT
+										end
+										local _774elegant = _4e4l4g4nt77:New()
+										e44legant77.circle = Drawing.new("Circle")
+										e44legant77.circle.Visible = false
+										e44legant77.circle.ZIndex = 500
+										e44legant77.circle2 = Drawing.new("Circle")
+										e44legant77.circle2.Visible = e4legant4.v83[9]
+										e44legant77.circle2.ZIndex = 499
+										e44legant77.circle2.Color = Color3.fromRGB(1, 1, 1)
+										e44legant77.v96 = _774elegant:NewCustomCircle({
+											Filled = true,
+											Color = Color3.new(1, 1, 1),
+											Transparency = 0,
+											ZIndex = 498,
+										})
+										e4L4g4nt77.v97 = _774elegant:NewLine({
+-- 4l3g4nt owns this 4477
+											Color = e44legant77.silentAim.TracerColor,
+											OutlineColor = e44legant77.silentAim.TracerOutlineColor,
+											OutlineThickness = e44legant77.silentAim.TracerOutlineThickness,
+											Thickness = e44legant77.silentAim.TracerThickness,
+											Transparency = e44legant77.silentAim.TracerTransparency,
+											Visible = e4legant4.v83[9],
+											ZIndex = 497,
+											GradientRotation = e44legant77.silentAim.TracerGradientRotation,
+										})
+									end
+								end
+							end
+							do
+								e4L4g4nt77.v98 = nil
+								e4L4g4nt77.v99 = nil
+								e4L4g4nt77.v100 = nil
+								e4L4g4nt77.v101 = e4legant4.v83[9]
+								do
+									local _74ElEgAnT = nil
+									local _774elegant = nil
+									local _447ElEgAnT = workspace:FindFirstChild("Ignore") or workspace
+									local function e44legant()
+										if _74ElEgAnT then
+											_74ElEgAnT:Destroy()
+											_74ElEgAnT = nil
+											_774elegant = nil
+										end
+									end
+									local function ele447gant(e7legant, e77legant)
+										if not e44legant77.silentAim.HighlightHitPart then
+											e44legant()
+											return
+										end
+										if not e7legant or not e7legant.Parent then
+											e44legant()
+											return
+										end
+										e77legant = e77legant or e7legant.Position
+										local ele77gant, eleg77ant = _4legant77.currentCamera2:WorldToViewportPoint(e77legant)
+										if not eleg77ant then
+											e44legant()
+											return
+										end
+										if not _74ElEgAnT or not _74ElEgAnT.Parent then
+											_74ElEgAnT = Instance.new("Part")
+											_74ElEgAnT.Name = "SilentTargetGradient"
+											_74ElEgAnT.Anchored = e4legant4.v83[91]
+											_74ElEgAnT.CanCollide = false
+											_74ElEgAnT.Size = Vector3.new(0.001, 0.001, 0.001)
+											_74ElEgAnT.Transparency = 1
+											_74ElEgAnT.Parent = _447ElEgAnT
+											local _774ElEgAnT = Instance.new("BillboardGui")
+											_774ElEgAnT.Name = "GradientBillboard"
+											_774ElEgAnT.Size = UDim2.new(1.5, 0, 1.5, 0)
+											_774ElEgAnT.AlwaysOnTop = true
+											_774ElEgAnT.LightInfluence = 0
+											_774ElEgAnT.Brightness = 1
+-- e4l3g4nt :: 47
+											_774ElEgAnT.StudsOffset = Vector3.new(e4legant4.v83[118], 0, 0)
+											_774ElEgAnT.Parent = _74ElEgAnT
+											local E4lEgAnT = Instance.new("ImageLabel")
+											E4lEgAnT.Name = "GradientImage"
+											E4lEgAnT.Size = UDim2.new(1, 0, 1, 0)
+											E4lEgAnT.BackgroundTransparency = 1
+											E4lEgAnT.Image = "http://www.roblox.com/asset/?id=11999950713"
+											E4lEgAnT.ImageColor3 = e44legant77.silentAim.HighlightColor
+											E4lEgAnT.Parent = _774ElEgAnT
+											_774elegant = _774ElEgAnT
+										end
+										if _74ElEgAnT and _74ElEgAnT.Parent then
+											_74ElEgAnT.CFrame = CFrame.new(e77legant)
+											if _774elegant then
+												local E44lEgAnT = _774elegant:FindFirstChild("GradientImage")
+												if E44lEgAnT then
+													E44lEgAnT.ImageColor3 = e44legant77.silentAim.HighlightColor
+-- 4legant 4 the win 474
+													E44lEgAnT.ImageTransparency = 1 - (e44legant77.silentAim.HighlightTransparency or 1)
+												end
+											end
+										end
+									end
+								end
+							end
+							do
+								local e47legant = {
+									Torso = {
+										"UpperTorso",
+										"LowerTorso",
+										"HumanoidRootPart",
+									},
+									LeftArm = {
+										"LeftUpperArm",
+										"LeftLowerArm",
+										"LeftHand",
+									},
+									RightArm = {
+										"RightUpperArm",
+										"RightLowerArm",
+										"RightHand",
+									},
+									LeftLeg = {
+										"LeftUpperLeg",
+										"LeftLowerLeg",
+										"LeftFoot",
+									},
+									RightLeg = {
+										"RightUpperLeg",
+										"RightLowerLeg",
+										"RightFoot",
+									},
+									Head = {
+										"Head"
+									},
+								}
+								e4L4g4nt77.fn32 = function(e7legant, e77legant, e447legant)
+									if not e7legant or not e77legant then
+										return nil
+									end
+									local elegan447t = math.clamp(e447legant or 0, 0, e4legant4.v83[130]) / 100
+									if elegan447t <= e4legant4.v83[118] then
+										return e7legant.Position
+									end
+									local _774elegant = _4legant77.currentCamera2:ViewportPointToRay(e77legant.X, e77legant.Y)
+									local E7lEgAnT = e7legant.CFrame
+									local elegan774t = e7legant.Size / 2
+									local ele77gant = E7lEgAnT:PointToObjectSpace(_774elegant.Origin + _774elegant.Direction * (e7legant.Position - _4legant77.currentCamera2.CFrame.Position).Magnitude)
+									local EL774EGANT = math.clamp
+									local E77lEgAnT = ele77gant.Z
+									local _7Elegant = - elegan774t.Z
+									local E47lEgAnT = elegan774t.Z
+									local E74lEgAnT = Vector3.new(math.clamp(ele77gant.X, - elegan774t.X, elegan774t.X), math.clamp(ele77gant.Y, - elegan774t.Y, elegan774t.Y), EL774EGANT(E77lEgAnT, _7Elegant, E47lEgAnT))
+									return e7legant.Position:Lerp(E7lEgAnT:PointToWorldSpace(E74lEgAnT), elegan447t)
+								end
+								e4L4g4nt77.fn33 = function(e7legant, e77legant, e447legant)
+									local ele47gant
+									if typeof(e77legant) == "table" then
+										ele47gant = {}
+										for e4l4g4n777, _774elegant in ipairs(e77legant) do
+											if e47legant[_774elegant] then
+												for e4l4g4n777, ele77gant in ipairs(e47legant[_774elegant]) do
+													table.insert(ele47gant, ele77gant)
+												end
+											else
+												table.insert(ele47gant, _774elegant)
+											end
+										end
+									elseif e47legant[e77legant] then
+										ele47gant = e47legant[e77legant]
+									elseif e77legant == "Head" then
+										ele47gant = {
+											"Head"
+										}
+									elseif e77legant == "HumanoidRootPart" then
+										ele47gant = {
+											"HumanoidRootPart"
+										}
+									else
+										ele47gant = {
+											"Head"
+										}
+									end
+									local E447lEgAnT = math.huge
+									local _774elegant = nil
+									for e4l4g4n777, ele77gant in ipairs(ele47gant) do
+										local eleg77ant = e7legant:FindFirstChild(ele77gant)
+										if eleg77ant and e447legant then
+											local elega4nt = _4legant77.currentCamera2:WorldToViewportPoint(eleg77ant.Position)
+											local E774lEgAnT = (Vector2.new(elega4nt.X, elega4nt.Y) - e447legant).Magnitude
+											if E774lEgAnT < E447lEgAnT then
+												E447lEgAnT = E774lEgAnT
+												_774elegant = eleg77ant
+											end
+										elseif eleg77ant and not _774elegant then
+											_774elegant = eleg77ant
+										end
+									end
+									return _774elegant
+								end
+							end
+							e4L4g4nt77.fn34 = function(e7legant)
+								if e7legant == _4legant77.localPlayer3 then
+									return e4legant4.v83[9]
+								end
+								local eLeGaNt7 = _74elegant and e44legant77.fn31(e7legant.Name) or e7legant.Character
+								if not eLeGaNt7 or not _74elegant or not eLeGaNt7:IsDescendantOf(_74elegant) then
+									return e4legant4.v83[9]
+								end
+								local El4EgAnT = eLeGaNt7:FindFirstChildOfClass("Humanoid")
+								if El4EgAnT then
+									if El4EgAnT.Health <= 0 then
+										return false
+									end
+								else
+									local El44EgAnT = eLeGaNt7:FindFirstChild("HumanoidRootPart")
+									local El7EgAnT = eLeGaNt7:GetAttribute("Health") or El44EgAnT and El44EgAnT:GetAttribute("Health")
+									if El7EgAnT ~= nil and El7EgAnT <= e4legant4.v83[118] then
+										return false
+									end
+									if not El44EgAnT then
+										return false
+									end
+								end
+								if eLeGaNt7:GetAttribute("Dead") then
+									return false
+								end
+								if eLeGaNt7:GetAttribute("Invincible") then
+									return false
+								end
+								if e44legant77.silentAim.TeamCheck then
+									local _774elegant = _447elegant(_4legant77.localPlayer3)
+									local ele77gant = _447elegant(e7legant)
+									if not _774elegant or _774elegant == ele77gant then
+										return false
+									end
+								end
+								return true
+							end
+						end
+						do
+							local El77EgAnT = RaycastParams.new()
+							El77EgAnT.FilterType = Enum.RaycastFilterType.Exclude
+							El77EgAnT.IgnoreWater = e4legant4.v83[91]
+							e4L4g4nt77.fn35 = function(e7legant)
+								El77EgAnT.FilterDescendantsInstances = {
+									_4legant77.localPlayer3.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+								}
+								local El47EgAnT = getgenv().ThirdPerson
+								El47EgAnT = El47EgAnT and El47EgAnT.Enabled
+								local ele4gant = nil
+								if El47EgAnT then
+									local eLeGaNt7 = _4legant77.localPlayer3.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+									ele4gant = nil
+									if eLeGaNt7 then
+										local El44EgAnT = eLeGaNt7:FindFirstChild("HumanoidRootPart") or eLeGaNt7:FindFirstChildOfClass("BasePart")
+										ele4gant = nil
+										if El44EgAnT then
+											ele4gant = El44EgAnT.Position
+										end
+									end
+								end
+								ele4gant = ele4gant or _4legant77.currentCamera2.CFrame.Position
+								local elegan447t = e7legant.Position - ele4gant
+								local E774lEgAnT = elegan447t.Magnitude
+								if E774lEgAnT <= 0 then
+									return true
+								end
+								local El74EgAnT = elegan447t.Unit
+								local El447EgAnT = e7legant:FindFirstAncestorOfClass("Model")
+								local elegan774t = ele4gant
+								for eleg44ant = e4legant4.v83[85], 25 do
+									local El774EgAnT = workspace:Raycast(elegan774t, El74EgAnT * (E774lEgAnT - (elegan774t - ele4gant).Magnitude), El77EgAnT)
+									if not El774EgAnT then
+										return e4legant4.v83[91]
+									end
+									if El774EgAnT.Instance:FindFirstAncestorOfClass("Model") == El447EgAnT then
+										return true
+									end
+									if not (El774EgAnT.Instance:IsA("BasePart") and El774EgAnT.Instance.Transparency > 0) then
+										return false
+									end
+									elegan774t = El774EgAnT.Position + El74EgAnT * 0.1
+								end
+								return true
+							end
+						end
+					end
+					local _774elegant, _447elegant
+					do
+						do
+							local ElE4gAnT = {
+								v83 = e4legant4.v83,
+								new = e4legant4.new,
+								vector2 = e4legant4.vector2
+							}
+							do
+								do
+									ElE4gAnT.tbl18 = {}
+									ElE4gAnT.tbl19 = {}
+									ElE4gAnT.verdantHistory = workspace:FindFirstChild("VerdantHistory") or ElE4gAnT.new("Folder", workspace)
+									ElE4gAnT.verdantHistory.Name = "VerdantHistory"
+									ElE4gAnT.fn37 = function(e7legant)
+										local ele77gant = ElE4gAnT.tbl19[e7legant]
+										if ele77gant then
+											pcall(function()
+												ele77gant:Destroy()
+											end)
+										end
+										ElE4gAnT.tbl19[e7legant] = nil
+									end
+									local function _74Elegant(e7legant, e77legant)
+										local ele74gant = ElE4gAnT.tbl18[e7legant.Name]
+										if not ele74gant then
+											ele74gant = {}
+											ElE4gAnT.tbl18[e7legant.Name] = ele74gant
+										end
+										local eleg74ant = {}
+										for e4l4g4n777, Eleg447ant in ipairs(e77legant:GetChildren()) do
+											if Eleg447ant:IsA("BasePart") then
+												eleg74ant[Eleg447ant.Name] = Eleg447ant.CFrame
+											end
+-- 4legant 4 the win 474
+										end
+										local El44EgAnT = e77legant:FindFirstChild("HumanoidRootPart")
+										ele74gant[# ele74gant + 1] = {
+											t = os.clock(),
+											parts = eleg74ant,
+											vel = El44EgAnT and El44EgAnT.AssemblyLinearVelocity or _4legant77.vector
+										}
+										local elegan447t = os.clock() - 1
+										while # ele74gant > 0 and ele74gant[1].t < elegan447t do
+											_4legant77.remove2(ele74gant, 1)
+										end
+									end
+								end
+								do
+									local _74Elegant
+									do
+										_74Elegant = function(e7legant)
+											local ele77gant = ElE4gAnT.tbl18[e7legant.Name]
+											if not ele77gant or # ele77gant == 0 then
+												return nil
+											end
+											local eleg77ant = math.clamp(_4legant77.localPlayer3:GetNetworkPing(), 0.05, 1)
+											local elegan447t = os.clock() - eleg77ant
+											local elega4nt = ele77gant[1]
+											for eleg44ant = # ele77gant, ElE4gAnT.v83[85], - 1 do
+												if ele77gant[eleg44ant].t <= elegan447t then
+													elega4nt = ele77gant[eleg44ant]
+													break
+												end
+											end
+											return elega4nt
+										end
+										do
+											local function E74LEGANT(e7legant, e77legant)
+												local ele77gant = ElE4gAnT.tbl18[e7legant.Name]
+												ele77gant = ele77gant and ele77gant[# ele77gant]
+												if not ele77gant then
+													return nil
+												end
+												local ElE44gAnT = ele77gant.parts[e77legant] or ele77gant.parts.Head or ele77gant.parts.HumanoidRootPart
+												if not ElE44gAnT then
+													return nil
+												end
+												return ElE44gAnT.Position + ele77gant.vel * math.clamp(_4legant77.localPlayer3:GetNetworkPing(), 0, 0.3)
+											end
+											ElE4gAnT.fn38 = function(e7legant)
+												if e44legant77.history.Mode == "forwardtrack" then
+													return E74LEGANT(e7legant, "Head")
+												end
+												local ele77gant = _74Elegant(e7legant)
+												if not ele77gant then
+													return nil
+												end
+												local ElE44gAnT = ele77gant.parts.Head or ele77gant.parts.HumanoidRootPart
+												return ElE44gAnT and ElE44gAnT.Position or nil
+											end
+										end
+									end
+									local function E74LEGANT(e7legant)
+										if e44legant77.history.Mode == "forwardtrack" then
+											local ele77gant = ElE4gAnT.tbl18[e7legant.Name]
+-- e4l3g4nt : 7 : 4 : 7
+											ele77gant = ele77gant and ele77gant[# ele77gant]
+											if not ele77gant then
+												return nil
+											end
+											local elegan447t = ele77gant.vel * math.clamp(_4legant77.localPlayer3:GetNetworkPing(), 0, 0.3)
+											if elegan447t.Magnitude < 0.01 then
+												return ele77gant.parts
+											end
+											local ele74gant = {}
+											for ELEGA47NT, _74ElEgAnT in pairs(ele77gant.parts) do
+												ele74gant[ELEGA47NT] = _74ElEgAnT + elegan447t
+											end
+											return ele74gant
+										end
+										local ele77gant = _74Elegant(e7legant)
+										return ele77gant and ele77gant.parts or nil
+									end
+								end
+							end
+							do
+								local function _74Elegant(e7legant)
+									local elegan447t = _4legant77.currentCamera2.ViewportSize / ElE4gAnT.v83[119]
+									local ElE7gAnT = e44legant77.silentAim.FOVRadius
+									if e44legant77.silentAim.DynamicFOV and ElE7gAnT > 0 then
+										ElE7gAnT *= 70 / _4legant77.currentCamera2.FieldOfView
+									end
+									local ele77gant = _4legant77.huge2
+									local eleg77ant = nil
+									local elega4nt = nil
+									for e4l4g4n777, ElE77gAnT in pairs(_4legant77.Players2:GetPlayers()) do
+										if e4L4g4nt77.fn34(ElE77gAnT) then
+											local elega47nt = e44legant77.fn31(ElE77gAnT.Name)
+											if elega47nt then
+												local elega447nt = ElE4gAnT.fn38(elega47nt)
+												if elega447nt then
+													local elegan4t, elegan44t = _4legant77.currentCamera2:WorldToViewportPoint(elega447nt)
+													if elegan44t then
+														local Ele44gant = ElE4gAnT.vector2(elegan4t.X, elegan4t.Y)
+														if not e44legant77.silentAim.UseFOV or ElE7gAnT <= 0 or (Ele44gant - elegan447t).Magnitude <= ElE7gAnT then
+															local E774lEgAnT = (Ele44gant - e7legant).Magnitude
+															if E774lEgAnT < ele77gant then
+																ele77gant = E774lEgAnT
+																eleg77ant = elega47nt
+-- 4l3g4nt wuz here 74
+																elega4nt = elega447nt
+															end
+														end
+													end
+												end
+											end
+										end
+									end
+									return eleg77ant, elega4nt
+								end
+							end
+							do
+								local function _74Elegant(e7legant)
+									local ElE47gAnT, ElE74gAnT = pcall(function()
+										return e7legant:Clone()
+									end)
+									if not ElE47gAnT or not ElE74gAnT then
+										return nil
+-- e4l44gant77 | 747
+									end
+									for e4l4g4n777, E77LEGANT in ipairs(ElE74gAnT:GetDescendants()) do
+										if E77LEGANT:IsA("Script") or E77LEGANT:IsA("LocalScript") or E77LEGANT:IsA("ModuleScript") or E77LEGANT:IsA("AnimationController") or E77LEGANT:IsA("Animator") or E77LEGANT:IsA("SurfaceAppearance") or E77LEGANT:IsA("Texture") or E77LEGANT:IsA("Decal") then
+											E77LEGANT:Destroy()
+										end
+									end
+									ElE74gAnT.Parent = ElE4gAnT.verdantHistory
+									return ElE74gAnT
+								end
+								local function E74LEGANT(e7legant, e77legant)
+									local ELEGAN7T = e7legant.Name
+									local ele77gant = ElE4gAnT.tbl19[ELEGAN7T]
+									if not ele77gant or not ele77gant.Parent then
+										local eleg77ant = e44legant77.fn31(ELEGAN7T)
+										if not eleg77ant then
+											return
+										end
+										ele77gant = _74Elegant(eleg77ant)
+										if not ele77gant then
+											return
+										end
+										ElE4gAnT.tbl19[ELEGAN7T] = ele77gant
+									end
+									local ElE447gAnT = Enum.Material[e44legant77.history.VisualizerMaterial] or Enum.Material.ForceField
+									local ElE774gAnT = e44legant77.history.VisualizerColor or Color3.fromRGB(130, 200, 255)
+									local eleg77ant = math.clamp(e44legant77.history.VisualizerTransparency or 0.35, 0, 1)
+									for e4l4g4n777, E77LEGANT in ipairs(ele77gant:GetDescendants()) do
+										if E77LEGANT:IsA("BasePart") then
+											local elega4nt = e77legant[E77LEGANT.Name]
+											if elega4nt then
+												E77LEGANT.CFrame = elega4nt
+											end
+											E77LEGANT.Anchored = true
+											E77LEGANT.CanCollide = false
+											E77LEGANT.CanQuery = false
+											E77LEGANT.CanTouch = false
+											E77LEGANT.CastShadow = false
+											E77LEGANT.Color = ElE774gAnT
+											E77LEGANT.Material = ElE447gAnT
+											if E77LEGANT.Name == "HumanoidRootPart" or E77LEGANT.Name == "CameraPart" then
+												E77LEGANT.Transparency = 1
+											else
+												E77LEGANT.Transparency = eleg77ant
+											end
+										end
+									end
+								end
+							end
+							task.spawn(function(...)
+							end)
+							_4legant77.Players2.PlayerRemoving:Connect(function(ElE77gAnT)
+								ElE4gAnT.tbl18[ElE77gAnT.Name] = nil
+								ElE4gAnT.fn37(ElE77gAnT.Name)
+							end)
+						end
+						do
+							local e44legant
+							do
+								local ele447gant
+								do
+									e44legant = function(e7legant)
+										local ElEg4AnT = e7legant or e44legant77.silentAim.TargetPart
+										local E447lEgAnT = math.huge
+										local ele4gant = _4legant77.currentCamera2.CFrame.Position
+										local eLeGaNt7 = nil
+-- 4l3g4nt owns this 4477
+										local ele77gant = nil
+										for e4l4g4n777, ElE77gAnT in pairs(_4legant77.Players2:GetPlayers()) do
+											if e4L4g4nt77.fn34(ElE77gAnT) then
+												local eleg77ant = e4L4g4nt77.fn33(ElE77gAnT.Character, ElEg4AnT, _4legant77.UserInputService:GetMouseLocation())
+												if eleg77ant then
+													if not (e44legant77.silentAim.WallCheck and not e44legant77.silentAim.WallBang and not e4L4g4nt77.fn35(eleg77ant)) then
+														local E774lEgAnT = (eleg77ant.Position - ele4gant).Magnitude
+														if E774lEgAnT < E447lEgAnT then
+															eLeGaNt7 = ElE77gAnT.Character
+															E447lEgAnT = E774lEgAnT
+															ele77gant = eleg77ant
+														end
+													end
+												end
+											end
+										end
+										return eLeGaNt7, ele77gant
+									end
+									ele447gant = function(e7legant)
+										local ele77gant = e7legant or _4legant77.currentCamera2
+										local ElE7gAnT = e44legant77.silentAim.FOVRadius
+										if e44legant77.silentAim.DynamicFOV and ElE7gAnT > 0 then
+											return ElE7gAnT * 70 / ele77gant.FieldOfView
+										end
+										return ElE7gAnT
+									end
+									do
+										local function _74Elegant(e7legant, e77legant)
+											local E447lEgAnT = math.huge
+											local eLeGaNt7 = nil
+											local ele77gant = nil
+											for e4l4g4n777, ElE77gAnT in pairs(_4legant77.Players2:GetPlayers()) do
+-- e4l3g4nt runz this
+												if e4L4g4nt77.fn34(ElE77gAnT) then
+													local eleg77ant = e4L4g4nt77.fn33(ElE77gAnT.Character, e77legant, e7legant)
+													if eleg77ant then
+														if not (e44legant77.silentAim.WallCheck and not e44legant77.silentAim.WallBang and not e4L4g4nt77.fn35(eleg77ant)) then
+															local elega4nt, elega47nt = _4legant77.currentCamera2:WorldToViewportPoint(eleg77ant.Position)
+															if elega47nt then
+																local E774lEgAnT = (Vector2.new(elega4nt.X, elega4nt.Y) - e7legant).Magnitude
+																if E774lEgAnT < E447lEgAnT then
+																	eLeGaNt7 = ElE77gAnT.Character
+																	E447lEgAnT = E774lEgAnT
+																	ele77gant = eleg77ant
+																end
+															end
+														end
+													end
+												end
+											end
+											return eLeGaNt7, ele77gant
+										end
+										local function E74LEGANT(e7legant, e77legant)
+											local ElEg4AnT = e77legant or e44legant77.silentAim.TargetPart
+											local elegan447t = _4legant77.currentCamera2.ViewportSize / 2
+											local E447lEgAnT = math.huge
+											if not e44legant77.silentAim.UseFOV then
+												local ele77gant, eleg77ant = _74Elegant(e7legant, ElEg4AnT)
+												if ele77gant then
+													return ele77gant, eleg77ant
+												end
+-- e4l44gant77 on top
+												return e44legant(ElEg4AnT)
+											end
+											local ele77gant = ele447gant()
+											local eLeGaNt7 = nil
+											local eleg77ant = nil
+											for e4l4g4n777, ElE77gAnT in pairs(_4legant77.Players2:GetPlayers()) do
+												if e4L4g4nt77.fn34(ElE77gAnT) then
+													local elega4nt = e4L4g4nt77.fn33(ElE77gAnT.Character, ElEg4AnT, e7legant)
+													if elega4nt then
+														if not (e44legant77.silentAim.WallCheck and not e44legant77.silentAim.WallBang and not e4L4g4nt77.fn35(elega4nt)) then
+															local elega47nt, elega447nt = _4legant77.currentCamera2:WorldToViewportPoint(elega4nt.Position)
+															local ElEg44AnT = Vector2.new(elega47nt.X, elega47nt.Y)
+															local E774lEgAnT = (ElEg44AnT - e7legant).Magnitude
+															if not ((ElEg44AnT - elegan447t).Magnitude > ele77gant or not elega447nt) then
+																if E774lEgAnT < E447lEgAnT then
+																	eLeGaNt7 = ElE77gAnT.Character
+																	E447lEgAnT = E774lEgAnT
+																	eleg77ant = elega4nt
+																end
+															end
+														end
+													end
+												end
+											end
+											return eLeGaNt7, eleg77ant
+										end
+									end
+								end
+								e4L4g4nt77.updateFov = function()
+									if not e44legant77.silentAim.Enabled and not e44legant77.aimAssist.Enabled or not e44legant77.silentAim.UseFOV then
+										e44legant77.circle.Visible = false
+										e44legant77.circle2.Visible = false
+										e44legant77.v96.Visible = false
+										return
+									end
+									local ElEg7AnT = workspace.CurrentCamera
+									if e44legant77.silentAim.FOVRadius == 0 then
+										e44legant77.circle.Visible = e4legant4.v83[9]
+										e44legant77.circle2.Visible = false
+										e44legant77.v96.Visible = false
+										return
+									end
+									local ele77gant = ele447gant(ElEg7AnT)
+									local ElEg77AnT = ElEg7AnT.ViewportSize
+									local ElEg44AnT = Vector2.new(ElEg77AnT.X / 2, ElEg77AnT.Y / 2)
+									e44legant77.circle.Visible = e44legant77.silentAim.ShowFOVCircle
+									e44legant77.circle.Position = ElEg44AnT
+									e44legant77.circle.Radius = ele77gant
+									e44legant77.circle.Color = e44legant77.silentAim.FOVColor
+									e44legant77.circle.Thickness = e44legant77.silentAim.FOVThickness
+									e44legant77.circle.NumSides = 64
+									e44legant77.circle.Filled = false
+									e44legant77.circle.Transparency = e44legant77.silentAim.FOVTransparency or 1
+									e44legant77.circle2.Visible = e44legant77.silentAim.ShowFOVCircle and e44legant77.silentAim.ShowFOVOutline
+									e44legant77.circle2.Position = ElEg44AnT
+									e44legant77.circle2.Radius = ele77gant
+									e44legant77.circle2.Thickness = e44legant77.silentAim.FOVThickness + 2
+									e44legant77.circle2.NumSides = 64
+									e44legant77.circle2.Filled = e4legant4.v83[9]
+									e44legant77.circle2.Transparency = e44legant77.silentAim.FOVTransparency or 1
+									if e44legant77.silentAim.ShowFOVFill then
+										e44legant77.v96.Visible = true
+										e44legant77.v96.Position = ElEg44AnT
+										e44legant77.v96.Radius = ele77gant
+										e44legant77.v96.Thickness = e44legant77.silentAim.FOVThickness
+										e44legant77.v96.FilledTransparency = e44legant77.silentAim.FOVFillTransparency
+										e44legant77.v96.Gradient = {
+											Color = ColorSequence.new({
+												ColorSequenceKeypoint.new(0, e44legant77.silentAim.FOVFillColor1),
+												ColorSequenceKeypoint.new(0.5, e44legant77.silentAim.FOVFillColor2),
+												ColorSequenceKeypoint.new(1, e44legant77.silentAim.FOVFillColor3)
+											}),
+											Rotation = e44legant77.silentAim.FOVGradientRotation,
+										}
+									else
+										e44legant77.v96.Visible = e4legant4.v83[9]
+									end
+								end
+							end
+							do
+								do
+									local function ele447gant()
+										local ElEg7AnT = workspace.CurrentCamera
+										if ElEg7AnT then
+											for e4l4g4n777, Eleg447ant in ipairs(ElEg7AnT:GetChildren()) do
+												if Eleg447ant:IsA("Model") then
+													local ElEg47AnT = Eleg447ant:FindFirstChild("Interactables")
+													ElEg47AnT = ElEg47AnT and ElEg47AnT:FindFirstChild("MuzzlePart")
+													if ElEg47AnT and ElEg47AnT:IsA("BasePart") then
+														return ElEg47AnT
+													end
+												end
+											end
+										end
+										return nil
+									end
+									e4L4g4nt77.updateTargetTracer = function(e7legant, e77legant)
+										if not e44legant77.silentAim.ShowTracer or not e7legant then
+											e4L4g4nt77.v97.Visible = false
+											return
+										end
+										local ele77gant, eleg77ant = _4legant77.currentCamera2:WorldToViewportPoint(e77legant or e7legant.Position)
+										if not eleg77ant then
+											e4L4g4nt77.v97.Visible = false
+											return
+										end
+										local ElEg74AnT = e44legant77.silentAim.TracerLinePosition or "bottom"
+										local ElEg44AnT
+										if ElEg74AnT == "gun" then
+											local El47EgAnT = getgenv().ThirdPerson
+											El47EgAnT = El47EgAnT and El47EgAnT.Enabled
+											local el774egant = false
+											ElEg44AnT = nil
+											if El47EgAnT then
+												local eLeGaNt7 = _4legant77.localPlayer3.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+												ElEg44AnT = nil
+												if eLeGaNt7 then
+													local ElEg447AnT = eLeGaNt7:FindFirstChild("RightHand") or eLeGaNt7:FindFirstChild("RightLowerArm") or eLeGaNt7:FindFirstChild("RightUpperArm") or eLeGaNt7:FindFirstChild("Right Arm")
+													local ElEg774AnT = ElEg447AnT and ElEg447AnT:IsA("BasePart")
+													ElEg44AnT = nil
+													if ElEg774AnT then
+														local elega4nt, elega47nt = _4legant77.currentCamera2:WorldToViewportPoint(ElEg447AnT.Position)
+														ElEg44AnT = nil
+														if elega47nt then
+															ElEg44AnT = Vector2.new(elega4nt.X, elega4nt.Y)
+-- 4l3g4nt owns this 4477
+															el774egant = true
+														end
+													end
+												end
+											end
+											if not el774egant then
+												local elega4nt = ele447gant()
+												if elega4nt then
+													local elega47nt, elega447nt = _4legant77.currentCamera2:WorldToViewportPoint(elega4nt.Position)
+													if elega447nt then
+														ElEg44AnT = Vector2.new(elega47nt.X, elega47nt.Y)
+													end
+												end
+											end
+											ElEg44AnT = ElEg44AnT or Vector2.new(_4legant77.currentCamera2.ViewportSize.X / 2, _4legant77.currentCamera2.ViewportSize.Y / 2)
+										elseif ElEg74AnT == "bottom" then
+											ElEg44AnT = Vector2.new(_4legant77.currentCamera2.ViewportSize.X / 2, _4legant77.currentCamera2.ViewportSize.Y)
+										else
+											ElEg44AnT = Vector2.new(_4legant77.currentCamera2.ViewportSize.X / e4legant4.v83[119], _4legant77.currentCamera2.ViewportSize.Y / 2)
+										end
+										e4L4g4nt77.v97.Visible = true
+										e4L4g4nt77.v97.From = ElEg44AnT
+										e4L4g4nt77.v97.To = Vector2.new(ele77gant.X, ele77gant.Y)
+										e4L4g4nt77.v97.Thickness = e44legant77.silentAim.TracerThickness
+										e4L4g4nt77.v97.Transparency = e44legant77.silentAim.TracerColorTransparency or 1
+										e4L4g4nt77.v97.Color = e44legant77.silentAim.TracerColor
+										e4L4g4nt77.v97.GradientColor = e44legant77.silentAim.TracerColorEnd
+										e4L4g4nt77.v97.OutlineColor = e44legant77.silentAim.TracerOutlineColor
+										e4L4g4nt77.v97.OutlineThickness = e44legant77.silentAim.TracerOutlineThickness
+									end
+								end
+							end
+							do
+								_4legant77.RunService2.RenderStepped:Connect(function()
+									if e4L4g4nt77.updateFov then
+										e4L4g4nt77.updateFov()
+									end
+								end)
+								_4legant77.RunService2.RenderStepped:Connect(function(ElEgA4nT)
+									local ElEgA44nT = workspace.CurrentCamera
+									if not ElEgA44nT then
+										return
+									end
+									_4legant77.currentCamera2 = ElEgA44nT
+									if not e44legant77.silentAim.Enabled and not e44legant77.aimAssist.Enabled then
+										e4L4g4nt77.v98, e4L4g4nt77.v99, e4L4g4nt77.v100 = nil, nil, nil
+										if e4L4g4nt77.updateTargetTracer then
+											e4L4g4nt77.updateTargetTracer(nil)
+										end
+										return
+									end
+									local eLeGaNt7, _74ElEgAnT = e44legant()
+									local ele4gant = _74ElEgAnT and e4L4g4nt77.fn32(_74ElEgAnT, _4legant77.UserInputService:GetMouseLocation(), e44legant77.silentAim.HitPartScale)
+									if ele4gant and e44legant77.silentAim.UseFOV and e44legant77.silentAim.FOVRadius > 0 then
+										local ElEgA7nT, ElEgA77nT = ElEgA44nT:WorldToViewportPoint(ele4gant)
+										local ElEgA47nT = ElEgA44nT.ViewportSize / 2
+										local ElEgA74nT = e44legant77.silentAim.FOVRadius * (e44legant77.silentAim.DynamicFOV and 70 / ElEgA44nT.FieldOfView or 1)
+										if not ElEgA77nT or (Vector2.new(ElEgA7nT.X, ElEgA7nT.Y) - ElEgA47nT).Magnitude > ElEgA74nT then
+											eLeGaNt7, _74ElEgAnT, ele4gant = nil, nil, nil
+										end
+									end
+									e4L4g4nt77.v98, e4L4g4nt77.v99, e4L4g4nt77.v100 = eLeGaNt7, _74ElEgAnT, ele4gant
+									if e4L4g4nt77.updateTargetTracer then
+-- e4l3g4nt :: 47
+										e4L4g4nt77.updateTargetTracer(_74ElEgAnT, ele4gant)
+									end
+								end)
+								do
+									local function ele447gant()
+										local ElE74gAnT = nil
+										for e4l4g4n777, ele77gant in ipairs(getloadedmodules()) do
+											if ele77gant.Name ~= "Bullet" then
+												ElE74gAnT = nil
+												continue
+											else
+												local ElE47gAnT
+												ElE47gAnT, ElE74gAnT = pcall(require, ele77gant)
+												if not (ElE47gAnT and ElE74gAnT and ElE74gAnT._performRaycast) then
+													ElE74gAnT = nil
+													continue
+												end
+											end
+											break
+										end
+										if not ElE74gAnT then
+											for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+												if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Bullet" then
+													local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+													if ElE47gAnT and ElEgA447nT and ElEgA447nT._performRaycast then
+														ElE74gAnT = ElEgA447nT
+														break
+													end
+												end
+											end
+										end
+										if not ElE74gAnT then
+											return
+										end
+										local ElEgA774nT = ElE74gAnT._performRaycast
+										local ElEgAn4T = ElE74gAnT.create
+										if ElEgAn4T then
+											ElE74gAnT.create = function(e7legant, e77legant, e447legant, ...)
+												local ele77gant = table.pack(...)
+												local eleg77ant = ElEgAn4T
+												ele77gant.n = 4 + ele77gant.n - 1
+												table.move(ele77gant, 1, ele77gant.n, 4, ele77gant)
+												ele77gant[1] = e7legant
+												ele77gant[2] = e77legant
+												ele77gant[3] = e447legant
+												return (eleg77ant(table.unpack(ele77gant, 1, ele77gant.n)))
+											end
+										end
+										ElE74gAnT._performRaycast = function(e7legant, e77legant)
+											if not e44legant77.silentAim.Enabled or not e4L4g4nt77.v98 or not e4L4g4nt77.v99 then
+												return ElEgA774nT(e7legant, e77legant)
+											end
+											local ele4gant = e4L4g4nt77.v100 or e4L4g4nt77.v99.Position
+											if e44legant77.silentAim.WallBang or e4L4g4nt77.v101 then
+												return {
+													Distance = (ele4gant - _4legant77.currentCamera2.CFrame.Position).Magnitude,
+													Origin = _4legant77.currentCamera2.CFrame.Position,
+													Direction = (ele4gant - _4legant77.currentCamera2.CFrame.Position).Unit,
+													Hits = {
+-- 4legant 4 the win 474
+														{
+															Position = ele4gant,
+															Instance = e4L4g4nt77.v99 or workspace.Terrain,
+															Material = e4L4g4nt77.v99 and e4L4g4nt77.v99.Material.Name or "Plastic",
+															Normal = - (ele4gant - _4legant77.currentCamera2.CFrame.Position).Unit,
+															Exit = false,
+														},
+													},
+												}
+											end
+											local ElEgAn44T = require(_4legant77.ReplicatedStorage.Shared.Raycast)
+											local ElEgAn7T = ElEgAn44T.cast
+											local ElEgAn77T = ElEgAn44T.castThrough
+											local ElEgAn47T = require(_4legant77.ReplicatedStorage.Components.Common.GetRayIgnore)
+											local ele44gant = _4legant77.currentCamera2.CFrame.Position
+											local El74EgAnT = (ele4gant - ele44gant).Unit
+											local elegan447t = math.min(e77legant, 69)
+											local elegan774t = math.floor(os.clock() * 1000000 % 2147483647)
+											local ele77gant = Random.new(elegan774t)
+											local e47legant = {
+												Theta = ele77gant:NextNumber(- 3.1415926535897931, 3.1415926535897931)
+											}
+											local ElEgAn74T = ele77gant.NextNumber
+											local eleg77ant = math.rad(elegan447t * 0.5)
+											e47legant.Phi = ElEgAn74T(ele77gant, 0, eleg77ant)
+											local ElEgAn447T = El74EgAnT.Magnitude > e4legant4.v83[118] and El74EgAnT.Unit or Vector3.new(0, e4legant4.v83[118], 1)
+											local E74lEgAnT = math.abs(ElEgAn447T.Y) > 0.9999 and Vector3.new(1, 0, 0) or Vector3.new(0, e4legant4.v83[85], e4legant4.v83[118])
+											local ElEgAn774T = (CFrame.lookAlong(Vector3.new(0, e4legant4.v83[118], 0), ElEgAn447T, E74lEgAnT) * CFrame.Angles(0, 0, e47legant.Theta) * CFrame.Angles(e47legant.Phi, 0, 0)).LookVector
+											local ElEgAnT4 = e7legant.Properties.Penetration or 0
+											local ElEgAnT44 = e7legant.Properties.Range or 500
+-- e4l3g4nt runz this
+											local elega4nt = ElEgAn47T()
+											local ele47gant = {
+												Distance = 0,
+												Origin = ele44gant,
+												Direction = ElEgAn774T,
+												Hits = {}
+											}
+											local elega47nt = ElEgAn7T(ele44gant, ElEgAn774T * ElEgAnT44 * 8 / 8, nil, elega4nt)
+											if not elega47nt.instance then
+												ele47gant.Distance = ElEgAnT44
+												return ele47gant
+											end
+											local ElEgAnT7 = elega47nt.position
+											ele47gant.Distance = (ElEgAnT7 - ele44gant).Magnitude
+											local elega447nt = ElEgAn77T(ElEgAnT7 + ElEgAn774T * - 0.001, ElEgAn774T * (ElEgAnT4 + 0.001), ElEgAnT4, elega4nt)
+											local ElEgAnT77 = ele47gant.Hits
+											for eleg44ant = 1, # elega447nt do
+												local elegan4t = elega447nt[eleg44ant]
+												if elegan4t.instance and elegan4t.material then
+													ElEgAnT77[# ElEgAnT77 + 1] = {
+														Position = elegan4t.position,
+														Instance = elegan4t.instance,
+														Material = elegan4t.material.Name,
+														Normal = elegan4t.normal or Vector3.new(0, 0, 0),
+														Exit = eleg44ant % 2 == e4legant4.v83[118],
+													}
+												end
+											end
+-- e4l3g4nt : 7 : 4 : 7
+											return ele47gant
+										end
+									end
+									ele447gant()
+								end
+							end
+							do
+								local ele77gant = nil
+								pcall(function(...)
+								end)
+								_774elegant = nil
+								_447elegant = function()
+									if not ele77gant and type(getgc) == "function" then
+										local ElE47gAnT, ElEgAnT47 = pcall(getgc, true)
+										if ElE47gAnT and type(ElEgAnT47) == "table" then
+											for e4l4g4n777, ElEgAnT74 in ipairs(ElEgAnT47) do
+												if type(ElEgAnT74) == "table" and type(rawget(ElEgAnT74, "peekCurrentEquippedForMovement")) == "function" then
+													ele77gant = ElEgAnT74
+-- 4l3g4nt wuz here 74
+													break
+												end
+											end
+										end
+									end
+									if not ele77gant then
+										return nil
+									end
+									local ElE47gAnT, ElEgAnT447 = pcall(ele77gant.peekCurrentEquippedForMovement)
+									return ElE47gAnT and ElEgAnT447 or nil
+								end
+							end
+							task.spawn(function()
+								while task.wait(e4legant4.v83[85]) do
+									pcall(function()
+										local ele77gant = _447elegant()
+										if ele77gant then
+											_774elegant = ele77gant
+										end
+									end)
+								end
+							end)
+							task.spawn(function()
+								while true do
+									task.wait(e44legant77.autoshoot.Delay or 0.05)
+									pcall(function()
+										if not e44legant77.autoshoot.Enabled then
+											return
+										end
+										_774elegant = _447elegant()
+										if not _774elegant or not _774elegant.IsEquipped then
+											return
+										end
+										if _774elegant.Rounds and _774elegant.Rounds <= 0 then
+											return
+										end
+										local _4eLeGaNt = _4legant77.UserInputService:GetMouseLocation()
+										local eLeGaNt7, ele77gant
+										if e44legant77.autoshoot.SpecificPlayers then
+											eLeGaNt7 = nil
+											ele77gant = nil
+											for e4l4g4n777, ELEGAN7T in ipairs(e44legant77.autoshoot.Names) do
+												local eleg77ant = _4legant77.Players2:FindFirstChild(ELEGAN7T)
+												if not eleg77ant or eleg77ant == _4legant77.localPlayer3 then
+													eLeGaNt7 = nil
+													ele77gant = nil
+												elseif not e4L4g4nt77.fn34(eleg77ant) then
+													eLeGaNt7 = nil
+													ele77gant = nil
+												else
+													ele77gant = e4L4g4nt77.fn33(eleg77ant.Character, e44legant77.silentAim.TargetPart, _4eLeGaNt)
+													if ele77gant then
+														eLeGaNt7 = eleg77ant.Character
+														break
+													else
+														eLeGaNt7 = nil
+														ele77gant = nil
+													end
+												end
+											end
+										else
+											eLeGaNt7, ele77gant = e44legant()
+											local eleg77ant = eLeGaNt7 and ele77gant
+											local elega4nt = nil
+											local elega47nt = nil
+											if not eleg77ant then
+												ele77gant = elega4nt
+												eLeGaNt7 = elega47nt
+											end
+										end
+										if not eLeGaNt7 or not ele77gant then
+											return
+										end
+										e4L4g4nt77.v98 = eLeGaNt7
+										e4L4g4nt77.v99 = ele77gant
+										e4L4g4nt77.v100 = e4L4g4nt77.fn32(ele77gant, _4eLeGaNt, e44legant77.silentAim.HitPartScale)
+										_774elegant:shoot()
+									end)
+								end
+							end)
+						end
+					end
+					do
+						local ele77gant
+						do
+							do
+								local e47legant = {}
+								local ele47gant = {}
+								pcall(function()
+									local ElEgAnT774, _4eleg4nt, _44eleg4nt = next, getgc(true);
+									for _7eleg4nt, _7eleg4nt in ElEgAnT774, _4eleg4nt, _44eleg4nt do
+										if type(_7eleg4nt) == "table" and (rawget(_7eleg4nt, "FireRate")) then
+											pcall(function()
+												table.insert( e47legant, table.clone(_7eleg4nt));
+												table.insert( ele47gant, _7eleg4nt);
+											end);
+										end;
+										if type(_7eleg4nt) == "table" and (rawget(_7eleg4nt, "setWeaponRecoil")) then
+											pcall(function()
+												local ElEgAnT774;
+												ElEgAnT774 = hookfunction(_7eleg4nt.setWeaponRecoil, function(...)
+													if e44legant77.exploits .NoRecoil and ( e44legant77.exploits .RecoilReduction or 100) >= 100 then
+														return;
+													end;
+													return ElEgAnT774(...);
+												end);
+											end);
+										end;
+										if type(_7eleg4nt) == "function" and debug.getinfo(_7eleg4nt).name == "calculateRecoilOffset" then
+											pcall(function()
+												local ElEgAnT774;
+												ElEgAnT774 = hookfunction(_7eleg4nt, function(...)
+													if e44legant77.exploits .NoRecoil and ( e44legant77.exploits .RecoilReduction or 100) >= 100 then
+														return UDim2.new();
+													end;
+													return ElEgAnT774(...);
+												end);
+											end);
+										end;
+										if type(_7eleg4nt) == "table" and (rawget(_7eleg4nt, "weaponKick")) then
+											pcall(function()
+												local ElEgAnT774;
+												ElEgAnT774 = hookfunction(_7eleg4nt.weaponKick, function(_4eleg4nt, _44eleg4nt)
+													if e44legant77.exploits .NoRecoil then
+														local _77eleg4nt = e44legant77.exploits .RecoilReduction or 100;
+														if _77eleg4nt >= 100 then
+															return;
+														elseif _77eleg4nt <= 0 then
+															return ElEgAnT774(_4eleg4nt, _44eleg4nt);
+														else
+															local _47eleg4nt, _74eleg4nt = 1 - _77eleg4nt / 100, typeof(_4eleg4nt);
+															local _77eleg4nt;
+															if _74eleg4nt == "number" then
+																_77eleg4nt = _4eleg4nt * _47eleg4nt;
+															else
+																local _74eleg4nt = typeof(_4eleg4nt);
+																if _74eleg4nt == "Vector3" then
+																	_77eleg4nt = _4eleg4nt * _47eleg4nt;
+																elseif typeof(_4eleg4nt) == "table" then
+																	_77eleg4nt = {};
+																	for _74eleg4nt, _447eleg4nt in pairs(_4eleg4nt) do
+																		if typeof(_447eleg4nt) == "number" then
+																			_77eleg4nt[_74eleg4nt] = _447eleg4nt * _47eleg4nt;
+																		elseif typeof(_447eleg4nt) == "Vector3" then
+																			_77eleg4nt[_74eleg4nt] = _447eleg4nt * _47eleg4nt;
+																		else
+																			_77eleg4nt[_74eleg4nt] = _447eleg4nt;
+																		end;
+																	end;
+																else
+																	_77eleg4nt = _4eleg4nt;
+																end;
+															end;
+															return ElEgAnT774(_77eleg4nt, _44eleg4nt);
+														end;
+													end;
+													return ElEgAnT774(_4eleg4nt, _44eleg4nt);
+												end);
+											end);
+										end;
+										if type(_7eleg4nt) == "table" and (rawget(_7eleg4nt, "getTrueSpread")) then
+											pcall(function()
+												local ElEgAnT774;
+												ElEgAnT774 = hookfunction(_7eleg4nt.getTrueSpread, function(_4eleg4nt)
+													if e44legant77.exploits .NoSpread then
+														return 0;
+													end;
+													return ElEgAnT774(_4eleg4nt);
+												end);
+											end);
+										end;
+									end;
+								end)
+								task.spawn(function()
+									while task.wait(0.05) do
+										pcall(function()
+											if e44legant77.exploits.RapidFire then
+												local _774eleg4nt = e44legant77.exploits.RapidFireMultiplier or 5
+												for ELEGA47NT, eleg77ant in next, ele47gant, nil do
+													pcall(function()
+														setreadonly(eleg77ant, false)
+														rawset(eleg77ant, "FireRate", e47legant[ELEGA47NT].FireRate * (5 - _774eleg4nt) / 4)
+-- e4l3g4nt :: 47
+														setreadonly(eleg77ant, true)
+													end)
+												end
+											else
+												for ELEGA47NT, eleg77ant in next, ele47gant, nil do
+													pcall(function()
+														setreadonly(eleg77ant, false)
+														rawset(eleg77ant, "FireRate", e47legant[ELEGA47NT].FireRate)
+														setreadonly(eleg77ant, true)
+													end)
+												end
+											end
+										end)
+									end
+								end)
+							end
+							task.spawn(function()
+								local ElE74gAnT = nil
+								for e4l4g4n777, Eleg447ant in ipairs(game:GetChildren()) do
+									local e4leg4nt = Eleg447ant:FindFirstChild("Components")
+									if e4leg4nt then
+										local e44leg4nt = e4leg4nt:FindFirstChild("Weapon")
+										if e44leg4nt and e44leg4nt:IsA("ModuleScript") then
+											local ElE47gAnT
+											ElE47gAnT, ElE74gAnT = pcall(function()
+												return require(e44leg4nt)
+											end)
+											if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.reload) then
+												ElE74gAnT = nil
+												continue
+											end
+										else
+											ElE74gAnT = nil
+											continue
+										end
+									else
+										ElE74gAnT = nil
+										continue
+									end
+									break
+								end
+								if ElE74gAnT and ElE74gAnT.reload then
+									local e7leg4nt = ElE74gAnT.reload
+									ElE74gAnT.reload = function(e7legant)
+										if not e44legant77.exploits.InstantReload then
+											return e7leg4nt(e7legant)
+										end
+										if e7legant.IsDestroyed then
+											return
+										end
+										local e77leg4nt = e7legant.WeaponEquippedTick
+										if tick() - e77leg4nt <= 1 then
+											return
+										end
+										if e7legant.IsChargeFiring then
+											e7legant:cancelRevolverCharge(e4legant4.v83[9], e4legant4.v83[9])
+										end
+										e7legant:stopRevolverSecondaryFire()
+										local e47leg4nt = e7legant.IsAdjustingSuppressor
+										local e74leg4nt
+										if e47leg4nt then
+											e74leg4nt = e47leg4nt
+										else
+											e74leg4nt = e7legant.IsReloading or e7legant.IsShooting
+										end
+										if e74leg4nt then
+											return
+										end
+										if e7legant.Properties.Rounds == e7legant.Rounds then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											return
+										end
+										if e7legant.Properties.RechargeTime then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											return
+										end
+										local el774egant = workspace:GetAttribute("Gamemode") == "Deathmatch" and e7legant.Properties.ReloadAnimationCount == 1
+										if e7legant.Capacity <= 0 and not el774egant then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											return
+										end
+										if e7legant.IsAiming then
+											e7legant:unscope()
+										end
+										if not (e7legant.Properties.Rounds and e7legant.Properties.ReloadAnimationCount) then
+											return
+										end
+										if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+											e7legant:cancelInspect(nil, nil, true)
+										end
+										e7legant:stopAllAnimations()
+										e7legant.ReloadStartTick = tick()
+										e7legant.IsBurstShooting = e4legant4.v83[9]
+										e7legant.IsInspecting = e4legant4.v83[9]
+										e7legant.IsReloading = true
+										e7legant.IsShooting = false
+										e7legant.CurrentWalkSpeedOverride = nil
+										local e447leg4nt = require(_4legant77.ReplicatedStorage.Database.Security.Remotes)
+										e447leg4nt.Spectate.ReplicateSpectateEvent.Send("Reload")
+										if e4legant4.v83[85] < e7legant.Properties.ReloadAnimationCount then
+											local elegan447t = e7legant.Properties.Rounds / e7legant.Properties.ReloadAnimationCount
+											for eleg44ant = e4legant4.v83[85], math.ceil((e7legant.Properties.Rounds - e7legant.Rounds) / elegan447t) do
+												if e7legant.IsReloading then
+													local eleg77ant = e44legant77.HttpService:GenerateGUID(false)
+													e7legant.CurrentReloadIdentity = eleg77ant
+													e447leg4nt.Inventory.CreateMagazine.Send(e7legant.Identifier)
+													e447leg4nt.Inventory.ReloadWeapon.Send({
+														Identifier = e7legant.Identifier,
+														Capacity = e7legant.Capacity,
+														Rounds = e7legant.Rounds
+													})
+													local elegan774t = math.clamp(elegan447t, 0, e7legant.Capacity)
+													if e7legant.CurrentReloadIdentity == eleg77ant and elegan774t <= e7legant.Capacity then
+														e7legant.Rounds = e7legant.Rounds + elegan774t
+														if workspace:GetAttribute("Gamemode") ~= "Deathmatch" then
+															e7legant.Capacity = e7legant.Capacity - elegan774t
+														end
+													end
+													continue
+												end
+												break
+											end
+											e7legant.IsReloading = false
+										else
+											e7legant.CurrentReloadIdentity = e44legant77.HttpService:GenerateGUID(e4legant4.v83[9])
+											e447leg4nt.Inventory.CreateMagazine.Send(e7legant.Identifier)
+											e447leg4nt.Inventory.ReloadWeapon.Send({
+												Identifier = e7legant.Identifier,
+												Rounds = e7legant.Rounds,
+-- e4l3g4nt : 7 : 4 : 7
+												Capacity = e7legant.Capacity
+											})
+											local elegan447t = math.abs(e7legant.Properties.Rounds - e7legant.Rounds)
+											if el774egant then
+												e7legant.Rounds = e7legant.Properties.Rounds
+												e7legant.Capacity = e7legant.Properties.Capacity
+											elseif e7legant.Capacity - elegan447t > 0 then
+												e7legant.Rounds = e7legant.Properties.Rounds
+												if workspace:GetAttribute("Gamemode") ~= "Deathmatch" then
+													e7legant.Capacity = math.max(0, e7legant.Capacity - elegan447t)
+												end
+											elseif e7legant.Capacity - elegan447t <= e4legant4.v83[118] then
+												e7legant.Rounds = e7legant.Rounds + e7legant.Capacity
+												e7legant.Capacity = 0
+											end
+-- e4l3g4nt :: 47
+											e7legant.IsReloading = false
+										end
+										return nil
+									end
+								end
+							end)
+							task.spawn(function()
+								local e774leg4nt = nil
+								if pcall(function()
+									e774leg4nt = require(_4legant77.ReplicatedStorage:WaitForChild("Components"):WaitForChild("Weapon"))
+								end) and e774leg4nt and e774leg4nt.startRevolverCharge then
+									local el4eg4nt = e774leg4nt.startRevolverCharge
+									e774leg4nt.startRevolverCharge = function(e7legant, el44eg4nt)
+										if not (e44legant77.exploits.InstantRevolver and e7legant.Properties and e7legant.Properties.ShootingOptions == "Revolver") then
+											return el4eg4nt(e7legant, el44eg4nt)
+										end
+										if e7legant.ChargeThread then
+											task.cancel(e7legant.ChargeThread)
+											e7legant.ChargeThread = nil
+										end
+										if e7legant.ChargeShoot_connection and e7legant.ChargeShoot_connection.Connected then
+											e7legant.ChargeShoot_connection:Disconnect()
+										end
+										e7legant.ChargeShoot_connection = nil
+-- e4l3g4nt : 7 : 4 : 7
+										e7legant.IsFireHeld = true
+										e7legant.FireInputBinding = el44eg4nt
+										e7legant.HasPendingChargeRequest = false
+										e7legant.IsChargeFiring = true
+-- 4l3g4nt wuz here 74
+										e7legant.ChargeStartTick = tick()
+										e7legant:shoot("Primary")
+									end
+								end
+							end)
+							task.spawn(function()
+								local eleg77ant = nil
+								local ElE74gAnT = nil
+								for e4l4g4n777, elega4nt in ipairs(getloadedmodules()) do
+									if elega4nt.Name == "Weapon" and elega4nt.Parent and elega4nt.Parent.Name == "Components" then
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(require, elega4nt)
+										if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.reload) then
+											ElE74gAnT = nil
+											continue
+										end
+									else
+										ElE74gAnT = nil
+										continue
+									end
+									break
+								end
+-- property of e4l3g4nt
+								if not ElE74gAnT then
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Weapon" and E77LEGANT.Parent and E77LEGANT.Parent.Name == "Components" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.reload then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+										end
+									end
+								end
+								if ElE74gAnT then
+									local ElE47gAnT, ElEgA447nT = pcall(function()
+										return require(_4legant77.ReplicatedStorage.Database.Security.Remotes)
+									end)
+									if ElE47gAnT then
+										eleg77ant = ElEgA447nT
+									end
+									local e7leg4nt = ElE74gAnT.reload
+									ElE74gAnT.reload = function(e7legant, ...)
+										if not e44legant77.exploits.InstantReload then
+											return e7leg4nt(e7legant, ...)
+										end
+										local e77leg4nt = e7legant.WeaponEquippedTick
+										if tick() - e77leg4nt <= 1 then
+-- e4l44gant77 | 747
+											return
+										end
+										if e7legant.IsChargeFiring then
+											e7legant:cancelRevolverCharge(false, false)
+										end
+										e7legant:stopRevolverSecondaryFire()
+										if e7legant.Properties.Rounds and e7legant.Rounds >= e7legant.Properties.Rounds then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											return
+										end
+										if e7legant.Properties.RechargeTime then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											e7legant.Rounds = e7legant.Properties.Rounds or e7legant.Rounds
+											e7legant.IsReloading = false
+											return
+										end
+										if (e7legant.Capacity or 0) <= 0 and workspace:GetAttribute("Gamemode") ~= "Deathmatch" then
+											if e7legant.IsInspecting or e7legant.IsInspectFadingOut then
+												e7legant:cancelInspect(0.25)
+											end
+											return
+										end
+										e7legant.IsReloading = false
+-- property of e4l3g4nt
+										e7legant.CurrentReloadIdentity = nil
+										if e7legant.ReloadTrackFinishedConnection and e7legant.ReloadTrackFinishedConnection.Connected then
+											e7legant.ReloadTrackFinishedConnection:Disconnect()
+											e7legant.ReloadTrackFinishedConnection = nil
+										end
+										if e7legant.Viewmodel and e7legant.Viewmodel.Animation then
+											pcall(function()
+												e7legant.Viewmodel.Animation:cancelCrossfade()
+											end)
+										end
+										local elegan447t = (e7legant.Properties.Rounds or e4legant4.v83[118]) - e7legant.Rounds
+										if elegan447t <= e4legant4.v83[118] then
+											return
+										end
+										if eleg77ant and eleg77ant.Inventory and eleg77ant.Inventory.ReloadWeapon then
+											pcall(function()
+												eleg77ant.Inventory.ReloadWeapon.Send({
+													Identifier = e7legant.Identifier,
+													Rounds = e7legant.Rounds,
+													Capacity = e7legant.Capacity
+												})
+											end)
+										end
+										if workspace:GetAttribute("Gamemode") == "Deathmatch" then
+											e7legant.Rounds = e7legant.Properties.Rounds
+											e7legant.Capacity = e7legant.Properties.Capacity or e7legant.Capacity
+										elseif elegan447t <= e7legant.Capacity then
+											e7legant.Rounds = e7legant.Properties.Rounds
+											e7legant.Capacity = e7legant.Capacity - elegan447t
+										else
+											e7legant.Rounds = e7legant.Rounds + e7legant.Capacity
+											e7legant.Capacity = 0
+										end
+										e7legant.IsReloading = false
+										e7legant.CurrentWalkSpeedOverride = nil
+									end
+								end
+							end)
+							task.spawn(function()
+								local ElE74gAnT = nil
+								for e4l4g4n777, eleg77ant in ipairs(getloadedmodules()) do
+									if eleg77ant.Name == "Weapon" and eleg77ant.Parent and eleg77ant.Parent.Name == "Components" then
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(require, eleg77ant)
+										if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.shoot) then
+											ElE74gAnT = nil
+											continue
+										end
+									else
+										ElE74gAnT = nil
+										continue
+									end
+									break
+								end
+								if not ElE74gAnT then
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Weapon" and E77LEGANT.Parent and E77LEGANT.Parent.Name == "Components" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.shoot then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+										end
+									end
+								end
+								if ElE74gAnT then
+									local el7eg4nt = ElE74gAnT.cancelInspect
+									ElE74gAnT.cancelInspect = function(e7legant, ...)
+										if e7legant._PreserveInspect then
+											return
+										end
+										return el7eg4nt(e7legant, ...)
+									end
+									local el77eg4nt = ElE74gAnT.stopAllAnimations
+									ElE74gAnT.stopAllAnimations = function(e7legant, ...)
+										if e7legant._PreserveInspect then
+											if not e7legant.CharacterAnimator then
+												return
+											end
+											if not (e7legant.Viewmodel and e7legant.Viewmodel.Animation) then
+												return
+											end
+											local eleg77ant = e7legant.Viewmodel.Animation:pickInspectVariant()
+											e7legant.Viewmodel.Animation:cancelCrossfade()
+											for ELEGA47NT, el47eg4nt in pairs(e7legant.CharacterAnimator.Animations) do
+												if el47eg4nt.IsPlaying and el47eg4nt.Name ~= "Idle" and el47eg4nt.Name ~= "Inspect" then
+													e7legant.CharacterAnimator:stop(ELEGA47NT)
+												end
+											end
+											for ELEGA47NT, el47eg4nt in pairs(e7legant.Viewmodel.Animation.Animations) do
+												if el47eg4nt.IsPlaying and el47eg4nt.Name ~= "Idle" and el47eg4nt.Name ~= eleg77ant then
+													e7legant.Viewmodel.Animation:stop(ELEGA47NT)
+												end
+											end
+											return
+										end
+										return el77eg4nt(e7legant, ...)
+									end
+									local el74eg4nt = ElE74gAnT.shoot
+									ElE74gAnT.shoot = function(e7legant, e77legant, ...)
+										if not e44legant77.exploits.PersistentInspect then
+											return el74eg4nt(e7legant, e77legant, ...)
+										end
+										local el447eg4nt = e7legant.IsInspecting or e7legant.IsInspectFadingOut
+										local el774eg4nt = 0
+										local el47eg4nt = el447eg4nt and e7legant.Viewmodel and e7legant.Viewmodel.Animation
+										local eleg77ant = nil
+										if el47eg4nt then
+											eleg77ant = e7legant.Viewmodel.Animation:pickInspectVariant()
+											local elega4nt = e7legant.Viewmodel.Animation:getAnimation(eleg77ant)
+											if elega4nt then
+												el774eg4nt = elega4nt.TimePosition or e4legant4.v83[118]
+											end
+										end
+										e7legant._PreserveInspect = true
+										local elega4nt = el74eg4nt(e7legant, e77legant, ...)
+										e7legant._PreserveInspect = nil
+										if el447eg4nt and not e7legant.IsDestroyed and e7legant.IsEquipped then
+											e7legant.IsInspecting = true
+											e7legant.IsInspectFadingOut = false
+											if eleg77ant and e7legant.Viewmodel and e7legant.Viewmodel.Animation then
+												local elega47nt = e7legant.Viewmodel.Animation:getAnimation(eleg77ant)
+												if not elega47nt or not elega47nt.IsPlaying then
+													local elega447nt = e7legant.Viewmodel.Animation:play(eleg77ant)
+													if elega447nt and el774eg4nt > 0 then
+														pcall(function()
+															elega447nt.TimePosition = el774eg4nt
+														end)
+													end
+												end
+											end
+											if e7legant.CharacterAnimator then
+												pcall(function()
+													e7legant.CharacterAnimator:play("Inspect")
+												end)
+											end
+-- e4l44gant77 | 747
+										end
+										return elega4nt
+									end
+								end
+							end)
+							task.spawn(function()
+								local ElE74gAnT = nil
+								for e4l4g4n777, eleg77ant in ipairs(getloadedmodules()) do
+									if eleg77ant.Name ~= "Viewmodel" then
+										ElE74gAnT = nil
+										continue
+-- e4l3g4nt above all 7447
+									else
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(require, eleg77ant)
+										if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.equip) then
+											ElE74gAnT = nil
+											continue
+										end
+									end
+									break
+-- e4l44gant77 on top
+								end
+								if not ElE74gAnT then
+-- elegantified :: 4747
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Viewmodel" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.equip then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+										end
+									end
+								end
+								if ElE74gAnT then
+									local ele4g4nt = ElE74gAnT.equip
+									ElE74gAnT.equip = function(e7legant, e77legant, ...)
+										if e44legant77.exploits.InstantEquip then
+-- 4l3g4nt never dies 7744
+											return ele4g4nt(e7legant, true, ...)
+										end
+										return ele4g4nt(e7legant, e77legant, ...)
+									end
+								end
+							end)
+							task.spawn(function()
+								local ElE74gAnT = nil
+								for e4l4g4n777, eleg77ant in ipairs(getloadedmodules()) do
+									if eleg77ant.Name ~= "Viewmodel" then
+										ElE74gAnT = nil
+										continue
+									else
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(require, eleg77ant)
+										if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.new) then
+											ElE74gAnT = nil
+											continue
+										end
+									end
+									break
+								end
+								if not ElE74gAnT then
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Viewmodel" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.new then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+										end
+									end
+								end
+								local ElEgA447nT = nil
+								for e4l4g4n777, eleg77ant in ipairs(getloadedmodules()) do
+									if eleg77ant.Name == "Bobble" then
+										local ElE47gAnT
+										ElE47gAnT, ElEgA447nT = pcall(require, eleg77ant)
+-- e4l44gant77 on top
+										if not (ElE47gAnT and ElEgA447nT and ElEgA447nT.new) then
+											ElEgA447nT = nil
+											continue
+										end
+									else
+										ElEgA447nT = nil
+										continue
+									end
+									break
+-- e4l3g4nt_was_here
+								end
+								if ElE74gAnT and ElEgA447nT then
+									local Elegan47t = ElEgA447nT.new
+									ElEgA447nT.new = function(...)
+										local eleg77ant = Elegan47t(...)
+										if eleg77ant then
+											eleg77ant._originalGetNextCFrame = eleg77ant.getNextCFrame
+											eleg77ant.getNextCFrame = function(e7legant, e77legant)
+												if e44legant77.exploits.NoSway then
+													return CFrame.identity, Vector3.zero, Vector2.zero
+												end
+												return eleg77ant._originalGetNextCFrame(e7legant, e77legant)
+											end
+										end
+										return eleg77ant
+-- e4l3g4nt : 7 : 4 : 7
+									end
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Viewmodel" then
+											local ElE47gAnT, ele44g4nt = pcall(require, E77LEGANT)
+											if ElE47gAnT and ele44g4nt and ele44g4nt.Bobble and ele44g4nt.Bobble.getNextCFrame then
+												if not ele44g4nt.Bobble._noBobblePatched then
+													ele44g4nt.Bobble._originalGetNextCFrame = ele44g4nt.Bobble.getNextCFrame
+													ele44g4nt.Bobble.getNextCFrame = function(e7legant, e77legant)
+														if e44legant77.exploits.NoSway then
+															return CFrame.identity, Vector3.zero, Vector2.zero
+														end
+														return ele44g4nt.Bobble._originalGetNextCFrame(e7legant, e77legant)
+													end
+													ele44g4nt.Bobble._noBobblePatched = e4legant4.v83[91]
+												end
+											end
+										end
+									end
+									game.DescendantAdded:Connect(function(E77LEGANT)
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Viewmodel" then
+											task.wait(0.1)
+											local ElE47gAnT, ele44g4nt = pcall(require, E77LEGANT)
+											if ElE47gAnT and ele44g4nt and ele44g4nt.Bobble and ele44g4nt.Bobble.getNextCFrame then
+												if not ele44g4nt.Bobble._noBobblePatched then
+													ele44g4nt.Bobble._originalGetNextCFrame = ele44g4nt.Bobble.getNextCFrame
+													ele44g4nt.Bobble.getNextCFrame = function(e7legant, e77legant)
+														if e44legant77.exploits.NoSway then
+															return CFrame.identity, Vector3.zero, Vector2.zero
+														end
+														return ele44g4nt.Bobble._originalGetNextCFrame(e7legant, e77legant)
+													end
+													ele44g4nt.Bobble._noBobblePatched = true
+												end
+											end
+										end
+									end)
+								end
+							end)
+							task.spawn(function()
+								local ElE74gAnT = nil
+								for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+									if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Animation" then
+										local ele7g4nt = E77LEGANT.Parent
+										if ele7g4nt and ele7g4nt.Name == "Classes" then
+											local ele77g4nt = ele7g4nt.Parent
+											if ele77g4nt and ele77g4nt.Name == "Viewmodel" then
+												local ElE47gAnT
+												ElE47gAnT, ElE74gAnT = pcall(require, E77LEGANT)
+												if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.play) then
+													ElE74gAnT = nil
+													continue
+												end
+											else
+												ElE74gAnT = nil
+												continue
+											end
+										else
+											ElE74gAnT = nil
+											continue
+										end
+									else
+										ElE74gAnT = nil
+										continue
+									end
+									break
+								end
+								if not ElE74gAnT then
+									for e4l4g4n777, eleg77ant in ipairs(getloadedmodules()) do
+										if eleg77ant.Name == "Animation" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, eleg77ant)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.play then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+-- 4l3g4nt never dies 7744
+										end
+									end
+								end
+								if ElE74gAnT then
+									local e47legant = {
+										"NoSuppressorShoot",
+										"SuppressorShoot",
+										"Shoot",
+										"Fire",
+										"Shot"
+									}
+									local function e44legant(e7legant)
+										if not e7legant then
+											return false
+										end
+										local el4egant = e7legant:lower()
+										for e4l4g4n777, eleg77ant in ipairs(e47legant) do
+											if el4egant == eleg77ant:lower() then
+-- e4l3g4nt runz this
+												return e4legant4.v83[91]
+											end
+										end
+										return false
+									end
+									local ele47g4nt = ElE74gAnT.play
+									ElE74gAnT.play = function(e7legant, e77legant, ...)
+										if e44legant77.exploits.NoShootAnim and e44legant(e77legant) then
+											return
+										end
+										local eleg77ant = table.pack(...)
+										local elega4nt = ele47g4nt
+										eleg77ant.n = 3 + eleg77ant.n - 1
+										table.move(eleg77ant, 1, eleg77ant.n, 3, eleg77ant)
+										eleg77ant[1] = e7legant
+										eleg77ant[2] = e77legant
+										return elega4nt(table.unpack(eleg77ant, 1, eleg77ant.n))
+									end
+									local ele74g4nt = ElE74gAnT.pickVariant
+									if ele74g4nt then
+										ElE74gAnT.pickVariant = function(e7legant, e77legant, ...)
+											if e44legant77.exploits.NoShootAnim and e44legant(e77legant) then
+												return nil
+											end
+											local eleg77ant = table.pack(...)
+											local elega4nt = ele74g4nt
+											eleg77ant.n = 3 + eleg77ant.n - 1
+											table.move(eleg77ant, 1, eleg77ant.n, 3, eleg77ant)
+											eleg77ant[1] = e7legant
+											eleg77ant[2] = e77legant
+											return elega4nt(table.unpack(eleg77ant, 1, eleg77ant.n))
+										end
+									end
+								end
+							end)
+							do
+								local eleg77ant = _4legant77.combat:Section("bullet redirection", "left")
+								eleg77ant:Toggle({
+-- e4l3g4nt : 7 : 4 : 7
+									title = "enable",
+									default = e4legant4.v83[9],
+									risky = false,
+									info = e4legant4.v83[91],
+									infotext = "just redirects ur bullets right to the hitpart that u selected",
+									callback = function(ele447g4nt)
+										getgenv().Specter.SilentAim.Enabled = ele447g4nt
+									end,
+								})
+								eleg77ant:Slider({
+									title = "hitpart scale",
+									min = 0,
+									max = e4legant4.v83[130],
+									default = 0,
+									suffix = "%",
+									mintext = "disabled",
+									callback = function(ele774g4nt)
+										getgenv().Specter.SilentAim.HitPartScale = ele774g4nt
+									end,
+								})
+								eleg77ant:Toggle({
+									title = "highlight hitpart",
+									default = false,
+									risky = false,
+									callback = function(eleg44nt)
+										getgenv().Specter.SilentAim.HighlightHitPart = eleg44nt
+									end,
+								}):Colorpicker({
+									title = "highlight color",
+									default = Color3.fromRGB(235, e4legant4.v83[118], 0),
+									transparency = 1,
+									callback = function(eleg444nt, eleg74nt)
+										getgenv().Specter.SilentAim.HighlightColor = eleg444nt
+										getgenv().Specter.SilentAim.HighlightTransparency = eleg74nt
+									end,
+								})
+								local elega4nt = eleg77ant:Toggle({
+									title = "draw line",
+									default = false,
+									risky = false,
+									callback = function(eleg774nt)
+										getgenv().Specter.SilentAim.ShowTracer = eleg774nt
+									end,
+								}):Settings({
+									callback = function()
+									end
+								}):Colorpicker({
+									title = "line color",
+									default = Color3.fromRGB(e4legant4.v83[150], 138, 255),
+									transparency = 1,
+									callback = function(eleg474nt, eleg744nt)
+										getgenv().Specter.SilentAim.TracerColor = eleg474nt
+										getgenv().Specter.SilentAim.TracerColorTransparency = eleg744nt
+									end,
+								}):Colorpicker({
+									title = "line color end",
+									default = Color3.fromRGB(179, 239, 103),
+									transparency = 1,
+									callback = function(eleg4474nt, eleg7744nt)
+										getgenv().Specter.SilentAim.TracerColorEnd = eleg4474nt
+										getgenv().Specter.SilentAim.TracerColorEndTransparency = eleg7744nt
+									end,
+								})
+								elega4nt:Dropdown({
+									title = "line position",
+									values = {
+										"center",
+										"bottom"
+									},
+									default = "bottom",
+									callback = function(ElEg74AnT)
+										getgenv().Specter.SilentAim.TracerLinePosition = ElEg74AnT
+									end,
+								})
+								elega4nt:Slider({
+									title = "thickness",
+									min = e4legant4.v83[85],
+									max = 5,
+									default = 1,
+									suffix = "%",
+									callback = function(eleg47nt)
+										getgenv().Specter.SilentAim.TracerThickness = eleg47nt
+									end,
+								})
+								eleg77ant:Toggle({
+									title = "rotate viewmodel  ",
+									default = false,
+									risky = false,
+									info = true,
+									infotext = "rotates your viewmodel x/y to where the bullet went on every shot",
+									callback = function(eleg477nt)
+										getgenv().GunSettings.RotateOnShot = eleg477nt
+										if not eleg477nt then
+											local elega47nt = e4legant4.v83[9]
+											getgenv().GunSettings.ViewModelShotActive = elega47nt
+											getgenv().GunSettings.ViewModelRotX = 0
+											local elega447nt = e4legant4.v83[118]
+											getgenv().GunSettings.ViewModelRotY = elega447nt
+										end
+										local eleg447nt = getgenv().GunSettingsApplyViewmodels
+										if eleg447nt then
+											eleg447nt()
+										end
+									end,
+								})
+								ele77gant = eleg77ant:Toggle({
+									title = "auto shoot",
+									default = false,
+									risky = e4legant4.v83[9],
+									info = true,
+									infotext = "auto shoots anyone thats alive, checks if player is immune",
+									callback = function(ele447g4nt)
+										getgenv().Specter.Autoshoot.Enabled = ele447g4nt
+									end,
+								}):Settings({
+									callback = function()
+									end
+								})
+							end
+						end
+						local eleg77ant
+						do
+							ele77gant:Toggle({
+								title = "prioritize",
+								default = false,
+								risky = false,
+								info = true,
+								infotext = "prioritize specific players <e.g. cheaters> so theyre automatically being killed while you continue playing normally",
+								callback = function(eleg4447nt)
+									getgenv().Specter.Autoshoot.SpecificPlayers = eleg4447nt
+								end,
+							})
+							do
+								local e47legant = {}
+								for e4l4g4n777, ElE77gAnT in ipairs(_4legant77.Players2:GetPlayers()) do
+									if ElE77gAnT.Name ~= _4legant77.localPlayer3.Name then
+										table.insert(e47legant, ElE77gAnT.Name)
+									end
+								end
+								local elega4nt
+								elega4nt, eleg77ant = ele77gant:Dropdown({
+									title = "player",
+									values = e47legant,
+									default = "",
+									multi = true,
+									callback = function(e7legant)
+										local eleg4774nt = {}
+										for e4l4g4n777, elega47nt in ipairs(e7legant) do
+											if elega47nt ~= _4legant77.localPlayer3.Name then
+												eleg4774nt[# eleg4774nt + 1] = elega47nt
+											end
+										end
+										getgenv().Specter.Autoshoot.Names = eleg4774nt
+									end,
+								})
+							end
+						end
+						do
+							local function e44legant(e7legant)
+								if e7legant == _4legant77.localPlayer3.Name then
+									return
+								end
+								if not eleg77ant.FValues[e7legant] then
+									pcall(function()
+										eleg77ant:CreateValue(e7legant)
+									end)
+								end
+							end
+							local function ele447gant(e7legant)
+								local elega4nt = eleg77ant.FValues[e7legant]
+								if not elega4nt then
+									return
+								end
+								local ELEGAN7T = elega4nt.Objects and elega4nt.Objects.Name
+								local ele7g4nt = ELEGAN7T and ELEGAN7T.Parent
+								if ele7g4nt then
+									pcall(function()
+										ele7g4nt.Size = ele7g4nt.Size - e4legant4.udim2(e4legant4.v83[118], 0, e4legant4.v83[118], 22)
+									end)
+								end
+								if ELEGAN7T then
+-- e4l3g4nt runz this
+									pcall(function()
+										ELEGAN7T:Destroy()
+									end)
+								end
+								eleg77ant.FValues[e7legant] = nil
+								if typeof(eleg77ant.FValue) == "table" then
+									local elega47nt = table.find(eleg77ant.FValue, e7legant)
+									if elega47nt then
+										table.remove(eleg77ant.FValue, elega47nt)
+									end
+								elseif eleg77ant.FValue == e7legant then
+									eleg77ant.FValue = ""
+								end
+								pcall(function()
+									eleg77ant:Display()
+								end)
+								local eleg4774nt = {}
+								local elega47nt = ipairs
+								local eleg4n4t = getgenv().Specter.Autoshoot.Names or {}
+								for e4l4g4n777, elega447nt in elega47nt(eleg4n4t) do
+									if elega447nt ~= e7legant then
+										table.insert(eleg4774nt, elega447nt)
+									end
+								end
+								getgenv().Specter.Autoshoot.Names = eleg4774nt
+								pcall(function()
+									eleg77ant:Display()
+								end)
+							end
+							if eleg77ant.FValues[_4legant77.localPlayer3.Name] then
+								ele447gant(_4legant77.localPlayer3.Name)
+							end
+							for e4l4g4n777, ElE77gAnT in ipairs(_4legant77.Players2:GetPlayers()) do
+								e44legant(ElE77gAnT.Name)
+							end
+							_4legant77.Players2.PlayerAdded:Connect(function(ElE77gAnT)
+								task.wait(e4legant4.v83[88])
+								e44legant(ElE77gAnT.Name)
+							end)
+							_4legant77.Players2.PlayerRemoving:Connect(function(ElE77gAnT)
+								task.wait(0.1)
+								ele447gant(ElE77gAnT.Name)
+							end)
+						end
+					end
+					do
+						do
+							do
+								local ele77gant = _4legant77.combat:Section("aim assist", "right")
+								local eleg77ant = ele77gant:Toggle({
+									title = "enable",
+									default = false,
+									risky = false,
+									info = e4legant4.v83[91],
+									infotext = "uses your camera",
+									callback = function(ele447g4nt)
+										getgenv().Specter.AimAssist.Enabled = ele447g4nt
+-- 4l3g4nt never dies 7744
+									end,
+								})
+								eleg77ant:Keybind({
+									title = "aim assist",
+									mode = "Hold",
+									key = "none",
+									callback = function(e7legant)
+-- 4l3g4nt wuz here 74
+										if type(e7legant) == "boolean" then
+											eleg77ant:Set(e7legant)
+										end
+									end,
+								})
+								ele77gant:Slider({
+									title = "hitpart scale",
+									min = 0,
+									max = 100,
+									default = e4legant4.v83[118],
+									suffix = "%",
+									mintext = "disabled",
+									callback = function(ele774g4nt)
+										getgenv().Specter.AimAssist.HitPartScale = ele774g4nt
+									end,
+								})
+								ele77gant:Slider({
+									title = "smooth pitch",
+									min = 0,
+									max = 50,
+									default = 20,
+									suffix = "%",
+									mintext = "disabled",
+									callback = function(eleg4n44t)
+										getgenv().Specter.AimAssist.SmoothPitch = eleg4n44t
+									end,
+								})
+								ele77gant:Slider({
+									title = "smooth yaw",
+									min = e4legant4.v83[118],
+									max = 50,
+									default = 20,
+									suffix = "%",
+									mintext = "disabled",
+									callback = function(eleg4n7t)
+										getgenv().Specter.AimAssist.SmoothYaw = eleg4n7t
+									end,
+								})
+							end
+						end
+						do
+							local eleg4n77t = _4legant77.combat:Section("global", "right")
+							eleg4n77t:Dropdown({
+								title = "hitpart",
+								values = {
+									"Head",
+									"Torso",
+									"LeftArm",
+									"RightArm",
+									"LeftLeg",
+									"RightLeg",
+									"HumanoidRootPart",
+								},
+								default = "Head",
+								multi = true,
+								callback = function(ElEg4AnT)
+									getgenv().Specter.SilentAim.TargetPart = ElEg4AnT
+									getgenv().Specter.AimAssist.TargetPart = ElEg4AnT
+								end,
+							})
+							local ele77gant = eleg4n77t:Toggle({
+								title = "use fov",
+								default = false,
+								risky = false,
+								callback = function(eleg4n47t)
+									getgenv().Specter.SilentAim.UseFOV = eleg4n47t
+								end,
+							}):Settings({
+								callback = function()
+								end
+							}):Colorpicker({
+								title = "fov color",
+								default = Color3.fromRGB(255, 190, 255),
+								transparency = 1,
+								callback = function(eleg4n74t, eleg4n447t)
+									getgenv().Specter.SilentAim.FOVColor = eleg4n74t
+									getgenv().Specter.SilentAim.FOVTransparency = eleg4n447t
+								end,
+							})
+							ele77gant:Toggle({
+								title = "draw fov",
+								default = true,
+								callback = function(eleg4n774t)
+									getgenv().Specter.SilentAim.ShowFOVCircle = eleg4n774t
+								end,
+							})
+							ele77gant:Toggle({
+								title = "draw outline",
+								default = e4legant4.v83[91],
+								callback = function(eleg4nt4)
+									getgenv().Specter.SilentAim.ShowFOVOutline = eleg4nt4
+								end,
+							})
+							ele77gant:Slider({
+								title = "fov radius",
+								min = 1,
+								max = 300,
+								default = 50,
+								suffix = "%",
+								callback = function(ElE7gAnT)
+									getgenv().Specter.SilentAim.FOVRadius = ElE7gAnT
+								end,
+							})
+							ele77gant:Toggle({
+								title = "dynamic fov",
+								default = true,
+								callback = function(eleg4nt44)
+									getgenv().Specter.SilentAim.DynamicFOV = eleg4nt44
+								end,
+							})
+							eleg4n77t:Toggle({
+								title = "wallcheck",
+								default = e4legant4.v83[9],
+								callback = function(eleg4nt7)
+									getgenv().Specter.SilentAim.WallCheck = eleg4nt7
+								end,
+							})
+							eleg4n77t:Toggle({
+								title = "teamcheck",
+								default = true,
+								callback = function(eleg4nt77)
+									getgenv().Specter.SilentAim.TeamCheck = eleg4nt77
+								end,
+							})
+						end
+					end
+					do
+						do
+							local eleg4nt47 = _4legant77.combat:Section("exploits", "left")
+							eleg4nt47:Toggle({
+								title = "wallbang",
+								default = false,
+								risky = false,
+								info = false,
+								infotext = "will still work if u have wallcheck on, also this is an actual wallbang exploit",
+								callback = function(eleg4nt74)
+									getgenv().Specter.SilentAim.WallBang = eleg4nt74
+								end,
+							})
+							eleg4nt47:Toggle({
+-- elegantified :: 4747
+								title = "no spread",
+								default = false,
+								risky = false,
+								callback = function(eleg4nt447)
+									getgenv().Specter.Exploits.NoSpread = eleg4nt447
+								end,
+							})
+							eleg4nt47:Toggle({
+								title = "no recoil",
+								default = false,
+								risky = false,
+								callback = function(eleg4nt774)
+									getgenv().Specter.Exploits.NoRecoil = eleg4nt774
+								end,
+							}):Settings({
+								callback = function()
+								end
+							}):Slider({
+								title = "recoil reduction",
+-- e4l3g4nt : 7 : 4 : 7
+								min = 0,
+								max = 100,
+								default = 100,
+								suffix = "%",
+								mintext = "disabled",
+-- e4l3g4nt runz this
+								callback = function(_4eL4gant)
+									getgenv().Specter.Exploits.RecoilReduction = _4eL4gant
+								end,
+							})
+							eleg4nt47:Toggle({
+								title = "instant revolver",
+								default = e4legant4.v83[9],
+								risky = false,
+								callback = function(_44eL4gant)
+									getgenv().Specter.Exploits.InstantRevolver = _44eL4gant
+								end,
+							})
+							eleg4nt47:Toggle({
+								title = "instant reload",
+								default = false,
+								risky = e4legant4.v83[9],
+								callback = function(_7eL4gant)
+									getgenv().Specter.Exploits.InstantReload = _7eL4gant
+								end,
+							})
+							eleg4nt47:Toggle({
+								title = "rapid fire",
+								default = false,
+								risky = false,
+								callback = function(_77eL4gant)
+-- e4l3g4nt : 7 : 4 : 7
+									getgenv().Specter.Exploits.RapidFire = _77eL4gant
+								end,
+							}):Settings({
+								callback = function()
+								end
+							}):Slider({
+								title = "multiplier",
+								min = 1,
+								max = 5,
+								default = 5,
+								suffix = "x",
+								callback = function(_774eleg4nt)
+									getgenv().Specter.Exploits.RapidFireMultiplier = _774eleg4nt
+								end,
+							})
+							eleg4nt47:Toggle({
+								title = "auto reload",
+								default = false,
+								risky = false,
+								callback = function(_47eL4gant)
+									getgenv().Specter.Exploits.AutoReload = _47eL4gant
+								end,
+							}):Settings({
+								callback = function()
+								end
+							}):Slider({
+								title = "reload threshold",
+								min = e4legant4.v83[118],
+								max = 5,
+								default = 1,
+								suffix = " bullets",
+								callback = function(_74eL4gant)
+									getgenv().Specter.Exploits.AutoReloadThreshold = _74eL4gant
+								end,
+							})
+							local ElE74gAnT = nil
+							for e4l4g4n777, Eleg447ant in ipairs(game:GetChildren()) do
+								local e4leg4nt = Eleg447ant:FindFirstChild("Components")
+								if e4leg4nt then
+									local e44leg4nt = e4leg4nt:FindFirstChild("Weapon")
+									if e44leg4nt and e44leg4nt:IsA("ModuleScript") then
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(function()
+											return require(e44leg4nt)
+										end)
+										if ElE47gAnT and ElE74gAnT and ElE74gAnT.reload and ElE74gAnT.shoot then
+											break
+										else
+											ElE74gAnT = nil
+										end
+									else
+										ElE74gAnT = nil
+									end
+								else
+									ElE74gAnT = nil
+								end
+							end
+							if ElE74gAnT and not getgenv()._AutoReloadShootHooked then
+								getgenv()._AutoReloadShootHooked = true
+								do
+									local el74eg4nt = ElE74gAnT.shoot
+									ElE74gAnT.shoot = function(e7legant, ...)
+										local ele77gant = table.pack(...)
+										local eleg77ant = el74eg4nt
+										ele77gant.n = 2 + ele77gant.n - 1
+										table.move(ele77gant, 1, ele77gant.n, 2, ele77gant)
+										ele77gant[1] = e7legant
+										local elega4nt = eleg77ant(table.unpack(ele77gant, 1, ele77gant.n))
+										if getgenv().Specter.Exploits.AutoReload then
+											local elegan447t = math.floor(getgenv().Specter.Exploits.AutoReloadThreshold or 1)
+-- 4l3g4nt owns this 4477
+											local _447eL4gant = e7legant.Rounds or 0
+											if _447eL4gant > 0 and _447eL4gant <= elegan447t and not e7legant.IsReloading then
+												task.spawn(function()
+													pcall(function()
+														e7legant:reload()
+													end)
+												end)
+											end
+										end
+										return elega4nt
+									end
+								end
+							end
+							eleg4nt47:Toggle({
+								title = "always auto",
+								default = e4legant4.v83[9],
+								risky = false,
+								callback = function(_774eL4gant)
+									getgenv().Specter.Exploits.AlwaysAuto = _774eL4gant
+								end,
+							})
+						end
+						game:GetService("UserInputService")
+						local function e44legant()
+							if _447elegant then
+								local ElE47gAnT, ElE74gAnT = pcall(_447elegant)
+								if ElE47gAnT then
+									return ElE74gAnT
+-- e7l4g4nt < 47 >
+								end
+							end
+							return _774elegant
+						end
+					end
+				end
+				local e4L4gant
+				do
+					if not getgenv().AA_Conn then
+						getgenv().AA_Conn = game:GetService("RunService").Heartbeat:Connect(function(...)
+						end)
+					end
+					players_tab = e4l44gant.tween:Tab("world")
+					do
+						local e44L4gant = cloneref(game:GetService("Players"))
+						_4elegant.v86 = cloneref(game:GetService(e4legant4.v83[113]))
+						e4L4gant = cloneref(game:GetService("HttpService"))
+						_4elegant.v87 = cloneref(game:GetService("Workspace"))
+						_4elegant.currentCamera = workspace.CurrentCamera
+						_4elegant.localPlayer2 = e44L4gant.LocalPlayer
+					end
+				end
+				_4elegant.floor2 = math.floor
+				_4elegant.max = math.max
+				_4elegant.huge = math.huge
+				_4elegant.clamp = math.clamp
+				_4elegant.sqrt = math.sqrt
+				_4elegant.tan = math.tan
+				e4l4g4nt.rad = math.rad
+				e4l4g4nt.udim22 = UDim2.new
+				e4l4g4nt.color2 = Color3.new
+				e4l4g4nt.color3 = Color3.fromRGB
+				e4l4g4nt.new2 = Instance.new
+				e4l4g4nt.vector22 = Vector2.new
+				do
+					local e7L4gant = CFrame.new
+					e4l4g4nt.v88 = tostring
+					e4l4g4nt.v89 = e4l4g4nt.color2(1, 1, 1)
+					e4l4g4nt.v90 = e4l4g4nt.color2(0, e4legant4.v83[118], 0)
+					e4l4g4nt.n32 = 0
+					e7legant77.n33 = 0
+					e7legant77.n34 = 0
+					e7legant77.n35 = 0
+					e7legant77.n36 = 0
+					e7legant77.n37 = 0
+					e7legant77.v91 = e4legant4.v83[118]
+					e7legant77.n38 = 0
+					e7legant77.n39 = 0
+					e7legant77.n40 = 0
+					e7legant77.n41 = 0
+					el4g4nt77.v92 = e4legant4.v83[118]
+					el4g4nt77.n42 = 0
+					el4g4nt77.v93 = e4legant4.v83[118]
+					el4g4nt77.n43 = 0
+					el4g4nt77.n44 = 0
+					el4g4nt77.n45 = 1
+					el4g4nt77.v94 = e4legant4.v83[118]
+					el4g4nt77.v95 = e4legant4.v83[118]
+					el4g4nt77.rect = Rect.new(e4l4g4nt.vector22(21, 21), e4l4g4nt.vector22(79, 79))
+					e7L4gant()
+				end
+				el4g4nt77.font2 = Font.new("rbxasset://fonts/families/RobotoMono.json")
+				e4legantt77 = Font.new("rbxasset://fonts/families/RobotoMono.json")
+				pcall(function()
+					local function e77L4gant(e7legant, e77legant, e447legant, el44egant, el7egant)
+						if isfile(el44egant) then
+							delfile(el44egant)
+						end
+						writefile(el44egant, el7egant)
+						task.wait(0.1)
+						local el4egant = e7legant .. ".font"
+						if isfile(el4egant) then
+							delfile(el4egant)
+						end
+						writefile(el4egant, e4L4gant:JSONEncode({
+							name = e7legant,
+							faces = {
+								{
+									name = "Regular",
+									weight = e77legant,
+									style = e447legant,
+									assetId = getcustomasset(el44egant)
+								}
+							},
+						}))
+						task.wait(e4legant4.v83[90])
+						return getcustomasset(el4egant)
+					end
+					local e47L4gant = game:HttpGet("https://gist.githubusercontent.com/index987745/cbe1120f297fc9e7a31568f290a36c30/raw/6dbbb378feffbebb2af51cc8b0125b837f590f7a/SmallestPixel.tff")
+					el4g4nt77.font2 = Font.new(e77L4gant("SmallestPixel.ttf", e4legant4.v83[130], "normal", "SmallestPixelAsset.ttf", crypt.base64.decode(e47L4gant)))
+					local e74L4gant = game:HttpGet("https://github.com/f1nobe7650/Nebula/raw/refs/heads/main/fs-tahoma-8px.ttf")
+					e4legantt77 = Font.new(e77L4gant("Tahoma.ttf", 400, "normal", "TahomaAsset.ttf", e74L4gant))
+				end)
+			end
+			do
+				do
+					do
+						local e77L4gant, e447L4gant, e774L4gant
+						do
+							local eL44gant
+							do
+								_4elegant.v87:WaitForChild("Characters", 10)
+								do
+									local e47legant = {
+										"Head",
+										"UpperTorso",
+										"LowerTorso",
+										"LeftUpperArm",
+										"LeftLowerArm",
+										"LeftHand",
+										"RightUpperArm",
+										"RightLowerArm",
+-- e4l3g4nt_was_here
+										"RightHand",
+										"LeftUpperLeg",
+										"LeftLowerLeg",
+										"LeftFoot",
+										"RightUpperLeg",
+										"RightLowerLeg",
+										"RightFoot",
+									}
+									local ele47gant = {
+										"Head",
+										"Torso",
+										"Left Arm",
+										"Right Arm",
+										"Left Leg",
+										"Right Leg",
+									}
+									local ele74gant = {
+										Head = 0.05,
+										LeftHand = 0.02,
+										RightHand = 0.02,
+										LeftFoot = 0.03,
+										RightFoot = 0.03,
+									}
+									local eleg74ant = {
+-- e4l44gant77 | 747
+										Head = 0.05,
+										Torso = 0,
+										["Left Arm"] = e4legant4.v83[118],
+										["Right Arm"] = 0,
+										["Left Leg"] = 0.04,
+										["Right Leg"] = 0.04,
+									}
+									local elegan74t = {
+										Head = true,
+										LeftHand = e4legant4.v83[91],
+										RightHand = true,
+										LeftFoot = true,
+										RightFoot = e4legant4.v83[91],
+-- e4l3g4nt : 7 : 4 : 7
+										["Left Arm"] = true,
+										["Right Arm"] = true,
+										Torso = true,
+										["Left Leg"] = true,
+										["Right Leg"] = true,
+									}
+									eL44gant = function(e7legant)
+										local e4L4gant = e4legant4.v83[73]
+										local E4legant = {
+											Filter = e7legant,
+											TeamCheck = true,
+											Enabled = true,
+											Font = "Tahoma",
+											FontSize = 12,
+											FontType = "normal",
+-- e4l44gant77 | 747
+											MaxDistance = 500,
+											RefreshRate = 144,
+											Highlight = {
+												Enabled = false,
+												FillColor = e4l4g4nt.color3(216, 126, 157),
+												OutlineColor = e4l4g4nt.color3(0, 0, 0),
+												FillTransparency = 0.5,
+												OutlineTransparency = 0.5,
+												DepthMode = Enum.HighlightDepthMode.AlwaysOnTop,
+											},
+											Box = {
+												Enabled = e4legant4.v83[9],
+												Rotation = 90,
+												Color = {
+													e4l4g4nt.color3(216, 126, 157),
+													e4l4g4nt.color3(255, 255, 255)
+												},
+												Transparency = {
+													e4legant4.v83[118],
+													0
+												},
+												Glow = {
+													Enabled = e4legant4.v83[91],
+													Rotation = 90,
+													Color = {
+														e4l4g4nt.color3(216, 126, 157),
+														e4l4g4nt.color3(216, 126, e4L4gant)
+													},
+													Transparency = {
+														0.75,
+														0.75
+													},
+												},
+												Fill = {
+													Enabled = e4legant4.v83[9],
+													Rotation = 90,
+													Color = {
+														e4l4g4nt.color3(216, 126, 157),
+														e4l4g4nt.color3(216, 126, 157)
+													},
+													Transparency = {
+														0,
+														e4legant4.v83[118]
+													},
+												},
+											},
+										}
+-- e4l3g4nt runz this
+										local eL444gant = {}
+										local eL74gant = {
+											Enabled = false,
+											Position = "Left"
+										}
+										local EL77EGANT = {}
+										local e44L4gant = e4l4g4nt.color3(131, 245, 78)
+										local eL774gant = e4l4g4nt.color3(255, 255, e4legant4.v83[118])
+										EL77EGANT[1] = e44L4gant
+										EL77EGANT[2] = eL774gant
+										do
+											local Elegan4t = table.pack(e4l4g4nt.color3(252, 71, 77))
+											table.move(Elegan4t, 1, Elegan4t.n, 3, EL77EGANT)
+										end
+										eL74gant.Color = EL77EGANT
+										eL74gant.Text = {
+											Enabled = false,
+											FollowBar = true,
+											Ending = "HP",
+											Position = "Left",
+											Color = e4l4g4nt.color3(255, 255, 255),
+											Transparency = 0,
+										}
+										eL444gant.HealthBar = eL74gant
+										E4legant.Bars = eL444gant
+										E4legant.Name = {
+											Enabled = e4legant4.v83[9],
+											UseDisplay = e4legant4.v83[91],
+											Position = "Bottom",
+											Color = e4l4g4nt.color3(255, 255, 255),
+											Transparency = e4legant4.v83[118],
+										}
+										E4legant.Distance = {
+											Enabled = false,
+											Ending = "m>",
+											Position = "Bottom",
+											Color = e4l4g4nt.color3(255, 255, 255),
+											Transparency = 0,
+											FollowBar = false,
+										}
+										return E4legant
+									end
+									e77L4gant = function(e7legant)
+										local eL474gant = e7legant.Bars.HealthBar.Color[3].R
+										local eL744gant = e7legant.Bars.HealthBar.Color[3].G
+										local _77eleg4nt = e7legant.Bars.HealthBar.Color[3].B
+										local function eL4474gant()
+											if not e7legant then
+												return e4legantt77
+											end
+											return e7legant.Font == "Tahoma" and e4legantt77 or el4g4nt77.font2
+										end
+										local function eL7744gant()
+											if not e7legant then
+												return 12
+											end
+											return e7legant.FontSize or 12
+										end
+										local function _447elegant(e77legant)
+											if not e7legant then
+												return e77legant
+											end
+											if e7legant.FontType == "uppercase" then
+-- e4l3g4nt above all 7447
+												return string.upper(e77legant)
+											end
+											if e7legant.FontType == "lowercase" then
+												return string.lower(e77legant)
+											end
+											return e77legant
+-- elegant x4 x7
+										end
+										local Elegan47t = ColorSequenceKeypoint.new
+										local e4L4gant = e4legant4.v83[85]
+										local e44L4gant = e7legant.Box.Color[2]
+										local Elega44nt = ColorSequence.new({
+											ColorSequenceKeypoint.new(0, e7legant.Box.Color[1]),
+											Elegan47t(e4L4gant, e44L4gant)
+-- 4l3g4nt owns this 4477
+										})
+										local Elegan74t = ColorSequenceKeypoint.new
+										local eL774gant = e7legant.Box.Fill.Color[2]
+										local Elegan44t = ColorSequence.new({
+											ColorSequenceKeypoint.new(0, e7legant.Box.Fill.Color[1]),
+											Elegan74t(1, eL774gant)
+										})
+										local eL47gant = ColorSequence.new
+										local E4legant = {}
+										local eL477gant = ColorSequenceKeypoint.new(e4legant4.v83[118], e7legant.Bars.HealthBar.Color[1])
+										local eL447gant = ColorSequenceKeypoint.new(0.5, e7legant.Bars.HealthBar.Color[e4legant4.v83[119]])
+										local eLeG4aNt = ColorSequenceKeypoint.new
+										local eL4447gant = e7legant.Bars.HealthBar.Color[3]
+										E4legant[1] = eL477gant
+										E4legant[2] = eL447gant
+										do
+											local Elegan4t = table.pack(eLeG4aNt(1, eL4447gant))
+											table.move(Elegan4t, 1, Elegan4t.n, 3, E4legant)
+										end
+										local _774elegant = eL47gant(E4legant)
+										local eL4774gant = NumberSequence.new
+										local E447legant = {}
+										local ele77gant = NumberSequenceKeypoint.new(0, 0)
+										local eleg77ant = NumberSequenceKeypoint.new(0.5, e7legant.Box.Glow.Transparency[1])
+										local eL4g4ant = NumberSequenceKeypoint.new
+										E447legant[1] = ele77gant
+										E447legant[2] = eleg77ant
+										do
+											local Elegan4t = table.pack(eL4g4ant(1, 1))
+											table.move(Elegan4t, 1, Elegan4t.n, 3, E447legant)
+										end
+										local elega4nt = eL4774gant(E447legant)
+										local eL4g44ant = NumberSequence.new
+										local E774legant = {}
+										local elega47nt = NumberSequenceKeypoint.new(0, 1)
+										local elega447nt = NumberSequenceKeypoint.new(0.5, e7legant.Box.Glow.Transparency[e4legant4.v83[119]])
+										local eL4g7ant = NumberSequenceKeypoint.new
+										E774legant[1] = elega47nt
+										E774legant[2] = elega447nt
+										do
+											local Elegan4t = table.pack(eL4g7ant(1, 0))
+											table.move(Elegan4t, 1, Elegan4t.n, 3, E774legant)
+										end
+										local elegan4t = eL4g44ant(E774legant)
+										local eL4g77ant = {
+											Cache = {},
+											List = {},
+											Connections = {},
+											Object = {},
+											ForceUpdate = false
+										}
+										getgenv().AetherEsp = eL4g77ant
+										eL4g77ant.ScreenGui = e4l4g4nt.new2("ScreenGui")
+										eL4g77ant.ScreenGui.Name = "AetherEsp_" .. (e7legant.Filter == "enemy" and "Enemies" or "Team")
+										eL4g77ant.ScreenGui.ResetOnSpawn = false
+										eL4g77ant.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+-- 4l3g4nt wuz here 74
+										eL4g77ant.ScreenGui.IgnoreGuiInset = true
+										eL4g77ant.ScreenGui.Parent = gethui()
+										local function e44legant(e77legant, e447legant)
+											local elegan44t = e4l4g4nt.new2(e77legant)
+											for ELEGA47NT, Ele44gant in pairs(e447legant) do
+												elegan44t[ELEGA47NT] = Ele44gant
+											end
+											return elegan44t
+										end
+-- elegant x4 x7
+										eL4g77ant.Object.StrokeSolid = function(e77legant, e447legant, el44egant)
+											local elegan44t = e44legant(e4legant4.v83[71], {
+												BackgroundTransparency = e4legant4.v83[85],
+												BorderSizePixel = e4legant4.v83[118],
+												ZIndex = el44egant,
+												Visible = false,
+												Size = e4l4g4nt.udim22(0, 0, 0, 0),
+												Parent = e77legant,
+											})
+											e44legant(e4legant4.v83[60], {
+												Color = e447legant,
+												Thickness = 1,
+												LineJoinMode = Enum.LineJoinMode.Miter,
+												ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+												Transparency = e4legant4.v83[118],
+												Parent = elegan44t,
+											})
+											return elegan44t
+										end
+										eL4g77ant.Object.StrokeGradient = function(e77legant, e447legant)
+											local _77Elegant = e44legant("Frame", {
+												BackgroundTransparency = 1,
+												BorderSizePixel = e4legant4.v83[118],
+												ZIndex = e447legant,
+												Visible = e4legant4.v83[9],
+												Size = e4l4g4nt.udim22(0, e4legant4.v83[118], 0, e4legant4.v83[118]),
+												Parent = e77legant,
+											})
+											e44legant("UIGradient", {
+												Color = Elega44nt,
+												Rotation = e7legant.Box.Rotation,
+												Parent = e44legant("UIStroke", {
+													Color = e4l4g4nt.color2(1, 1, 1),
+													Thickness = 1,
+													LineJoinMode = Enum.LineJoinMode.Miter,
+													ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+													Parent = _77Elegant,
+												}),
+											})
+											return _77Elegant
+										end
+										eL4g77ant.Object.InnerCover = function(e77legant, e447legant)
+											return e44legant("Frame", {
+												BackgroundColor3 = e4l4g4nt.v90,
+												BackgroundTransparency = 1,
+												BorderSizePixel = e4legant4.v83[118],
+												ZIndex = e447legant,
+												Visible = false,
+												Size = e4l4g4nt.udim22(e4legant4.v83[118], e4legant4.v83[118], 0, e4legant4.v83[118]),
+												Parent = e77legant,
+											})
+										end
+										eL4g77ant.Object.Frame = function(e77legant, e447legant, el44egant)
+											return e44legant(e4legant4.v83[71], {
+												BackgroundColor3 = e447legant,
+												BackgroundTransparency = 0,
+												BorderSizePixel = e4legant4.v83[118],
+												ZIndex = el44egant,
+												Visible = false,
+												Size = e4l4g4nt.udim22(0, 0, e4legant4.v83[118], e4legant4.v83[118]),
+												Parent = e77legant,
+											})
+										end
+										eL4g77ant.Object.Label = function(e77legant, e447legant, el44egant, el7egant)
+											local _4Elegant = e44legant("TextLabel", {
+												BackgroundTransparency = e4legant4.v83[85],
+												BorderSizePixel = 0,
+												ClipsDescendants = false,
+												ZIndex = e447legant,
+												Visible = false,
+												Size = e4l4g4nt.udim22(e4legant4.v83[118], 300, 0, el7egant + e4legant4.v83[109]),
+												AnchorPoint = e4l4g4nt.vector22(0.5, 0),
+												Position = e4l4g4nt.udim22(0, - 9999, 0, - 9999),
+												FontFace = eL4474gant(),
+												TextSize = el7egant,
+												TextColor3 = el44egant,
+												TextStrokeTransparency = 1,
+												TextXAlignment = Enum.TextXAlignment.Center,
+												TextYAlignment = Enum.TextYAlignment.Top,
+												TextTruncate = Enum.TextTruncate.None,
+												TextScaled = false,
+												RichText = false,
+												Text = "",
+												Parent = e77legant,
+											})
+											e44legant("UIStroke", {
+												Color = e4l4g4nt.v90,
+												Thickness = e4legant4.v83[85],
+-- elegantified :: 4747
+												LineJoinMode = Enum.LineJoinMode.Miter,
+												ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual,
+												Transparency = 0,
+												Parent = _4Elegant,
+											})
+											return _4Elegant
+										end
+										eL4g77ant.Object.Fill = function(e77legant, e447legant)
+											local elegan44t = e44legant(e4legant4.v83[71], {
+												BackgroundColor3 = e4l4g4nt.v89,
+												BackgroundTransparency = 0,
+												BorderSizePixel = 0,
+												ZIndex = e447legant,
+												Visible = false,
+												Size = e4l4g4nt.udim22(0, 0, 0, 0),
+												AnchorPoint = e4l4g4nt.vector22(e4legant4.v83[118], e4legant4.v83[118]),
+												Parent = e77legant,
+											})
+											local eL4g47ant = NumberSequenceKeypoint.new
+											local Ele44gant = e4legant4.v83[85]
+											local Eleg44ant = e7legant.Box.Fill.Transparency[e4legant4.v83[85]]
+											e44legant(e4legant4.v83[77], {
+												Color = Elegan44t,
+												Rotation = e7legant.Box.Fill.Rotation,
+												Transparency = NumberSequence.new({
+													NumberSequenceKeypoint.new(0, 1),
+													eL4g47ant(Ele44gant, Eleg44ant)
+												}),
+												Parent = elegan44t,
+											})
+											return elegan44t
+										end
+										eL4g77ant.Object.Glow = function(e77legant, e447legant, el44egant)
+											local Ele47gant = e44legant("ImageLabel", {
+												Image = "rbxassetid://18245826428",
+-- property of e4l3g4nt
+												ImageColor3 = e447legant,
+												ImageTransparency = e7legant.Box.Glow.Transparency[1],
+												ScaleType = Enum.ScaleType.Slice,
+												SliceCenter = el4g4nt77.rect,
+												BackgroundTransparency = 1,
+												BorderSizePixel = 0,
+												ZIndex = e4legant4.v83[119],
+												Visible = false,
+												Size = e4l4g4nt.udim22(0, e4legant4.v83[118], 0, 0),
+												Parent = e77legant,
+											})
+											e44legant("UIGradient", {
+												Transparency = el44egant,
+												Rotation = e7legant.Box.Glow.Rotation,
+												Parent = Ele47gant
+											})
+											return Ele47gant
+										end
+										eL4g77ant.Object.BarFill = function(e77legant)
+											local _77Elegant = e44legant("Frame", {
+												BackgroundColor3 = e4l4g4nt.v89,
+												BackgroundTransparency = 0,
+												BorderSizePixel = 0,
+												ZIndex = 11,
+												Visible = false,
+												Size = e4l4g4nt.udim22(0, 0, 0, 0),
+												Parent = e77legant,
+											})
+											e44legant("UIGradient", {
+												Color = _774elegant,
+												Rotation = 270,
+-- e7l4g4nt < 47 >
+												Parent = _77Elegant
+											})
+											return _77Elegant
+										end
+-- 4legant 4 the win 474
+										eL4g77ant.Object.Highlight = function(eL4g74ant)
+											if not eL4g74ant or not eL4g74ant.Parent then
+												return nil
+											end
+											local eL4g447ant = e4l4g4nt.new2("Highlight")
+											if not (e4legant4.n24 < 9059) then
+												eL4g447ant.FillColor = e7legant.Highlight.FillColor
+												eL4g447ant.OutlineColor = e7legant.Highlight.OutlineColor
+												eL4g447ant.FillTransparency = e7legant.Highlight.FillTransparency
+												eL4g447ant.OutlineTransparency = e7legant.Highlight.OutlineTransparency
+												eL4g447ant.DepthMode = e7legant.Highlight.DepthMode
+												eL4g447ant.Adornee = eL4g74ant
+												eL4g447ant.Parent = eL4g77ant.ScreenGui
+												return eL4g447ant
+											end
+											while true do
+											end
+										end
+										eL4g77ant.UpdateBoxGradient = function()
+											local eL4g47ant = ColorSequenceKeypoint.new
+											local elegan44t = e7legant.Box.Color[2]
+											Elega44nt = ColorSequence.new({
+												ColorSequenceKeypoint.new(e4legant4.v83[118], e7legant.Box.Color[1]),
+												eL4g47ant(1, elegan44t)
+											})
+											for e4l4g4n777, Ele44gant in ipairs(eL4g77ant.List) do
+												if Ele44gant.BorderStroke then
+													local eLeGaNt774 = Ele44gant.BorderStroke:FindFirstChildOfClass("UIStroke")
+													if eLeGaNt774 then
+														local eLeGaNt447 = eLeGaNt774:FindFirstChildOfClass("UIGradient")
+														if eLeGaNt447 then
+															pcall(function()
+																eLeGaNt447.Color = Elega44nt
+															end)
+														end
+													end
+												end
+											end
+										end
+										eL4g77ant.UpdateBoxRotation = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.BorderStroke then
+													local Ele44gant = elegan44t.BorderStroke:FindFirstChildOfClass(e4legant4.v83[60])
+													if Ele44gant then
+														local eLeGaNt447 = Ele44gant:FindFirstChildOfClass("UIGradient")
+														if eLeGaNt447 then
+															pcall(function()
+																eLeGaNt447.Rotation = e7legant.Box.Rotation
+															end)
+														end
+													end
+												end
+												if elegan44t.GlowTop then
+													local eLeGaNt447 = elegan44t.GlowTop:FindFirstChildOfClass("UIGradient")
+													if eLeGaNt447 then
+														pcall(function()
+															eLeGaNt447.Rotation = e7legant.Box.Glow.Rotation
+														end)
+													end
+												end
+												if elegan44t.GlowBot then
+													local eLeGaNt447 = elegan44t.GlowBot:FindFirstChildOfClass("UIGradient")
+													if eLeGaNt447 then
+														pcall(function()
+															eLeGaNt447.Rotation = e7legant.Box.Glow.Rotation
+														end)
+													end
+												end
+											end
+										end
+										eL4g77ant.UpdateFillGradient = function()
+											local eL4g47ant = ColorSequenceKeypoint.new
+											local elegan44t = e7legant.Box.Fill.Color[2]
+											Elegan44t = ColorSequence.new({
+												ColorSequenceKeypoint.new(0, e7legant.Box.Fill.Color[1]),
+												eL4g47ant(1, elegan44t)
+											})
+											for e4l4g4n777, Ele44gant in ipairs(eL4g77ant.List) do
+-- e4l3g4nt above all 7447
+												if Ele44gant.BoxFill then
+													local eLeGaNt447 = Ele44gant.BoxFill:FindFirstChildOfClass("UIGradient")
+													if eLeGaNt447 then
+														pcall(function()
+															eLeGaNt447.Color = Elegan44t
+															eLeGaNt447.Rotation = e7legant.Box.Fill.Rotation
+															local eL4g774ant = NumberSequenceKeypoint.new
+															local Eleg44ant = e7legant.Box.Fill.Transparency[1]
+															eLeGaNt447.Transparency = NumberSequence.new({
+																NumberSequenceKeypoint.new(0, 1),
+																eL4g774ant(1, Eleg44ant)
+															})
+														end)
+													end
+-- e4l3g4nt :: 47
+												end
+											end
+										end
+										eL4g77ant.UpdateHpGradient = function()
+											local eL4ga4nt = ColorSequence.new
+											local El4egant = {}
+											local elegan44t = ColorSequenceKeypoint.new(0, e7legant.Bars.HealthBar.Color[1])
+											local Ele44gant = ColorSequenceKeypoint.new(e4legant4.v83[88], e7legant.Bars.HealthBar.Color[2])
+											local eL4g47ant = ColorSequenceKeypoint.new
+											local Eleg44ant = e7legant.Bars.HealthBar.Color[e4legant4.v83[53]]
+											El4egant[1] = elegan44t
+											El4egant[2] = Ele44gant
+											do
+												local Elegan4t = table.pack(eL4g47ant(1, Eleg44ant))
+												table.move(Elegan4t, 1, Elegan4t.n, 3, El4egant)
+											end
+											_774elegant = eL4ga4nt(El4egant)
+											for e4l4g4n777, Elega7nt in ipairs(eL4g77ant.List) do
+												if Elega7nt.BarFill then
+													local eLeGaNt447 = Elega7nt.BarFill:FindFirstChildOfClass("UIGradient")
+													if eLeGaNt447 then
+														pcall(function()
+															eLeGaNt447.Color = _774elegant
+														end)
+													end
+												end
+											end
+										end
+										eL4g77ant.UpdateHighlights = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.Highlight then
+													pcall(function()
+														elegan44t.Highlight.FillColor = e7legant.Highlight.FillColor
+														elegan44t.Highlight.OutlineColor = e7legant.Highlight.OutlineColor
+														elegan44t.Highlight.FillTransparency = e7legant.Highlight.FillTransparency
+														elegan44t.Highlight.OutlineTransparency = e7legant.Highlight.OutlineTransparency
+														elegan44t.Highlight.DepthMode = e7legant.Highlight.DepthMode
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateHighlightVisibility = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if e7legant.Highlight.Enabled then
+													if not elegan44t.Highlight or not elegan44t.Highlight.Parent then
+														if elegan44t.Character and elegan44t.Character.Parent then
+															elegan44t.Highlight = eL4g77ant.Object.Highlight(elegan44t.Character)
+														end
+													end
+													if elegan44t.Highlight then
+														pcall(function()
+															elegan44t.Highlight.Enabled = e4legant4.v83[91]
+														end)
+													end
+												elseif elegan44t.Highlight then
+													pcall(function()
+														elegan44t.Highlight.Enabled = false
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateLabelColor = function(e77legant, eL4ga44nt)
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												local Ele44gant = elegan44t[e77legant]
+												if Ele44gant then
+													pcall(function()
+														Ele44gant.TextColor3 = eL4ga44nt
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateLabelTransparency = function(e77legant, eL4ga7nt)
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												local Ele44gant = elegan44t[e77legant]
+												if Ele44gant then
+													pcall(function()
+														Ele44gant.TextTransparency = eL4ga7nt
+														local eLeGaNt774 = Ele44gant:FindFirstChildOfClass("UIStroke")
+														if eLeGaNt774 then
+															eLeGaNt774.Transparency = eL4ga7nt
+														end
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateFonts = function()
+											local elegan44t = eL4474gant()
+											local Ele44gant = eL7744gant()
+											for e4l4g4n777, Eleg44ant in ipairs(eL4g77ant.List) do
+												for e4l4g4n777, Elega7nt in ipairs({
+													"LabelHp",
+													"LabelName",
+													"LabelDist"
+												}) do
+													local Elega77nt = Eleg44ant[Elega7nt]
+													if Elega77nt then
+														pcall(function()
+															Elega77nt.FontFace = elegan44t
+															Elega77nt.TextSize = Ele44gant
+															Elega77nt.Size = e4l4g4nt.udim22(0, 300, 0, Ele44gant + 4)
+														end)
+													end
+												end
+											end
+										end
+										eL4g77ant.InvalidateTextCaches = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												elegan44t.PrevNameStr = ""
+												elegan44t.PrevDistStr = ""
+												elegan44t.PrevHpStr = ""
+											end
+										end
+										eL4g77ant.HideBoxes = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+-- elegant x4 x7
+												elegan44t.OuterStroke.Visible = e4legant4.v83[9]
+												elegan44t.BorderStroke.Visible = false
+												elegan44t.InnerCover.Visible = false
+												elegan44t.InnerStroke.Visible = e4legant4.v83[9]
+												elegan44t.BoxFill.Visible = false
+												elegan44t.GlowTop.Visible = false
+												elegan44t.GlowBot.Visible = false
+											end
+										end
+										eL4g77ant.HideNames = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												elegan44t.LabelName.Visible = false
+											end
+										end
+-- e7l4g4nt < 47 >
+										eL4g77ant.HideHealthbars = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												elegan44t.BarOutline.Visible = false
+												elegan44t.BarBackground.Visible = false
+												elegan44t.BarFill.Visible = e4legant4.v83[9]
+												elegan44t.LabelHp.Visible = false
+											end
+										end
+										eL4g77ant.HideDistances = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												elegan44t.LabelDist.Visible = false
+											end
+-- e4l44gant77 on top
+										end
+										eL4g77ant.HideHighlights = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.Highlight then
+													pcall(function()
+														elegan44t.Highlight.Enabled = false
+													end)
+												end
+											end
+										end
+										eL4g77ant.HideFills = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												elegan44t.BoxFill.Visible = false
+											end
+										end
+										eL4g77ant.UpdateBorderTransparency = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.BorderStroke then
+													local eLeGaNt774 = elegan44t.BorderStroke:FindFirstChildOfClass("UIStroke")
+													if eLeGaNt774 then
+														pcall(function()
+															eLeGaNt774.Transparency = e7legant.Box.Transparency[1]
+														end)
+													end
+												end
+												if elegan44t.OuterStroke then
+-- elegant x4 x7
+													local Ele44gant = elegan44t.OuterStroke:FindFirstChildOfClass(e4legant4.v83[60])
+													if Ele44gant then
+														pcall(function()
+															Ele44gant.Transparency = e7legant.Box.Transparency[1]
+														end)
+													end
+												end
+												if elegan44t.InnerStroke then
+													local Ele44gant = elegan44t.InnerStroke:FindFirstChildOfClass(e4legant4.v83[60])
+													if Ele44gant then
+														pcall(function()
+															Ele44gant.Transparency = e7legant.Box.Transparency[2]
+														end)
+													end
+												end
+											end
+										end
+										eL4g77ant.UpdateGlowTransparency = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.GlowTop then
+													pcall(function()
+														elegan44t.GlowTop.ImageTransparency = e7legant.Box.Glow.Transparency[e4legant4.v83[85]]
+													end)
+												end
+												if elegan44t.GlowBot then
+													pcall(function()
+														elegan44t.GlowBot.ImageTransparency = e7legant.Box.Glow.Transparency[2]
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateGlowColors = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.GlowTop then
+													pcall(function()
+														elegan44t.GlowTop.ImageColor3 = e7legant.Box.Glow.Color[1]
+													end)
+												end
+												if elegan44t.GlowBot then
+													pcall(function()
+														elegan44t.GlowBot.ImageColor3 = e7legant.Box.Glow.Color[e4legant4.v83[119]]
+													end)
+												end
+											end
+										end
+										eL4g77ant.UpdateBarTransparency = function()
+											for e4l4g4n777, elegan44t in ipairs(eL4g77ant.List) do
+												if elegan44t.BarFill then
+													pcall(function()
+														elegan44t.BarFill.BackgroundTransparency = e7legant.Bars.HealthBar.Transparency or 0
+													end)
+												end
+											end
+										end
+										eL4g77ant.ExpandScreenBounds = function(e77legant, e447legant, el44egant)
+											if e77legant <= e4legant4.v83[118] then
+												return
+											end
+											local elegan447t = el4g4nt77.n45 / e77legant
+											local elegan774t = el4g4nt77.v94 + e447legant * elegan447t
+											local _7Elegant = el4g4nt77.v95 - el44egant * elegan447t
+											if elegan774t < e4l4g4nt.n32 then
+												e4l4g4nt.n32 = elegan774t
+											end
+											if e7legant77.n34 < elegan774t then
+												e7legant77.n34 = elegan774t
+											end
+											if _7Elegant < e7legant77.n33 then
+												e7legant77.n33 = _7Elegant
+											end
+											if e7legant77.n35 < _7Elegant then
+												e7legant77.n35 = _7Elegant
+											end
+										end
+										eL4g77ant.ProjectObb = function(e77legant, e447legant, el44egant, el7egant, elegan7t, elegan77t, _447Elegant, _774Elegant, El44egant, _77ELEGANT, E447LEGANT, E774LEGANT, EL4EGANT, eLe44GaNt, eLeG7aNt)
+											local elegan447t = el7egant * EL4EGANT
+											local elegan774t = elegan7t * EL4EGANT
+											local _7Elegant = elegan77t * EL4EGANT
+											local Eleg74ant = _447Elegant * eLe44GaNt
+											local ELE4GANT = _774Elegant * eLe44GaNt
+											local ELE7GANT = El44egant * eLe44GaNt
+											local eL4ga77nt = _77ELEGANT * eLeG7aNt
+											local eL4ga47nt = E447LEGANT * eLeG7aNt
+											local eL4ga74nt = E774LEGANT * eLeG7aNt
+											local eL4ga447nt = e77legant - el4g4nt77.v93
+											local eL4ga774nt = e447legant - el4g4nt77.n43
+											local eL4gan4t = el44egant - el4g4nt77.n44
+											local eL4gan44t = e7legant77.n41 * eL4ga447nt + el4g4nt77.v92 * eL4ga774nt + el4g4nt77.n42 * eL4gan4t
+											local eL4gan7t = e7legant77.n36 * eL4ga447nt + e7legant77.n37 * eL4ga774nt + e7legant77.v91 * eL4gan4t
+											local eL4gan77t = e7legant77.n38 * eL4ga447nt + e7legant77.n39 * eL4ga774nt + e7legant77.n40 * eL4gan4t
+											local eL4gan47t = e7legant77.n41 * elegan447t + el4g4nt77.v92 * elegan774t + el4g4nt77.n42 * _7Elegant
+											local eL4gan74t = e7legant77.n36 * elegan447t + e7legant77.n37 * elegan774t + e7legant77.v91 * _7Elegant
+											local eL4gan447t = e7legant77.n38 * elegan447t + e7legant77.n39 * elegan774t + e7legant77.n40 * _7Elegant
+											local eL4gan774t = e7legant77.n41 * Eleg74ant + el4g4nt77.v92 * ELE4GANT + el4g4nt77.n42 * ELE7GANT
+											local eL4gant4 = e7legant77.n36 * Eleg74ant + e7legant77.n37 * ELE4GANT + e7legant77.v91 * ELE7GANT
+											local eL4gant44 = e7legant77.n38 * Eleg74ant + e7legant77.n39 * ELE4GANT + e7legant77.n40 * ELE7GANT
+											local eL4gant7 = e7legant77.n41 * eL4ga77nt + el4g4nt77.v92 * eL4ga47nt + el4g4nt77.n42 * eL4ga74nt
+											local eL4gant77 = e7legant77.n36 * eL4ga77nt + e7legant77.n37 * eL4ga47nt + e7legant77.v91 * eL4ga74nt
+											local eL4gant47 = e7legant77.n38 * eL4ga77nt + e7legant77.n39 * eL4ga47nt + e7legant77.n40 * eL4ga74nt
+											eL4g77ant.ExpandScreenBounds(eL4gan44t + eL4gan47t + eL4gan774t + eL4gant7, eL4gan7t + eL4gan74t + eL4gant4 + eL4gant77, eL4gan77t + eL4gan447t + eL4gant44 + eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t + eL4gan47t + eL4gan774t - eL4gant7, eL4gan7t + eL4gan74t + eL4gant4 - eL4gant77, eL4gan77t + eL4gan447t + eL4gant44 - eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t + eL4gan47t - eL4gan774t + eL4gant7, eL4gan7t + eL4gan74t - eL4gant4 + eL4gant77, eL4gan77t + eL4gan447t - eL4gant44 + eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t + eL4gan47t - eL4gan774t - eL4gant7, eL4gan7t + eL4gan74t - eL4gant4 - eL4gant77, eL4gan77t + eL4gan447t - eL4gant44 - eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t - eL4gan47t + eL4gan774t + eL4gant7, eL4gan7t - eL4gan74t + eL4gant4 + eL4gant77, eL4gan77t - eL4gan447t + eL4gant44 + eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t - eL4gan47t + eL4gan774t - eL4gant7, eL4gan7t - eL4gan74t + eL4gant4 - eL4gant77, eL4gan77t - eL4gan447t + eL4gant44 - eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t - eL4gan47t - eL4gan774t + eL4gant7, eL4gan7t - eL4gan74t - eL4gant4 + eL4gant77, eL4gan77t - eL4gan447t - eL4gant44 + eL4gant47)
+											eL4g77ant.ExpandScreenBounds(eL4gan44t - eL4gan47t - eL4gan774t - eL4gant7, eL4gan7t - eL4gan74t - eL4gant4 - eL4gant77, eL4gan77t - eL4gan447t - eL4gant44 - eL4gant47)
+										end
+										eL4g77ant.EntryNew = function(e77legant)
+											local _77Elegant = e4l4g4nt.new2("Frame")
+											_77Elegant.Name = e4l4g4nt.v88(e77legant) .. "_esp"
+											_77Elegant.BackgroundTransparency = 1
+											_77Elegant.BorderSizePixel = 0
+											_77Elegant.Size = e4l4g4nt.udim22(1, 0, 1, 0)
+											_77Elegant.ZIndex = e4legant4.v83[85]
+											_77Elegant.Parent = eL4g77ant.ScreenGui
+											local elegan44t = eL7744gant()
+											return {
+												Player = e77legant,
+												PlayerName = e77legant.Name,
+												Container = _77Elegant,
+												OuterStroke = eL4g77ant.Object.StrokeSolid(_77Elegant, e4l4g4nt.v90, 4),
+												BorderStroke = eL4g77ant.Object.StrokeGradient(_77Elegant, e4legant4.v83[81]),
+												InnerCover = eL4g77ant.Object.InnerCover(_77Elegant, 6),
+												InnerStroke = eL4g77ant.Object.StrokeSolid(_77Elegant, e4l4g4nt.v90, e4legant4.v83[123]),
+												BoxFill = eL4g77ant.Object.Fill(_77Elegant, 8),
+												BarOutline = eL4g77ant.Object.Frame(_77Elegant, e4l4g4nt.v90, e4legant4.v83[97]),
+												BarBackground = eL4g77ant.Object.Frame(_77Elegant, e4l4g4nt.color3(e4legant4.v83[81], 10, 25), 10),
+												BarFill = eL4g77ant.Object.BarFill(_77Elegant),
+												GlowTop = eL4g77ant.Object.Glow(_77Elegant, e7legant.Box.Glow.Color[e4legant4.v83[85]], elega4nt),
+												GlowBot = eL4g77ant.Object.Glow(_77Elegant, e7legant.Box.Glow.Color[2], elegan4t),
+												LabelHp = eL4g77ant.Object.Label(_77Elegant, 12, e7legant.Bars.HealthBar.Text.Color, elegan44t),
+												LabelName = eL4g77ant.Object.Label(_77Elegant, 12, e7legant.Name.Color, elegan44t),
+												LabelDist = eL4g77ant.Object.Label(_77Elegant, e4legant4.v83[1], e7legant.Distance.Color, elegan44t),
+												Highlight = nil,
+												Character = nil,
+												RootPart = nil,
+												Humanoid = nil,
+												IsDead = false,
+												IsR6 = e4legant4.v83[9],
+												Health = 1,
+												MaxHealth = 100,
+												TopOffset = e4legant4.v83[53],
+												BotOffset = e4legant4.v83[53],
+												Parts = {},
+												PartHalfW = {},
+												PartHalfH = {},
+												PartHalfD = {},
+												PartCount = 0,
+												IsVisible = false,
+												BoxX = 0,
+												BoxY = 0,
+												BoxW = 0,
+												BoxH = 0,
+												PrevBoxX = - e4legant4.v83[85],
+												PrevBoxY = - 1,
+												PrevBoxW = - e4legant4.v83[85],
+												PrevBoxH = - e4legant4.v83[85],
+												PrevFillH = - 1,
+												PrevHpStr = "",
+												PrevNameStr = "",
+												PrevDistStr = "",
+												PrevHpLabelX = - 1,
+												PrevHpLabelY = - e4legant4.v83[85],
+												PrevNmLabelX = - 1,
+												PrevNmLabelY = - e4legant4.v83[85],
+												PrevDtLabelX = - 1,
+												PrevDtLabelY = - 1,
+												PrevDistance = - e4legant4.v83[85],
+												BarX = 0,
+												BarY = 0,
+												BarH = 0,
+												BarLabelX = e4legant4.v83[118],
+												BarLabelY = 0,
+												HpString = "100",
+												PlayerConnections = {},
+												CharacterConnections = {},
+												ModelConnection = nil,
+											}
+										end
+										eL4g77ant.EntryHide = function(e77legant)
+											e77legant.OuterStroke.Visible = false
+											e77legant.BorderStroke.Visible = e4legant4.v83[9]
+											e77legant.InnerCover.Visible = false
+											e77legant.InnerStroke.Visible = false
+											e77legant.BoxFill.Visible = e4legant4.v83[9]
+											e77legant.BarOutline.Visible = e4legant4.v83[9]
+											e77legant.BarBackground.Visible = false
+											e77legant.BarFill.Visible = false
+											e77legant.GlowTop.Visible = false
+											e77legant.GlowBot.Visible = e4legant4.v83[9]
+											e77legant.LabelHp.Visible = false
+											e77legant.LabelName.Visible = false
+											e77legant.LabelDist.Visible = false
+											e77legant.IsVisible = e4legant4.v83[9]
+											if e77legant.Highlight then
+												pcall(function()
+													e77legant.Highlight.Enabled = false
+												end)
+											end
+											e77legant.PrevBoxX = - e4legant4.v83[85]
+											e77legant.PrevBoxY = - 1
+											e77legant.PrevBoxW = - 1
+											e77legant.PrevBoxH = - e4legant4.v83[85]
+											e77legant.PrevFillH = - 1
+											e77legant.PrevHpStr = ""
+											e77legant.PrevNameStr = ""
+											e77legant.PrevDistStr = ""
+											e77legant.PrevHpLabelX = - e4legant4.v83[85]
+											e77legant.PrevHpLabelY = - e4legant4.v83[85]
+											e77legant.PrevNmLabelX = - e4legant4.v83[85]
+											e77legant.PrevNmLabelY = - 1
+											e77legant.PrevDtLabelX = - 1
+											e77legant.PrevDtLabelY = - 1
+											e77legant.PrevDistance = - 1
+										end
+										eL4g77ant.EntryDestroy = function(e77legant)
+											eL4g77ant.EntryHide(e77legant)
+											for e4l4g4n777, eL4gant74 in ipairs(e77legant.PlayerConnections) do
+												pcall(eL4gant74.Disconnect, eL4gant74)
+											end
+											if e4legant4.n24 > 9091 then
+												while e4legant4.v83[91] do
+												end
+											end
+											for e4l4g4n777, eL4gant447 in ipairs(e77legant.CharacterConnections) do
+												pcall(eL4gant447.Disconnect, eL4gant447)
+											end
+											if e77legant.Highlight then
+												pcall(e77legant.Highlight.Destroy, e77legant.Highlight)
+											end
+											if e77legant.ModelConnection then
+												pcall(e77legant.ModelConnection.Disconnect, e77legant.ModelConnection)
+												e77legant.ModelConnection = nil
+											end
+-- e4l3g4nt_was_here
+											pcall(e77legant.Container.Destroy, e77legant.Container)
+										end
+										eL4g77ant.EntryBuild = function(e77legant)
+											local eLeGaNt7 = e77legant.Character
+											if not eLeGaNt7 then
+												return
+											end
+											local eL4gant774 = e77legant.IsR6 and ele47gant or e47legant
+											local _44legant = e77legant.IsR6 and eleg74ant or ele74gant
+											local eLeGa774Nt = e77legant.RootPart.Position.Y
+											local elegan447t = - _4elegant.huge
+											local _444legant = {}
+											local _74legant = {}
+											local _774legant = {}
+											local _474legant = {}
+											local elegan774t = _4elegant.huge
+											local _744legant = 0
+											for eleg44ant = 1, # eL4gant774 do
+												local elegan44t = eLeGaNt7:FindFirstChild(eL4gant774[eleg44ant])
+												if not (not elegan44t or not elegan44t:IsA("BasePart")) then
+													local _7Elegant = _44legant[eL4gant774[eleg44ant]] or 0.04
+													local _4474legant = elegan44t.Size
+													local Eleg74ant = _4474legant.X * e4legant4.v83[88] + _7Elegant
+													local ELE4GANT = _4474legant.Y * e4legant4.v83[88]
+													local ELE7GANT = _4474legant.Z * 0.5 + _7Elegant
+													local eL4ga77nt = elegan44t.Position.Y - eLeGa774Nt
+													if elegan447t < eL4ga77nt + ELE4GANT then
+														elegan447t = eL4ga77nt + ELE4GANT
+													end
+													if eL4ga77nt - ELE4GANT < elegan774t then
+														elegan774t = eL4ga77nt - ELE4GANT
+													end
+													_744legant += 1
+													_444legant[_744legant] = elegan44t
+													_74legant[_744legant] = Eleg74ant
+													_774legant[_744legant] = ELE4GANT
+													_474legant[_744legant] = ELE7GANT
+												end
+											end
+											e77legant.TopOffset = elegan447t == - _4elegant.huge and 3 or elegan447t + 0.08
+											e77legant.BotOffset = elegan774t == _4elegant.huge and e4legant4.v83[53] or - elegan774t + 0.08
+											e77legant.Parts = _444legant
+											e77legant.PartHalfW = _74legant
+											e77legant.PartHalfH = _774legant
+											e77legant.PartHalfD = _474legant
+											e77legant.PartCount = _744legant
+										end
+										eL4g77ant.EntryClear = function(e77legant)
+											for e4l4g4n777, eL4gant447 in ipairs(e77legant.CharacterConnections) do
+												pcall(eL4gant447.Disconnect, eL4gant447)
+											end
+											e77legant.CharacterConnections = {}
+											e77legant.Character = nil
+											e77legant.RootPart = nil
+											e77legant.Humanoid = nil
+											e77legant.IsDead = e4legant4.v83[9]
+-- 4l3g4nt owns this 4477
+											e77legant.Parts = {}
+											e77legant.PartHalfW = {}
+											e77legant.PartHalfH = {}
+											e77legant.PartHalfD = {}
+											e77legant.PartCount = 0
+											e77legant.HpString = "100"
+											if e77legant.Highlight then
+												pcall(e77legant.Highlight.Destroy, e77legant.Highlight)
+												e77legant.Highlight = nil
+											end
+										end
+										local function ele447gant(e77legant)
+											local El44EgAnT = e77legant:FindFirstChild("HumanoidRootPart")
+											if El44EgAnT and El44EgAnT:IsA("BasePart") then
+												return El44EgAnT
+											end
+											return e77legant:FindFirstChild("HumanoidRootPart", true)
+										end
+										local function _74Elegant(e77legant)
+											local El4EgAnT = e77legant:FindFirstChild("Humanoid")
+											if El4EgAnT and El4EgAnT:IsA("Humanoid") then
+												return El4EgAnT
+											end
+											local _7744legant = e77legant:FindFirstChild("frog")
+											if _7744legant and _7744legant:IsA("Humanoid") then
+												return _7744legant
+											end
+											local _47legant = e77legant:FindFirstChildOfClass("Humanoid")
+											if _47legant then
+												return _47legant
+											end
+											return e77legant:FindFirstChildWhichIsA("Humanoid", true)
+										end
+										eL4g77ant.EntryLink = function(e77legant, eLeGaNt7)
+											eL4g77ant.EntryClear(e77legant)
+											eL4g77ant.EntryHide(e77legant)
+											if not eLeGaNt7 then
+												return
+											end
+											local elegan44t = ele447gant(eLeGaNt7)
+											local El4EgAnT = _74Elegant(eLeGaNt7)
+											if not elegan44t then
+												return
+											end
+											if not El4EgAnT then
+												local function E74LEGANT()
+													return eLeGaNt7:GetAttribute("Health") or elegan44t:GetAttribute("Health")
+												end
+												local function ELE44GANT()
+													if e4legant4.n26(1994) < 7655 then
+														return eLeGaNt7:GetAttribute("MaxHealth") or elegan44t:GetAttribute("MaxHealth")
+													end
+													while true do
+													end
+												end
+												local elegan447t = E74LEGANT() or 100
+												local elegan774t = ELE44GANT() or math.max(1, elegan447t)
+												local function ELE47GANT()
+													local El4egant
+													El4egant = {
+														_callbacks = {},
+-- 4legant 4 the win 474
+														Connect = function(e447legant, el44egant)
+															El4egant._callbacks[# El4egant._callbacks + 1] = el44egant
+															return {
+																Connected = true
+															}
+														end,
+														Fire = function(e4l4g4n777, ...)
+															for e4l4g4n777, _7eLeGaNt in ipairs(El4egant._callbacks) do
+																task.spawn(_7eLeGaNt, ...)
+															end
+														end,
+													}
+													return El4egant
+												end
+												El4EgAnT = {
+													Health = elegan447t,
+													MaxHealth = elegan774t,
+													MoveDirection = Vector3.new(),
+													Jump = false,
+													HealthChanged = ELE47GANT(),
+													Died = ELE47GANT(),
+													StateChanged = ELE47GANT(),
+													Running = ELE47GANT(),
+													GetPropertyChangedSignal = function()
+														return {
+															Connect = function()
+																return {
+																	Connected = true
+																}
+															end
+														}
+													end,
+												}
+												local _477legant = eLeGaNt7:GetAttribute("Health") and eLeGaNt7:GetAttributeChangedSignal("Health") or elegan44t:GetAttribute("Health") and elegan44t:GetAttributeChangedSignal("Health")
+												if _477legant then
+													_477legant:Connect(function()
+														local Ele44gant = E74LEGANT()
+														if Ele44gant then
+															El4EgAnT.Health = Ele44gant
+															El4EgAnT.HealthChanged:Fire(Ele44gant)
+														end
+													end)
+												end
+											end
+											if not eLeGaNt7:FindFirstChild("UpperTorso") and not eLeGaNt7:FindFirstChild("Torso") then
+												task.wait(0.5)
+											end
+											e77legant.IsR6 = eLeGaNt7:FindFirstChild("Torso") ~= nil
+											e77legant.Character = eLeGaNt7
+											e77legant.RootPart = elegan44t
+											e77legant.Humanoid = El4EgAnT
+											e77legant.IsDead = false
+											e77legant.MaxHealth = El4EgAnT.MaxHealth
+											e77legant.Health = _4elegant.clamp(El4EgAnT.Health / El4EgAnT.MaxHealth, 0, 1)
+											e77legant.HpString = e4l4g4nt.v88(_4elegant.floor2(El4EgAnT.Health))
+											local _447legant = e77legant.CharacterConnections
+											_447legant[# _447legant + e4legant4.v83[85]] = El4EgAnT.HealthChanged:Connect(function(_4447legant)
+												if e4legant4.n28(1955) > 376 then
+													e77legant.Health = _4elegant.clamp(_4447legant / e77legant.MaxHealth, 0, e4legant4.v83[85])
+													e77legant.HpString = e4l4g4nt.v88(_4elegant.floor2(_4447legant))
+													e77legant.PrevFillH = - 1
+													e77legant.PrevHpStr = ""
+													return
+												end
+												while true do
+												end
+											end)
+											_447legant[# _447legant + 1] = El4EgAnT:GetPropertyChangedSignal("MaxHealth"):Connect(function()
+												e77legant.MaxHealth = El4EgAnT.MaxHealth
+											end)
+											_447legant[# _447legant + 1] = El4EgAnT.Died:Connect(function()
+												e77legant.IsDead = true
+												if e77legant.Highlight then
+													pcall(function()
+														e77legant.Highlight.Enabled = e4legant4.v83[9]
+													end)
+												end
+												eL4g77ant.EntryHide(e77legant)
+												task.delay(1, function()
+													if e77legant.Character and not e77legant.Character.Parent then
+														local _4774legant = e77legant.Character
+														if eL4g77ant.Cache[_4774legant] then
+															eL4g77ant.RemoveModel(_4774legant)
+														end
+													end
+												end)
+											end)
+											_447legant[# _447legant + e4legant4.v83[85]] = eLeGaNt7.DescendantAdded:Connect(function(E77LEGANT)
+												if not E77LEGANT:IsA("BasePart") or not elegan74t[E77LEGANT.Name] then
+													return
+												end
+												local ele7g4nt = E77LEGANT.Parent
+												while ele7g4nt and ele7g4nt ~= eLeGaNt7 do
+													if ele7g4nt:IsA("Tool") then
+														return
+													end
+-- elegant x4 x7
+													ele7g4nt = ele7g4nt.Parent
+												end
+												task.defer(eL4g77ant.EntryBuild, e77legant)
+											end)
+											_447legant[# _447legant + 1] = eLeGaNt7.DescendantRemoving:Connect(function(E77LEGANT)
+												if E77LEGANT:IsA("BasePart") and elegan74t[E77LEGANT.Name] then
+													task.defer(eL4g77ant.EntryBuild, e77legant)
+												end
+											end)
+											eL4g77ant.EntryBuild(e77legant)
+											if e7legant.Highlight.Enabled then
+												task.defer(function()
+													if e77legant.Character and e77legant.Character.Parent then
+														if e77legant.Highlight then
+															pcall(e77legant.Highlight.Destroy, e77legant.Highlight)
+														end
+														e77legant.Highlight = eL4g77ant.Object.Highlight(e77legant.Character)
+														if e77legant.Highlight then
+															pcall(function()
+																e77legant.Highlight.Enabled = e4legant4.v83[91]
+															end)
+														end
+													end
+												end)
+											end
+										end
+										local function E74LEGANT(eLeGaNt7)
+											eL4g77ant.LocalPlayerRoot = eLeGaNt7 and eLeGaNt7:WaitForChild("HumanoidRootPart", e4legant4.v83[81]) or nil
+										end
+										local eLeGaNt7 = _4elegant.localPlayer2.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+										if eLeGaNt7 then
+											task.spawn(E74LEGANT, eLeGaNt7)
+										end
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _4elegant.localPlayer2.CharacterAdded:Connect(E74LEGANT)
+										eL4g77ant.Connections[# eL4g77ant.Connections + e4legant4.v83[85]] = _4elegant.localPlayer2.CharacterRemoving:Connect(function()
+											eL4g77ant.LocalPlayerRoot = nil
+-- e4l3g4nt above all 7447
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _4elegant.v86.RenderStepped:Connect(function()
+											local ElEgA44nT = workspace.CurrentCamera
+											if not ElEgA44nT then
+												return
+											end
+											local _4l4egant = eL4g77ant.LocalPlayerRoot
+											local function _4l44egant(e4l4g4ntt7)
+												local ele774gant = tostring(e4l4g4ntt7)
+												if e7legant.FontType == "uppercase" then
+													return string.upper(ele774gant)
+												end
+												if e7legant.FontType == "lowercase" then
+													return string.lower(ele774gant)
+												end
+												return ele774gant
+											end
+											for e4l4g4n777, _4l7egant in ipairs(eL4g77ant.List) do
+												local _4l77egant = _4l7egant.RootPart
+												local eLeGaNt7 = _4l7egant.Character
+												if not e7legant.Enabled or not _4l77egant or not _4l77egant.Parent or not eLeGaNt7 or _4l7egant.IsDead then
+													eL4g77ant.EntryHide(_4l7egant)
+													continue
+												end
+												local _4l47egant = _4l4egant and (_4l77egant.Position - _4l4egant.Position).Magnitude or 0
+												if e7legant.MaxDistance > 0 and _4l47egant > e7legant.MaxDistance then
+													eL4g77ant.EntryHide(_4l7egant)
+													continue
+												end
+												local _4l74egant, _4l447egant = ElEgA44nT:WorldToViewportPoint(_4l77egant.Position + Vector3.new(0, _4l7egant.TopOffset, 0))
+												local _4l774egant, _4le4gant = ElEgA44nT:WorldToViewportPoint(_4l77egant.Position - Vector3.new(0, _4l7egant.BotOffset, 0))
+												if not _4l447egant or not _4le4gant or _4l74egant.Z <= 0 or _4l774egant.Z <= 0 then
+													eL4g77ant.EntryHide(_4l7egant)
+													continue
+												end
+												local _4le44gant = math.max(2, math.floor(math.abs(_4l774egant.Y - _4l74egant.Y) + 0.5))
+												local _4le7gant = math.max(2, math.floor(_4le44gant * 0.5 + 0.5))
+												local eL7eGaNt = math.floor((_4l74egant.X + _4l774egant.X - _4le7gant) * 0.5 + 0.5)
+												local eLeGa774Nt = math.floor(math.min(_4l74egant.Y, _4l774egant.Y) + 0.5)
+												local _4le77gant = UDim2.fromOffset(eL7eGaNt, eLeGa774Nt)
+												local _4le47gant = UDim2.fromOffset(_4le7gant, _4le44gant)
+												_4l7egant.BoxX, _4l7egant.BoxY, _4l7egant.BoxW, _4l7egant.BoxH = eL7eGaNt, eLeGa774Nt, _4le7gant, _4le44gant
+												_4l7egant.IsVisible = true
+												local _4le74gant = e7legant.Box.Enabled
+												_4l7egant.BorderStroke.Visible = _4le74gant
+												_4l7egant.BorderStroke.Position = _4le77gant
+												_4l7egant.BorderStroke.Size = _4le47gant
+												_4l7egant.OuterStroke.Visible = _4le74gant
+												_4l7egant.OuterStroke.Position = UDim2.fromOffset(eL7eGaNt - 1, eLeGa774Nt - 1)
+												_4l7egant.OuterStroke.Size = UDim2.fromOffset(_4le7gant + 2, _4le44gant + 2)
+												_4l7egant.InnerStroke.Visible = _4le74gant
+												_4l7egant.InnerStroke.Position = UDim2.fromOffset(eL7eGaNt + 1, eLeGa774Nt + 1)
+												_4l7egant.InnerStroke.Size = UDim2.fromOffset(math.max(0, _4le7gant - 2), math.max(0, _4le44gant - 2))
+												_4l7egant.InnerCover.Visible = _4le74gant
+												_4l7egant.InnerCover.Position = UDim2.fromOffset(eL7eGaNt + 1, eLeGa774Nt + 1)
+												_4l7egant.InnerCover.Size = UDim2.fromOffset(math.max(0, _4le7gant - 2), math.max(0, _4le44gant - 2))
+												_4l7egant.BoxFill.Visible = e7legant.Box.Fill.Enabled
+												_4l7egant.BoxFill.Position = _4le77gant
+												_4l7egant.BoxFill.Size = _4le47gant
+												local _4le447gant = _4le74gant and e7legant.Box.Glow.Enabled
+												_4l7egant.GlowTop.Visible = _4le447gant
+												_4l7egant.GlowBot.Visible = _4le447gant
+												if _4le447gant then
+													_4l7egant.GlowTop.Position = UDim2.fromOffset(eL7eGaNt - 6, eLeGa774Nt - 6)
+													_4l7egant.GlowBot.Position = UDim2.fromOffset(eL7eGaNt - 6, eLeGa774Nt - 6)
+													_4l7egant.GlowTop.Size = UDim2.fromOffset(_4le7gant + 12, _4le44gant + 12)
+													_4l7egant.GlowBot.Size = _4l7egant.GlowTop.Size
+												end
+												local _4le774gant = e7legant.Bars.HealthBar
+												local _4leg4ant = _4le774gant.Enabled
+												local _4leg44ant = _4le774gant.Position == "Right" and eL7eGaNt + _4le7gant + 4 or eL7eGaNt - 6
+												_4l7egant.BarOutline.Visible = _4leg4ant
+												_4l7egant.BarBackground.Visible = _4leg4ant
+												_4l7egant.BarFill.Visible = _4leg4ant
+												if _4leg4ant then
+													local _4leg7ant = math.clamp(_4l7egant.Health or 0, 0, 1)
+													local _4leg77ant = math.floor(_4le44gant * _4leg7ant + 0.5)
+													_4l7egant.BarOutline.Position = UDim2.fromOffset(_4leg44ant, eLeGa774Nt - 1)
+-- 4l3g4nt wuz here 74
+													_4l7egant.BarOutline.Size = UDim2.fromOffset(4, _4le44gant + 2)
+													_4l7egant.BarBackground.Position = UDim2.fromOffset(_4leg44ant + 1, eLeGa774Nt)
+													_4l7egant.BarBackground.Size = UDim2.fromOffset(2, _4le44gant)
+													_4l7egant.BarFill.Position = UDim2.fromOffset(_4leg44ant + 1, eLeGa774Nt + _4le44gant - _4leg77ant)
+													_4l7egant.BarFill.Size = UDim2.fromOffset(2, _4leg77ant)
+												end
+												local _4leg47ant = eL7eGaNt + _4le7gant * 0.5
+												_4l7egant.LabelName.Visible = e7legant.Name.Enabled
+												if e7legant.Name.Enabled then
+													local ElE77gAnT = game:GetService("Players"):GetPlayerFromCharacter(eLeGaNt7)
+													local ELEGAN7T = ElE77gAnT and e7legant.Name.UseDisplay and ElE77gAnT.DisplayName or _4l7egant.PlayerName
+													_4l7egant.LabelName.Text = _4l44egant(ELEGAN7T)
+													_4l7egant.LabelName.Position = UDim2.fromOffset(_4leg47ant, eLeGa774Nt - _4l7egant.LabelName.TextSize - 3)
+												end
+												_4l7egant.LabelDist.Visible = e7legant.Distance.Enabled
+												if e7legant.Distance.Enabled then
+													_4l7egant.LabelDist.Text = _4l44egant(tostring(math.floor(_4l47egant + 0.5)) .. (e7legant.Distance.Ending or ""))
+													_4l7egant.LabelDist.Position = UDim2.fromOffset(_4leg47ant, eLeGa774Nt + _4le44gant + 3)
+												end
+												_4l7egant.LabelHp.Visible = _4leg4ant and _4le774gant.Text.Enabled
+												if _4l7egant.LabelHp.Visible then
+													_4l7egant.LabelHp.Text = _4l44egant((_4l7egant.HpString or "0") .. (_4le774gant.Text.Ending or ""))
+													_4l7egant.LabelHp.Position = UDim2.fromOffset(_4leg44ant + 2, eLeGa774Nt + _4le44gant * (1 - math.clamp(_4l7egant.Health or 0, 0, 1)) - _4l7egant.LabelHp.TextSize)
+												end
+												if _4l7egant.Highlight then
+													_4l7egant.Highlight.Enabled = e7legant.Highlight.Enabled
+												end
+											end
+										end)
+										local _74elegant = _4elegant.v87:WaitForChild("Characters", e4legant4.v83[131])
+										local function ELE44GANT(e77legant)
+											if not e77legant then
+												return nil
+											end
+											local ele7g4nt = e77legant.Parent
+											if ele7g4nt and (ele7g4nt.Name == "Counter-Terrorists" or ele7g4nt.Name == "Terrorists") then
+												return ele7g4nt.Name
+											end
+											local eLeGaNt4 = e77legant:FindFirstChild("CharacterArmor")
+											if not eLeGaNt4 then
+												return nil
+											end
+											if eLeGaNt4:FindFirstChild("VestDetails") then
+												return "Counter-Terrorists"
+											end
+											if eLeGaNt4:FindFirstChild("Balaclava") then
+												return "Terrorists"
+											end
+											return nil
+										end
+										local function ELE47GANT(e77legant)
+											local elegan44t = _74elegant:FindFirstChild(e77legant)
+											if elegan44t and elegan44t:IsA("Model") then
+												return elegan44t
+-- e7l4g4nt < 47 >
+											end
+											for e4l4g4n777, Eleg447ant in ipairs(_74elegant:GetChildren()) do
+												if Eleg447ant:IsA("Folder") then
+													local Ele44gant = Eleg447ant:FindFirstChild(e77legant)
+													if Ele44gant and Ele44gant:IsA("Model") then
+														return Ele44gant
+													end
+												end
+											end
+											return nil
+										end
+										local function ELE447GANT()
+											return ELE44GANT(ELE47GANT(_4elegant.localPlayer2.Name) or _4elegant.localPlayer2.Character)
+										end
+										local function ELEG74ANT(e77legant)
+											if not e77legant:IsA("Model") then
+												return false
+											end
+											if e77legant.Name == _4elegant.localPlayer2.Name then
+												return e4legant4.v83[9]
+											end
+											local elegan44t = ELE447GANT()
+											local Ele44gant = ELE44GANT(e77legant)
+-- e4l44gant77 on top
+											if not elegan44t or not Ele44gant then
+												return false
+											end
+											if e7legant.Filter == "enemy" then
+												return Ele44gant ~= elegan44t
+											end
+											return Ele44gant == elegan44t
+										end
+										eL4g77ant.AddModel = function(e77legant)
+											if eL4g77ant.Cache[e77legant] then
+												return
+											end
+											if not ELEG74ANT(e77legant) then
+												return
+											end
+											local elegan44t = eL4g77ant.EntryNew(e77legant)
+											eL4g77ant.Cache[e77legant] = elegan44t
+											local _4leg74ant = eL4g77ant.List
+											_4leg74ant[# _4leg74ant + 1] = elegan44t
+											task.spawn(eL4g77ant.EntryLink, elegan44t, e77legant)
+											elegan44t.ModelConnection = e77legant.AncestryChanged:Connect(function(Eleg447ant, ele7g4nt)
+												if ele7g4nt == nil or not ELEG74ANT(e77legant) then
+													eL4g77ant.RemoveModel(e77legant)
+												end
+											end)
+										end
+										eL4g77ant.RemoveModel = function(e77legant)
+											local elegan44t = eL4g77ant.Cache[e77legant]
+											if not elegan44t then
+												return
+											end
+											eL4g77ant.Cache[e77legant] = nil
+											local _4leg74ant = eL4g77ant.List
+											for eleg44ant = 1, # _4leg74ant do
+												if _4leg74ant[eleg44ant] == elegan44t then
+													_4leg74ant[eleg44ant] = _4leg74ant[# _4leg74ant]
+													_4leg74ant[# _4leg74ant] = nil
+													break
+												end
+											end
+											eL4g77ant.EntryDestroy(elegan44t)
+										end
+										local function _4leg447ant()
+											for ELEGA47NT in pairs(eL4g77ant.Cache) do
+												eL4g77ant.RemoveModel(ELEGA47NT)
+											end
+											for e4l4g4n777, Eleg447ant in ipairs(_74elegant:GetChildren()) do
+												if Eleg447ant:IsA("Model") then
+													eL4g77ant.AddModel(Eleg447ant)
+												elseif Eleg447ant:IsA("Folder") then
+													for e4l4g4n777, _4leg774ant in ipairs(Eleg447ant:GetChildren()) do
+														if _4leg774ant:IsA("Model") then
+															eL4g77ant.AddModel(_4leg774ant)
+														end
+													end
+												end
+											end
+										end
+										eL4g77ant.RescanAll = _4leg447ant
+										task.spawn(_4leg447ant)
+										eL4g77ant.Connections[# eL4g77ant.Connections + e4legant4.v83[85]] = _74elegant.ChildAdded:Connect(function(Eleg447ant)
+											if Eleg447ant:IsA("Model") then
+												eL4g77ant.AddModel(Eleg447ant)
+											end
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _74elegant.DescendantAdded:Connect(function(E77LEGANT)
+											if E77LEGANT:IsA("Model") and E77LEGANT.Name ~= _4elegant.localPlayer2.Name then
+												eL4g77ant.AddModel(E77LEGANT)
+											elseif E77LEGANT.Name == "CharacterArmor" or E77LEGANT.Name == "VestDetails" or E77LEGANT.Name == "Balaclava" then
+												task.delay(0.1, _4leg447ant)
+											end
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _74elegant.ChildRemoved:Connect(function(Eleg447ant)
+											task.delay(0.1, eL4g77ant.RemoveModel, Eleg447ant)
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _74elegant.DescendantRemoving:Connect(function(E77LEGANT)
+											if E77LEGANT:IsA("Model") and eL4g77ant.Cache[E77LEGANT] then
+												eL4g77ant.RemoveModel(E77LEGANT)
+											end
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _4elegant.localPlayer2.CharacterAdded:Connect(function()
+											task.wait(0.5)
+											_4leg447ant()
+										end)
+										eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _4elegant.localPlayer2:GetPropertyChangedSignal("Team"):Connect(_4leg447ant)
+										if e7legant.Filter == "enemy" then
+											local _4lega4nt = workspace:FindFirstChild("Bots")
+											if _4lega4nt then
+												local El4egant = {}
+												local function eL77eGaNt(Eleg447ant)
+													if not Eleg447ant:IsA("Model") or El4egant[Eleg447ant] then
+														return
+													end
+													local elegan44t = eL4g77ant.EntryNew({
+														Name = Eleg447ant.Name
+													})
+													elegan44t.PlayerName = Eleg447ant.Name
+													El4egant[Eleg447ant] = elegan44t
+													local _4leg74ant = eL4g77ant.List
+													_4leg74ant[# _4leg74ant + e4legant4.v83[85]] = elegan44t
+													task.spawn(eL4g77ant.EntryLink, elegan44t, Eleg447ant)
+												end
+												local function eL47eGaNt(Eleg447ant)
+													local elegan44t = El4egant[Eleg447ant]
+													if not elegan44t then
+														return
+													end
+													El4egant[Eleg447ant] = nil
+													local _4leg74ant = eL4g77ant.List
+													for eleg44ant = 1, # _4leg74ant do
+														if _4leg74ant[eleg44ant] == elegan44t then
+															_4leg74ant[eleg44ant] = _4leg74ant[# _4leg74ant]
+															_4leg74ant[# _4leg74ant] = nil
+															break
+														end
+													end
+													eL4g77ant.EntryDestroy(elegan44t)
+												end
+												for e4l4g4n777, Eleg447ant in ipairs(_4lega4nt:GetChildren()) do
+													task.spawn(eL77eGaNt, Eleg447ant)
+												end
+-- property of e4l3g4nt
+												eL4g77ant.Connections[# eL4g77ant.Connections + 1] = _4lega4nt.ChildAdded:Connect(eL77eGaNt)
+												eL4g77ant.Connections[# eL4g77ant.Connections + e4legant4.v83[85]] = _4lega4nt.ChildRemoved:Connect(eL47eGaNt)
+											end
+										end
+										return eL4g77ant
+									end
+								end
+							end
+							do
+								e447L4gant = function(e7legant, e77legant, e447legant)
+									local function eL4474gant(el44egant)
+										return 1 - el44egant
+									end
+									local e4L4gant = e7legant:Toggle({
+										title = "enable",
+										default = e447legant.Enabled,
+										callback = function(ele447g4nt)
+											e447legant.Enabled = ele447g4nt
+											if not ele447g4nt then
+												for eleg44ant = 1, # e77legant.List do
+													e77legant.EntryHide(e77legant.List[eleg44ant])
+												end
+											end
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									e4L4gant:Slider({
+										title = "refresh rate",
+										min = 1,
+										max = 240,
+										default = e447legant.RefreshRate,
+										suffix = " fps",
+										callback = function(_4lega44nt)
+											e447legant.RefreshRate = _4lega44nt
+										end,
+									})
+									e4L4gant:Slider({
+										title = "max distance",
+										min = 50,
+										max = 500,
+										default = e447legant.MaxDistance,
+										suffix = "studs",
+										maxtext = "disabled",
+										callback = function(_4lega7nt)
+											e447legant.MaxDistance = _4lega7nt
+										end,
+									})
+									e4L4gant:Dropdown({
+										title = "font",
+										values = {
+											"Tahoma",
+											"Pixel"
+										},
+										default = e447legant.Font,
+										multi = false,
+										callback = function(_4lega77nt)
+											e447legant.Font = _4lega77nt
+											e77legant.UpdateFonts()
+											e77legant.ForceUpdate = true
+										end,
+									})
+									e4L4gant:Dropdown({
+										title = "font case",
+										values = {
+											"lowercase",
+											"uppercase",
+											"normal"
+										},
+										default = e447legant.FontType,
+										multi = e4legant4.v83[9],
+										callback = function(_4lega47nt)
+											e447legant.FontType = _4lega47nt
+											e77legant.InvalidateTextCaches()
+											e77legant.ForceUpdate = true
+										end,
+									})
+									e4L4gant:Slider({
+										title = "text size",
+										min = 8,
+										max = 24,
+										default = e447legant.FontSize,
+										suffix = "px",
+										callback = function(_4lega74nt)
+											e447legant.FontSize = _4lega74nt
+											e77legant.UpdateFonts()
+											e77legant.ForceUpdate = true
+										end,
+									})
+									local e44L4gant = e7legant:Toggle({
+										title = "name",
+										default = e447legant.Name.Enabled,
+										risky = e4legant4.v83[9],
+										callback = function(ele447g4nt)
+											e447legant.Name.Enabled = ele447g4nt
+											if not ele447g4nt then
+												e77legant.HideNames()
+											end
+											e77legant.ForceUpdate = true
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									e44L4gant:Toggle({
+										title = "use display name",
+										default = e447legant.Name.UseDisplay,
+										risky = false,
+										callback = function(_4lega447nt)
+											e447legant.Name.UseDisplay = _4lega447nt
+											e77legant.InvalidateTextCaches()
+											e77legant.ForceUpdate = true
+										end,
+									})
+									e44L4gant:Colorpicker({
+										title = "text color",
+										default = e447legant.Name.Color,
+										transparency = 1 - e447legant.Name.Transparency,
+										callback = function(EL77EGANT, el44egant)
+											e447legant.Name.Color = EL77EGANT
+											e447legant.Name.Transparency = eL4474gant(el44egant)
+											e77legant.UpdateLabelColor("LabelName", EL77EGANT)
+											e77legant.UpdateLabelTransparency("LabelName", eL4474gant(el44egant))
+										end,
+									})
+									e7legant:Toggle({
+										title = "box",
+										default = e447legant.Box.Enabled,
+										risky = e4legant4.v83[9],
+										callback = function(ele447g4nt)
+											e447legant.Box.Enabled = ele447g4nt
+											if not ele447g4nt then
+												e77legant.HideBoxes()
+											end
+											e77legant.ForceUpdate = true
+										end,
+									}):Settings({
+										callback = function()
+										end
+									}):Colorpicker({
+										title = "color",
+										default = e447legant.Box.Color[1],
+										transparency = 1 - e447legant.Box.Transparency[e4legant4.v83[85]],
+-- e4l3g4nt :: 47
+										callback = function(el44egant, el7egant)
+											e447legant.Box.Color[1] = el44egant
+											e447legant.Box.Transparency[e4legant4.v83[85]] = eL4474gant(el7egant)
+											e447legant.Box.Glow.Color[1] = el44egant
+											e447legant.Box.Glow.Color[2] = el44egant
+											e77legant.UpdateBoxGradient()
+											e77legant.UpdateBorderTransparency()
+											e77legant.UpdateGlowColors()
+										end,
+									}):Colorpicker({
+										title = "color 2",
+										default = e447legant.Box.Color[2],
+										transparency = 1 - e447legant.Box.Transparency[2],
+										callback = function(el44egant, el7egant)
+											e447legant.Box.Color[2] = el44egant
+											e447legant.Box.Transparency[e4legant4.v83[119]] = eL4474gant(el7egant)
+											e77legant.UpdateBoxGradient()
+											e77legant.UpdateBorderTransparency()
+											e77legant.UpdateGlowColors()
+										end,
+									}):Slider({
+										title = "gradient rotation",
+										min = - 90,
+										max = 90,
+										default = e447legant.Box.Rotation,
+										suffix = "*",
+										callback = function(_4lega774nt)
+											e447legant.Box.Rotation = _4lega774nt
+											e77legant.UpdateBoxRotation()
+										end,
+-- e4l3g4nt runz this
+									})
+									e7legant:Toggle({
+										title = "box fill",
+										default = e447legant.Box.Fill.Enabled,
+										risky = false,
+										callback = function(ele447g4nt)
+											e447legant.Box.Fill.Enabled = ele447g4nt
+											if not ele447g4nt then
+												e77legant.HideFills()
+											end
+-- property of e4l3g4nt
+											e77legant.ForceUpdate = e4legant4.v83[91]
+										end,
+									}):Settings({
+										callback = function()
+										end
+-- e7l4g4nt < 47 >
+									}):Colorpicker({
+										title = "color",
+										default = e447legant.Box.Fill.Color[1],
+										transparency = 1 - e447legant.Box.Fill.Transparency[e4legant4.v83[85]],
+										callback = function(el44egant, el7egant)
+											e447legant.Box.Fill.Color[e4legant4.v83[85]] = el44egant
+											e447legant.Box.Fill.Color[2] = el44egant
+											e447legant.Box.Fill.Transparency[1] = eL4474gant(el7egant)
+											e77legant.UpdateFillGradient()
+										end,
+									}):Slider({
+										title = "gradient rotation",
+										min = - 90,
+										max = 90,
+										default = e447legant.Box.Fill.Rotation,
+										suffix = "*",
+										callback = function(_4lega774nt)
+											e447legant.Box.Fill.Rotation = _4lega774nt
+											e77legant.UpdateFillGradient()
+										end,
+									})
+									e7legant:Toggle({
+										title = "highlight",
+										default = e447legant.Highlight.Enabled,
+										risky = false,
+										callback = function(ele447g4nt)
+											e447legant.Highlight.Enabled = ele447g4nt
+											e77legant.UpdateHighlightVisibility()
+											if not ele447g4nt then
+												e77legant.HideHighlights()
+											end
+										end,
+									}):Settings({
+										callback = function()
+										end
+									}):Colorpicker({
+										title = "fill color",
+										default = e447legant.Highlight.FillColor,
+										transparency = 1 - e447legant.Highlight.FillTransparency,
+										callback = function(_4legan4t, el44egant)
+											e447legant.Highlight.FillColor = _4legan4t
+											e447legant.Highlight.FillTransparency = eL4474gant(el44egant)
+											e77legant.UpdateHighlights()
+										end,
+									}):Colorpicker({
+										title = "outline color",
+										default = e447legant.Highlight.OutlineColor,
+										transparency = 1 - e447legant.Highlight.OutlineTransparency,
+										callback = function(_4legan44t, el44egant)
+											e447legant.Highlight.OutlineColor = _4legan44t
+											e447legant.Highlight.OutlineTransparency = eL4474gant(el44egant)
+-- e4l3g4nt : 7 : 4 : 7
+											e77legant.UpdateHighlights()
+										end,
+									}):Dropdown({
+										title = "depth",
+										values = {
+											"AlwaysOnTop",
+											"Occluded"
+										},
+										default = e447legant.Highlight.DepthMode == Enum.HighlightDepthMode.AlwaysOnTop and "AlwaysOnTop" or "Occluded",
+										multi = e4legant4.v83[9],
+										callback = function(el44egant)
+											e447legant.Highlight.DepthMode = el44egant == "AlwaysOnTop" and Enum.HighlightDepthMode.AlwaysOnTop or Enum.HighlightDepthMode.Occluded
+											e77legant.UpdateHighlights()
+										end,
+-- e4l3g4nt runz this
+									})
+									local eL774gant = e7legant:Toggle({
+										title = "healthbar",
+										default = e447legant.Bars.HealthBar.Enabled,
+										risky = false,
+										callback = function(ele447g4nt)
+											e447legant.Bars.HealthBar.Enabled = ele447g4nt
+											if not ele447g4nt then
+												e77legant.HideHealthbars()
+											end
+											e77legant.ForceUpdate = true
+										end,
+									})
+									eL774gant:Colorpicker({
+										title = "color 1",
+										default = e447legant.Bars.HealthBar.Color[1],
+										transparency = e4legant4.v83[85],
+										callback = function(el44egant)
+											e447legant.Bars.HealthBar.Color[1] = el44egant
+											e77legant.UpdateHpGradient()
+										end,
+									})
+									eL774gant:Colorpicker({
+										title = "color 2",
+										default = e447legant.Bars.HealthBar.Color[e4legant4.v83[119]],
+										transparency = 1,
+										callback = function(el44egant)
+											e447legant.Bars.HealthBar.Color[2] = el44egant
+											e77legant.UpdateHpGradient()
+										end,
+									})
+									eL774gant:Colorpicker({
+										title = "color 3",
+										default = e447legant.Bars.HealthBar.Color[e4legant4.v83[53]],
+										transparency = 1,
+										callback = function(el44egant)
+											e447legant.Bars.HealthBar.Color[3] = el44egant
+											e77legant.UpdateHpGradient()
+										end,
+									})
+									local eL477gant = e7legant:Toggle({
+										title = "healthbar text",
+										default = e447legant.Bars.HealthBar.Text.Enabled,
+										risky = false,
+										callback = function(ele447g4nt)
+											e447legant.Bars.HealthBar.Text.Enabled = ele447g4nt
+											if not ele447g4nt then
+												for e4l4g4n777, eL477gant in ipairs(e77legant.List) do
+													eL477gant.LabelHp.Visible = false
+												end
+											end
+											e77legant.ForceUpdate = e4legant4.v83[91]
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									eL477gant:Colorpicker({
+										title = "text color",
+										default = e447legant.Bars.HealthBar.Text.Color,
+										transparency = 1 - e447legant.Bars.HealthBar.Text.Transparency,
+										callback = function(EL77EGANT, el44egant)
+											e447legant.Bars.HealthBar.Text.Color = EL77EGANT
+											e447legant.Bars.HealthBar.Text.Transparency = eL4474gant(el44egant)
+											e77legant.UpdateLabelColor("LabelHp", EL77EGANT)
+											e77legant.UpdateLabelTransparency("LabelHp", eL4474gant(el44egant))
+										end,
+									})
+									eL477gant:TextBox({
+										title = "ending",
+										default = e447legant.Bars.HealthBar.Text.Ending,
+										callback = function(_4legan7t)
+											e447legant.Bars.HealthBar.Text.Ending = _4legan7t
+											e77legant.InvalidateTextCaches()
+											e77legant.ForceUpdate = true
+										end,
+									})
+									eL477gant:Toggle({
+										title = "follow bar",
+										default = e447legant.Bars.HealthBar.Text.FollowBar,
+										risky = false,
+										callback = function(_4legan77t)
+											e447legant.Bars.HealthBar.Text.FollowBar = _4legan77t
+											e77legant.ForceUpdate = true
+										end,
+-- elegantified :: 4747
+									})
+									local eL447gant = e7legant:Toggle({
+										title = "distance",
+										default = e447legant.Distance.Enabled,
+										risky = false,
+										callback = function(ele447g4nt)
+											e447legant.Distance.Enabled = ele447g4nt
+											if not ele447g4nt then
+												e77legant.HideDistances()
+											end
+											e77legant.ForceUpdate = true
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									eL447gant:Colorpicker({
+										title = "text color",
+										default = e447legant.Distance.Color,
+										transparency = e4legant4.v83[85] - e447legant.Distance.Transparency,
+										callback = function(EL77EGANT, el44egant)
+											e447legant.Distance.Color = EL77EGANT
+											e447legant.Distance.Transparency = eL4474gant(el44egant)
+											e77legant.UpdateLabelColor("LabelDist", EL77EGANT)
+											e77legant.UpdateLabelTransparency("LabelDist", eL4474gant(el44egant))
+										end,
+									})
+									eL447gant:TextBox({
+										title = "ending",
+										default = e447legant.Distance.Ending,
+										callback = function(_4legan7t)
+											e447legant.Distance.Ending = _4legan7t
+											e77legant.InvalidateTextCaches()
+											e77legant.ForceUpdate = true
+										end,
+									})
+								end
+								do
+									local _4legan47t = eL44gant("enemy")
+									local e4L4gant = e77L4gant(_4legan47t)
+									e447L4gant(players_tab:Section("esp", "left"), e4L4gant, _4legan47t)
+								end
+							end
+							e774L4gant = eL44gant("team")
+						end
+						local e4L4gant = e77L4gant(e774L4gant)
+						e447L4gant(players_tab:Section("team", "left"), e4L4gant, e774L4gant)
+					end
+					do
+						local _4legan74t = {}
+						do
+							_4legan74t.Lighting = game:GetService("Lighting")
+							do
+								local _4legan447t = game:GetService("RunService")
+								_4legan74t.tbl18 = {
+									Ambient = _4legan74t.Lighting.Ambient,
+									OutdoorAmbient = _4legan74t.Lighting.OutdoorAmbient,
+									ExposureCompensation = _4legan74t.Lighting.ExposureCompensation,
+									Brightness = _4legan74t.Lighting.Brightness,
+									ClockTime = _4legan74t.Lighting.ClockTime,
+								}
+								_4legan74t.tbl19 = {
+									atmosphere = nil
+								}
+								_4legan74t.tbl20 = {
+									haze_strength = 1.5,
+									glare_strength = 1.4,
+									exposure_value = 0,
+									brightness_value = _4legan74t.tbl18.Brightness,
+									clocktime_value = _4legan74t.tbl18.ClockTime,
+								}
+								_4legan74t.fn31 = function()
+									if not _4legan74t.tbl19.atmosphere or not _4legan74t.tbl19.atmosphere.Parent then
+										_4legan74t.tbl19.atmosphere = _4legan74t.Lighting:FindFirstChildOfClass("Atmosphere")
+										if not _4legan74t.tbl19.atmosphere then
+											_4legan74t.tbl19.atmosphere = Instance.new("Atmosphere")
+											_4legan74t.tbl19.atmosphere.Parent = _4legan74t.Lighting
+										end
+									end
+									return _4legan74t.tbl19.atmosphere
+								end
+								_4legan74t.fn32 = function()
+									if not _4legan74t.tbl20.haze and not _4legan74t.tbl20.glare then
+										if _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+											_4legan74t.tbl19.atmosphere:Destroy()
+										end
+										_4legan74t.tbl19.atmosphere = nil
+									end
+								end
+								_4legan447t.Heartbeat:Connect(function(...)
+								end)
+							end
+						end
+						local _4legan774t
+						do
+							_4legan774t = players_tab:Section("world", "right")
+							_4legan774t:Toggle({
+								title = "indoor ambience",
+								default = false,
+								risky = false,
+								callback = function(_4legant4)
+									_4legan74t.tbl20.indoor_ambience = _4legant4
+									if not _4legant4 then
+										_4legan74t.Lighting.Ambient = _4legan74t.tbl18.Ambient
+									else
+										_4legan74t.Lighting.Ambient = _4legan74t.tbl20.indoor_ambience_color or Color3.fromRGB(100, 155, 255)
+									end
+								end,
+							}):Colorpicker({
+								title = "ambience",
+								default = Color3.fromRGB(100, 155, 255),
+								transparency = 1,
+								callback = function(_4legant44)
+									_4legan74t.tbl20.indoor_ambience_color = _4legant44
+									if _4legan74t.tbl20.indoor_ambience then
+										_4legan74t.Lighting.Ambient = _4legant44
+									end
+								end,
+							})
+							_4legan774t:Toggle({
+								title = "outdoor ambience",
+								default = false,
+								risky = false,
+								callback = function(_4legant7)
+									_4legan74t.tbl20.outdoor_ambience = _4legant7
+									if not _4legant7 then
+										_4legan74t.Lighting.OutdoorAmbient = _4legan74t.tbl18.OutdoorAmbient
+									else
+										_4legan74t.Lighting.OutdoorAmbient = _4legan74t.tbl20.outdoor_ambience_color or Color3.fromRGB(100, 155, 255)
+									end
+								end,
+							}):Colorpicker({
+								title = "outdoor",
+								default = Color3.fromRGB(e4legant4.v83[130], 155, 255),
+								transparency = 1,
+-- e4l44gant77 | 747
+								callback = function(_4legant47)
+									_4legan74t.tbl20.outdoor_ambience_color = _4legant47
+									if _4legan74t.tbl20.outdoor_ambience then
+										_4legan74t.Lighting.OutdoorAmbient = _4legant47
+									end
+								end,
+							})
+							do
+								local e4L4gant = _4legan774t:Toggle({
+									title = "haze",
+									default = false,
+									risky = false,
+									callback = function(_4legant74)
+										_4legan74t.tbl20.haze = _4legant74
+										if _4legant74 then
+											local e4L4gant = _4legan74t.fn31()
+											e4L4gant.Haze = _4legan74t.tbl20.haze_strength or 1.5
+											e4L4gant.Color = _4legan74t.tbl20.haze_color or Color3.fromRGB(141, e4legant4.v83[150], 60)
+										else
+											if _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+												_4legan74t.tbl19.atmosphere.Haze = 0
+											end
+											_4legan74t.fn32()
+										end
+									end,
+								}):Settings({
+									callback = function()
+									end
+								})
+								e4L4gant:Colorpicker({
+									title = "haze color",
+									default = Color3.fromRGB(141, 255, 60),
+									transparency = e4legant4.v83[85],
+									callback = function(_4legant447)
+										_4legan74t.tbl20.haze_color = _4legant447
+										if _4legan74t.tbl20.haze and _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+											_4legan74t.tbl19.atmosphere.Color = _4legant447
+										end
+									end,
+								})
+								e4L4gant:Slider({
+									title = "strength",
+									suffix = "%",
+									min = 0,
+									max = e4legant4.v83[131],
+									float = 0.1,
+									default = 1.5,
+									callback = function(_4legant774)
+										_4legan74t.tbl20.haze_strength = _4legant774
+										if _4legan74t.tbl20.haze and _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+											_4legan74t.tbl19.atmosphere.Haze = _4legant774
+										end
+									end,
+								})
+							end
+						end
+						do
+							local e4L4gant = _4legan774t:Toggle({
+								title = "glare",
+								default = false,
+								risky = false,
+								callback = function(_4e4legant)
+									_4legan74t.tbl20.glare = _4e4legant
+									if _4e4legant then
+										local e4L4gant = _4legan74t.fn31()
+										e4L4gant.Glare = _4legan74t.tbl20.glare_strength or 1.4
+										e4L4gant.Decay = _4legan74t.tbl20.glare_color or Color3.fromRGB(100, 155, 255)
+									else
+										if _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+											_4legan74t.tbl19.atmosphere.Glare = 0
+										end
+										_4legan74t.fn32()
+-- e4l44gant77 | 747
+									end
+								end,
+							}):Settings({
+								callback = function()
+								end
+							})
+							e4L4gant:Colorpicker({
+								title = "glare color",
+								default = Color3.fromRGB(e4legant4.v83[130], 155, 255),
+								transparency = 1,
+								callback = function(_44e4legant)
+									_4legan74t.tbl20.glare_color = _44e4legant
+									if _4legan74t.tbl20.glare and _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+										_4legan74t.tbl19.atmosphere.Decay = _44e4legant
+									end
+								end,
+							})
+							e4L4gant:Slider({
+								title = "strength",
+								suffix = "%",
+								min = 0,
+								max = 10,
+								float = 0.1,
+								default = 1.4,
+								callback = function(_7e4legant)
+									_4legan74t.tbl20.glare_strength = _7e4legant
+-- 4l3g4nt wuz here 74
+									if _4legan74t.tbl20.glare and _4legan74t.tbl19.atmosphere and _4legan74t.tbl19.atmosphere.Parent then
+										_4legan74t.tbl19.atmosphere.Glare = _7e4legant
+									end
+								end,
+							})
+						end
+						_4legan774t:Toggle({
+							title = "exposure",
+							default = false,
+							risky = false,
+							callback = function(_77e4legant)
+								_4legan74t.tbl20.exposure = _77e4legant
+								if not _77e4legant then
+									_4legan74t.Lighting.ExposureCompensation = _4legan74t.tbl18.ExposureCompensation
+								else
+									_4legan74t.Lighting.ExposureCompensation = _4legan74t.tbl20.exposure_value or e4legant4.v83[118]
+								end
+							end,
+						}):Settings({
+							callback = function()
+							end
+						}):Slider({
+							title = "exposure",
+							suffix = "%",
+							min = - e4legant4.v83[81],
+							max = e4legant4.v83[81],
+							float = e4legant4.v83[90],
+							default = 0,
+-- elegant x4 x7
+							callback = function(_47e4legant)
+								_4legan74t.tbl20.exposure_value = _47e4legant
+								if _4legan74t.tbl20.exposure then
+									_4legan74t.Lighting.ExposureCompensation = _47e4legant
+								end
+							end,
+						})
+						_4legan774t:Toggle({
+							title = "brightness",
+							default = e4legant4.v83[9],
+							risky = false,
+							callback = function(_74e4legant)
+								_4legan74t.tbl20.brightness = _74e4legant
+								if not _74e4legant then
+									_4legan74t.Lighting.Brightness = _4legan74t.tbl18.Brightness
+								else
+									_4legan74t.Lighting.Brightness = _4legan74t.tbl20.brightness_value or _4legan74t.tbl18.Brightness
+								end
+							end,
+						}):Settings({
+							callback = function()
+							end
+						}):Slider({
+							title = "brightness",
+							suffix = "%",
+							min = e4legant4.v83[118],
+							max = e4legant4.v83[131],
+							float = e4legant4.v83[90],
+							callback = function(_447e4legant)
+								_4legan74t.tbl20.brightness_value = _447e4legant
+								if _4legan74t.tbl20.brightness then
+									_4legan74t.Lighting.Brightness = _447e4legant
+								end
+							end,
+-- e4l3g4nt_was_here
+						})
+						_4legan774t:Toggle({
+							title = "clock time",
+							default = false,
+							risky = false,
+							callback = function(_774e4legant)
+								_4legan74t.tbl20.clocktime = _774e4legant
+								if not _774e4legant then
+									_4legan74t.Lighting.ClockTime = _4legan74t.tbl18.ClockTime
+								else
+									_4legan74t.Lighting.ClockTime = _4legan74t.tbl20.clocktime_value or _4legan74t.tbl18.ClockTime
+								end
+							end,
+						}):Settings({
+							callback = function()
+							end
+						}):Slider({
+							title = "time",
+							suffix = " t",
+							min = 0,
+							max = e4legant4.v83[87],
+							float = e4legant4.v83[90],
+							callback = function(e444legant)
+								_4legan74t.tbl20.clocktime_value = e444legant
+								if _4legan74t.tbl20.clocktime then
+									_4legan74t.Lighting.ClockTime = e444legant
+								end
+-- e4l3g4nt runz this
+							end,
+						})
+					end
+					do
+						e4l44gant.misc = e4l44gant.tween:Tab("misc")
+						getgenv().GunSettings = getgenv().GunSettings or {
+							NoRecoil = false,
+							ViewModelEnabled = false,
+							ViewModelX = 0.13,
+							ViewModelY = - 0.155,
+							ViewModelZ = 0.075,
+							ViewModelRoll = e4legant4.v83[118],
+							ViewModelRotX = 0,
+							ViewModelRotY = 0,
+							ViewModelShotActive = false,
+							ViewModelShotToken = 0,
+							RotateOnShot = false,
+						}
+						getgenv().Settings = getgenv().Settings or {
+-- 4l3g4nt owns this 4477
+							speed = {
+								enabled = false,
+								method = "on jump",
+								value = 25
+							},
+							fakeLag = {
+								enabled = e4legant4.v83[9],
+								strength = 5,
+								fakechar = e4legant4.v83[9],
+								onlyThirdPerson = false,
+								fakecharColor = Color3.fromRGB(255, 155, 255),
+								fakecharTransparency = 0,
+								fakecharMaterial = "Neon",
+							},
+						}
+						getgenv().RemovalsEnabled = false
+						do
+							local e474legant = {
+								flashbang = e4legant4.v83[91]
+							}
+							getgenv().RemovalsSelection = e474legant
+						end
+					end
+					do
+						local el774egant = false
+						local e47legant = {}
+						local e77L4gant = nil
+						e77L4gant = function()
+							if not el774egant then
+								return
+							end
+							local ElE74gAnT = nil
+							for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+								if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "FlashEffect" then
+									local ElE47gAnT
+									ElE47gAnT, ElE74gAnT = pcall(require, E77LEGANT)
+									if not (ElE47gAnT and type(ElE74gAnT) == "table" and ElE74gAnT.Flash) then
+										ElE74gAnT = nil
+										continue
+									end
+								else
+									ElE74gAnT = nil
+									continue
+								end
+								break
+							end
+							if not ElE74gAnT then
+								task.delay(e4legant4.v83[119], e77L4gant)
+								return
+							end
+							if not e47legant.Flash then
+								e47legant.Flash = ElE74gAnT.Flash
+								e47legant.IsFlashed = ElE74gAnT.IsFlashed
+								e47legant.GetAudioFadeMultiplier = ElE74gAnT.GetAudioFadeMultiplier
+								e47legant.CancelFlash = ElE74gAnT.CancelFlash
+								e47legant.CalculateFlashDuration = ElE74gAnT.CalculateFlashDuration
+							end
+							ElE74gAnT.Flash = function()
+								return e4legant4.v83[9]
+							end
+							ElE74gAnT.IsFlashed = function()
+								return false
+							end
+							ElE74gAnT.GetAudioFadeMultiplier = function()
+								return e4legant4.v83[85]
+							end
+							if ElE74gAnT.CancelFlash then
+								pcall(ElE74gAnT.CancelFlash)
+							end
+							if ElE74gAnT.CalculateFlashDuration then
+								ElE74gAnT.CalculateFlashDuration = function()
+									return e4legant4.v83[118], e4legant4.v83[118], 0, "blocked", 0
+								end
+							end
+						end
+						game.DescendantAdded:Connect(function(E77LEGANT)
+							if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "FlashEffect" then
+								task.wait(0.1)
+								if el774egant then
+									e77L4gant()
+								end
+							end
+						end)
+					end
+				end
+				do
+					local e77L4gant, e447L4gant, eleg447nt
+					do
+						do
+							do
+								local el774egant = false
+								local e47legant = {}
+								local eleg47ant = false
+								local eL44gant = nil
+								eL44gant = function()
+									if not el774egant then
+										return
+									end
+									local e4L4gant = nil
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "CreateVoxelSmoke" then
+											local ElE47gAnT, ElE74gAnT = pcall(require, E77LEGANT)
+											if ElE47gAnT and type(ElE74gAnT) == "table" and ElE74gAnT.Create then
+												e4L4gant = ElE74gAnT
+												break
+											end
+										end
+									end
+									if not e4L4gant then
+										task.delay(2, eL44gant)
+										return
+									end
+									if not e47legant.Create then
+										e47legant.Create = e4L4gant.Create
+										e47legant.DestroyAll = e4L4gant.DestroyAll
+									end
+									e4L4gant.Create = function()
+									end
+									pcall(e4L4gant.DestroyAll)
+									for e4l4g4n777, E77LEGANT in ipairs(workspace:GetDescendants()) do
+										if E77LEGANT:IsA("BasePart") and E77LEGANT.Name == "SmokeVoxel" then
+											E77LEGANT:Destroy()
+										end
+										if E77LEGANT:IsA("Folder") and E77LEGANT.Name:match("^VoxelSmoke_") then
+											E77LEGANT:Destroy()
+										end
+									end
+									eleg47ant = true
+									task.spawn(function()
+										while eleg47ant do
+											for e4l4g4n777, E77LEGANT in ipairs(workspace:GetDescendants()) do
+												if E77LEGANT:IsA("BasePart") and E77LEGANT.Name == "SmokeVoxel" then
+													E77LEGANT:Destroy()
+												end
+												if E77LEGANT:IsA("Folder") and E77LEGANT.Name:match("^VoxelSmoke_") then
+													E77LEGANT:Destroy()
+												end
+											end
+											pcall(e4L4gant.DestroyAll)
+											task.wait(0.5)
+										end
+									end)
+								end
+								game.DescendantAdded:Connect(function(E77LEGANT)
+									if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "CreateVoxelSmoke" then
+										task.wait(0.1)
+										if el774egant then
+											eL44gant()
+										end
+									end
+								end)
+							end
+							do
+								local ELEGAN4T = nil
+								e77L4gant = function(e7legant, e77legant)
+									if ELEGAN4T then
+										ELEGAN4T:Disconnect()
+										ELEGAN4T = nil
+									end
+									if e7legant then
+										local e744legant = workspace.CurrentCamera
+										ELEGAN4T = game:GetService("RunService").RenderStepped:Connect(function()
+											e744legant .CFrame = e744legant .CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, e77legant, 0, 0, 0, 1);
+										end)
+									end
+								end
+							end
+						end
+						do
+							local ELEGAN4T = nil
+							e447L4gant = function(e7legant, e4474legant)
+								if ELEGAN4T then
+									ELEGAN4T:Disconnect()
+									ELEGAN4T = nil
+								end
+								if e7legant then
+									local e744legant = workspace.CurrentCamera
+									ELEGAN4T = game:GetService("RunService").RenderStepped:Connect(function()
+										e744legant .FieldOfView = e4474legant ;
+									end)
+								else
+									workspace.CurrentCamera.FieldOfView = 70
+								end
+							end
+						end
+						do
+							local e744legant = workspace.CurrentCamera
+							local e47legant = {}
+							local function eL44gant(e7legant)
+								if e7legant:IsA("Model") then
+									local e7744legant = e7legant:FindFirstChild("Stats")
+									if e7744legant then
+										local e477legant = e7744legant:FindFirstChild("Default")
+										local _4lega774nt = e7744legant:FindFirstChild("Rotation")
+										if e477legant and _4lega774nt and not e47legant[e7legant] then
+											e47legant[e7legant] = {
+												default = e477legant.Value,
+												rotation = _4lega774nt.Value
+											}
+										end
+									end
+								end
+							end
+							local function eL4474gant(e7legant)
+								if e7legant:IsA("Model") then
+									if e4legant4.n26(753) < 2323 then
+										local e4447legant = e7legant:FindFirstChild("CameraShake")
+										if e4447legant then
+											local e4L4gant = e4447legant:FindFirstChild(e4legant4.v83[114])
+											if e4L4gant then
+												local e4774legant = e4L4gant:FindFirstChild("PositionDampen")
+												if e4774legant then
+													e4774legant.Value = getgenv().GunSettings.NoRecoil and - 500 or e4legant4.v83[85]
+													if e4legant4.n25 > 2327 then
+														while true do
+														end
+													end
+												end
+											end
+										end
+										local e7744legant = e7legant:FindFirstChild("Stats")
+										if e7744legant then
+											local e477legant = e7744legant:FindFirstChild("Default")
+											local _4lega774nt = e7744legant:FindFirstChild("Rotation")
+											local e4l4egant = getgenv().GunSettings
+											if e4l4egant.ViewModelEnabled then
+												if e477legant then
+													e477legant.Value = Vector3.new(e4l4egant.ViewModelX, e4l4egant.ViewModelY, e4l4egant.ViewModelZ)
+												end
+											elseif e47legant[e7legant] and e477legant then
+												e477legant.Value = e47legant[e7legant].default
+											end
+											if _4lega774nt then
+												local e4L4gant = e47legant[e7legant]
+												local eL7eGaNt = e4L4gant and e4L4gant.rotation.X or _4lega774nt.Value.X
+												local eLeGa774Nt = e4L4gant and e4L4gant.rotation.Y or _4lega774nt.Value.Y
+												local E77lEgAnT = e4L4gant and e4L4gant.rotation.Z or _4lega774nt.Value.Z
+												if e4l4egant.ViewModelEnabled then
+													E77lEgAnT = e4l4egant.ViewModelRoll
+												end
+												if e4l4egant.RotateOnShot and e4l4egant.ViewModelShotActive then
+													eL7eGaNt = e4l4egant.ViewModelRotX
+													eLeGa774Nt = e4l4egant.ViewModelRotY
+												end
+-- 4legant 4 the win 474
+												_4lega774nt.Value = Vector3.new(eL7eGaNt, eLeGa774Nt, E77lEgAnT)
+											end
+										end
+									else
+										while true do
+										end
+									end
+								end
+							end
+							eleg447nt = function()
+								for e4l4g4n777, Eleg447ant in ipairs(e744legant:GetChildren()) do
+									eL4474gant(Eleg447ant)
+								end
+							end
+							getgenv().GunSettingsApplyViewmodels = eleg447nt
+							e744legant.ChildAdded:Connect(function(Eleg447ant)
+								task.wait()
+								eL44gant(Eleg447ant)
+-- e4l3g4nt : 7 : 4 : 7
+								eL4474gant(Eleg447ant)
+							end)
+							for e4l4g4n777, Eleg447ant in ipairs(e744legant:GetChildren()) do
+								eL44gant(Eleg447ant)
+							end
+						end
+					end
+					do
+						do
+							e4legant.RunService = game:GetService("RunService")
+-- e7l4g4nt < 47 >
+							game:GetService("UserInputService")
+							e4legant.Players = game:GetService("Players")
+							do
+								local e4L4gant = nil
+								local eL44gant = nil
+								local e44L4gant = nil
+								local function eL4474gant()
+									local e4l44egant = game:GetService("ReplicatedStorage")
+									local ElE47gAnT, ElE74gAnT = pcall(require, e4l44egant.Classes.Character)
+									if not ElE47gAnT or type(ElE74gAnT) ~= "table" then
+										return
+									end
+									local e4l7egant = debug and debug.getupvalue
+									if e4l7egant then
+										local Elegan47t = ElE74gAnT.new or ElE74gAnT.MoveFunction
+										if Elegan47t then
+-- e4l44gant77 | 747
+											for eleg44ant = e4legant4.v83[85], 300 do
+												local e4l77egant, ElEgA447nT, ele44g4nt = pcall(e4l7egant, Elegan47t, eleg44ant)
+												if not (not e4l77egant or ElEgA447nT == nil) then
+													if type(ele44g4nt) == "table" and ele44g4nt.Character and ele44g4nt.HumanoidRootPart and ele44g4nt.MovementState then
+														e4L4gant = ele44g4nt
+														break
+													else
+														continue
+													end
+												end
+												break
+											end
+										end
+									end
+									local e4l77egant, ElEgA447nT = pcall(require, e4l44egant.Movement.Simulator)
+									local e4l47egant, ele44g4nt = pcall(require, e4l44egant.Movement.RuntimeKinematics)
+									if e4l47egant and type(ele44g4nt) == "table" and type(ele44g4nt.write) == "function" then
+										e44L4gant = ele44g4nt
+									end
+									if e4l77egant and type(ElEgA447nT) == "table" then
+										for e4l4g4n777, eL774gant in ipairs({
+											"requestJump",
+											"RequestJump",
+											"jump"
+										}) do
+											local eL477gant = ElEgA447nT[eL774gant]
+											if type(eL477gant) == "function" then
+												eL44gant = function()
+													pcall(eL477gant, ElEgA447nT, e4L4gant.MovementState, tick())
+												end
+												break
+											end
+										end
+									end
+									if not eL44gant and e4L4gant and e4L4gant.MovementJumpInput then
+										local e4l74egant = e4L4gant.MovementJumpInput
+										for e4l4g4n777, eL774gant in ipairs({
+											"push",
+											"Push",
+											"SetHeld",
+											"setHeld",
+											"AddJump",
+											"addJump",
+											"tap",
+											"Tap",
+											"press",
+											"Press"
+										}) do
+											local eL477gant = e4l74egant[eL774gant]
+											if type(eL477gant) == "function" then
+												eL44gant = function()
+													pcall(eL477gant, e4l74egant, tick())
+												end
+												break
+											end
+										end
+									end
+									if not eL44gant then
+										eL44gant = function()
+											pcall(function()
+												game:GetService("UserInputService").JumpRequest:Fire()
+											end)
+										end
+									end
+								end
+								pcall(function()
+									eL4474gant()
+								end)
+								getgenv().GetLocalMovement = function()
+									return e4L4gant
+								end
+							end
+						end
+						do
+							do
+								local function eL44gant()
+									local e4l44egant = game:GetService("ReplicatedStorage")
+									local ElE47gAnT, ElE74gAnT = pcall(require, e4l44egant.Classes.Character)
+									if ElE47gAnT and type(ElE74gAnT) == "table" and type(ElE74gAnT.ApplyMovementCorrection) == "function" and not ElE74gAnT.__SpecterNoCorrChar then
+										ElE74gAnT.__SpecterNoCorrChar = true
+										local e4l447egant = ElE74gAnT.ApplyMovementCorrection
+										ElE74gAnT.ApplyMovementCorrection = function(...)
+											local e4l774egant = getgenv().Settings
+											if e4l774egant and e4l774egant.speed and e4l774egant.speed.enabled then
+												return
+											end
+											if getgenv().BS_Settings and getgenv().BS_Settings.autohop then
+												return
+											end
+											return e4l447egant(...)
+										end
+									end
+									local e4l77egant, ElEgA447nT = pcall(require, e4l44egant.Movement.ClientRuntime)
+									if e4l77egant and type(ElEgA447nT) == "table" and type(ElEgA447nT.applyCorrection) == "function" and not ElEgA447nT.__SpecterNoCorrRT then
+										ElEgA447nT.__SpecterNoCorrRT = true
+										local e4le4gant = ElEgA447nT.applyCorrection
+										ElEgA447nT.applyCorrection = function(...)
+											local e4l774egant = getgenv().Settings
+											if e4l774egant and e4l774egant.speed and e4l774egant.speed.enabled then
+												return
+											end
+											if getgenv().BS_Settings and getgenv().BS_Settings.autohop then
+												return
+											end
+											return e4le4gant(...)
+										end
+-- e4l3g4nt above all 7447
+									end
+								end
+								pcall(function()
+									eL44gant()
+								end)
+							end
+						end
+						do
+							local function eL44gant()
+								local ElE47gAnT, ElE74gAnT = pcall(require, game:GetService("ReplicatedStorage").Movement.SpeedProfile)
+								if not ElE47gAnT or type(ElE74gAnT) ~= "table" or type(ElE74gAnT.resolveBaseMoveSpeed) ~= "function" or ElE74gAnT.__SpecterSpeed then
+									return
+								end
+								ElE74gAnT.__SpecterSpeed = true
+								local e4le44gant = ElE74gAnT.resolveBaseMoveSpeed
+								ElE74gAnT.resolveBaseMoveSpeed = function(...)
+									local e4L4gant = e4le44gant(...)
+									local e4l774egant = getgenv().Settings
+									local ele447g4nt = e4l774egant and e4l774egant.speed and e4l774egant.speed.enabled
+									local elegan447t = 1
+									if ele447g4nt then
+										elegan447t = 1 + (e4l774egant.speed.value or 0) / 40
+									end
+									return e4L4gant * elegan447t
+								end
+							end
+							pcall(function()
+								eL44gant()
+							end)
+						end
+					end
+					do
+						local e4le7gant, e4le77gant, e4le47gant
+						do
+							local e4l44egant = game:GetService("ReplicatedStorage")
+							e4le7gant = require(e4l44egant.Controllers.CharacterController)
+							e4le77gant = require(e4l44egant.Classes.Character)
+							e4le47gant = game:GetService("UserInputService")
+							if getgenv().BS_OldStep then
+								pcall(function()
+									require(e4l44egant.Movement.Simulator).step = getgenv().BS_OldStep
+								end)
+								getgenv().BS_OldStep = nil
+							end
+						end
+						do
+							if getgenv().BS_HopConn then
+								getgenv().BS_HopConn:Disconnect()
+								getgenv().BS_HopConn = nil
+							end
+							if getgenv().BS_OldSample then
+								pcall(function()
+									setreadonly(e4le77gant, e4legant4.v83[9])
+									e4le77gant.SampleInput = getgenv().BS_OldSample
+									setreadonly(e4le77gant, e4legant4.v83[91])
+								end)
+								getgenv().BS_OldSample = nil
+							end
+							getgenv().BS_Settings = getgenv().BS_Settings or {
+								autohop = false,
+								strafe = false
+							}
+							do
+								local e4L4gant = e4legant4.v83[9]
+								getgenv().BS_PrevJump = e4L4gant
+							end
+						end
+						do
+							local e4le74gant = e4le77gant.SampleInput
+							getgenv().BS_OldSample = e4le74gant
+-- e4l44gant77 | 747
+							setreadonly(e4le77gant, false)
+							e4le77gant.SampleInput = function(ElEgAnT774, _4eleg4nt, ...)
+								if getgenv().BS_Settings.autohop and ElEgAnT774 == e4le7gant .getCurrentCharacter() then
+									local _44eleg4nt = e4le47gant :IsKeyDown(Enum.KeyCode.Space) and not getgenv().BS_PrevJump;
+									getgenv().BS_PrevJump = _44eleg4nt;
+									ElEgAnT774.JumpInputDown = _44eleg4nt;
+								end;
+								local _44eleg4nt = e4le74gant(ElEgAnT774, _4eleg4nt, ...);
+								if _44eleg4nt and getgenv().BS_Settings.strafe and getgenv().BS_Settings.autohop and ElEgAnT774 and not ElEgAnT774.OnGround and _44eleg4nt.Move and ElEgAnT774.GlobalVelocity then
+									_4eleg4nt = ElEgAnT774.GlobalVelocity;
+									local e4le447gant = math.sqrt(_4eleg4nt.X * _4eleg4nt.X + _4eleg4nt.Z * _4eleg4nt.Z);
+									if e4le447gant > 0.5 then
+										local ElEgAnT774, _7eleg4nt, _77eleg4nt, _47eleg4nt, _74eleg4nt = _4eleg4nt.X / e4le447gant, _4eleg4nt.Z / e4le447gant, _44eleg4nt.LookYaw, _44eleg4nt.Move.X, _44eleg4nt.Move.Y;
+										local e4le447gant, _4eleg4nt = math.cos(_77eleg4nt), math.sin(_77eleg4nt);
+										local _447eleg4nt, e4le774gant = e4le447gant * _47eleg4nt + _4eleg4nt * _74eleg4nt, - _4eleg4nt * _47eleg4nt + e4le447gant * _74eleg4nt;
+										_47eleg4nt = math.sqrt(_447eleg4nt * _447eleg4nt + e4le774gant * e4le774gant);
+										if _47eleg4nt < 0.01 then
+											return _44eleg4nt;
+										end;
+										_447eleg4nt /= _47eleg4nt;
+										e4le774gant /= _47eleg4nt;
+										_47eleg4nt, _74eleg4nt = - _7eleg4nt, - ElEgAnT774;
+										local eLeGa774Nt, e4leg4ant = _47eleg4nt * _447eleg4nt + ElEgAnT774 * e4le774gant, _7eleg4nt * _447eleg4nt + _74eleg4nt * e4le774gant;
+										_77eleg4nt, _447eleg4nt = e4leg4ant > eLeGa774Nt and _7eleg4nt or _47eleg4nt, e4leg4ant > eLeGa774Nt and _74eleg4nt or ElEgAnT774;
+										if isreadonly(_44eleg4nt) then
+											pcall(setreadonly, _44eleg4nt, false);
+										end;
+										_44eleg4nt.Move = Vector2.new(e4le447gant * _77eleg4nt - _4eleg4nt * _447eleg4nt, _4eleg4nt * _77eleg4nt + e4le447gant * _447eleg4nt);
+									end;
+								end;
+-- e4l44gant77 on top
+								return _44eleg4nt;
+							end
+						end
+						setreadonly(e4le77gant, true)
+					end
+					do
+						e4legant.fn30 = function()
+						end
+						e4legant.fn29 = function()
+						end
+						e4legant.camera = e4l44gant.misc:Section("camera", "left")
+						do
+							local e4L4gant = e4legant.camera:Toggle({
+								title = "custom viewmodel",
+								default = false,
+								risky = false,
+								callback = function(e4leg44ant)
+									getgenv().GunSettings.ViewModelEnabled = e4leg44ant
+									eleg447nt()
+								end,
+							}):Settings({
+								callback = function()
+								end
+							})
+							e4L4gant:Slider({
+								title = "x",
+								suffix = "*",
+								min = - 1,
+								max = 1,
+								float = 0.01,
+								default = 0.05,
+								callback = function(e4leg7ant)
+									getgenv().GunSettings.ViewModelX = e4leg7ant
+									if getgenv().GunSettings.ViewModelEnabled then
+										eleg447nt()
+									end
+								end,
+							})
+							e4L4gant:Slider({
+								title = "y",
+								suffix = "*",
+								min = - e4legant4.v83[85],
+								max = e4legant4.v83[85],
+								float = 0.01,
+								default = - 0.27,
+								callback = function(e4leg77ant)
+									getgenv().GunSettings.ViewModelY = e4leg77ant
+									if getgenv().GunSettings.ViewModelEnabled then
+										eleg447nt()
+									end
+								end,
+							})
+							e4L4gant:Slider({
+								title = "z",
+								suffix = "*",
+								min = - 1,
+								max = 1,
+								float = 0.01,
+								default = - 0.15,
+								callback = function(e4leg47ant)
+									if not (e4legant4.n24 < 9052) then
+										getgenv().GunSettings.ViewModelZ = e4leg47ant
+										if getgenv().GunSettings.ViewModelEnabled then
+											eleg447nt()
+										end
+										return
+									end
+									while true do
+-- 4l3g4nt never dies 7744
+									end
+								end,
+							})
+							e4L4gant:Slider({
+								title = "roll",
+								suffix = "*",
+								min = - 1,
+								max = e4legant4.v83[85],
+								float = 0.01,
+								default = 0,
+								callback = function(e4leg74ant)
+									getgenv().GunSettings.ViewModelRoll = e4leg74ant
+-- e4l44gant77 on top
+									if getgenv().GunSettings.ViewModelEnabled then
+										eleg447nt()
+									end
+								end,
+							})
+						end
+					end
+					e4legant.camera:Toggle({
+						title = "aspect ratio",
+						default = false,
+						risky = e4legant4.v83[9],
+						callback = function(e4leg447ant)
+							getgenv().AspectRatioEnabled = e4leg447ant
+							e77L4gant(e4leg447ant, getgenv().AspectRatioValue or 0.8)
+						end,
+					}):Settings({
+						callback = function()
+						end
+					}):Slider({
+						title = "resolution",
+						suffix = "%",
+						min = 0.1,
+						max = 1.2,
+						float = 0.01,
+						default = 0.9,
+						callback = function(e4leg774ant)
+							getgenv().AspectRatioValue = e4leg774ant
+							if getgenv().AspectRatioEnabled then
+								e77L4gant(true, e4leg774ant)
+							end
+						end,
+					})
+					e4legant.camera:Toggle({
+						title = "camera fov",
+						default = false,
+						risky = false,
+						callback = function(e4lega4nt)
+							getgenv().FovEnabled = e4lega4nt
+							e447L4gant(e4lega4nt, getgenv().FovValue or 90)
+						end,
+					}):Settings({
+						callback = function()
+						end
+					}):Slider({
+						title = "fov",
+						suffix = " fov",
+						min = 30,
+						max = 120,
+						float = e4legant4.v83[85],
+						default = 85,
+						callback = function(e4lega44nt)
+							getgenv().FovValue = e4lega44nt
+							if getgenv().FovEnabled then
+								e447L4gant(true, e4lega44nt)
+							end
+						end,
+					})
+				end
+				getgenv().ThirdPerson = getgenv().ThirdPerson or {
+					Enabled = false,
+					Distance = e4legant4.v83[49],
+					RemoveArms = true,
+					DisableOnShot = e4legant4.v83[9],
+-- 4l3g4nt wuz here 74
+					_shotSuppressed = false,
+					_shotDisableToken = e4legant4.v83[118],
+				}
+				getgenv().ThirdPerson.DisableOnShot = getgenv().ThirdPerson.DisableOnShot or e4legant4.v83[9]
+				if getgenv().ThirdPerson._shotSuppressed == nil then
+					getgenv().ThirdPerson._shotSuppressed = false
+				end
+				if getgenv().ThirdPerson._shotDisableToken == nil then
+					getgenv().ThirdPerson._shotDisableToken = 0
+				end
+				getgenv().HandleThirdPersonShotDisable = function()
+					local El47EgAnT = getgenv().ThirdPerson
+					if not El47EgAnT.DisableOnShot then
+						return
+					end
+					local e4le47gant = game:GetService("UserInputService")
+					if not El47EgAnT.Enabled and not El47EgAnT._shotSuppressed then
+						return
+					end
+					if El47EgAnT.Enabled and not El47EgAnT._shotSuppressed then
+						El47EgAnT._shotSuppressed = true
+						El47EgAnT.Enabled = false
+					end
+					local e4lega7nt = (El47EgAnT._shotDisableToken or 0) + e4legant4.v83[85]
+					El47EgAnT._shotDisableToken = e4lega7nt
+					task.delay(0.35, function()
+						if El47EgAnT._shotDisableToken ~= e4lega7nt then
+							return
+						end
+						if not El47EgAnT._shotSuppressed then
+							return
+						end
+						if El47EgAnT.DisableOnShot and not e4le47gant:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then
+							El47EgAnT.Enabled = true
+							El47EgAnT._shotSuppressed = false
+						else
+							task.spawn(function()
+								while El47EgAnT.DisableOnShot and El47EgAnT._shotSuppressed and e4le47gant:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+									task.wait(0.05)
+								end
+								if El47EgAnT._shotDisableToken == e4lega7nt and El47EgAnT._shotSuppressed and El47EgAnT.DisableOnShot then
+									El47EgAnT.Enabled = true
+									El47EgAnT._shotSuppressed = false
+								end
+							end)
+						end
+					end)
+-- 4l3g4nt never dies 7744
+				end
+				do
+					local e4le47gant = game:GetService("UserInputService")
+					e4le47gant.InputEnded:Connect(function(ELE774GANT)
+						if ELE774GANT.UserInputType == Enum.UserInputType.MouseButton1 then
+							local El47EgAnT = getgenv().ThirdPerson
+							if El47EgAnT.DisableOnShot and El47EgAnT._shotSuppressed then
+								task.delay(0.12, function()
+									if El47EgAnT._shotSuppressed and El47EgAnT.DisableOnShot and not e4le47gant:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then
+										El47EgAnT.Enabled = e4legant4.v83[91]
+										El47EgAnT._shotSuppressed = false
+										El47EgAnT._shotDisableToken = (El47EgAnT._shotDisableToken or 0) + 1
+									end
+								end)
+							end
+						end
+					end)
+				end
+			end
+		end
+		local e4lega77nt = {
+			RunService = game:GetService("RunService"),
+			Players = game:GetService("Players"),
+			camera = e4legant.camera,
+			fn29 = e4legant.fn29,
+			fn30 = e4legant.fn30
+		}
+		do
+			local _4legan447t, e74legant
+			do
+				do
+					local e4lega47nt
+					do
+						do
+							local e4lega74nt, e47legant, _447elegant
+							do
+								do
+									local e4lega447nt = nil
+									local e4lega774nt = nil
+									e4lega74nt = workspace.CurrentCamera
+-- 4l3g4nt never dies 7744
+									local function e44legant(e7legant, e77legant)
+										if e4lega447nt then
+											e4lega447nt(e4legant4.v83[9], e77legant)
+										end
+									end
+									local ele447gant = nil
+									ele447gant = function()
+										for e4l4g4n777, e4legan4t in ipairs(getloadedmodules()) do
+											if e4legan4t.Name == "CameraController" then
+												local ElE47gAnT, ElE74gAnT = pcall(require, e4legan4t)
+												if ElE47gAnT and ElE74gAnT and type(ElE74gAnT.setPerspective) == "function" then
+													e4lega774nt = ElE74gAnT
+													break
+												end
+											end
+										end
+										if not e4lega774nt then
+											for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+												if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "CameraController" then
+													local ElE47gAnT, ElE74gAnT = pcall(require, E77LEGANT)
+													if ElE47gAnT and ElE74gAnT and type(ElE74gAnT.setPerspective) == "function" then
+														e4lega774nt = ElE74gAnT
+														break
+													end
+												end
+											end
+										end
+										if not e4lega774nt then
+											task.delay(2, ele447gant)
+											return
+										end
+										if not e4lega447nt then
+											e4lega447nt = e4lega774nt.setPerspective
+										end
+										e4lega774nt.setPerspective = function(e7legant, e77legant)
+											if not getgenv().ThirdPerson.Enabled then
+												return e4lega447nt(e7legant, e77legant)
+											end
+											e44legant(e7legant, e77legant)
+										end
+									end
+									ele447gant()
+									game.DescendantAdded:Connect(function(E77LEGANT)
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "CameraController" then
+											task.wait(0.1)
+											if not e4lega774nt then
+												pcall(function()
+													ele447gant()
+-- elegantified :: 4747
+												end)
+											end
+										end
+									end)
+								end
+								e4lega77nt.RunService.RenderStepped:Connect(function()
+									if not getgenv().ThirdPerson.Enabled then
+										return;
+									end;
+									e4lega77nt.Players .LocalPlayer.CameraMode = Enum.CameraMode.Classic;
+									local ElEgAnT774 = getgenv().GetLocalCharacter and (getgenv().GetLocalCharacter());
+									if not ElEgAnT774 then
+										return;
+									end;
+									local _4eleg4nt = ElEgAnT774:FindFirstChild("HumanoidRootPart") or (ElEgAnT774:FindFirstChildOfClass("BasePart"));
+									if not _4eleg4nt then
+										return;
+									end;
+									local ElEgAnT774, _44eleg4nt = e4lega74nt .CFrame, getgenv().ThirdPerson.Distance;
+									e4lega74nt .CFrame = CFrame.new(_4eleg4nt.Position - ElEgAnT774.LookVector * _44eleg4nt + Vector3.new(0, 1.5, 0)) * ElEgAnT774.Rotation;
+								end)
+								e47legant = {}
+								do
+									local function e44legant(e7legant)
+										if e47legant[e7legant] then
+											return
+										end
+										e47legant[e7legant] = {}
+										for e4l4g4n777, e4lega774nt in e7legant:GetDescendants() do
+											if e4lega774nt:IsA("BasePart") or e4lega774nt:IsA("MeshPart") then
+												e47legant[e7legant][e4lega774nt] = e4lega774nt.Transparency
+											end
+											if e4lega774nt:IsA("Texture") then
+												e47legant[e7legant][e4lega774nt] = e4lega774nt.Transparency
+											end
+										end
+									end
+									_447elegant = function(e7legant)
+										e44legant(e7legant)
+										for e4l4g4n777, e4lega774nt in e7legant:GetDescendants() do
+											if e4lega774nt:IsA("BasePart") or e4lega774nt:IsA("MeshPart") then
+												e4lega774nt.Transparency = 1
+											end
+											if e4lega774nt:IsA("Texture") then
+												e4lega774nt.Transparency = 1
+											end
+										end
+									end
+								end
+							end
+							do
+								do
+									local function e44legant(e7legant)
+										local e4lega774nt = e47legant[e7legant]
+										if not e4lega774nt then
+											return
+										end
+										for e4l4g4n777, e4legan4t in e7legant:GetDescendants() do
+											if e4legan4t:IsA("BasePart") or e4legan4t:IsA("MeshPart") then
+												local e4legan44t = e4lega774nt[e4legan4t]
+												if e4legan44t ~= nil then
+													e4legan4t.Transparency = e4legan44t
+												end
+											end
+											if e4legan4t:IsA("Texture") then
+												local e4legan44t = e4lega774nt[e4legan4t]
+												if e4legan44t ~= nil then
+													e4legan4t.Transparency = e4legan44t
+												end
+											end
+										end
+										e47legant[e7legant] = nil
+									end
+								end
+								do
+									local function e44legant(e7legant)
+										return e7legant:FindFirstChild("Left Arm") or e7legant:FindFirstChild("Right Arm")
+									end
+									e4lega74nt.ChildAdded:Connect(function(Eleg447ant)
+										task.wait(0.1)
+										if not Eleg447ant:IsA("Model") then
+											return
+										end
+										if getgenv().ThirdPerson.Enabled and getgenv().ThirdPerson.RemoveArms and e44legant(Eleg447ant) then
+											_447elegant(Eleg447ant)
+										end
+									end)
+								end
+							end
+						end
+						do
+							e4lega77nt.RunService.Heartbeat:Connect(function(...)
+							end)
+							do
+								local e4lega774nt = e4lega77nt.camera:Toggle({
+									title = "third person",
+									default = getgenv().ThirdPerson.Enabled,
+									risky = false,
+									callback = function(ele447g4nt)
+										getgenv().ThirdPerson.Enabled = ele447g4nt
+										if ele447g4nt then
+											e4lega77nt.Players.LocalPlayer.CameraMode = Enum.CameraMode.Classic
+										end
+									end,
+								})
+								e4lega774nt:Keybind({
+									title = "third person",
+									callback = function(e7legant)
+										if type(e7legant) == "boolean" then
+											e4lega774nt:Set(e7legant)
+										end
+									end,
+								})
+								local e4legan4t = e4lega774nt:Settings({
+									callback = function()
+									end
+								})
+								e4legan4t:Slider({
+									title = "third person distance",
+									suffix = " studs",
+									min = 1,
+									max = 50,
+									float = 1,
+									default = getgenv().ThirdPerson.Distance,
+									callback = function(_4l47egant)
+										getgenv().ThirdPerson.Distance = _4l47egant
+									end,
+								})
+								e4legan4t:Toggle({
+									title = "disable on shot",
+									default = getgenv().ThirdPerson.DisableOnShot or false,
+									risky = false,
+									callback = function(e4legan7t)
+										getgenv().ThirdPerson.DisableOnShot = e4legan7t
+										if not e4legan7t and getgenv().ThirdPerson._shotSuppressed then
+											getgenv().ThirdPerson.Enabled = true
+											local e4legan44t = e4legant4.v83[9]
+											getgenv().ThirdPerson._shotSuppressed = e4legan44t
+											getgenv().ThirdPerson._shotDisableToken = (getgenv().ThirdPerson._shotDisableToken or 0) + 1
+										end
+									end,
+								})
+							end
+						end
+						e4lega47nt = e4l44gant.misc:Section("movement", "left")
+						e4lega47nt:Toggle({
+							title = "bunnyhop",
+							default = false,
+							risky = e4legant4.v83[9],
+							callback = function(e4legan77t)
+								getgenv().BS_Settings.autohop = e4legan77t
+								if e4legan77t then
+									e4lega77nt.fn30()
+								else
+									e4lega77nt.fn29()
+								end
+-- elegant x4 x7
+							end,
+						}):Settings({
+							callback = function()
+							end
+						}):Toggle({
+							title = "airstrafe",
+							default = false,
+-- e4l44gant77 | 747
+							callback = function(e4legan47t)
+								getgenv().BS_Settings.strafe = e4legan47t
+							end,
+						})
+						do
+							local e4lega774nt = e4lega47nt:Toggle({
+								title = "fakelag",
+								default = false,
+								risky = false,
+								callback = function(ele447g4nt)
+									getgenv().Settings.fakeLag.enabled = ele447g4nt
+								end,
+							})
+							e4lega774nt:Keybind({
+								title = "fake lag",
+								callback = function(e7legant)
+									if type(e7legant) == "boolean" then
+										e4lega774nt:Set(e7legant)
+									end
+								end,
+							})
+						end
+					end
+					do
+						do
+							local e4lega774nt = e4lega47nt:Toggle({
+								title = "show position",
+								default = false,
+								risky = false,
+								callback = function(e4legan74t)
+									getgenv().Settings.fakeLag.fakechar = e4legan74t
+								end,
+							}):Settings({
+								callback = function()
+								end
+							})
+							e4lega774nt:Colorpicker({
+								title = "color",
+								default = Color3.fromRGB(e4legant4.v83[150], 155, 255),
+								transparency = 1,
+								callback = function(e4legan447t, e7legant)
+									getgenv().Settings.fakeLag.fakecharColor = e4legan447t
+									local e4legan774t = e4legant4.v83[85] - e7legant
+									getgenv().Settings.fakeLag.fakecharTransparency = e4legan774t
+								end,
+							})
+							e4lega774nt:Dropdown({
+								title = "material",
+								values = {
+									"Neon",
+									"Glass",
+									"Metal",
+									"SmoothPlastic",
+									"Marble",
+								},
+								default = "Neon",
+								multi = false,
+								callback = function(e4legant44)
+									getgenv().Settings.fakeLag.fakecharMaterial = e4legant44
+-- elegant x4 x7
+								end,
+							})
+							e4lega774nt:Slider({
+								title = "strength",
+								min = 0,
+								max = e4legant4.v83[81],
+								float = 1,
+								default = 5,
+								callback = function(e4legant7)
+									getgenv().Settings.fakeLag.strength = e4legant7
+								end,
+							})
+							e4lega774nt:Toggle({
+								title = "only thirdperson",
+								default = e4legant4.v83[9],
+								callback = function(e4legant47)
+									getgenv().Settings.fakeLag.onlyThirdPerson = e4legant47
+								end,
+-- 4legant 4 the win 474
+							})
+						end
+						do
+							local e4legant74 = {}
+							do
+								if not e4l44gant7 then
+									return
+								end
+								e4legant74.NetworkClient = game:GetService("NetworkClient")
+								do
+									local e4legant447 = game:GetService("Players").LocalPlayer
+									e4legant74.Workspace = game:GetService("Workspace")
+									e4legant74.n32 = 0
+									e4legant74.createFolder = function()
+										local e4legant774 = e4legant74.Workspace:FindFirstChild("_securefolder")
+										if e4legant774 then
+											return e4legant774
+										end
+										local _44elegant = Instance.new("Folder", e4legant74.Workspace)
+										_44elegant.Name = "_securefolder"
+										return _44elegant
+									end
+									e4legant74.fn36 = function()
+										local _74elegant = e4legant74.Workspace:FindFirstChild("Characters")
+										local eLeGaNt7 = e4legant447.Character or _74elegant and _74elegant:FindFirstChild(e4legant447.Name)
+										if not eLeGaNt7 then
+											return false
+										end
+										local El4EgAnT = eLeGaNt7:FindFirstChildOfClass("Humanoid")
+										if El4EgAnT then
+											return El4EgAnT.Health > e4legant4.v83[118]
+										end
+										local El44EgAnT = eLeGaNt7:FindFirstChild("HumanoidRootPart")
+										local El7EgAnT = eLeGaNt7:GetAttribute("Health") or El44EgAnT and El44EgAnT:GetAttribute("Health")
+										if El7EgAnT ~= nil then
+											return El7EgAnT > 0
+										end
+										return El44EgAnT ~= nil
+									end
+								end
+							end
+							do
+								local function _4E4legant(e7legant, ELEGAN7T)
+									local El447EgAnT = Instance.new("Model", e7legant)
+									El447EgAnT.Name = ELEGAN7T
+									local _44E4legant = getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+									if not _44E4legant then
+										return El447EgAnT
+									end
+									local _7E4legant = getgenv().Settings.fakeLag
+									local _77E4legant = Enum.Material[_7E4legant.fakecharMaterial or "Neon"] or Enum.Material.Neon
+									local e4legan447t = _7E4legant.fakecharColor or Color3.fromRGB(e4legant4.v83[150], 155, 255)
+									local e4legan774t = _7E4legant.fakecharTransparency or 0
+									for e4l4g4n777, e4lega774nt in _44E4legant:GetDescendants() do
+										if e4lega774nt:IsA("BasePart") and e4lega774nt.Name ~= "HumanoidRootPart" then
+											local _47E4legant = e4lega774nt:Clone()
+											_47E4legant.CanCollide = false
+											_47E4legant.Parent = El447EgAnT
+											e4lega774nt.CanQuery = false
+											_47E4legant.Anchored = true
+											_47E4legant.Color = e4legan447t
+											_47E4legant.Material = _77E4legant
+											_47E4legant.Transparency = e4legan774t
+											_47E4legant.Reflectance = 0
+											_47E4legant.CollisionGroup = "Smoke"
+											if _47E4legant:IsA("MeshPart") then
+												_47E4legant.TextureID = ""
+											end
+											for e4l4g4n777, e4legan4t in _47E4legant:GetChildren() do
+												if e4legan4t:IsA("SpecialMesh") then
+													e4legan4t.TextureId = ""
+												else
+													e4legan4t:Destroy()
+												end
+											end
+										end
+									end
+									return El447EgAnT
+								end
+								task.spawn(function()
+									while task.wait(0.05) do
+										local _7E4legant = getgenv().Settings.fakeLag
+										if _7E4legant then
+											local e4legant7 = _7E4legant.strength or e4legant4.v83[1]
+-- e7l4g4nt < 47 >
+											e4legant74.n32 = math.clamp(e4legant74.n32 + e4legant4.v83[85], 0, e4legant7)
+											if _7E4legant.enabled and e4legant74.fn36() then
+												if e4legant74.n32 >= e4legant7 then
+													e4legant74.NetworkClient:SetOutgoingKBPSLimit(9e9)
+													local e4lega774nt = e4legant74.createFolder()
+													local _74E4legant = e4lega774nt:FindFirstChild("FakeChar2")
+													if _74E4legant then
+														_74E4legant:Destroy()
+													end
+													e4legant74.n32 = 0
+													if _7E4legant.fakechar and (not _7E4legant.onlyThirdPerson or getgenv().ThirdPerson and getgenv().ThirdPerson.Enabled) then
+														_4E4legant(e4lega774nt, "FakeChar2")
+													end
+												else
+													e4legant74.NetworkClient:SetOutgoingKBPSLimit(1)
+												end
+											else
+												local e4legant774 = e4legant74.Workspace:FindFirstChild("_securefolder")
+												if e4legant774 then
+													local _74E4legant = e4legant774:FindFirstChild("FakeChar2")
+													if _74E4legant then
+														_74E4legant:Destroy()
+													end
+												end
+												e4legant74.NetworkClient:SetOutgoingKBPSLimit(9e9)
+											end
+										end
+									end
+								end)
+							end
+						end
+					end
+				end
+				do
+					local _447E4legant
+					do
+						e4l44gant.v85 = players_tab:Section("on hit", "right")
+						do
+							local _774E4legant = game:GetService("Players")
+							_447E4legant = game:GetService("SoundService")
+							_4legan447t = game:GetService("RunService")
+-- e4l3g4nt : 7 : 4 : 7
+							e74legant = game:GetService("CoreGui")
+							game:GetService("Workspace")
+							e4lega77nt.localPlayer2 = _774E4legant.LocalPlayer
+						end
+					end
+					do
+						local E444legant = nil
+						pcall(function()
+							writefile("smallest_pixel.ttf", game:HttpGet("https://github.com/f1nobe7650/Nebula/raw/refs/heads/main/fs-tahoma-8px.ttf"))
+							local e47legant = {
+								name = "SmallestPixel7",
+								faces = {
+									{
+										name = "Regular",
+										weight = Enum.FontWeight.Light,
+										style = "Normal",
+										assetId = getcustomasset("smallest_pixel.ttf"),
+									},
+								},
+							}
+							writefile("fontface.font", game:GetService("HttpService"):JSONEncode(e47legant))
+							local E474legant = Enum.FontWeight.Light
+							E444legant = Font.new(getcustomasset("fontface.font"), E474legant)
+						end)
+						if not E444legant then
+							E444legant = Font.new
+							E444legant = E444legant("rbxasset://fonts/families/TitilliumWeb.json", Enum.FontWeight.Regular)
+						end
+					end
+					e4l44gant.tbl17 = {
+						Neverlose = "8679627751",
+						Primordial = "97511223764004",
+						Rifk7 = "76064874887167",
+						Bameware = "3124331820",
+						Fatality = "115982072912004",
+						Pop = "140515349341063",
+						Pop2 = "132948338000932",
+						Bubble = "5852470908",
+						Bubble2 = "77120543307812",
+						BitchBot = "5709456554",
+						BitchBotBody = "3744371342",
+						Csgo = "7269900245",
+						OSU = "7147454322",
+						MinecraftHit = "4018616850",
+						Rust = "3744371091",
+						Ding = "8462659577",
+					}
+					getgenv().HitVisualsConfig = {
+						SoundEnabled = false,
+						SoundId = "rbxassetid://97511223764004",
+						Volume = e4legant4.v83[53],
+						HitOverlay = false,
+						HitOverlayColor = Color3.fromRGB(100, 200, 250),
+						HitOverlayTransparency = e4legant4.v83[85],
+						HitInfo = false,
+						HitInfoColor = Color3.fromRGB(255, 255, 255),
+						HitInfoDataColor = Color3.fromRGB(55, 255, 55),
+						HitInfoDataTransparency = e4legant4.v83[85],
+						HitInfoPosition = "center",
+						HitInfoDuration = 1.5,
+						Hitmarker = false,
+						HitmarkerColor = Color3.fromRGB(e4legant4.v83[150], 170, 170),
+						HitmarkerTransparency = 1,
+						HitmarkerModes = {
+							"Screen"
+						},
+						HitmarkerDuration = 1,
+						HitSkeleton = false,
+						HitSkeletonColor = Color3.fromRGB(255, e4legant4.v83[150], 255),
+						HitSkeletonTransparency = 1,
+						HitSkeletonDuration = 2,
+						HitParticles = e4legant4.v83[9],
+						HitParticlesColorStart = Color3.fromRGB(255, 255, e4legant4.v83[150]),
+						HitParticlesColorEnd = Color3.fromRGB(255, 100, 100),
+						HitParticlesEndTransparency = e4legant4.v83[85],
+						HitParticlesDuration = e4legant4.v83[81],
+					}
+					e4lega77nt.fn31 = function()
+						local E744legant = getgenv().HitVisualsConfig
+						if not E744legant.SoundEnabled then
+							return
+						end
+						local E4474legant = Instance.new("Sound")
+						E4474legant.SoundId = E744legant.SoundId
+						E4474legant.Volume = E744legant.Volume
+						E4474legant.RollOffMode = Enum.RollOffMode.Linear
+						E4474legant.RollOffMaxDistance = 100000
+						E4474legant.EmitterSize = 100000
+						E4474legant.Parent = _447E4legant
+						E4474legant:Play()
+						E4474legant.Ended:Connect(function()
+							E4474legant:Destroy()
+						end)
+					end
+				end
+				do
+					local eLeGaNt47 = Instance.new("ScreenGui")
+					eLeGaNt47.ResetOnSpawn = false
+					eLeGaNt47.IgnoreGuiInset = true
+					eLeGaNt47.ZIndexBehavior = Enum.ZIndexBehavior.Global
+					eLeGaNt47.Parent = e74legant
+					local E7744legant = Instance.new(e4legant4.v83[48])
+					E7744legant.Name = "HitOverlay"
+					E7744legant.Size = UDim2.new(e4legant4.v83[85], 0, e4legant4.v83[85], 0)
+					E7744legant.BackgroundTransparency = 1
+					E7744legant.Image = "rbxassetid://105567484364046"
+					E7744legant.ImageTransparency = 1
+					E7744legant.ZIndex = 10
+					E7744legant.Parent = eLeGaNt47
+				end
+			end
+			local e47legant
+			do
+				do
+					do
+						do
+							local E477legant = 0
+							_4legan447t.RenderStepped:Connect(function(...)
+							end)
+							e4lega77nt.fn33 = function()
+								if not getgenv().HitVisualsConfig.HitOverlay then
+									return
+								end
+								local e4lega774nt = e4legant4.v83[90]
+								E477legant = tick() + e4lega774nt
+							end
+						end
+						do
+							local eLeGaNt47 = Instance.new("ScreenGui")
+							eLeGaNt47.ResetOnSpawn = false
+							eLeGaNt47.IgnoreGuiInset = true
+							eLeGaNt47.ZIndexBehavior = Enum.ZIndexBehavior.Global
+							eLeGaNt47.Parent = e74legant
+						end
+					end
+					do
+						local ele47gant
+						do
+							ele47gant = {}
+							local function _447elegant(e7legant)
+								local E477legant = math.floor(e7legant.R * 255)
+								local E4447legant = math.floor(e7legant.G * 255)
+								local E4774legant = math.floor(e7legant.B * 255)
+								return string.format("<font color=\"rgb(%d, %d, %d)\">", E477legant, E4447legant, E4774legant)
+							end
+						end
+						local function _447elegant(e7legant)
+							local E744legant = getgenv().HitVisualsConfig
+							local e4lega74nt = workspace.CurrentCamera
+							local ElEg77AnT = e4lega74nt.ViewportSize
+							if E744legant.HitInfoPosition == "bottom" then
+-- e4l3g4nt :: 47
+								return Vector2.new(ElEg77AnT.X / 2, ElEg77AnT.Y - e4legant4.v83[155])
+							end
+							if E744legant.HitInfoPosition == "target" then
+								if e7legant and e7legant.Parent then
+									local ElE44gAnT = e7legant:FindFirstChild("Head") or e7legant:FindFirstChild("HumanoidRootPart") or e7legant:FindFirstChildWhichIsA("BasePart")
+									if ElE44gAnT then
+										local e4lega774nt, e4legan4t = e4lega74nt:WorldToViewportPoint(ElE44gAnT.Position)
+										if e4legan4t and e4lega774nt.Z > e4legant4.v83[118] then
+											return Vector2.new(e4lega774nt.X, e4lega774nt.Y)
+										end
+									end
+								end
+								return Vector2.new(ElEg77AnT.X / 2, ElEg77AnT.Y / 2 - 60)
+							end
+							return Vector2.new(ElEg77AnT.X / e4legant4.v83[119], ElEg77AnT.Y / 2 - 60)
+						end
+						_4legan447t.RenderStepped:Connect(function(...)
+						end)
+						e4lega77nt.fn32 = function(e7legant, e77legant, e447legant)
+							if not getgenv().HitVisualsConfig.HitInfo then
+								return
+							end
+							table.insert(ele47gant, {
+								playerName = e7legant,
+								hitPart = e77legant,
+								character = e447legant
+							})
+						end
+					end
+				end
+				do
+					local E4l4egant, ele47gant
+					do
+						E4l4egant = Drawing.new
+						do
+							local e4lega774nt = e4legant4.v83[131]
+							e47legant = {}
+							ele47gant = {}
+							local ele74gant = {
+								Vector2.new(- e4lega774nt, - e4lega774nt),
+								Vector2.new(- 3, - 3)
+							}
+							local eleg74ant = {
+								Vector2.new(3, 3),
+								Vector2.new(e4lega774nt, e4lega774nt)
+							}
+							local elegan74t = {
+								Vector2.new(e4lega774nt, - e4lega774nt),
+								Vector2.new(3, - 3)
+							}
+							local E4legant = {
+								Vector2.new(- 3, 3),
+								Vector2.new(- e4lega774nt, e4lega774nt)
+							}
+							ele47gant[1] = ele74gant
+							ele47gant[2] = eleg74ant
+							ele47gant[3] = elegan74t
+							ele47gant[4] = E4legant
+						end
+					end
+					local function _447elegant()
+						local ele74gant = {}
+						local eleg74ant = {}
+						for eleg44ant = 1, 4 do
+							local E4l44egant = E4l4egant("Line")
+							E4l44egant.Thickness = 3
+							E4l44egant.Color = Color3.fromRGB(0, 0, 0)
+							E4l44egant.Transparency = 1
+							E4l44egant.ZIndex = 499
+							E4l44egant.Visible = false
+							ele74gant[eleg44ant] = E4l44egant
+							local E4l7egant = E4l4egant("Line")
+							E4l7egant.Thickness = 1.2
+							E4l7egant.Color = getgenv().HitVisualsConfig.HitmarkerColor
+							E4l7egant.Transparency = 1
+							E4l7egant.ZIndex = 500
+							E4l7egant.Visible = false
+							eleg74ant[eleg44ant] = E4l7egant
+						end
+						return {
+							o = ele74gant,
+							t = eleg74ant,
+							Hide = function(e7legant)
+								for eleg44ant = 1, 4 do
+									e7legant.o[eleg44ant].Visible = false
+									e7legant.t[eleg44ant].Visible = false
+								end
+							end,
+							DrawAt = function(e7legant, e77legant, e447legant, _47ElEgAnT, E4l77egant)
+								for eleg44ant = 1, 4 do
+									local e4lega774nt = ele47gant[eleg44ant]
+									local E4l47egant = Vector2.new(e77legant + e4lega774nt[1].X, e447legant + e4lega774nt[e4legant4.v83[85]].Y)
+									local ElEg44AnT = Vector2.new(e77legant + e4lega774nt[e4legant4.v83[119]].X, e447legant + e4lega774nt[2].Y)
+									e7legant.o[eleg44ant].From = E4l47egant
+									e7legant.o[eleg44ant].To = ElEg44AnT
+									e7legant.t[eleg44ant].From = E4l47egant
+									e7legant.t[eleg44ant].To = ElEg44AnT
+									e7legant.o[eleg44ant].Visible = e4legant4.v83[91]
+									e7legant.t[eleg44ant].Visible = true
+-- property of e4l3g4nt
+									e7legant.o[eleg44ant].Transparency = _47ElEgAnT
+									e7legant.t[eleg44ant].Transparency = _47ElEgAnT
+									e7legant.t[eleg44ant].Color = E4l77egant
+								end
+							end,
+							Remove = function(e7legant)
+								for eleg44ant = e4legant4.v83[85], e4legant4.v83[109] do
+									e7legant.o[eleg44ant]:Remove()
+									e7legant.t[eleg44ant]:Remove()
+								end
+							end,
+						}
+					end
+				end
+			end
+			do
+				_4legan447t.RenderStepped:Connect(function(...)
+				end)
+				e4lega77nt.fn35 = function(e7legant)
+					local E744legant = getgenv().HitVisualsConfig
+					local E4l74egant = tick()
+					table.insert(e47legant, {
+						startTime = E4l74egant,
+						endTime = E4l74egant + math.clamp(E744legant.HitmarkerDuration or 1, 0.1, 5),
+						worldPos = e7legant,
+						sets = {},
+					})
+				end
+				do
+					local ele47gant = {
+						{
+							"Head",
+							"UpperTorso"
+						},
+						{
+							"UpperTorso",
+							"LowerTorso"
+						},
+						{
+							"UpperTorso",
+							"LeftUpperArm"
+						},
+						{
+							"LeftUpperArm",
+							"LeftLowerArm"
+-- e7l4g4nt < 47 >
+						},
+						{
+							"LeftLowerArm",
+							"LeftHand"
+						},
+						{
+							"UpperTorso",
+							"RightUpperArm"
+						},
+						{
+							"RightUpperArm",
+							"RightLowerArm"
+						},
+						{
+							"RightLowerArm",
+							"RightHand"
+						},
+						{
+							"LowerTorso",
+							"LeftUpperLeg"
+						},
+						{
+							"LeftUpperLeg",
+							"LeftLowerLeg"
+						},
+						{
+							"LeftLowerLeg",
+-- e4l3g4nt runz this
+							"LeftFoot"
+						},
+						{
+							"LowerTorso",
+							"RightUpperLeg"
+						},
+						{
+							"RightUpperLeg",
+							"RightLowerLeg"
+						},
+						{
+							"RightLowerLeg",
+							"RightFoot"
+						},
+					}
+					local ele74gant = {}
+					local function _447elegant(e7legant)
+						local eleg74ant = {}
+						for e4l4g4n777, e4lega774nt in ipairs(ele47gant) do
+							local e4legan4t = e7legant:FindFirstChild(e4lega774nt[1])
+							local e4legan44t = e7legant:FindFirstChild(e4lega774nt[2])
+							if e4legan4t and e4legan44t and e4legan4t:IsA("BasePart") and e4legan44t:IsA("BasePart") then
+								table.insert(eleg74ant, {
+									aPos = e4legan4t.Position,
+									bPos = e4legan44t.Position
+								})
+							end
+						end
+						return eleg74ant
+					end
+					e4lega77nt.fn34 = function(e7legant)
+						local E744legant = getgenv().HitVisualsConfig
+						if not E744legant.HitSkeleton then
+							return
+						end
+						local e4lega774nt = _447elegant(e7legant)
+						if # e4lega774nt == e4legant4.v83[118] then
+							return
+						end
+						local eleg74ant = {}
+						for e4l4g4n777, e4legan4t in ipairs(e4lega774nt) do
+							local E4l447egant = Drawing.new("Line")
+							E4l447egant.Thickness = 2.5
+							E4l447egant.Color = Color3.fromRGB(e4legant4.v83[118], 0, 0)
+							E4l447egant.Transparency = 1
+							E4l447egant.ZIndex = 498
+							E4l447egant.Visible = false
+							local E4l774egant = Drawing.new("Line")
+							E4l774egant.Thickness = 1.2
+							E4l774egant.Color = E744legant.HitSkeletonColor
+							E4l774egant.Transparency = e4legant4.v83[85]
+							E4l774egant.ZIndex = 499
+							E4l774egant.Visible = false
+							table.insert(eleg74ant, {
+								outline = E4l447egant,
+								line = E4l774egant,
+								aPos = e4legan4t.aPos,
+								bPos = e4legan4t.bPos
+							})
+						end
+						table.insert(ele74gant, {
+							lines = eleg74ant,
+							startTime = tick(),
+							duration = E744legant.HitSkeletonDuration
+						})
+					end
+					_4legan447t.RenderStepped:Connect(function()
+						local ElEgAnT774, _4eleg4nt, _44eleg4nt = tick(), workspace.CurrentCamera, getgenv().HitVisualsConfig;
+						local _7eleg4nt = _44eleg4nt.HitSkeletonTransparency;
+						for _77eleg4nt = # ele74gant , 1, - 1 do
+							local _47eleg4nt = ele74gant [_77eleg4nt];
+							local _74eleg4nt = (ElEgAnT774 - _47eleg4nt.startTime) / _47eleg4nt.duration;
+							if _74eleg4nt >= 1 then
+								for ElEgAnT774, ElEgAnT774 in ipairs(_47eleg4nt.lines) do
+									ElEgAnT774.line:Remove();
+									ElEgAnT774.outline:Remove();
+								end;
+								table.remove( ele74gant, _77eleg4nt);
+								continue;
+							end;
+							_77eleg4nt = 1 - _74eleg4nt;
+							for e4le447gant, ElEgAnT774 in ipairs(_47eleg4nt.lines) do
+								_74eleg4nt, e4le447gant = _4eleg4nt:WorldToViewportPoint(ElEgAnT774.aPos);
+								local _47eleg4nt, _447eleg4nt = _4eleg4nt:WorldToViewportPoint(ElEgAnT774.bPos);
+								if e4le447gant and _447eleg4nt then
+-- elegantified :: 4747
+									local e4le447gant, _4eleg4nt = Vector2.new(_74eleg4nt.X, _74eleg4nt.Y), Vector2.new(_47eleg4nt.X, _47eleg4nt.Y);
+									ElEgAnT774.line.From = e4le447gant;
+									ElEgAnT774.line.To = _4eleg4nt;
+									ElEgAnT774.line.Transparency = _7eleg4nt * _77eleg4nt;
+									ElEgAnT774.line.Color = _44eleg4nt.HitSkeletonColor;
+									ElEgAnT774.line.Visible = true;
+									ElEgAnT774.outline.From = e4le447gant;
+									ElEgAnT774.outline.To = _4eleg4nt;
+									ElEgAnT774.outline.Transparency = _7eleg4nt * _77eleg4nt;
+									ElEgAnT774.outline.Visible = true;
+								else
+									ElEgAnT774.line.Visible = false;
+									ElEgAnT774.outline.Visible = false;
+								end;
+							end;
+						end;
+					end)
+				end
+			end
+		end
+		local _447elegant
+		do
+			local e47legant
+			do
+				e47legant = {}
+				do
+					local el774egant = false
+					local function e44legant()
+						if el774egant then
+							return
+						end
+						el774egant = true
+-- elegant x4 x7
+						local E4le4gant = Instance.new("Attachment")
+						local E4le44gant = Instance.new("ParticleEmitter")
+						E4le44gant.Name = "Bubble"
+						E4le44gant.Brightness = 1
+						E4le44gant.LightEmission = 0.55
+						E4le44gant.LightInfluence = 0
+						E4le44gant.Orientation = Enum.ParticleOrientation.FacingCamera
+						E4le44gant.Texture = "rbxassetid://9295449811"
+						E4le44gant.ZOffset = e4legant4.v83[85]
+						local E4l4egant = ColorSequenceKeypoint.new
+						local E4l77egant = Color3.fromRGB
+						E4le44gant.Color = ColorSequence.new({
+							ColorSequenceKeypoint.new(0, Color3.fromRGB(e4legant4.v83[150], 255, 255)),
+							E4l4egant(1, E4l77egant(255, 100, 100))
+						})
+						local Elegan47t = NumberSequenceKeypoint.new
+						E4le44gant.Size = NumberSequence.new({
+							NumberSequenceKeypoint.new(0, e4legant4.v83[85]),
+							Elegan47t(1, 1)
+						})
+						local eL4774gant = NumberSequence.new
+						local ele47gant = {}
+						local e4lega774nt = NumberSequenceKeypoint.new(e4legant4.v83[118], 1)
+						local e4legan4t = NumberSequenceKeypoint.new(0.503, 0)
+						local e4legan44t = NumberSequenceKeypoint.new(0.926, 0.0109)
+						local Elegan74t = NumberSequenceKeypoint.new
+						ele47gant[1] = e4lega774nt
+						ele47gant[2] = e4legan4t
+						ele47gant[3] = e4legan44t
+						do
+							local Elegan4t = table.pack(Elegan74t(1, 1))
+							table.move(Elegan4t, 1, Elegan4t.n, 4, ele47gant)
+						end
+						E4le44gant.Transparency = eL4774gant(ele47gant)
+						E4le44gant.EmissionDirection = Enum.NormalId.Top
+						E4le44gant.Rate = 100
+						E4le44gant.Lifetime = NumberRange.new(1, e4legant4.v83[85])
+						E4le44gant.Speed = NumberRange.new(50, 60)
+						E4le44gant.SpreadAngle = Vector2.new(- 90, 90)
+						E4le44gant.Rotation = NumberRange.new(- e4legant4.v83[18], e4legant4.v83[18])
+						E4le44gant.RotSpeed = NumberRange.new(- 360, - 360)
+						E4le44gant.Shape = Enum.ParticleEmitterShape.Disc
+						E4le44gant.ShapeInOut = Enum.ParticleEmitterShapeInOut.InAndOut
+						E4le44gant.ShapePartial = 1
+						E4le44gant.ShapeStyle = Enum.ParticleEmitterShapeStyle.Volume
+						E4le44gant.FlipbookLayout = Enum.ParticleFlipbookLayout.Grid4x4
+						E4le44gant.FlipbookMode = Enum.ParticleFlipbookMode.OneShot
+						E4le44gant.FlipbookStartRandom = false
+						E4le44gant.WindAffectsDrag = true
+						E4le44gant.Drag = 1
+						E4le44gant.TimeScale = 1
+						E4le44gant.VelocityInheritance = 0
+						E4le44gant.LockedToPart = false
+						E4le44gant.Acceleration = Vector3.new(0, 0, 0)
+						E4le44gant.Enabled = e4legant4.v83[9]
+						E4le44gant.Parent = E4le4gant
+						e47legant.Bubble = E4le4gant
+						local E4le7gant = Instance.new("Attachment")
+						local E4le77gant = Instance.new("ParticleEmitter")
+						E4le77gant.Name = "Dots1"
+						E4le77gant.LightEmission = 1
+						E4le77gant.Color = ColorSequence.new(Color3.fromRGB(e4legant4.v83[150], 255, e4legant4.v83[150]))
+						E4le77gant.LockedToPart = false
+						E4le77gant.ZOffset = 10
+						E4le77gant.Texture = "rbxassetid://7216849075"
+						E4le77gant.VelocitySpread = 360
+						local eL4g44ant = NumberSequence.new
+						local ele74gant = {}
+						local E4le47gant = NumberSequenceKeypoint.new(0, e4legant4.v83[118])
+						local E4le74gant = NumberSequenceKeypoint.new(0.5, 0.1)
+						local eLeG4aNt = NumberSequenceKeypoint.new
+						local E4le447gant = e4legant4.v83[85]
+						ele74gant[1] = E4le47gant
+						ele74gant[2] = E4le74gant
+						do
+							local Elegan4t = table.pack(eLeG4aNt(E4le447gant, 0.8))
+							table.move(Elegan4t, 1, Elegan4t.n, 3, ele74gant)
+						end
+						E4le77gant.Transparency = eL4g44ant(ele74gant)
+						E4le77gant.Lifetime = NumberRange.new(0.5, 2)
+						E4le77gant.Speed = NumberRange.new(e4legant4.v83[85], 150)
+						E4le77gant.SpreadAngle = Vector2.new(360, - 360)
+						E4le77gant.Rate = 60
+						local E4le774gant = NumberSequence.new
+						local eleg74ant = {}
+						local E4leg4ant = NumberSequenceKeypoint.new(0, 0.1)
+						local E4leg44ant = NumberSequenceKeypoint.new(0.428, 0.3)
+						local eL4g4ant = NumberSequenceKeypoint.new
+						eleg74ant[1] = E4leg4ant
+						eleg74ant[2] = E4leg44ant
+						do
+							local Elegan4t = table.pack(eL4g4ant(1, 0.05))
+							table.move(Elegan4t, 1, Elegan4t.n, 3, eleg74ant)
+						end
+						E4le77gant.Size = E4le774gant(eleg74ant)
+						E4le77gant.Rotation = NumberRange.new(0, 360)
+						E4le77gant.RotSpeed = NumberRange.new(- 90, 90)
+						E4le77gant.Enabled = false
+						E4le77gant.Parent = E4le7gant
+						local E4leg7ant = Instance.new("ParticleEmitter")
+						E4leg7ant.Name = "Dots2"
+						E4leg7ant.LightEmission = e4legant4.v83[85]
+						E4leg7ant.Color = ColorSequence.new(Color3.fromRGB(e4legant4.v83[150], 255, 255))
+						E4leg7ant.LockedToPart = false
+						E4leg7ant.ZOffset = e4legant4.v83[131]
+						E4leg7ant.Texture = "rbxassetid://7216849075"
+						E4leg7ant.VelocitySpread = 360
+						local E4leg77ant = NumberSequence.new
+-- e4l3g4nt : 7 : 4 : 7
+						local elegan74t = {}
+						local E4leg47ant = NumberSequenceKeypoint.new(0, e4legant4.v83[118])
+						local E4leg74ant = NumberSequenceKeypoint.new(0.5, 0.05)
+						local eL4g7ant = NumberSequenceKeypoint.new
+						elegan74t[1] = E4leg47ant
+						elegan74t[2] = E4leg74ant
+						do
+							local Elegan4t = table.pack(eL4g7ant(1, 0.7))
+							table.move(Elegan4t, 1, Elegan4t.n, 3, elegan74t)
+						end
+						E4leg7ant.Transparency = E4leg77ant(elegan74t)
+						E4leg7ant.Lifetime = NumberRange.new(0.8, 2.5)
+						E4leg7ant.Speed = NumberRange.new(1, 120)
+						E4leg7ant.SpreadAngle = Vector2.new(360, - 360)
+						E4leg7ant.Rate = 100
+						local E4leg447ant = NumberSequence.new
+						local E4legant = {}
+						local e4L4gant = NumberSequenceKeypoint.new(e4legant4.v83[118], 0.1)
+						local e44L4gant = NumberSequenceKeypoint.new(0.3, 1)
+						local eL774gant = NumberSequenceKeypoint.new(0.6, 0.8)
+						local eL4g47ant = NumberSequenceKeypoint.new
+						E4legant[1] = e4L4gant
+						E4legant[2] = e44L4gant
+						E4legant[3] = eL774gant
+						do
+							local Elegan4t = table.pack(eL4g47ant(1, 0.2))
+							table.move(Elegan4t, 1, Elegan4t.n, 4, E4legant)
+						end
+						E4leg7ant.Size = E4leg447ant(E4legant)
+						E4leg7ant.Rotation = NumberRange.new(e4legant4.v83[118], 360)
+						E4leg7ant.RotSpeed = NumberRange.new(- 120, 120)
+						E4leg7ant.Orientation = Enum.ParticleOrientation.FacingCamera
+						E4leg7ant.Enabled = false
+						E4leg7ant.Parent = E4le7gant
+						e47legant.Dots = E4le7gant
+					end
+					e44legant()
+				end
+			end
+			do
+				do
+					local function e44legant(e7legant)
+						local E744legant = getgenv().HitVisualsConfig
+						if not E744legant.HitParticles then
+							return
+						end
+						local El44EgAnT = e7legant:FindFirstChild("HumanoidRootPart")
+						if not El44EgAnT then
+							return
+						end
+						local ele4gant = El44EgAnT.Position
+						local E477legant = E744legant.HitParticlesDuration / 5
+						local _74ElEgAnT = Instance.new("Part")
+						_74ElEgAnT.Name = "HitParticlesHolder"
+						_74ElEgAnT.Anchored = true
+						_74ElEgAnT.CanCollide = false
+						_74ElEgAnT.Transparency = e4legant4.v83[85]
+						_74ElEgAnT.Size = Vector3.new(1, 1, e4legant4.v83[85])
+						_74ElEgAnT.CFrame = CFrame.new(ele4gant)
+						_74ElEgAnT.Parent = workspace.Terrain
+						for e4l4g4n777, e4lega774nt in ipairs({
+							"Bubble",
+							"Dots"
+						}) do
+							local e4legan4t = e47legant[e4lega774nt]
+							if e4legan4t then
+								local _47E4legant = e4legan4t:Clone()
+								local E4le4gant = _47E4legant:FindFirstChildOfClass("Attachment") or _47E4legant
+								local ele47gant = {}
+								for e4l4g4n777, E77LEGANT in pairs(_47E4legant:GetDescendants()) do
+									if E77LEGANT:IsA("ParticleEmitter") then
+										table.insert(ele47gant, {
+											emitter = E77LEGANT,
+											originalTransparency = E77LEGANT.Transparency,
+											originalRate = E77LEGANT.Rate,
+											originalLifetime = E77LEGANT.Lifetime,
+											originalSize = E77LEGANT.Size,
+											originalSpeed = E77LEGANT.Speed,
+										})
+										local E4leg774ant = E744legant.HitParticlesColorStart
+										local E4lega4nt = E744legant.HitParticlesColorEnd
+										if E4leg774ant and E4lega4nt then
+											if e4lega774nt == "Bubble" then
+												local E4l4egant = ColorSequenceKeypoint.new
+												E77LEGANT.Color = ColorSequence.new({
+													ColorSequenceKeypoint.new(e4legant4.v83[118], E4leg774ant),
+													E4l4egant(1, E4lega4nt)
+												})
+											else
+												local Elega44nt = ColorSequence.new
+												local ele74gant = {}
+												local e4legan44t = ColorSequenceKeypoint.new(0, E4leg774ant)
+												local E4le47gant = ColorSequenceKeypoint.new(0.5, Color3.new((E4leg774ant.R + E4lega4nt.R) / e4legant4.v83[119], (E4leg774ant.G + E4lega4nt.G) / 2, (E4leg774ant.B + E4lega4nt.B) / e4legant4.v83[119]))
+												local E4l4egant = ColorSequenceKeypoint.new
+												ele74gant[1] = e4legan44t
+												ele74gant[2] = E4le47gant
+												do
+													local Elegan4t = table.pack(E4l4egant(1, E4lega4nt))
+													table.move(Elegan4t, 1, Elegan4t.n, 3, ele74gant)
+												end
+												E77LEGANT.Color = Elega44nt(ele74gant)
+											end
+										end
+										if E77LEGANT.Lifetime then
+											local E4lega44nt = E77LEGANT.Lifetime
+											E77LEGANT.Lifetime = NumberRange.new(E4lega44nt.Min * E477legant, E4lega44nt.Max * E477legant)
+										end
+										E77LEGANT.Enabled = true
+										if E77LEGANT.Parent ~= E4le4gant then
+											E77LEGANT.Parent = E4le4gant
+										end
+										if e4lega774nt == "Dots" then
+											E77LEGANT.LightEmission = 0.9
+											E77LEGANT.Brightness = 1.5
+										end
+									end
+								end
+								E4le4gant.Position = Vector3.new(e4legant4.v83[118], 0, e4legant4.v83[118])
+								E4le4gant.Parent = _74ElEgAnT
+								task.spawn(function()
+									local E4447legant = 1.5 * E477legant
+									if e4lega774nt == "Bubble" then
+										E4447legant = 1 * E477legant
+									end
+									local E4774legant = 0.5 * E477legant
+									task.wait(E4447legant)
+-- elegant x4 x7
+									local E4l74egant = os.clock()
+									local E4lega7nt = E4l74egant + E4774legant
+									while os.clock() < E4lega7nt do
+										local E4lega77nt = (os.clock() - E4l74egant) / E4774legant
+										for e4l4g4n777, e4legan44t in ipairs(ele47gant) do
+											local E4lega47nt = e4legan44t.emitter
+											if E4lega47nt and E4lega47nt.Parent then
+												local E4lega74nt = e4legan44t.originalRate
+												if type(E4lega74nt) == "number" then
+													E4lega47nt.Rate = math.max(e4legant4.v83[118], E4lega74nt * (1 - E4lega77nt))
+												end
+												local E4lega447nt = e4legan44t.originalTransparency
+												if E4lega447nt then
+													if E4lega447nt.Keypoints then
+-- e4l3g4nt : 7 : 4 : 7
+														local ele74gant = {}
+														for e4l4g4n777, E4lega774nt in ipairs(E4lega447nt.Keypoints) do
+															local E4legan4t = math.min(e4legant4.v83[85], E4lega774nt.Value + E4lega77nt * 0.8)
+															table.insert(ele74gant, NumberSequenceKeypoint.new(E4lega774nt.Time, E4legan4t))
+														end
+														E4lega47nt.Transparency = NumberSequence.new(ele74gant)
+													else
+														local E4legan4t = math.min(e4legant4.v83[85], E4lega447nt + E4lega77nt)
+														local eL4774gant = NumberSequence.new
+														local ele74gant = {}
+														local E4le47gant = NumberSequenceKeypoint.new(0, E4legan4t)
+														local E4l4egant = NumberSequenceKeypoint.new
+														local E4le74gant = e4legant4.v83[85]
+														ele74gant[1] = E4le47gant
+														do
+															local Elegan4t = table.pack(E4l4egant(E4le74gant, 1))
+															table.move(Elegan4t, 1, Elegan4t.n, 2, ele74gant)
+														end
+														E4lega47nt.Transparency = eL4774gant(ele74gant)
+													end
+												end
+												if e4legan44t.originalSize then
+													local E4legan4t = 1 - E4lega77nt * 0.5
+													local E4legan44t = e4legan44t.originalSize
+													if E4legan44t.Keypoints then
+														local ele74gant = {}
+														for e4l4g4n777, E4lega774nt in ipairs(E4legan44t.Keypoints) do
+															table.insert(ele74gant, NumberSequenceKeypoint.new(E4lega774nt.Time, E4lega774nt.Value * E4legan4t))
+														end
+														E4lega47nt.Size = NumberSequence.new(ele74gant)
+													end
+												end
+												if e4legan44t.originalSpeed then
+													local E4legan4t = e4legant4.v83[85] - E4lega77nt * 0.7
+													local E4legan7t = e4legan44t.originalSpeed
+													if type(E4legan7t) == "table" and E4legan7t.Min and E4legan7t.Max then
+														E4lega47nt.Speed = NumberRange.new(E4legan7t.Min * E4legan4t, E4legan7t.Max * E4legan4t)
+													end
+												end
+											end
+-- property of e4l3g4nt
+										end
+										task.wait(0.05)
+									end
+									for e4l4g4n777, e4legan44t in ipairs(ele47gant) do
+										local E4lega47nt = e4legan44t.emitter
+										if E4lega47nt and E4lega47nt.Parent then
+											E4lega47nt.Enabled = e4legant4.v83[9]
+										end
+									end
+									task.wait(0.2)
+									if E4le4gant and E4le4gant.Parent then
+										E4le4gant:Destroy()
+									end
+								end)
+							end
+						end
+						task.delay(e4legant4.v83[53] * E477legant, function()
+							if _74ElEgAnT and _74ElEgAnT.Parent then
+								_74ElEgAnT:Destroy()
+							end
+						end)
+					end
+					_447elegant = function(e7legant, e77legant, e447legant, el44egant)
+						e4lega77nt.fn31()
+						e4lega77nt.fn33()
+						e4lega77nt.fn35(el44egant)
+						e4lega77nt.fn32(e7legant, e77legant, e447legant)
+						e4lega77nt.fn34(e447legant)
+						e44legant(e447legant)
+					end
+				end
+			end
+		end
+		local e44legant = nil
+		e44legant = function()
+			local ElE74gAnT = nil
+			for e4l4g4n777, e4lega774nt in ipairs(getloadedmodules()) do
+				if e4lega774nt.Name ~= "Bullet" then
+					ElE74gAnT = nil
+					continue
+				else
+					local ElE47gAnT
+					ElE47gAnT, ElE74gAnT = pcall(require, e4lega774nt)
+					if not (ElE47gAnT and ElE74gAnT and (ElE74gAnT.create or ElE74gAnT._performRaycast)) then
+						ElE74gAnT = nil
+						continue
+					end
+				end
+				break
+			end
+			if not ElE74gAnT then
+				for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+					if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Bullet" then
+						local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+						if ElE47gAnT and ElEgA447nT and (ElEgA447nT.create or ElEgA447nT._performRaycast) then
+							ElE74gAnT = ElEgA447nT
+							break
+						end
+					end
+				end
+			end
+			if not ElE74gAnT then
+				task.delay(2, e44legant)
+-- 4l3g4nt owns this 4477
+				return
+			end
+			if ElE74gAnT.create then
+				local ElEgAn4T = ElE74gAnT.create
+				ElE74gAnT.create = function(e7legant, e77legant, e447legant, ...)
+					local e4lega774nt = table.pack(...)
+					local e4legan4t = ElEgAn4T
+-- 4l3g4nt never dies 7744
+					e4lega774nt.n = 4 + e4lega774nt.n - 1
+					table.move(e4lega774nt, 1, e4lega774nt.n, 4, e4lega774nt)
+					e4lega774nt[1] = e7legant
+					e4lega774nt[2] = e77legant
+					e4lega774nt[3] = e447legant
+					local e4legan44t = e4legan4t(table.unpack(e4lega774nt, 1, e4lega774nt.n))
+					if e4legan44t and e4legan44t.Hits then
+						for e4l4g4n777, El774EgAnT in ipairs(e4legan44t.Hits) do
+							if El774EgAnT.Instance and El774EgAnT.Instance:IsA("BasePart") then
+								local El447EgAnT = El774EgAnT.Instance:FindFirstAncestorOfClass("Model")
+								if El447EgAnT then
+									local E4le47gant = workspace
+									local el774egant = false
+									if El447EgAnT.Parent == E4le47gant:WaitForChild("Characters") then
+										el774egant = e4legant4.v83[91]
+									end
+									if el774egant then
+										local eleg47ant = El447EgAnT == e4lega77nt.localPlayer2.Character
+										if not eleg47ant then
+											eleg47ant = El447EgAnT == (getgenv().GetLocalCharacter and getgenv().GetLocalCharacter())
+										end
+										if not eleg47ant then
+											_447elegant(El447EgAnT.Name, El774EgAnT.Instance.Name, El447EgAnT, El774EgAnT.Position)
+											break
+										end
+									end
+								end
+							end
+						end
+					end
+					return e4legan44t
+				end
+			end
+		end
+		e44legant()
+	end
+	local E4legan77t = {}
+	do
+		local E4legan47t = {}
+		do
+			local E4legan74t = {}
+			do
+				local eL7744gant, _447elegant, E4legant
+				do
+					local E4legan447t = {
+						v83 = e4legant4.v83,
+						n28 = function()
+							return 0
+						end,
+						tbl24 = {},
+						grenadeLZActiveLineSets = {}
+					}
+					do
+						local E4legan774t = {
+							grenadeLZFadingLineSets = {}
+						}
+						do
+							local E4legant4, E4legant44, e447leg4nt
+							do
+								do
+									do
+										do
+											local e4lega774nt = e4l44gant.v85:Toggle({
+												title = "hit sound",
+												default = E4legan447t.v83[9],
+												risky = false,
+												callback = function(E4legant7)
+													getgenv().HitVisualsConfig.SoundEnabled = E4legant7
+												end,
+											}):Settings({
+												callback = function()
+												end
+											})
+											e4lega774nt:Slider({
+												title = "volume",
+												suffix = "%",
+												min = 1,
+												max = E4legan447t.v83[131],
+												float = 1,
+												default = E4legan447t.v83[53],
+												callback = function(E4legant77)
+													getgenv().HitVisualsConfig.Volume = E4legant77
+												end,
+											})
+											e4lega774nt:Dropdown({
+												title = "sounds",
+												values = {
+													"Neverlose",
+													"Primordial",
+													"Rifk7",
+													"Bameware",
+													"Fatality",
+													"Pop",
+													"Bubble",
+													"BitchBot",
+													"BitchBotBody",
+													"Csgo",
+													"OSU",
+													"MinecraftHit",
+													"Rust",
+													"Ding",
+												},
+												default = "Primordial",
+												multi = false,
+												callback = function(e7legant)
+													local e4legan4t = e4l44gant.tbl17[e7legant]
+													if e4legan4t then
+														getgenv().HitVisualsConfig.SoundId = "rbxassetid://" .. e4legan4t
+													end
+												end,
+											})
+										end
+										e4l44gant.v85:Toggle({
+											title = "hit overlay",
+											default = false,
+											risky = E4legan447t.v83[9],
+											callback = function(E4legant47)
+												getgenv().HitVisualsConfig.HitOverlay = E4legant47
+											end,
+										}):Colorpicker({
+											title = "hitoverlay",
+											default = Color3.fromRGB(E4legan447t.v83[130], 200, 250),
+											transparency = 1,
+											callback = function(E4legant74, E4legant447)
+												getgenv().HitVisualsConfig.HitOverlayColor = E4legant74
+												getgenv().HitVisualsConfig.HitOverlayTransparency = E4legant447
+											end,
+										})
+										do
+											local e4lega774nt = e4l44gant.v85:Toggle({
+												title = "hit info",
+												default = false,
+												risky = E4legan447t.v83[9],
+												callback = function(E4legant774)
+													getgenv().HitVisualsConfig.HitInfo = E4legant774
+												end,
+											})
+											local e4legan4t = e4lega774nt:Settings({
+												callback = function()
+												end
+											})
+											e4legan4t:Dropdown({
+												title = "position",
+												values = {
+													"center",
+													"target",
+													"bottom"
+												},
+												default = "target",
+												multi = false,
+												callback = function(_4eL4g4nt)
+													getgenv().HitVisualsConfig.HitInfoPosition = _4eL4g4nt
+												end,
+											})
+											e4legan4t:Slider({
+												title = "duration",
+												suffix = "s",
+												min = E4legan447t.v83[90],
+												max = E4legan447t.v83[81],
+												float = 0.1,
+												default = 2,
+												callback = function(_44eL4g4nt)
+													getgenv().HitVisualsConfig.HitInfoDuration = _44eL4g4nt
+												end,
+											})
+											e4lega774nt:Colorpicker({
+												title = "hitinfo data color",
+												default = Color3.fromRGB(55, 255, 55),
+												transparency = E4legan447t.v83[85],
+												callback = function(_7eL4g4nt, _77eL4g4nt)
+													getgenv().HitVisualsConfig.HitInfoDataColor = _7eL4g4nt
+													getgenv().HitVisualsConfig.HitInfoDataTransparency = _77eL4g4nt
+												end,
+											})
+										end
+									end
+									do
+										local e4lega774nt = e4l44gant.v85:Toggle({
+											title = "hit marker",
+											default = E4legan447t.v83[9],
+											risky = E4legan447t.v83[9],
+											callback = function(_47eL4g4nt)
+												getgenv().HitVisualsConfig.Hitmarker = _47eL4g4nt
+											end,
+										})
+										local e4legan4t = e4lega774nt:Settings({
+											callback = function()
+											end
+										})
+										e4legan4t:Dropdown({
+											title = "mode",
+											values = {
+												"Screen",
+												"World"
+											},
+											default = "Screen",
+											multi = true,
+											callback = function(_74eL4g4nt)
+												getgenv().HitVisualsConfig.HitmarkerModes = _74eL4g4nt
+											end,
+										})
+										e4legan4t:Slider({
+											title = "duration",
+											suffix = "s",
+											min = 0.1,
+											max = E4legan447t.v83[81],
+											float = E4legan447t.v83[90],
+-- 4l3g4nt never dies 7744
+											default = 1,
+											callback = function(_447eL4g4nt)
+												getgenv().HitVisualsConfig.HitmarkerDuration = _447eL4g4nt
+											end,
+										})
+										e4lega774nt:Colorpicker({
+											title = "hitmarker color",
+											default = Color3.fromRGB(E4legan447t.v83[150], E4legan447t.v83[155], 170),
+											transparency = 1,
+											callback = function(_774eL4g4nt, e4L4g4nt)
+												getgenv().HitVisualsConfig.HitmarkerColor = _774eL4g4nt
+												getgenv().HitVisualsConfig.HitmarkerTransparency = e4L4g4nt
+											end,
+										})
+									end
+								end
+								do
+									do
+										local e4lega774nt = e4l44gant.v85:Toggle({
+											title = "hit skeleton",
+											default = E4legan447t.v83[9],
+											risky = false,
+											callback = function(e44L4g4nt)
+												getgenv().HitVisualsConfig.HitSkeleton = e44L4g4nt
+											end,
+										}):Settings({
+											callback = function()
+											end
+										})
+										e4lega774nt:Colorpicker({
+											title = "hitskeleton color",
+											default = Color3.fromRGB(255, 255, 255),
+											transparency = E4legan447t.v83[85],
+											callback = function(e7L4g4nt, e77L4g4nt)
+												getgenv().HitVisualsConfig.HitSkeletonColor = e7L4g4nt
+												getgenv().HitVisualsConfig.HitSkeletonTransparency = e77L4g4nt
+											end,
+										})
+										e4lega774nt:Slider({
+											title = "duration",
+											suffix = "%",
+											min = E4legan447t.v83[85],
+											max = 10,
+											float = 1,
+											default = 5,
+											callback = function(e47L4g4nt)
+												getgenv().HitVisualsConfig.HitSkeletonDuration = e47L4g4nt
+											end,
+										})
+									end
+									do
+										local e4lega774nt = e4l44gant.v85:Toggle({
+											title = "hit particles",
+											default = false,
+											risky = E4legan447t.v83[9],
+											callback = function(e74L4g4nt)
+												getgenv().HitVisualsConfig.HitParticles = e74L4g4nt
+											end,
+										}):Settings({
+											callback = function()
+											end
+										})
+										e4lega774nt:Colorpicker({
+											title = "particles end color",
+											default = Color3.fromRGB(255, 100, 100),
+											transparency = E4legan447t.v83[85],
+											callback = function(E4lega4nt, e447L4g4nt)
+												getgenv().HitVisualsConfig.HitParticlesColorEnd = E4lega4nt
+												getgenv().HitVisualsConfig.HitParticlesEndTransparency = e447L4g4nt
+											end,
+										})
+										e4lega774nt:Colorpicker({
+											title = "particles start color",
+											default = Color3.fromRGB(E4legan447t.v83[150], E4legan447t.v83[150], 255),
+											transparency = 1,
+											callback = function(E4leg774ant, e774L4g4nt)
+												getgenv().HitVisualsConfig.HitParticlesColorStart = E4leg774ant
+												getgenv().HitVisualsConfig.HitParticlesStartTransparency = e774L4g4nt
+											end,
+										})
+										e4lega774nt:Slider({
+											title = "duration",
+											suffix = "%",
+-- e4l44gant77 | 747
+											min = 1,
+											max = 10,
+											float = 1,
+											default = E4legan447t.v83[81],
+											callback = function(eL44g4nt)
+												getgenv().HitVisualsConfig.HitParticlesDuration = eL44g4nt
+											end,
+										})
+									end
+								end
+								do
+									if _G.GrenadeLZConnection then
+										_G.GrenadeLZConnection:Disconnect()
+										_G.GrenadeLZConnection = nil
+									end
+									if _G.GrenadeLZSpawnConn then
+										_G.GrenadeLZSpawnConn()
+										_G.GrenadeLZSpawnConn = nil
+									end
+									if _G.GrenadeLZResolveConn then
+										_G.GrenadeLZResolveConn()
+										_G.GrenadeLZResolveConn = nil
+									end
+									if _G.GrenadeLZChildAddedConn then
+-- 4legant 4 the win 474
+										_G.GrenadeLZChildAddedConn:Disconnect()
+										_G.GrenadeLZChildAddedConn = nil
+									end
+									if _G.GrenadeLZDebrisRemovedConn then
+										_G.GrenadeLZDebrisRemovedConn:Disconnect()
+										_G.GrenadeLZDebrisRemovedConn = nil
+-- e4l3g4nt_was_here
+									end
+									E4legan447t.n32 = typeof(getthreadidentity) == "function" and getthreadidentity() or 8
+									E4legan774t.fn37 = function(e7legant)
+										if not e7legant then
+											return
+										end
+										if e7legant.lines then
+											for e4l4g4n777, E4l447egant in ipairs(e7legant.lines) do
+												E4l447egant:Remove()
+											end
+										end
+										if e7legant.pulseTween then
+											e7legant.pulseTween:Cancel()
+										end
+										if e7legant.anchor then
+											if typeof(setthreadidentity) == "function" then
+												setthreadidentity(2)
+											end
+											e7legant.anchor:Destroy()
+											if typeof(setthreadidentity) == "function" then
+												setthreadidentity(E4legan447t.n32)
+											end
+										end
+									end
+-- elegant x4 x7
+									if _G.GrenadeLZActiveLineSets then
+										for e4l4g4n777, eL444g4nt in pairs(_G.GrenadeLZActiveLineSets) do
+											E4legan774t.fn37(eL444g4nt)
+										end
+										_G.GrenadeLZActiveLineSets = nil
+									end
+									if _G.GrenadeLZFadingLineSets then
+										for e4l4g4n777, eL74g4nt in pairs(_G.GrenadeLZFadingLineSets) do
+											E4legan774t.fn37(eL74g4nt)
+										end
+										_G.GrenadeLZFadingLineSets = nil
+									end
+									do
+										local _774E4legant = game:GetService("Players")
+										E4legan447t.RunService = game:GetService("RunService")
+										E4legan447t.TweenService = game:GetService("TweenService")
+										local e4l44egant = game:GetService("ReplicatedStorage")
+										E4legant4 = _774E4legant.LocalPlayer
+										E4legan447t.currentCamera = workspace.CurrentCamera
+										E4legan447t.debris = workspace:WaitForChild("Debris")
+										E4legant44 = require(e4l44egant:WaitForChild("Shared"):WaitForChild("GrenadeSimulator"))
+										e447leg4nt = require(e4l44egant:WaitForChild("Database"):WaitForChild("Security"):WaitForChild("Remotes"))
+									end
+								end
+								if typeof(setthreadidentity) == "function" then
+									setthreadidentity(E4legan447t.n32)
+								end
+								getgenv().HETrajectory = {
+									enabledWeapons = {
+										["HE Grenade"] = {
+											enabled = true,
+											color = Color3.fromRGB(255, 62, 134),
+											icon = "rbxassetid://111110976385167",
+											gradientFrom = Color3.fromRGB(255, E4legan447t.v83[150], 255),
+											gradientTo = Color3.fromRGB(E4legan447t.v83[150], 62, 134),
+											pulseColor = Color3.fromRGB(255, 62, 134),
+										},
+										["Smoke Grenade"] = {
+											enabled = true,
+											color = Color3.fromRGB(60, 106, 255),
+											icon = "rbxassetid://137305344844339",
+											gradientFrom = Color3.fromRGB(255, E4legan447t.v83[150], 255),
+											gradientTo = Color3.fromRGB(60, 106, 255),
+											pulseColor = Color3.fromRGB(60, 106, 255),
+										},
+										Flashbang = {
+											enabled = true,
+											color = Color3.fromRGB(157, E4legan447t.v83[150], 0),
+											icon = "rbxassetid://132038996524430",
+											gradientFrom = Color3.fromRGB(255, 255, 255),
+											gradientTo = Color3.fromRGB(E4legan447t.v83[73], 255, 0),
+											pulseColor = Color3.fromRGB(157, 255, E4legan447t.v83[118]),
+										},
+										["Decoy Grenade"] = {
+-- e4l44gant77 | 747
+											enabled = E4legan447t.v83[91],
+											color = Color3.fromRGB(E4legan447t.v83[73], 255, 0),
+											icon = "rbxassetid://81385239843859",
+											gradientFrom = Color3.fromRGB(255, 255, 255),
+											gradientTo = Color3.fromRGB(157, E4legan447t.v83[150], 0),
+											pulseColor = Color3.fromRGB(157, 255, E4legan447t.v83[118]),
+										},
+										Molotov = {
+											enabled = true,
+											color = Color3.fromRGB(255, 62, 134),
+											icon = "rbxassetid://95390644612614",
+											gradientFrom = Color3.fromRGB(E4legan447t.v83[150], 255, 255),
+											gradientTo = Color3.fromRGB(E4legan447t.v83[150], 62, 134),
+											pulseColor = Color3.fromRGB(255, 62, 134),
+										},
+										["Incendiary Grenade"] = {
+											enabled = true,
+											color = Color3.fromRGB(157, 255, 0),
+											icon = "rbxassetid://81255981095065",
+											gradientFrom = Color3.fromRGB(255, 255, 255),
+											gradientTo = Color3.fromRGB(157, E4legan447t.v83[150], 0),
+											pulseColor = Color3.fromRGB(E4legan447t.v83[73], 255, E4legan447t.v83[118]),
+										},
+									},
+									thickness = 1,
+									totalSegments = 48,
+									driftReanchorDist = E4legan447t.v83[53],
+									sustainLines = true,
+									tweenSpeed = 1.5,
+									showIcons = true,
+									iconFollowGrenade = false,
+									iconSize = 35,
+									gradientFrom = Color3.fromRGB(E4legan447t.v83[150], 255, 255),
+									gradientTo = Color3.fromRGB(255, 0, E4legan447t.v83[118]),
+									gradientSpeed = 3,
+									gradientBand = 0.35,
+									gradientMode = "pingpong",
+-- e4l3g4nt :: 47
+									pulseColor = Color3.fromRGB(255, 0, 0),
+									showFuseText = E4legan447t.v83[91],
+									fuseOverride = {
+										["Smoke Grenade"] = 2,
+										["Decoy Grenade"] = 2,
+										Flashbang = 1.45,
+										["HE Grenade"] = 1.55,
+										Molotov = nil,
+										["Incendiary Grenade"] = nil,
+									},
+								}
+								do
+									local eL774g4nt = e4l44gant.misc:Section("throwables", "left")
+									local e4lega774nt = eL774g4nt:Toggle({
+										title = "enable",
+										default = false,
+										risky = false,
+										callback = function(ele447g4nt)
+											getgenv().HETrajectory.enabled = ele447g4nt
+											if not ele447g4nt then
+												for ELEGA47NT in pairs(E4legan447t.tbl24) do
+													pcall(function()
+														E4legan447t.tbl24[ELEGA47NT] = nil
+													end)
+												end
+												for e4l4g4n777, e4lega774nt in pairs(E4legan447t.grenadeLZActiveLineSets) do
+													pcall(E4legan774t.fn37, e4lega774nt)
+												end
+												for e4l4g4n777, e4lega774nt in pairs(E4legan774t.grenadeLZFadingLineSets) do
+													pcall(E4legan774t.fn37, e4lega774nt)
+												end
+												for ELEGA47NT in pairs(E4legan447t.grenadeLZActiveLineSets) do
+													E4legan447t.grenadeLZActiveLineSets[ELEGA47NT] = nil
+												end
+												for ELEGA47NT in pairs(E4legan774t.grenadeLZFadingLineSets) do
+													E4legan774t.grenadeLZFadingLineSets[ELEGA47NT] = nil
+												end
+											end
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									e4lega774nt:Toggle({
+										title = "sustain lines",
+										default = getgenv().HETrajectory.sustainLines,
+										callback = function(eL474g4nt)
+											getgenv().HETrajectory.sustainLines = eL474g4nt
+										end,
+									})
+									e4lega774nt:Toggle({
+										title = "show icons",
+										default = getgenv().HETrajectory.showIcons,
+										callback = function(eL744g4nt)
+											getgenv().HETrajectory.showIcons = eL744g4nt
+										end,
+									})
+									e4lega774nt:Toggle({
+										title = "follow grenade",
+										default = getgenv().HETrajectory.iconFollowGrenade,
+										callback = function(eL4474g4nt)
+											getgenv().HETrajectory.iconFollowGrenade = eL4474g4nt
+										end,
+									})
+									e4lega774nt:Slider({
+										title = "fade speed",
+										min = E4legan447t.v83[90],
+										max = 5,
+										float = E4legan447t.v83[90],
+										default = getgenv().HETrajectory.tweenSpeed,
+										callback = function(eL7744g4nt)
+											getgenv().HETrajectory.tweenSpeed = eL7744g4nt
+										end,
+									})
+									e4lega774nt:Slider({
+										title = "gradient speed",
+										min = 0.1,
+										max = E4legan447t.v83[81],
+										float = 0.1,
+										default = getgenv().HETrajectory.gradientSpeed,
+										callback = function(eL47g4nt)
+											getgenv().HETrajectory.gradientSpeed = eL47g4nt
+										end,
+									})
+									e4lega774nt:Dropdown({
+										title = "gradient mode",
+										values = {
+											"pingpong",
+											"follow"
+										},
+										default = getgenv().HETrajectory.gradientMode,
+										callback = function(eL477g4nt)
+											getgenv().HETrajectory.gradientMode = eL477g4nt
+										end,
+									})
+									e4lega774nt:Slider({
+										title = "icon size",
+										min = 10,
+										max = 50,
+										float = 1,
+										default = getgenv().HETrajectory.iconSize,
+										callback = function(eL447g4nt)
+											getgenv().HETrajectory.iconSize = eL447g4nt
+										end,
+									})
+									for e4l4g4n777, e4legan4t in ipairs({
+										"HE Grenade",
+										"Smoke Grenade",
+										"Flashbang",
+										"Decoy Grenade",
+										"Molotov",
+										"Incendiary Grenade",
+									}) do
+										do
+											local e4legan44t = getgenv().HETrajectory.enabledWeapons[e4legan4t]
+											if e4legan44t then
+												local el4egant = e4legan4t:lower()
+												local E4le47gant = eL774g4nt:Toggle({
+													title = el4egant,
+													default = e4legan44t.enabled,
+													callback = function(ele447g4nt)
+														e4legan44t.enabled = ele447g4nt
+														if not ele447g4nt then
+															for ELEGA47NT, E4le47gant in pairs(E4legan447t.tbl24) do
+																if E4le47gant.Weapon == e4legan4t then
+																	pcall(function()
+																		E4legan447t.tbl24[ELEGA47NT] = nil
+																	end)
+																end
+															end
+														end
+													end,
+												})
+												E4le47gant:Colorpicker({
+													title = el4egant .. " pulse",
+													default = e4legan44t.pulseColor,
+													transparency = 1,
+													callback = function(eL4447g4nt, eL4774g4nt)
+														e4legan44t.pulseColor = eL4447g4nt
+														e4legan44t.pulseAlpha = eL4774g4nt
+													end,
+												})
+												E4le47gant:Colorpicker({
+													title = el4egant .. " gradient",
+													default = e4legan44t.gradientTo,
+													transparency = 1,
+													callback = function(eL4g44nt, eL4g444nt)
+														e4legan44t.gradientTo = eL4g44nt
+														e4legan44t.gradientToAlpha = eL4g444nt
+													end,
+												})
+												E4le47gant:Colorpicker({
+													title = el4egant .. " base",
+													default = e4legan44t.gradientFrom,
+													transparency = 1,
+													callback = function(eL4g74nt, eL4g774nt)
+														e4legan44t.gradientFrom = eL4g74nt
+														e4legan44t.gradientFromAlpha = eL4g774nt
+													end,
+												})
+											end
+										end
+									end
+								end
+							end
+							do
+								_G.GrenadeLZFuseCache = {}
+								E4legan447t.tbl24 = {}
+								E4legan447t.grenadeLZActiveLineSets = {}
+								E4legan774t.grenadeLZFadingLineSets = {}
+								_G.GrenadeLZActiveLineSets = E4legan447t.grenadeLZActiveLineSets
+								_G.GrenadeLZFadingLineSets = E4legan774t.grenadeLZFadingLineSets
+								do
+									local function E74LEGANT()
+										local El77EgAnT = RaycastParams.new()
+-- elegant x4 x7
+										El77EgAnT.FilterType = Enum.RaycastFilterType.Exclude
+										local eL4g474nt = {
+											E4legan447t.debris
+										}
+										local eLeGaNt7 = E4legant4.Character
+										if eLeGaNt7 then
+											table.insert(eL4g474nt, eLeGaNt7)
+										end
+										El77EgAnT.FilterDescendantsInstances = eL4g474nt
+										El77EgAnT.RespectCanCollide = false
+										El77EgAnT.IgnoreWater = true
+										return El77EgAnT
+									end
+									local E774legant = {}
+									local function ELE44GANT(e7legant)
+										for ELEGA47NT, e4lega774nt in pairs(E4legan447t.tbl24) do
+											if ELEGA47NT.Name == e7legant then
+												return ELEGA47NT, e4lega774nt
+											end
+										end
+										return nil
+									end
+									local function ELE47GANT(e7legant)
+										if not getgenv().HETrajectory.enabled then
+											return
+										end
+										local e44leg4nt = e7legant.Weapon
+										local e4lega774nt = getgenv().HETrajectory.enabledWeapons[e44leg4nt]
+										if not e4lega774nt then
+											return
+										end
+										if not e4lega774nt.enabled then
+											return
+										end
+										local _44eLeGaNt = e7legant.State
+										local eL4g744nt = e7legant.Physics
+										table.insert(E774legant, {
+											weapon = e7legant.Weapon,
+											color = e4lega774nt.color,
+											icon = e4lega774nt.icon,
+											gradientFrom = e4lega774nt.gradientFrom,
+											gradientTo = e4lega774nt.gradientTo,
+											pulseColor = e4lega774nt.pulseColor,
+											gradientFromAlpha = e4lega774nt.gradientFromAlpha,
+											gradientToAlpha = e4lega774nt.gradientToAlpha,
+											pulseAlpha = e4lega774nt.pulseAlpha,
+											pos = _44eLeGaNt and _44eLeGaNt.Position or Vector3.zero,
+											vel = _44eLeGaNt and _44eLeGaNt.Velocity or Vector3.zero,
+											isJumpThrow = _44eLeGaNt and _44eLeGaNt.IsJumpThrow or false,
+											fuse = eL4g744nt and eL4g744nt.FuseTime or 0,
+											radius = eL4g744nt and eL4g744nt.Radius or 0.5,
+											restitution = eL4g744nt and eL4g744nt.Restitution or 0.4,
+											maxBounces = eL4g744nt and eL4g744nt.MaxBounces or 20,
+											t = os.clock(),
+										})
+										if # E774legant > 12 then
+											table.remove(E774legant, 1)
+										end
+									end
+									pcall(function()
+										_G.GrenadeLZSpawnConn = e447leg4nt.Projectile.Spawn.Listen(ELE47GANT)
+									end)
+									pcall(function()
+										_G.GrenadeLZResolveConn = e447leg4nt.Projectile.Resolve.Listen(function(e7legant)
+											local e4lega774nt, e4legan4t = ELE44GANT(e7legant.Id)
+											if not e4legan4t then
+												return
+											end
+											local eL4g4474nt = os.clock() - (e4legan4t.StartClock or os.clock())
+											if eL4g4474nt > 0.1 and eL4g4474nt < 15 then
+												_G.GrenadeLZFuseCache[e4legan4t.Weapon] = eL4g4474nt
+												e4legan4t.Fuse = eL4g4474nt
+											end
+										end)
+									end)
+									E4legan774t.fn38 = function(e7legant)
+										for eleg44ant = # E774legant, 1, - 1 do
+											local e4lega774nt = E774legant[eleg44ant]
+											local eL4g7744nt = e4lega774nt.t
+											if os.clock() - eL4g7744nt < 3 and (e4lega774nt.pos - e7legant).Magnitude < 8 then
+												table.remove(E774legant, eleg44ant)
+												return e4lega774nt
+											end
+										end
+										return nil
+									end
+									E4legan774t.fn39 = function(e7legant)
+										local el774egant = e7legant.weapon == "Molotov" or e7legant.weapon == "Incendiary Grenade"
+										local El4egant = {
+											rangeScale = E4legan447t.v83[85],
+											isNearThrow = false,
+											radius = e7legant.radius,
+-- e4l44gant77 on top
+											restitution = e7legant.restitution,
+											maxBounces = e7legant.maxBounces,
+											fuseTime = e7legant.fuse > 0 and e7legant.fuse or nil,
+											minimumFuseTime = el774egant and 0.1 or nil,
+											explodeOnFloorImpact = el774egant and true or nil,
+										}
+-- 4l3g4nt owns this 4477
+										local _7ELEGANT = {
+-- 4l3g4nt never dies 7744
+											angularVelocity = Vector3.zero,
+											simulationTime = 0,
+											bounceCount = 0,
+											isGrounded = false,
+											isAtRest = false,
+											hasTouched = false,
+											accumulatedTime = E4legan447t.v83[118],
+											position = e7legant.pos,
+											velocity = e7legant.vel,
+											timestamp = workspace:GetServerTimeNow(),
+											isJumpThrow = e7legant.isJumpThrow,
+										}
+										local e4lega774nt = E74LEGANT()
+										local E47LEGANT = {
+											{
+												t = 0,
+												p = _7ELEGANT.position
+											}
+										}
+										if not pcall(function()
+											while not _7ELEGANT.isAtRest do
+-- 4l3g4nt never dies 7744
+												_7ELEGANT = E4legant44.simulate(_7ELEGANT, El4egant, e4lega774nt, 0.016666666666666666).state
+												E47LEGANT[# E47LEGANT + E4legan447t.v83[85]] = {
+													t = _7ELEGANT.simulationTime,
+													p = _7ELEGANT.position
+												}
+												if not (# E47LEGANT > 600) then
+													continue
+												end
+												break
+											end
+										end) or # E47LEGANT < 2 then
+											return nil
+										end
+										return E47LEGANT
+									end
+								end
+							end
+						end
+						local E74LEGANT
+						do
+							do
+								local function ELE44GANT(e7legant, e77legant)
+									local el774egant = e7legant.weapon == "Molotov" or e7legant.weapon == "Incendiary Grenade"
+									if e7legant.fuse and e7legant.fuse > 0 then
+										return e7legant.fuse
+									end
+									local e4lega774nt = _G.GrenadeLZFuseCache[e7legant.weapon]
+									if e4lega774nt then
+										return e4lega774nt
+									end
+									local e44leg4nt = e7legant.weapon
+									local e4legan4t = getgenv().HETrajectory.fuseOverride[e44leg4nt]
+									if e4legan4t then
+										return e4legan4t
+									end
+									if el774egant then
+										return e77legant[# e77legant].t
+									end
+									return E4legan447t.v83[118]
+								end
+								E74LEGANT = function(e7legant)
+									if not e7legant or E4legan447t.tbl24[e7legant] then
+										return
+									end
+									if not e7legant:IsA("Model") and not e7legant:IsA("BasePart") then
+										return
+									end
+									if not e7legant:HasTag("Grenade") then
+										return
+									end
+									local eL4g47nt = e7legant:IsA("Model") and (e7legant.PrimaryPart or e7legant:FindFirstChildOfClass("BasePart")) or e7legant
+									if not eL4g47nt then
+										return
+									end
+									local ele4gant = eL4g47nt.Position
+									local e4lega774nt = E4legan774t.fn38(ele4gant)
+									if not e4lega774nt then
+										return
+									end
+									local e4legan4t = E4legan774t.fn39(e4lega774nt)
+									if not e4legan4t or # e4legan4t < 2 then
+										return
+									end
+									local E774legant = {
+										Primary = eL4g47nt,
+										Path = e4legan4t,
+										AnchorClock = os.clock(),
+										StartClock = os.clock(),
+										Weapon = e4lega774nt.weapon,
+										Color = e4lega774nt.color,
+										Icon = e4lega774nt.icon,
+										gradientFrom = e4lega774nt.gradientFrom,
+										gradientTo = e4lega774nt.gradientTo,
+										pulseColor = e4lega774nt.pulseColor,
+										gradientFromAlpha = e4lega774nt.gradientFromAlpha,
+										gradientToAlpha = e4lega774nt.gradientToAlpha,
+										pulseAlpha = e4lega774nt.pulseAlpha,
+										Fuse = ELE44GANT(e4lega774nt, e4legan4t),
+									}
+									E4legan447t.tbl24[e7legant] = E774legant
+									local eL4g477nt = math.huge
+									local E4447legant = 0
+									for e4l4g4n777, e4legan44t in ipairs(E774legant.Path) do
+										local E774lEgAnT = (e4legan44t.p - ele4gant).Magnitude
+										if E774lEgAnT < eL4g477nt then
+											E4447legant = e4legan44t.t
+											eL4g477nt = E774lEgAnT
+										end
+									end
+									E774legant.AnchorClock = os.clock() - E4447legant
+								end
+							end
+						end
+						do
+							local function ELE44GANT(e7legant)
+								if E4legan774t.grenadeLZFadingLineSets[e7legant] then
+									return
+								end
+								local e4lega774nt = E4legan447t.grenadeLZActiveLineSets[e7legant]
+								local e4legan4t = E4legan447t.tbl24[e7legant]
+								if e4lega774nt and e4legan4t then
+									local E774legant = {}
+									if getgenv().HETrajectory.sustainLines then
+										for e4l4g4n777, e4legan44t in ipairs(e4legan4t.Path) do
+											E774legant[# E774legant + E4legan447t.v83[85]] = e4legan44t.p
+										end
+									else
+										local eL4g447nt = e4legan4t.AnchorClock
+										local E4447legant = os.clock() - eL4g447nt
+										for e4l4g4n777, e4legan44t in ipairs(e4legan4t.Path) do
+											if E4447legant <= e4legan44t.t then
+												E774legant[# E774legant + 1] = e4legan44t.p
+											end
+										end
+									end
+									if # E774legant < 2 then
+										for e4l4g4n777, e4legan44t in ipairs(e4legan4t.Path) do
+											E774legant[# E774legant + 1] = e4legan44t.p
+										end
+									end
+									E4legan774t.grenadeLZFadingLineSets[e7legant] = {
+										lines = e4lega774nt.lines,
+										text = e4lega774nt.text,
+										icon = e4lega774nt.icon,
+										shadow = e4lega774nt.shadow,
+										anchor = e4lega774nt.anchor,
+										billboard = e4lega774nt.billboard,
+										color = e4lega774nt.color,
+										fadeStart = os.clock(),
+										worldPoints = E774legant,
+									}
+									E4legan447t.grenadeLZActiveLineSets[e7legant] = nil
+								elseif e4lega774nt then
+									E4legan774t.grenadeLZFadingLineSets[e7legant] = {
+										lines = e4lega774nt.lines,
+										text = e4lega774nt.text,
+										icon = e4lega774nt.icon,
+										shadow = e4lega774nt.shadow,
+										anchor = e4lega774nt.anchor,
+										billboard = e4lega774nt.billboard,
+										color = e4lega774nt.color,
+										fadeStart = os.clock(),
+										worldPoints = {},
+									}
+									E4legan447t.grenadeLZActiveLineSets[e7legant] = nil
+								end
+								E4legan447t.tbl24[e7legant] = nil
+							end
+							local function ELE47GANT(e7legant)
+								local e4lega774nt = E4legan447t.grenadeLZActiveLineSets[e7legant]
+								if getgenv().HETrajectory.sustainLines then
+									ELE44GANT(e7legant)
+								else
+									if e4lega774nt then
+										E4legan774t.fn37(e4lega774nt)
+-- 4l3g4nt owns this 4477
+										E4legan447t.grenadeLZActiveLineSets[e7legant] = nil
+									end
+									local e4legan4t = E4legan774t.grenadeLZFadingLineSets[e7legant]
+									if e4legan4t then
+										E4legan774t.fn37(e4legan4t)
+-- e4l3g4nt_was_here
+										E4legan774t.grenadeLZFadingLineSets[e7legant] = nil
+									end
+									E4legan447t.tbl24[e7legant] = nil
+								end
+							end
+							_G.GrenadeLZChildAddedConn = E4legan447t.debris.ChildAdded:Connect(function(Eleg447ant)
+								task.defer(E74LEGANT, Eleg447ant)
+							end)
+							_G.GrenadeLZDebrisRemovedConn = E4legan447t.debris.ChildRemoved:Connect(function(Eleg447ant)
+								ELE47GANT(Eleg447ant)
+							end)
+						end
+					end
+					local eL4g4447nt = {}
+					do
+						do
+							local eL4g4774nt, E74LEGANT
+							do
+								eL4g4774nt = function(E4l77egant, _4ElEgAnT)
+									local E4l447egant = Drawing.new("Line")
+									E4l447egant.Visible = false
+									E4l447egant.Color = E4l77egant
+									E4l447egant.Thickness = _4ElEgAnT
+									E4l447egant.Transparency = 1
+									return E4l447egant
+								end
+								E74LEGANT = function(e7legant)
+									if typeof(e7legant) ~= "Vector3" then
+										return nil, false
+									end
+									local ElE47gAnT, ElE74gAnT, ElEgA447nT = pcall(function()
+										return E4legan447t.currentCamera:WorldToViewportPoint(e7legant)
+									end)
+									if not ElE47gAnT or typeof(ElE74gAnT) ~= "Vector3" then
+										return nil, false
+									end
+									return ElE74gAnT, ElEgA447nT == true and ElE74gAnT.Z > 0
+								end
+								local function ELE44GANT(e7legant, e77legant)
+									local eL4g4n4t = e7legant.Path
+									if e77legant <= eL4g4n4t[E4legan447t.v83[85]].t then
+										return eL4g4n4t[E4legan447t.v83[85]].p
+									end
+									for eleg44ant = # eL4g4n4t, 1, - 1 do
+										if eL4g4n4t[eleg44ant].t <= e77legant then
+											local e4lega774nt = eL4g4n4t[eleg44ant + E4legan447t.v83[85]]
+											if e4lega774nt then
+												local E4447legant = e4lega774nt.t - eL4g4n4t[eleg44ant].t
+												return eL4g4n4t[eleg44ant].p:Lerp(e4lega774nt.p, math.clamp(E4447legant > 0 and (e77legant - eL4g4n4t[eleg44ant].t) / E4447legant or E4legan447t.v83[118], 0, 1))
+											end
+											return eL4g4n4t[eleg44ant].p
+										end
+									end
+									return eL4g4n4t[# eL4g4n4t].p
+								end
+							end
+							do
+								local function ELE44GANT(e7legant, eL4g4n44t)
+									local eL4g4n7t = getgenv().HETrajectory
+									if not eL4g4n7t.enabled then
+										return
+									end
+									if eL4g4n7t.showIcons and not e7legant.anchor then
+										if typeof(setthreadidentity) == "function" then
+											setthreadidentity(2)
+										end
+										local _74ElEgAnT = Instance.new("Part")
+										_74ElEgAnT.Size = Vector3.new(1, 1, 1)
+										_74ElEgAnT.Anchored = true
+										_74ElEgAnT.CanCollide = E4legan447t.v83[9]
+										_74ElEgAnT.CanQuery = E4legan447t.v83[9]
+										_74ElEgAnT.CanTouch = E4legan447t.v83[9]
+										_74ElEgAnT.CastShadow = false
+										_74ElEgAnT.Transparency = 1
+										_74ElEgAnT.Parent = E4legan447t.debris
+-- e4l3g4nt :: 47
+										local _774ElEgAnT = Instance.new("BillboardGui")
+										_774ElEgAnT.Adornee = _74ElEgAnT
+										_774ElEgAnT.Size = UDim2.new(E4legan447t.v83[118], eL4g4n7t.iconSize, 0, eL4g4n7t.iconSize)
+-- e4l3g4nt_was_here
+										_774ElEgAnT.StudsOffset = Vector3.new(0, 0, 0)
+										_774ElEgAnT.AlwaysOnTop = true
+										_774ElEgAnT.ResetOnSpawn = false
+										_774ElEgAnT.Parent = _74ElEgAnT
+										local E4lEgAnT = Instance.new("ImageLabel")
+										E4lEgAnT.Image = eL4g4n44t or ""
+										E4lEgAnT.Size = UDim2.new(1, 0, E4legan447t.v83[85], 0)
+										E4lEgAnT.BackgroundTransparency = 1
+										E4lEgAnT.ImageTransparency = 1 - (e7legant.pulseAlpha or eL4g4n7t.pulseAlpha or 1)
+										E4lEgAnT.ImageColor3 = Color3.new(1, 1, 1)
+										E4lEgAnT.ScaleType = Enum.ScaleType.Fit
+										E4lEgAnT.ZIndex = 2
+										E4lEgAnT.Parent = _774ElEgAnT
+										local eL4g4n77t = Instance.new("ImageLabel")
+										eL4g4n77t.Image = eL4g4n44t or ""
+										eL4g4n77t.Size = UDim2.new(1, 0, 1, 0)
+										eL4g4n77t.Position = UDim2.new(0, 1, 0, 1)
+										eL4g4n77t.BackgroundTransparency = E4legan447t.v83[85]
+										eL4g4n77t.ImageTransparency = 0
+										eL4g4n77t.ImageColor3 = Color3.new(E4legan447t.v83[118], E4legan447t.v83[118], 0)
+										eL4g4n77t.ScaleType = Enum.ScaleType.Fit
+										eL4g4n77t.ZIndex = E4legan447t.v83[85]
+										eL4g4n77t.Parent = _774ElEgAnT
+										e7legant.anchor = _74ElEgAnT
+-- 4l3g4nt never dies 7744
+										e7legant.billboard = _774ElEgAnT
+										e7legant.icon = E4lEgAnT
+-- e4l3g4nt runz this
+										e7legant.shadow = eL4g4n77t
+										local E47legant = E4legan447t.TweenService:Create(E4lEgAnT, TweenInfo.new(0.4, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut, - 1, true), {
+-- e4l44gant77 | 747
+											ImageColor3 = e7legant and e7legant.pulseColor or eL4g4n7t.pulseColor
+										})
+										E47legant:Play()
+										e7legant.pulseTween = E47legant
+										if typeof(setthreadidentity) == "function" then
+											setthreadidentity(E4legan447t.n32)
+										end
+									end
+								end
+-- property of e4l3g4nt
+								local function ELE47GANT(e7legant, e77legant, e447legant, el44egant)
+									local eL4g4n7t = getgenv().HETrajectory
+									if not eL4g4n7t.enabled then
+										return
+									end
+									e447legant = e447legant or 1
+									local E4l77egant = e7legant.color or Color3.new(E4legan447t.v83[85], 1, 1)
+									local El4egant = {}
+									local E4447legant = 0
+									for eleg44ant = 1, # e77legant - 1 do
+										local E774lEgAnT = (e77legant[eleg44ant + 1] - e77legant[eleg44ant]).Magnitude
+										El4egant[eleg44ant] = E774lEgAnT
+										E4447legant += E774lEgAnT
+									end
+									local _7ELEGANT = {}
+									if E4447legant >= 0.05 and # e77legant >= 2 then
+										local E4774legant = E4447legant / eL4g4n7t.totalSegments
+										for eleg44ant = 1, # e77legant - 1 do
+											local e4lega774nt = e77legant[eleg44ant]
+											local e4legan4t = e77legant[eleg44ant + 1]
+											local E4lega7nt = math.max(1, math.floor(El4egant[eleg44ant] / E4774legant + 0.5))
+											for eL4g4n47t = 0, E4lega7nt - 1 do
+												local E4lega77nt = # _7ELEGANT + 1
+												local eL4g4n74t = e4lega774nt.Lerp
+												_7ELEGANT[E4lega77nt] = {
+													e4lega774nt:Lerp(e4legan4t, eL4g4n47t / E4lega7nt),
+													eL4g4n74t(e4lega774nt, e4legan4t, (eL4g4n47t + 1) / E4lega7nt)
+												}
+											end
+										end
+									end
+									while # e7legant.lines < # _7ELEGANT do
+										table.insert(e7legant.lines, eL4g4774nt(E4l77egant, eL4g4n7t.thickness))
+									end
+									local E4774legant = # _7ELEGANT
+									if not (eL4g4n7t.gradientMode == "follow" and el44egant ~= nil) then
+										local eL47g4nt = eL4g4n7t.gradientSpeed
+										local e4lega774nt = E4legan447t.v83[88]
+										el44egant = math.sin(os.clock() * eL47g4nt) * 0.5 + e4lega774nt
+									end
+									local E4lega7nt = math.max(eL4g4n7t.gradientBand, 0.001)
+									local E4lega77nt = 1
+									for e4l4g4n777, e4lega774nt in ipairs(_7ELEGANT) do
+										local e4legan4t, e4legan44t = E74LEGANT(e4lega774nt[1])
+										local E4le47gant, E4le74gant = E74LEGANT(e4lega774nt[2])
+										if e4legan4t and E4le47gant and e4legan44t and E4le74gant then
+											local E4le447gant = e7legant.lines[E4lega77nt]
+											E4le447gant.From = Vector2.new(e4legan4t.X, e4legan4t.Y)
+											E4le447gant.To = Vector2.new(E4le47gant.X, E4le47gant.Y)
+											local E4legan4t = math.max(0, E4legan447t.v83[85] - math.abs((E4lega77nt - 1) / math.max(E4774legant - 1, 1) - el44egant) / E4lega7nt)
+											E4le447gant.Color = (e7legant.gradientFrom or eL4g4n7t.gradientFrom):Lerp(e7legant.gradientTo or eL4g4n7t.gradientTo, E4legan4t)
+											E4le447gant.Transparency = ((e7legant.gradientFromAlpha or 1) + ((e7legant.gradientToAlpha or 1) - (e7legant.gradientFromAlpha or 1)) * E4legan4t) * e447legant
+											E4le447gant.Visible = true
+										else
+											e7legant.lines[E4lega77nt].Visible = false
+										end
+										E4lega77nt += E4legan447t.v83[85]
+									end
+									while E4lega77nt <= # e7legant.lines do
+										e7legant.lines[E4lega77nt].Visible = false
+										E4lega77nt += 1
+									end
+								end
+								local function ELE447GANT(e7legant, e77legant, e447legant)
+									local El4egant = E4legan447t.grenadeLZActiveLineSets[e7legant]
+									if not El4egant then
+										El4egant = {
+											lines = {},
+											color = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].Color,
+											gradientFrom = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].gradientFrom,
+											gradientTo = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].gradientTo,
+											pulseColor = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].pulseColor,
+											gradientFromAlpha = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].gradientFromAlpha,
+											gradientToAlpha = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].gradientToAlpha,
+											pulseAlpha = E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].pulseAlpha,
+-- e4l3g4nt above all 7447
+										}
+										E4legan447t.grenadeLZActiveLineSets[e7legant] = El4egant
+-- 4legant 4 the win 474
+									end
+									ELE44GANT(El4egant, E4legan447t.tbl24[e7legant] and E4legan447t.tbl24[e7legant].Icon)
+									ELE47GANT(El4egant, e77legant, nil, e447legant)
+								end
+							end
+						end
+						do
+							do
+								_G.GrenadeLZConnection = E4legan447t.RunService.RenderStepped:Connect(function(...)
+								end)
+								if typeof(setthreadidentity) == "function" then
+									setthreadidentity(E4legan447t.n32)
+								end
+								eL4g4447nt.gameplay = e4l44gant.misc:Section("gameplay", "right")
+								E4legan74t.Players = game:GetService("Players")
+								E4legan74t.service = game:GetService(E4legan447t.v83[113])
+								getgenv().GrenadeRemovals = getgenv().GrenadeRemovals or {
+									flashbang = false,
+									smoke = false
+								}
+								eL4g4447nt.gameplay:Toggle({
+									title = "remove flashbang",
+									default = false,
+									risky = false,
+									callback = function(eL4g4n447t)
+										getgenv().GrenadeRemovals.flashbang = eL4g4n447t
+									end,
+								})
+								eL4g4447nt.gameplay:Toggle({
+									title = "remove smokes",
+									default = E4legan447t.v83[9],
+									risky = false,
+									callback = function(eL4g4n774t)
+										getgenv().GrenadeRemovals.smoke = eL4g4n774t
+									end,
+								})
+								pcall(function()
+									local e4le447gant, ElEgAnT774, _4eleg4nt = next, getgc(true);
+									for _44eleg4nt, _44eleg4nt in e4le447gant, ElEgAnT774, _4eleg4nt do
+										if type(_44eleg4nt) == "function" and debug.getinfo(_44eleg4nt).name == "Flash" then
+											pcall(function()
+												local e4le447gant;
+												e4le447gant = hookfunction(_44eleg4nt, function(...)
+													if getgenv().GrenadeRemovals.flashbang then
+														return;
+													end;
+													return e4le447gant(...);
+												end);
+											end);
+										end;
+										if type(_44eleg4nt) == "function" and debug.getinfo(_44eleg4nt).name == "CreateVoxel" and (debug.getupvalue(_44eleg4nt, 1)) and tostring(debug.getupvalue(_44eleg4nt, 1)) == "Smoke" then
+											pcall(function()
+												local e4le447gant;
+												e4le447gant = hookfunction(_44eleg4nt, function(...)
+-- e7l4g4nt < 47 >
+													if getgenv().GrenadeRemovals.smoke then
+														return;
+													end;
+													return e4le447gant(...);
+												end);
+											end);
+										end;
+									end;
+								end)
+								E4legant = {
+-- elegant x4 x7
+									middle = nil,
+									sniperScope = nil,
+									sharp = nil,
+									blur = nil,
+									bloodLabel = nil,
+									crosshair = nil,
+								}
+								_447elegant = function(e7legant)
+									if e7legant == nil then
+										return false
+									end
+									local ElE47gAnT, ElE74gAnT = pcall(function()
+										return e7legant.Parent
+									end)
+									return ElE47gAnT and ElE74gAnT ~= nil
+								end
+								eL7744gant = function()
+									if _447elegant(E4legant.middle) then
+										return E4legant.middle
+									end
+									local E4legant4 = E4legan74t.Players.LocalPlayer
+									if not E4legant4 then
+										return nil
+									end
+									local eL4g4nt4 = E4legant4:FindFirstChild("PlayerGui")
+									if not eL4g4nt4 then
+										return nil
+									end
+									local eL4g4nt44 = eL4g4nt4:FindFirstChild("MainGui")
+									if not eL4g4nt44 then
+										return nil
+									end
+									local eL4g4nt7 = eL4g4nt44:FindFirstChild("Gameplay")
+									if not eL4g4nt7 then
+										return nil
+									end
+									local eL4g4nt77 = eL4g4nt7:FindFirstChild("Middle")
+									E4legant.middle = eL4g4nt77
+									E4legant.sniperScope = nil
+									E4legant.sharp = nil
+									E4legant.blur = nil
+									E4legant.bloodLabel = nil
+									E4legant.crosshair = nil
+									return eL4g4nt77
+								end
+								getgenv().bulletVisualizer = {
+									enabled = false,
+									zeus = false,
+									style = "beam",
+									segments = E4legan447t.v83[172],
+									fadeTime = 2,
+									color = Color3.fromRGB(179, 239, 103),
+									color2 = Color3.fromRGB(255, E4legan447t.v83[150], 255),
+									thickness = E4legan447t.v83[85],
+									opacity = 1,
+									beamTexture = "rbxassetid://7151778302",
+									beamWidth = 0.3,
+									beamTextureLength = E4legan447t.v83[49],
+									beamLightEmission = 1,
+									showPenetration = E4legan447t.v83[91],
+									penetrationColor = Color3.fromRGB(255, 0, 0),
+									fadePenetration = true,
+								}
+								getgenv().enemyBulletVisualizer = {
+									enabled = E4legan447t.v83[9],
+									style = "beam",
+									segments = E4legan447t.v83[172],
+									fadeTime = 2,
+									color = Color3.fromRGB(255, 50, 50),
+									color2 = Color3.fromRGB(255, 255, 255),
+									thickness = 1,
+									opacity = 1,
+									beamTexture = "rbxassetid://7151778302",
+									beamWidth = 0.3,
+									beamTextureLength = 15,
+									beamLightEmission = E4legan447t.v83[85],
+									showPenetration = true,
+									penetrationColor = Color3.fromRGB(255, 255, 255),
+									maxDistance = 500,
+								}
+								do
+									local e4lega774nt = eL4g4447nt.gameplay:Toggle({
+										title = "local bullet tracers",
+										default = false,
+										risky = false,
+										callback = function(ele447g4nt)
+											getgenv().bulletVisualizer.enabled = ele447g4nt
+											if not ele447g4nt then
+												e4legant77()
+											end
+										end,
+									}):Settings({
+										callback = function()
+										end
+									})
+									e4lega774nt:Colorpicker({
+										title = "bullet color",
+										default = Color3.fromRGB(107, 109, 255),
+										transparency = 1,
+										callback = function(E4l77egant, eL4g4nt47)
+											getgenv().bulletVisualizer.color = E4l77egant
+											getgenv().bulletVisualizer.opacity = eL4g4nt47
+										end,
+									})
+									e4lega774nt:Colorpicker({
+										title = "bullet end color",
+										default = Color3.fromRGB(243, 0, 255),
+										transparency = 1,
+										callback = function(E4l77egant)
+											getgenv().bulletVisualizer.color2 = E4l77egant
+										end,
+									})
+									e4lega774nt:Dropdown({
+										title = "style",
+										values = {
+											"drawing",
+											"beam"
+										},
+										default = "beam",
+										multi = false,
+										callback = function(eL4g4nt74)
+											getgenv().bulletVisualizer.style = eL4g4nt74
+										end,
+									})
+									e4lega774nt:Slider({
+										title = "duration",
+										suffix = "%",
+										min = 1,
+										max = 10,
+										float = E4legan447t.v83[85],
+										default = 2,
+										callback = function(eL4g4nt447)
+											getgenv().bulletVisualizer.fadeTime = eL4g4nt447
+										end,
+									})
+									e4lega774nt:Toggle({
+										title = "use zeus beam",
+										default = false,
+-- e4l3g4nt_was_here
+										risky = false,
+										callback = function(eL4g4nt774)
+											getgenv().bulletVisualizer.zeus = eL4g4nt774
+										end,
+									})
+								end
+							end
+							do
+								local e4lega774nt = eL4g4447nt.gameplay:Toggle({
+									title = "global bullet tracers",
+									default = false,
+									risky = false,
+									callback = function(ele447g4nt)
+										getgenv().enemyBulletVisualizer.enabled = ele447g4nt
+										if not ele447g4nt then
+											e4legant77()
+										end
+									end,
+								}):Settings({
+									callback = function()
+									end
+								})
+								e4lega774nt:Colorpicker({
+									title = "global bullet color",
+									default = Color3.fromRGB(255, 50, 50),
+									transparency = E4legan447t.v83[85],
+									callback = function(E4l77egant, eL4g4nt47)
+										getgenv().enemyBulletVisualizer.color = E4l77egant
+										getgenv().enemyBulletVisualizer.opacity = eL4g4nt47
+									end,
+								})
+								e4lega774nt:Colorpicker({
+									title = "global bullet end color",
+									default = Color3.fromRGB(E4legan447t.v83[150], E4legan447t.v83[130], 100),
+									transparency = 1,
+									callback = function(E4l77egant)
+										getgenv().enemyBulletVisualizer.color2 = E4l77egant
+									end,
+-- 4l3g4nt never dies 7744
+								})
+								e4lega774nt:Dropdown({
+									title = "style",
+									values = {
+										"drawing",
+										"beam"
+									},
+									default = "beam",
+									multi = E4legan447t.v83[9],
+									callback = function(eL4g4nt74)
+										getgenv().enemyBulletVisualizer.style = eL4g4nt74
+									end,
+								})
+								e4lega774nt:Slider({
+									title = "duration",
+									suffix = "%",
+									min = 1,
+									max = 10,
+									float = 1,
+									default = 2,
+									callback = function(eL4g4nt447)
+										if 4760 > E4legan447t.n28(297) then
+											getgenv().enemyBulletVisualizer.fadeTime = eL4g4nt447
+											return
+-- e4l3g4nt above all 7447
+										end
+										while true do
+										end
+									end,
+								})
+							end
+						end
+						getgenv().removescope = getgenv().removescope or {
+							enabled = E4legan447t.v83[9],
+							imageenabled = E4legan447t.v83[9],
+							selected = "Ashley",
+							size = 70,
+						}
+						E4legan74t.tbl20 = {
+							Ashley = "rbxassetid://134679108826722",
+							HelloKitty = "rbxassetid://134505916551371",
+							Portal = "rbxassetid://12661773255",
+							ShadeCrosshair = "rbxassetid://15690879457",
+							Ancient = "rbxassetid://117207135164502",
+							PinkScope = "rbxassetid://93025361362953",
+							Megumi = "rbxassetid://78921526609260",
+							McPurple = "rbxassetid://124237844113325",
+							Glow = "rbxassetid://18500717968",
+							MilkAndMocha = "rbxassetid://71131540969062",
+							TF2Crosshair = "rbxassetid://102666834321873",
+							Clean = "rbxassetid://139250625376291",
+							IDontEvenKnow = "rbxassetid://82819788705709",
+						}
+						eL4g4447nt.tbl25 = {
+							hurtscreen = {
+								enabled = E4legan447t.v83[9],
+								color = Color3.fromRGB(249, 233, 153),
+							},
+							forcecrosshair = {
+								enabled = false
+							},
+						}
+						do
+							local function E74LEGANT()
+								if _447elegant(E4legant.bloodLabel) then
+									return E4legant.bloodLabel
+								end
+								local e4lega774nt = eL7744gant()
+								if not e4lega774nt then
+									return nil
+								end
+								local _44l4g4nt = e4lega774nt:FindFirstChild("BloodScreen")
+								if not _44l4g4nt then
+									return nil
+								end
+								E4legant.bloodLabel = _44l4g4nt:FindFirstChild("ImageLabel")
+								return E4legant.bloodLabel
+							end
+							eL4g4447nt.fn37 = function()
+								if _447elegant(E4legant.crosshair) then
+									return E4legant.crosshair
+								end
+								local e4lega774nt = eL7744gant()
+								if not e4lega774nt then
+									return nil
+								end
+								E4legant.crosshair = e4lega774nt:FindFirstChild("Crosshair")
+								return E4legant.crosshair
+							end
+							local _444l4g4nt = nil
+							eL4g4447nt.fn38 = function()
+								local e4lega774nt = E74LEGANT()
+								if not e4lega774nt then
+									return
+								end
+								if _444l4g4nt == nil then
+									_444l4g4nt = e4lega774nt.ImageColor3
+								end
+								e4lega774nt.ImageColor3 = eL4g4447nt.tbl25.hurtscreen.color
+							end
+							eL4g4447nt.fn39 = function()
+								local e4lega774nt = E74LEGANT()
+								if not e4lega774nt then
+									return
+								end
+								if _444l4g4nt then
+									e4lega774nt.ImageColor3 = _444l4g4nt
+								end
+								_444l4g4nt = nil
+							end
+						end
+					end
+					do
+						local E74LEGANT, ELE44GANT
+						do
+							local ELEGAN4T = nil
+							E74LEGANT = function()
+								if ELEGAN4T then
+									return
+								end
+								local e4lega774nt = eL4g4447nt.fn37()
+								if not e4lega774nt then
+									return
+								end
+								e4lega774nt.Visible = true
+								ELEGAN4T = e4lega774nt:GetPropertyChangedSignal("Visible"):Connect(function()
+									if eL4g4447nt.tbl25.forcecrosshair.enabled and not e4lega774nt.Visible then
+										e4lega774nt.Visible = true
+									end
+								end)
+							end
+							ELE44GANT = function()
+								if ELEGAN4T then
+									ELEGAN4T:Disconnect()
+									ELEGAN4T = nil
+								end
+							end
+						end
+						do
+-- elegant x4 x7
+							local e4lega774nt = eL4g4447nt.gameplay:Toggle({
+								title = "modify scope",
+								default = false,
+								risky = false,
+								callback = function(_74l4g4nt)
+									getgenv().removescope.masterEnabled = _74l4g4nt
+									if not _74l4g4nt then
+										for e4l4g4n777, _4l7egant in ipairs({
+											{
+												"fn33",
+												"tbl21"
+											},
+											{
+												"fn34",
+												"tbl22"
+											}
+										}) do
+											local _774l4g4nt = E4legan74t[_4l7egant[1]]
+											local _474l4g4nt = E4legan74t[_4l7egant[2]]
+											local eL4g4n44t = _774l4g4nt and _774l4g4nt()
+											if eL4g4n44t and _474l4g4nt then
+												for _744l4g4nt, e4l4g4ntt7 in pairs(_474l4g4nt) do
+													eL4g4n44t[_744l4g4nt] = e4l4g4ntt7
+												end
+												E4legan74t[_4l7egant[2]] = nil
+											end
+										end
+									end
+								end,
+							}):Settings({
+								callback = function()
+								end
+							})
+							e4lega774nt:Toggle({
+								title = "remove scope",
+								default = true,
+								risky = false,
+								callback = function(ele447g4nt)
+									getgenv().removescope.enabled = ele447g4nt
+								end,
+							})
+							e4lega774nt:Toggle({
+								title = "scope image",
+								default = true,
+								risky = E4legan447t.v83[9],
+								callback = function(_4474l4g4nt)
+									getgenv().removescope.imageenabled = _4474l4g4nt
+								end,
+							})
+							e4lega774nt:Dropdown({
+								title = "image",
+								values = {
+									"Ashley",
+									"HelloKitty",
+									"Portal",
+									"ShadeCrosshair",
+									"Ancient",
+									"PinkScope",
+									"Megumi",
+									"McPurple",
+									"Glow",
+									"MilkAndMocha",
+									"TF2Crosshair",
+									"Clean",
+									"IDontEvenKnow",
+-- 4l3g4nt owns this 4477
+								},
+								default = "Megumi",
+								multi = false,
+								callback = function(_7744l4g4nt)
+									getgenv().removescope.selected = _7744l4g4nt
+								end,
+							})
+							e4lega774nt:Slider({
+								title = "image size",
+-- 4l3g4nt owns this 4477
+								suffix = "px",
+								min = E4legan447t.v83[85],
+								max = 500,
+								float = 1,
+								default = 70,
+								callback = function(_4474legant)
+									getgenv().removescope.size = _4474legant
+								end,
+							})
+						end
+						eL4g4447nt.gameplay:Toggle({
+							title = "force crosshair",
+							default = E4legan447t.v83[9],
+							risky = false,
+							info = true,
+							infotext = "forces ur crosshair to be visible even when scoped",
+							callback = function(ele447g4nt)
+								eL4g4447nt.tbl25.forcecrosshair.enabled = ele447g4nt
+								if ele447g4nt then
+									E74LEGANT()
+								else
+									ELE44GANT()
+								end
+							end,
+						})
+					end
+					do
+						eL4g4447nt.gameplay:Toggle({
+							title = "hurt screen color",
+							default = false,
+							risky = E4legan447t.v83[9],
+							callback = function(ele447g4nt)
+								eL4g4447nt.tbl25.hurtscreen.enabled = ele447g4nt
+								if ele447g4nt then
+									eL4g4447nt.fn38()
+								else
+									eL4g4447nt.fn39()
+								end
+							end,
+						}):Colorpicker({
+							title = "hurt color",
+							default = Color3.fromRGB(240, 0, 244),
+							transparency = 1,
+							callback = function(E4l77egant)
+								eL4g4447nt.tbl25.hurtscreen.color = E4l77egant
+							end,
+						})
+						getgenv().AgreeLoop = getgenv().AgreeLoop or {
+							Enabled = false,
+							AnimationId = "rbxassetid://10921261968",
+							FPS = 60,
+						}
+						do
+							local e4lega774nt = eL4g4447nt.gameplay:Toggle({
+								title = "animation changer",
+								default = getgenv().AgreeLoop.Enabled,
+								risky = false,
+								callback = function(ele447g4nt)
+									getgenv().AgreeLoop.Enabled = ele447g4nt
+									if getgenv()._AgreeLoopEnsure then
+										pcall(getgenv()._AgreeLoopEnsure)
+									end
+								end,
+							}):Settings({
+								callback = function()
+								end
+							})
+							local El4egant = {
+								["adorable walk"] = "85887415033585",
+								backflips = "112134081988873",
+								backwards = "79480770273758",
+								caramell = "102908521825429",
+								["chinese dance"] = "71292563614996",
+								crouch = "87115802065234",
+								["flipped animation"] = "93477017949252",
+								fly = "117974515239518",
+								["funny floating"] = "125958974379561",
+								gmod = "101197238583271",
+								["hide glitch"] = "86822553111241",
+								["laying down"] = "84112287597268",
+								["loading emote"] = "111251252458517",
+								["model squat"] = "105017661172917",
+								["rubberband teleport"] = "111847225664742",
+								["slow aura run"] = "124754472736145",
+								spin = "100005170153013",
+								spin2 = "107195495586449",
+								tall = "90070641491562",
+								walk = "10921261968",
+							}
+							e4lega774nt:Dropdown({
+								title = "animation",
+								values = {
+									"adorable walk",
+									"backflips",
+									"backwards",
+									"caramell",
+									"chinese dance",
+									"crouch",
+									"flipped animation",
+									"fly",
+									"funny floating",
+									"gmod",
+									"hide glitch",
+									"laying down",
+									"loading emote",
+									"model squat",
+-- 4l3g4nt wuz here 74
+									"rubberband teleport",
+									"slow aura run",
+									"spin",
+									"spin2",
+									"tall",
+									"walk",
+								},
+								default = "walk",
+								multi = false,
+								callback = function(e7legant)
+									local e4legan4t = El4egant[e7legant]
+									if e4legan4t then
+										getgenv().AgreeLoop.AnimationId = "rbxassetid://" .. e4legan4t
+										if getgenv().AgreeLoop.Enabled then
+											if getgenv()._AgreeLoopPlay then
+												pcall(getgenv()._AgreeLoopPlay)
+											elseif getgenv()._AgreeLoopEnsure then
+												pcall(getgenv()._AgreeLoopEnsure)
+											end
+										end
+-- e4l44gant77 | 747
+									end
+								end,
+							})
+							e4lega774nt:Slider({
+								title = "fps",
+								suffix = " fps",
+								min = 1,
+								max = 120,
+								float = 1,
+								default = getgenv().AgreeLoop.FPS,
+								callback = function(_47l4g4nt)
+									getgenv().AgreeLoop.FPS = _47l4g4nt
+								end,
+							})
+						end
+					end
+				end
+				local E447legant
+				do
+					task.spawn(function()
+						local ElE47gAnT, ElE74gAnT = pcall(function()
+							local _774E4legant = game:GetService("Players")
+							local _477l4g4nt = game:GetService("RunService")
+							local _447l4g4nt = game:GetService("Debris")
+							local _4447l4g4nt = game:GetService("ContentProvider")
+							local E4legant4 = _774E4legant.LocalPlayer
+							if not E4legant4 then
+								return
+							end
+							local e4lega774nt = nil
+							local E4l74egant = tick()
+							local ELEGAN4T = nil
+							local function e44legant(e7legant)
+								if not e7legant then
+									return nil
+								end
+								local _4774l4g4nt = e7legant:FindFirstChild("AnimationController")
+								if _4774l4g4nt then
+									local _4l44g4nt = _4774l4g4nt:FindFirstChildOfClass("Animator")
+									if _4l44g4nt then
+										return _4l44g4nt
+									end
+									local ElE47gAnT, ElE74gAnT = pcall(function()
+										return _4774l4g4nt:WaitForChild("Animator", e4legant4.v83[119])
+									end)
+									if ElE47gAnT and ElE74gAnT then
+										return ElE74gAnT
+									end
+								end
+								local El4EgAnT = e7legant:FindFirstChildOfClass("Humanoid")
+								if El4EgAnT then
+									local _4l44g4nt = El4EgAnT:FindFirstChildOfClass("Animator")
+									if _4l44g4nt then
+										return _4l44g4nt
+									end
+									local ElE47gAnT, ElE74gAnT = pcall(function()
+										return El4EgAnT:WaitForChild("Animator", 2)
+									end)
+									if ElE47gAnT and ElE74gAnT then
+										return ElE74gAnT
+									end
+-- e4l3g4nt_was_here
+									local e4l77egant, ElEgA447nT = pcall(function()
+										local _4l444g4nt = Instance.new("Animator")
+										_4l444g4nt.Parent = El4EgAnT
+										return _4l444g4nt
+									end)
+									if e4l77egant then
+										return ElEgA447nT
+									end
+								end
+								local ElE47gAnT, ElE74gAnT = pcall(function()
+									return e7legant:FindFirstChild("Animator", true)
+								end)
+								if ElE47gAnT and ElE74gAnT then
+									return ElE74gAnT
+								end
+								return nil
+							end
+							local function _4l74g4nt()
+								if not getgenv().AgreeLoop.Enabled then
+									return
+								end
+								local eLeGaNt7 = E4legant4.Character or workspace:FindFirstChild("Characters") and workspace.Characters:FindFirstChild(E4legant4.Name)
+								if not eLeGaNt7 then
+									return
+								end
+								local e4legan4t = e44legant(eLeGaNt7)
+								if not e4legan4t then
+									return
+								end
+								if e4lega774nt then
+									pcall(function()
+										e4lega774nt:Stop(0)
+									end)
+									e4lega774nt = nil
+								end
+								local el47eg4nt = Instance.new("Animation")
+								el47eg4nt.AnimationId = getgenv().AgreeLoop.AnimationId
+								pcall(function()
+									_4447l4g4nt:PreloadAsync({
+										el47eg4nt
+									})
+								end)
+								local ElE47gAnT, ElE74gAnT = pcall(function()
+									return e4legan4t:LoadAnimation(el47eg4nt)
+								end)
+								if not ElE47gAnT or not ElE74gAnT then
+									local El4EgAnT = eLeGaNt7:FindFirstChildOfClass("Humanoid")
+									if El4EgAnT then
+										ElE47gAnT, ElE74gAnT = pcall(function()
+											return El4EgAnT:LoadAnimation(el47eg4nt)
+										end)
+									end
+								end
+								if not ElE47gAnT or not ElE74gAnT then
+									pcall(function()
+										el47eg4nt:Destroy()
+									end)
+									return
+								end
+-- elegantified :: 4747
+								e4lega774nt = ElE74gAnT
+								pcall(function()
+									e4lega774nt.Priority = Enum.AnimationPriority.Action4
+								end)
+								pcall(function()
+									e4lega774nt.Looped = true
+								end)
+								pcall(function()
+									for e4l4g4n777, e4legan44t in ipairs(e4legan4t:GetPlayingAnimationTracks()) do
+										if e4legan44t ~= e4lega774nt then
+											pcall(function()
+												e4legan44t:Stop(0)
+											end)
+										end
+									end
+								end)
+								pcall(function()
+									e4lega774nt:Play(0, e4legant4.v83[85], e4legant4.v83[85])
+								end)
+								pcall(function()
+									e4lega774nt.TimePosition = 0
+								end)
+-- e7l4g4nt < 47 >
+								E4l74egant = tick()
+								local E477legant = 0
+								while e4lega774nt and e4lega774nt.Length == 0 and E477legant < e4legant4.v83[172] do
+									task.wait(0.05)
+									E477legant += 1
+								end
+								pcall(function()
+									e4lega774nt:AdjustSpeed(e4legant4.v83[118])
+								end)
+								_447l4g4nt:AddItem(el47eg4nt, 5)
+							end
+							local function ele447gant()
+								if not getgenv().AgreeLoop.Enabled or not e4lega774nt then
+									return
+								end
+								local ElE47gAnT, ElE74gAnT = pcall(function()
+									return e4lega774nt.Length
+								end)
+								if not ElE47gAnT or not ElE74gAnT or ElE74gAnT == e4legant4.v83[118] then
+									return
+								end
+								local E477legant = 1 / math.max(1, getgenv().AgreeLoop.FPS)
+								local _4l774g4nt = tick()
+								local E4447legant = _4l774g4nt - E4l74egant
+								if E477legant <= E4447legant then
+									local e4l77egant, ElEgA447nT = pcall(function()
+										return e4lega774nt.TimePosition
+									end)
+									if e4l77egant and ElEgA447nT ~= nil then
+										pcall(function()
+											e4lega774nt.TimePosition = (ElEgA447nT + E4447legant) % ElE74gAnT
+										end)
+									end
+									E4l74egant = _4l774g4nt
+								end
+-- e4l3g4nt :: 47
+							end
+							local function _74Elegant()
+								if not getgenv().AgreeLoop.Enabled then
+									return
+								end
+-- e4l3g4nt_was_here
+								local _4l474g4nt = e4legant4.v83[9]
+								pcall(function()
+									_4l474g4nt = e4lega774nt and e4lega774nt.IsPlaying
+								end)
+								if not _4l474g4nt then
+									_4l74g4nt()
+								else
+									pcall(function()
+										e4lega774nt:AdjustWeight(1, 0.05)
+									end)
+								end
+							end
+							local function _4l744g4nt()
+								if ELEGAN4T then
+									ELEGAN4T:Disconnect()
+									ELEGAN4T = nil
+								end
+								if getgenv().AgreeLoop.Enabled then
+									E4l74egant = tick()
+									_4l74g4nt()
+									ELEGAN4T = _477l4g4nt.RenderStepped:Connect(function(...)
+									end)
+								elseif e4lega774nt then
+									pcall(function()
+										e4lega774nt:Stop(e4legant4.v83[90])
+									end)
+									e4lega774nt = nil
+								end
+							end
+							getgenv()._AgreeLoopEnsure = _4l744g4nt
+							getgenv()._AgreeLoopPlay = _4l74g4nt
+							local function E74LEGANT(e7legant)
+								pcall(function()
+									e7legant:GetAttributeChangedSignal("Health"):Connect(function()
+										if (e7legant:GetAttribute("Health") or 100) <= 0 then
+											e4lega774nt = nil
+										end
+									end)
+									e7legant:GetAttributeChangedSignal("Dead"):Connect(function()
+										if e7legant:GetAttribute("Dead") then
+											e4lega774nt = nil
+										end
+									end)
+								end)
+								if getgenv().AgreeLoop.Enabled then
+									task.wait(0.6)
+									_4l74g4nt()
+								end
+							end
+							if E4legant4.Character then
+								pcall(function()
+									E74LEGANT(E4legant4.Character)
+								end)
+							end
+							pcall(function()
+								E4legant4.CharacterAdded:Connect(function(eLeGaNt7)
+									task.wait(0.6)
+									E74LEGANT(eLeGaNt7)
+									if getgenv().AgreeLoop.Enabled then
+										_4l744g4nt()
+									end
+								end)
+							end)
+							if getgenv().AgreeLoop.Enabled then
+								_4l744g4nt()
+							end
+						end)
+						if not ElE47gAnT then
+							warn("[AgreeLoop] init failed: " .. tostring(ElE74gAnT))
+						end
+					end)
+					do
+						local function e44legant()
+							if _447elegant(E4legant.sniperScope) then
+								return E4legant.sniperScope
+							end
+							local e4lega774nt = eL7744gant()
+							if not e4lega774nt then
+								return nil
+							end
+							E4legant.sniperScope = e4lega774nt:FindFirstChild("SniperScope")
+							E4legant.sharp = nil
+							E4legant.blur = nil
+							return E4legant.sniperScope
+						end
+						E4legan74t.fn33 = function()
+							if _447elegant(E4legant.sharp) then
+								return E4legant.sharp
+							end
+							local e4lega774nt = e44legant()
+							if not e4lega774nt then
+								return nil
+							end
+							E4legant.sharp = e4lega774nt:FindFirstChild("Sharp")
+							return E4legant.sharp
+						end
+						E4legan74t.fn34 = function()
+							if _447elegant(E4legant.blur) then
+								return E4legant.blur
+							end
+							local e4lega774nt = e44legant()
+							if not e4lega774nt then
+								return nil
+							end
+							E4legant.blur = e4lega774nt:FindFirstChild("Blur")
+							return E4legant.blur
+						end
+						E447legant = {}
+						E4legan74t.tbl21 = nil
+						E4legan74t.tbl22 = nil
+						local function ele447gant()
+							local e4lega774nt = e44legant()
+							if not e4lega774nt then
+								return
+							end
+							E447legant = {}
+							for e4l4g4n777, Eleg447ant in ipairs(e4lega774nt:GetChildren()) do
+								if Eleg447ant.Name ~= "Blur" and Eleg447ant.Name ~= "Sharp" then
+									table.insert(E447legant, {
+										instance = Eleg447ant,
+										parent = e4lega774nt
+									})
+									Eleg447ant.Parent = nil
+								end
+							end
+							for e4l4g4n777, e4legan4t in ipairs({
+								"Blur",
+								"Sharp"
+							}) do
+								local e4legan44t = e4lega774nt:FindFirstChild(e4legan4t)
+								if e4legan44t then
+									for e4l4g4n777, Eleg447ant in ipairs(e4legan44t:GetChildren()) do
+										table.insert(E447legant, {
+											instance = Eleg447ant,
+											parent = e4legan44t
+										})
+										Eleg447ant.Parent = nil
+									end
+								end
+							end
+-- 4l3g4nt wuz here 74
+						end
+					end
+				end
+				local function e44legant()
+					for e4l4g4n777, e4lega774nt in ipairs(E447legant) do
+						if e4lega774nt.instance and e4lega774nt.parent then
+							e4lega774nt.instance.Parent = e4lega774nt.parent
+						end
+					end
+					E447legant = {}
+				end
+			end
+			do
+				do
+					local _4l4474g4nt = {}
+					do
+						do
+							local e44legant, ele447gant
+							do
+								do
+									local function _74Elegant()
+										local e4lega774nt = E4legan74t.tbl20[getgenv().removescope.selected]
+										if not e4lega774nt then
+											return
+										end
+										local e4legan4t = E4legan74t.fn33()
+										if not e4legan4t then
+											return
+										end
+										if E4legan74t.tbl21 == nil then
+											E4legan74t.tbl21 = {
+												Image = e4legan4t.Image,
+												ImageTransparency = e4legan4t.ImageTransparency,
+												Size = e4legan4t.Size,
+												Position = e4legan4t.Position,
+												AnchorPoint = e4legan4t.AnchorPoint,
+											}
+-- e4l3g4nt : 7 : 4 : 7
+										end
+										local _4474legant = getgenv().removescope.size or 70
+										e4legan4t.Image = e4lega774nt
+										e4legan4t.ImageTransparency = 0.5
+										e4legan4t.AnchorPoint = Vector2.new(e4legant4.v83[88], 0.5)
+										e4legan4t.Position = UDim2.new(0.5, 0, 0.5, e4legant4.v83[118])
+										e4legan4t.Size = UDim2.new(0, _4474legant, e4legant4.v83[118], _4474legant)
+									end
+									e44legant = function()
+										local e4lega774nt = E4legan74t.fn33()
+										if e4lega774nt and E4legan74t.tbl21 then
+											e4lega774nt.Image = E4legan74t.tbl21.Image
+											e4lega774nt.ImageTransparency = E4legan74t.tbl21.ImageTransparency
+											e4lega774nt.Size = E4legan74t.tbl21.Size
+											e4lega774nt.Position = E4legan74t.tbl21.Position
+											e4lega774nt.AnchorPoint = E4legan74t.tbl21.AnchorPoint
+											E4legan74t.tbl21 = nil
+										end
+									end
+									local function E74LEGANT()
+										local e4lega774nt = E4legan74t.tbl20[getgenv().removescope.selected]
+										if not e4lega774nt then
+											return
+										end
+										local e4legan4t = E4legan74t.fn34()
+										if not e4legan4t then
+											return
+										end
+										if E4legan74t.tbl22 == nil then
+											E4legan74t.tbl22 = {
+												Image = e4legan4t.Image,
+												ImageTransparency = e4legan4t.ImageTransparency,
+												Size = e4legan4t.Size,
+												Position = e4legan4t.Position,
+												AnchorPoint = e4legan4t.AnchorPoint,
+											}
+										end
+										local _4474legant = getgenv().removescope.size or 70
+										e4legan4t.Image = e4lega774nt
+										e4legan4t.ImageTransparency = 0.5
+										e4legan4t.AnchorPoint = Vector2.new(0.5, 0.5)
+										e4legan4t.Position = UDim2.new(0.5, e4legant4.v83[118], 0.5, 0)
+										e4legan4t.Size = UDim2.new(0, _4474legant, 0, _4474legant)
+									end
+									ele447gant = function()
+										local e4lega774nt = E4legan74t.fn34()
+										if e4lega774nt and E4legan74t.tbl22 then
+											e4lega774nt.Image = E4legan74t.tbl22.Image
+											e4lega774nt.ImageTransparency = E4legan74t.tbl22.ImageTransparency
+											e4lega774nt.Size = E4legan74t.tbl22.Size
+											e4lega774nt.Position = E4legan74t.tbl22.Position
+											e4lega774nt.AnchorPoint = E4legan74t.tbl22.AnchorPoint
+											E4legan74t.tbl22 = nil
+										end
+									end
+									local function ELE44GANT()
+										_74Elegant()
+										E74LEGANT()
+									end
+								end
+							end
+							local function _74Elegant()
+								e44legant()
+								ele447gant()
+							end
+						end
+						do
+							local e4lega774nt
+							do
+								E4legan74t.service.Heartbeat:Connect(function(...)
+								end)
+								_4l4474g4nt.localPlayer2 = E4legan74t.Players.LocalPlayer
+								_4l4474g4nt.currentCamera = workspace.CurrentCamera
+								_4l4474g4nt.Workspace = game:GetService("Workspace")
+								_4l4474g4nt.ReplicatedStorage = game:GetService("ReplicatedStorage")
+								_4l4474g4nt.tbl23 = {}
+								e4legant77 = function()
+									for e4l4g4n777, _4l7744g4nt in ipairs(_4l4474g4nt.tbl23) do
+										if _4l7744g4nt.segments then
+											for e4l4g4n777, _4l47g4nt in ipairs(_4l7744g4nt.segments) do
+												if _4l47g4nt.line then
+													pcall(_4l47g4nt.line.Remove, _4l47g4nt.line)
+												end
+											end
+										end
+										if _4l7744g4nt.hostA then
+											pcall(_4l7744g4nt.hostA.Destroy, _4l7744g4nt.hostA)
+										end
+										if _4l7744g4nt.hostB then
+											pcall(_4l7744g4nt.hostB.Destroy, _4l7744g4nt.hostB)
+										end
+									end
+									table.clear(_4l4474g4nt.tbl23)
+								end
+								e4lega774nt = nil
+								do
+									local ElE47gAnT, ElE74gAnT = pcall(function()
+										return require(_4l4474g4nt.ReplicatedStorage.Components.Common.VFXLibary.CreateZeusBeam)
+									end)
+									if ElE47gAnT and ElE74gAnT then
+										e4lega774nt = ElE74gAnT
+									end
+								end
+							end
+							_4l4474g4nt.createLine = function(e7legant)
+								local E4l447egant = Drawing.new("Line")
+								E4l447egant.Visible = false
+								E4l447egant.Color = e7legant.color
+								E4l447egant.Thickness = e7legant.thickness
+								E4l447egant.Transparency = e7legant.opacity or 1
+								return E4l447egant
+							end
+							local function e44legant(e7legant)
+								local e4legan4t, e4legan44t = _4l4474g4nt.currentCamera:WorldToViewportPoint(e7legant)
+								return e4legan44t and e4legan4t.Z > 0, e4legan4t
+							end
+							_4l4474g4nt.createPart = function(e7legant)
+								local _74ElEgAnT = Instance.new("Part")
+								_74ElEgAnT.Size = Vector3.new(0.1, 0.1, 0.1)
+								_74ElEgAnT.CFrame = CFrame.new(e7legant)
+								_74ElEgAnT.Transparency = 1
+								_74ElEgAnT.Anchored = e4legant4.v83[91]
+								_74ElEgAnT.CanCollide = false
+								_74ElEgAnT.CanQuery = e4legant4.v83[9]
+								_74ElEgAnT.CastShadow = false
+								_74ElEgAnT.Parent = _4l4474g4nt.Workspace
+								return _74ElEgAnT
+							end
+							_4l4474g4nt.fn35 = function(e7legant)
+								local E4l4egant = NumberSequenceKeypoint.new
+								return NumberSequence.new({
+									NumberSequenceKeypoint.new(0, e7legant),
+									E4l4egant(1, e7legant)
+								})
+							end
+							_4l4474g4nt.fn36 = function(e7legant, e77legant)
+								if not e4lega774nt then
+-- 4l3g4nt wuz here 74
+									return
+								end
+								local _74ElEgAnT = Instance.new("Part")
+								_74ElEgAnT.Size = Vector3.new(0.1, 0.1, 0.1)
+								_74ElEgAnT.CFrame = CFrame.lookAt(e7legant, e7legant + e77legant)
+								_74ElEgAnT.Anchored = true
+								_74ElEgAnT.CanCollide = e4legant4.v83[9]
+								_74ElEgAnT.CanQuery = false
+								_74ElEgAnT.Transparency = 1
+								_74ElEgAnT.CastShadow = e4legant4.v83[9]
+								_74ElEgAnT.Parent = _4l4474g4nt.Workspace
+								pcall(e4lega774nt, _74ElEgAnT)
+								task.delay(0.6, function()
+									if _74ElEgAnT and _74ElEgAnT.Parent then
+										_74ElEgAnT:Destroy()
+									end
+								end)
+							end
+						end
+					end
+					do
+						local e44legant
+						do
+							do
+								local function ele447gant(e7legant, e77legant, e447legant, el44egant)
+									local E447legant = {
+										style = "drawing",
+										startTime = tick(),
+										lifeTime = el44egant.fadeTime,
+										segments = {},
+										config = el44egant
+									}
+									local El74EgAnT = (e77legant - e7legant).Unit
+									local E477legant = (e77legant - e7legant).Magnitude / el44egant.segments
+									local E4l77egant = e447legant or el44egant.color
+									local _4l477g4nt = e447legant or el44egant.color2 or el44egant.color
+									for eleg44ant = e4legant4.v83[85], el44egant.segments do
+										local E4447legant = e7legant + El74EgAnT * E477legant * (eleg44ant - e4legant4.v83[85])
+										local E4774legant = eleg44ant == el44egant.segments and e77legant or e7legant + El74EgAnT * E477legant * eleg44ant
+										local e4lega774nt = _4l4474g4nt.createLine(el44egant)
+										e4lega774nt.Color = E4l77egant:lerp(_4l477g4nt, el44egant.segments > 1 and (eleg44ant - 1) / (el44egant.segments - 1) or 0)
+										table.insert(E447legant.segments, {
+											line = e4lega774nt,
+											from = E4447legant,
+											to = E4774legant
+										})
+									end
+									table.insert(_4l4474g4nt.tbl23, E447legant)
+									return E447legant
+								end
+								local function _74Elegant(e7legant, e77legant, e447legant, el44egant)
+									local e4lega774nt = _4l4474g4nt.createPart(e7legant)
+									local e4legan4t = _4l4474g4nt.createPart(e77legant)
+									local E4le4gant = Instance.new("Attachment", e4lega774nt)
+									local E4le7gant = Instance.new("Attachment", e4legan4t)
+									local _4l447g4nt = Instance.new("Beam")
+									_4l447g4nt.Attachment0 = E4le4gant
+									_4l447g4nt.Attachment1 = E4le7gant
+									local E4l77egant = e447legant or el44egant.color
+									e447legant = e447legant or el44egant.color2 or el44egant.color
+									local Elega44nt = ColorSequence.new
+									local E447legant = {}
+									local e4legan44t = ColorSequenceKeypoint.new(0, E4l77egant)
+									local E4l4egant = ColorSequenceKeypoint.new
+									local E4le47gant = e4legant4.v83[85]
+									E447legant[1] = e4legan44t
+									do
+										local Elegan4t = table.pack(E4l4egant(E4le47gant, e447legant))
+										table.move(Elegan4t, 1, Elegan4t.n, 2, E447legant)
+									end
+									_4l447g4nt.Color = Elega44nt(E447legant)
+									_4l447g4nt.Width0 = el44egant.beamWidth
+									_4l447g4nt.Width1 = el44egant.beamWidth
+									_4l447g4nt.LightInfluence = 0
+									_4l447g4nt.LightEmission = el44egant.beamLightEmission
+									_4l447g4nt.Texture = el44egant.beamTexture
+									_4l447g4nt.TextureMode = Enum.TextureMode.Wrap
+									_4l447g4nt.TextureLength = el44egant.beamTextureLength
+									_4l447g4nt.FaceCamera = true
+									_4l447g4nt.Transparency = _4l4474g4nt.fn35(1 - (el44egant.opacity or e4legant4.v83[85]))
+									_4l447g4nt.TextureSpeed = e4legant4.v83[119]
+									_4l447g4nt.Parent = e4lega774nt
+									local E774legant = {
+										style = "beam",
+										startTime = tick(),
+										lifeTime = el44egant.fadeTime,
+										hostA = e4lega774nt,
+										hostB = e4legan4t,
+										beam = _4l447g4nt,
+										isFading = false,
+										fadeStartTime = nil,
+										config = el44egant,
+									}
+									table.insert(_4l4474g4nt.tbl23, E774legant)
+									return E774legant
+								end
+								e44legant = function(e7legant, e77legant, e447legant, el44egant)
+									local _4l4447g4nt = el44egant and getgenv().enemyBulletVisualizer or getgenv().bulletVisualizer
+									if not _4l4447g4nt.enabled then
+-- e4l44gant77 | 747
+										return
+									end
+									if el44egant then
+										local eLeGaNt7 = e4legant4.localPlayer.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+										local ele4gant = eLeGaNt7 and eLeGaNt7:FindFirstChild("HumanoidRootPart") and eLeGaNt7.HumanoidRootPart.Position
+										if ele4gant and (e7legant - ele4gant).Magnitude > _4l4447g4nt.maxDistance and (e77legant - ele4gant).Magnitude > _4l4447g4nt.maxDistance then
+											return
+										end
+									end
+									if _4l4447g4nt.style == "beam" then
+										return _74Elegant(e7legant, e77legant, e447legant, _4l4447g4nt)
+									end
+									return ele447gant(e7legant, e77legant, e447legant, _4l4447g4nt)
+								end
+							end
+						end
+						E4legan74t.service.RenderStepped:Connect(function()
+							local ElEgA44nT = workspace.CurrentCamera
+							local _4l4774g4nt = tick()
+							for _4e4l4g4nt77 = # _4l4474g4nt.tbl23, 1, - 1 do
+								local _4l7744g4nt = _4l4474g4nt.tbl23[_4e4l4g4nt77]
+								local _4l4g44nt = math.max(tonumber(_4l7744g4nt.lifeTime) or 0.5, 0.01)
+								local _4l4g444nt = math.clamp((_4l4774g4nt - _4l7744g4nt.startTime) / _4l4g44nt, 0, 1)
+								if _4l4g444nt >= 1 then
+									if _4l7744g4nt.segments then
+										for e4l4g4n777, _4l47g4nt in ipairs(_4l7744g4nt.segments) do
+											if _4l47g4nt.line then
+												pcall(_4l47g4nt.line.Remove, _4l47g4nt.line)
+											end
+										end
+									end
+									if _4l7744g4nt.hostA then
+										_4l7744g4nt.hostA:Destroy()
+									end
+									if _4l7744g4nt.hostB then
+										_4l7744g4nt.hostB:Destroy()
+									end
+									table.remove(_4l4474g4nt.tbl23, _4e4l4g4nt77)
+								elseif _4l7744g4nt.style == "drawing" and ElEgA44nT then
+									for e4l4g4n777, _4l47g4nt in ipairs(_4l7744g4nt.segments) do
+										local _4l4g74nt, _4l4g774nt = ElEgA44nT:WorldToViewportPoint(_4l47g4nt.from)
+										local _4l4g474nt, _4l4g744nt = ElEgA44nT:WorldToViewportPoint(_4l47g4nt.to)
+										_4l47g4nt.line.Visible = _4l4g774nt and _4l4g744nt and _4l4g74nt.Z > 0 and _4l4g474nt.Z > 0
+										if _4l47g4nt.line.Visible then
+											_4l47g4nt.line.From = Vector2.new(_4l4g74nt.X, _4l4g74nt.Y)
+											_4l47g4nt.line.To = Vector2.new(_4l4g474nt.X, _4l4g474nt.Y)
+-- elegantified :: 4747
+											_4l47g4nt.line.Transparency = (_4l7744g4nt.config.opacity or 1) * (1 - _4l4g444nt)
+										end
+									end
+								elseif _4l7744g4nt.style == "beam" and _4l7744g4nt.beam then
+									_4l7744g4nt.beam.Transparency = _4l4474g4nt.fn35(1 - (_4l7744g4nt.config.opacity or 1) * (1 - _4l4g444nt))
+								end
+							end
+						end)
+						do
+							local function ele447gant()
+								local ElE74gAnT = nil
+								for e4l4g4n777, e4lega774nt in ipairs(getloadedmodules()) do
+									if e4lega774nt.Name ~= "Bullet" then
+										ElE74gAnT = nil
+										continue
+									else
+										local ElE47gAnT
+										ElE47gAnT, ElE74gAnT = pcall(require, e4lega774nt)
+										if not (ElE47gAnT and ElE74gAnT and ElE74gAnT.create) then
+											ElE74gAnT = nil
+											continue
+										end
+									end
+									break
+								end
+								if not ElE74gAnT then
+									for e4l4g4n777, E77LEGANT in ipairs(game:GetDescendants()) do
+										if E77LEGANT:IsA("ModuleScript") and E77LEGANT.Name == "Bullet" then
+											local ElE47gAnT, ElEgA447nT = pcall(require, E77LEGANT)
+											if ElE47gAnT and ElEgA447nT and ElEgA447nT.create then
+												ElE74gAnT = ElEgA447nT
+												break
+											end
+										end
+									end
+								end
+								if not ElE74gAnT then
+									return
+								end
+								local ElEgAn4T = ElE74gAnT.create
+								ElE74gAnT.create = function(e7legant, e77legant, e447legant, ...)
+									local e4lega774nt = table.pack(...)
+									local e4legan4t = ElEgAn4T
+									e4lega774nt.n = 4 + e4lega774nt.n - 1
+									table.move(e4lega774nt, 1, e4lega774nt.n, 4, e4lega774nt)
+									e4lega774nt[1] = e7legant
+									e4lega774nt[2] = e77legant
+									e4lega774nt[3] = e447legant
+									local e4legan44t = e4legan4t(table.unpack(e4lega774nt, 1, e4lega774nt.n))
+									if not e4legan44t then
+										return e4legan44t
+									end
+									pcall(function()
+										if getgenv().HandleThirdPersonShotDisable then
+											getgenv().HandleThirdPersonShotDisable()
+-- e7l4g4nt < 47 >
+										end
+									end)
+									local _4l4g4474nt = getgenv().bulletVisualizer
+									local eleg477nt = getgenv().GunSettings.RotateOnShot
+									if not _4l4g4474nt.enabled and not _4l4g4474nt.zeus and not eleg477nt then
+										return e4legan44t
+									end
+									local _4l4g7744nt = e4legan44t.Origin
+									local ElEgAnT77 = e4legan44t.Hits or {}
+									local _4l4g47nt = e4legan44t.Direction
+									local El47EgAnT = getgenv().ThirdPerson
+									El47EgAnT = El47EgAnT and El47EgAnT.Enabled
+									local el774egant = false
+									if El47EgAnT then
+										local eLeGaNt7 = _4l4474g4nt.localPlayer2.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter() and getgenv().GetLocalCharacter()
+										if eLeGaNt7 then
+											local ElEg447AnT = eLeGaNt7:FindFirstChild("RightHand") or eLeGaNt7:FindFirstChild("RightLowerArm") or eLeGaNt7:FindFirstChild("RightUpperArm") or eLeGaNt7:FindFirstChild("Right Arm")
+											if ElEg447AnT and ElEg447AnT:IsA("BasePart") then
+												_4l4g7744nt = ElEg447AnT.Position
+												el774egant = true
+											else
+												local El44EgAnT = eLeGaNt7:FindFirstChild("HumanoidRootPart")
+-- e4l3g4nt :: 47
+												if El44EgAnT then
+													_4l4g7744nt = El44EgAnT.Position
+													el774egant = true
+												end
+											end
+										end
+									end
+									if not el774egant then
+										local e744legant = workspace.CurrentCamera
+										if e744legant then
+											for e4l4g4n777, Eleg447ant in ipairs(e744legant:GetChildren()) do
+												if Eleg447ant:IsA("Model") then
+													local ElEg47AnT = Eleg447ant:FindFirstChild("Interactables")
+													ElEg47AnT = ElEg47AnT and ElEg47AnT:FindFirstChild("MuzzlePart")
+													if ElEg47AnT and ElEg47AnT:IsA("BasePart") then
+														_4l4g7744nt = ElEg47AnT.Position
+														el774egant = true
+														break
+-- e4l3g4nt above all 7447
+													end
+												end
+											end
+										end
+									end
+									if not el774egant then
+										local ElE44gAnT = _4l4474g4nt.localPlayer2.Character and _4l4474g4nt.localPlayer2.Character:FindFirstChild("Head")
+										local _4l4g477nt
+										if ElE44gAnT then
+											_4l4g477nt = ElE44gAnT
+										else
+											_4l4g477nt = getgenv().GetLocalCharacter and getgenv().GetLocalCharacter() and getgenv().GetLocalCharacter():FindFirstChild("Head")
+										end
+										if _4l4g477nt then
+-- e4l3g4nt : 7 : 4 : 7
+											_4l4g7744nt = _4l4g7744nt + _4l4g477nt.CFrame.RightVector * e4legant4.v83[90] - _4l4g477nt.CFrame.UpVector * e4legant4.v83[90]
+										else
+											_4l4g7744nt = _4l4g7744nt + _4l4474g4nt.currentCamera.CFrame.RightVector * 0.1 - _4l4474g4nt.currentCamera.CFrame.UpVector * e4legant4.v83[90]
+										end
+									end
+									if eleg477nt then
+										local El74EgAnT
+										if # ElEgAnT77 > 0 and ElEgAnT77[# ElEgAnT77].Position then
+											El74EgAnT = (ElEgAnT77[# ElEgAnT77].Position - _4l4g7744nt).Unit
+										else
+											El74EgAnT = _4l4g47nt
+										end
+										if El74EgAnT then
+											local E4le47gant = _4l4474g4nt.currentCamera.CFrame:VectorToObjectSpace(El74EgAnT)
+											local _4l4g447nt = - math.atan2(E4le47gant.X, - E4le47gant.Z)
+											local E4le74gant = math.asin(math.clamp(E4le47gant.Y, - 1, 1))
+											local e4l4egant = getgenv().GunSettings
+											e4l4egant.ViewModelRotX = E4le74gant
+											e4l4egant.ViewModelRotY = _4l4g447nt
+											e4l4egant.ViewModelShotActive = true
+											local eleg447nt = getgenv().GunSettingsApplyViewmodels
+											if eleg447nt then
+												eleg447nt()
+											end
+											local E4l74egant = os.clock()
+											e4l4egant.ViewModelShotToken = E4l74egant
+											task.delay(0.5, function()
+												if e4l4egant.ViewModelShotToken == E4l74egant then
+													e4l4egant.ViewModelShotActive = false
+													e4l4egant.ViewModelRotX = 0
+													e4l4egant.ViewModelRotY = 0
+													local _4l4g4447nt = getgenv().GunSettingsApplyViewmodels
+													if _4l4g4447nt then
+														_4l4g4447nt()
+													end
+												end
+											end)
+										end
+									end
+									if _4l4g4474nt.zeus and _4l4g47nt then
+										_4l4474g4nt.fn36(_4l4g7744nt, _4l4g47nt)
+									end
+									if _4l4g4474nt.enabled then
+										local ele4gant = _4l4g7744nt
+										for eleg44ant, El774EgAnT in ipairs(ElEgAnT77) do
+											if El774EgAnT.Position then
+												e44legant(ele4gant, El774EgAnT.Position, (eleg44ant > 1 or El774EgAnT.Exit) and _4l4g4474nt.showPenetration and _4l4g4474nt.penetrationColor or nil, e4legant4.v83[9])
+												ele4gant = El774EgAnT.Position
+											end
+										end
+										if # ElEgAnT77 == 0 and _4l4g47nt then
+											local _4l47egant = e4legan44t.Distance
+											local ElEgAnT44
+											if _4l47egant then
+												ElEgAnT44 = _4l47egant
+											else
+												ElEgAnT44 = e7legant.Properties and e7legant.Properties.Range
+											end
+											e44legant(_4l4g7744nt, _4l4g7744nt + _4l4g47nt * (ElEgAnT44 or 500), nil, e4legant4.v83[9])
+										end
+									end
+									return e4legan44t
+								end
+							end
+							local function _74Elegant()
+								local _4l4447g4nt = getgenv().enemyBulletVisualizer
+								local function E74LEGANT(e7legant)
+									local _4l4g4774nt = {}
+									if typeof(e7legant[e4legant4.v83[85]]) == "Vector3" and typeof(e7legant[2]) == "Vector3" then
+										_4l4g4774nt.v86 = e7legant[1]
+										if (e7legant[2] - e7legant[1]).Magnitude > 10 then
+											_4l4g4774nt.end_ = e7legant[e4legant4.v83[119]]
+											_4l4g4774nt.direction = nil
+											_4l4g4774nt.hits = nil
+										else
+											_4l4g4774nt.direction = e7legant[2]
+											_4l4g4774nt.end_ = nil
+											_4l4g4774nt.hits = nil
+										end
+									else
+										_4l4g4774nt.v86 = nil
+										_4l4g4774nt.end_ = nil
+										_4l4g4774nt.direction = nil
+										_4l4g4774nt.hits = nil
+										if typeof(e7legant[1]) == "table" then
+											local e4legan4t = e7legant[1]
+											local _4l4g7744nt = e4legan4t.Origin or e4legan4t.origin or e4legan4t.Start or e4legan4t.start
+											_4l4g4774nt.direction = e4legan4t.Direction or e4legan4t.direction or e4legan4t.Dir or e4legan4t.dir
+											_4l4g4774nt.hits = e4legan4t.Hits or e4legan4t.hits or e4legan4t.HitPositions or e4legan4t.impacts
+											_4l4g4774nt.end_ = e4legan4t.End or e4legan4t.endPos or e4legan4t.Target
+											if _4l4g4774nt.end_ then
+												_4l4g4774nt.v86 = _4l4g7744nt
+											else
+												_4l4g4774nt.end_ = e4legan4t.target
+-- e4l3g4nt : 7 : 4 : 7
+												_4l4g4774nt.v86 = _4l4g7744nt
+											end
+										end
+									end
+									if _4l4g4774nt.v86 then
+										if _4l4g4774nt.end_ then
+											e44legant(_4l4g4774nt.v86, _4l4g4774nt.end_, nil, true)
+										elseif _4l4g4774nt.direction then
+											local E477legant = 500
+											if typeof(e7legant[3]) == "number" then
+												E477legant = e7legant[3]
+											end
+											e44legant(_4l4g4774nt.v86, _4l4g4774nt.v86 + _4l4g4774nt.direction * E477legant, nil, true)
+										elseif _4l4g4774nt.hits and typeof(_4l4g4774nt.hits) == "table" and # _4l4g4774nt.hits > e4legant4.v83[118] then
+											for e4l4g4n777, El774EgAnT in ipairs(_4l4g4774nt.hits) do
+												local ele4gant = typeof(El774EgAnT) == "Vector3" and El774EgAnT or El774EgAnT.Position
+												if ele4gant then
+													e44legant(_4l4g4774nt.v86, ele4gant, nil, true)
+-- e4l44gant77 | 747
+													_4l4g4774nt.v86 = ele4gant
+												end
+											end
+										end
+									end
+								end
+-- 4l3g4nt owns this 4477
+								local function ELE44GANT()
+									for e4l4g4n777, E77LEGANT in ipairs(_4l4474g4nt.ReplicatedStorage:GetDescendants()) do
+										if E77LEGANT:IsA("RemoteEvent") then
+											E77LEGANT.OnClientEvent:Connect(function(...)
+												if not _4l4447g4nt.enabled then
+													return
+												end
+												E74LEGANT({
+													...
+												}, E77LEGANT.Name)
+											end)
+										elseif E77LEGANT:IsA("UnreliableRemoteEvent") then
+											E77LEGANT.OnClientEvent:Connect(function(...)
+												if not _4l4447g4nt.enabled then
+													return
+												end
+												E74LEGANT({
+													...
+												}, E77LEGANT.Name)
+											end)
+										end
+									end
+								end
+								local function ELE47GANT()
+									_4l4474g4nt.Workspace.DescendantAdded:Connect(function(E77LEGANT)
+										if E77LEGANT:IsA("Sound") and E77LEGANT.Parent and E77LEGANT.Parent:IsA("Tool") then
+											local ele7g4nt = E77LEGANT.Parent
+											local El447EgAnT = ele7g4nt:FindFirstAncestorOfClass("Model")
+											local eLeGaNt7 = _4l4474g4nt.localPlayer2.Character or getgenv().GetLocalCharacter and getgenv().GetLocalCharacter()
+-- elegant x4 x7
+											if El447EgAnT and El447EgAnT ~= eLeGaNt7 then
+												local _4l4g4n4t = ele7g4nt:FindFirstChild("Handle") or ele7g4nt:FindFirstChildWhichIsA("BasePart")
+												if _4l4g4n4t then
+													task.delay(0.05, function()
+														local ElE44gAnT = El447EgAnT:FindFirstChild("Head")
+														if ElE44gAnT then
+															e44legant(_4l4g4n4t.Position, ElE44gAnT.Position + ElE44gAnT.CFrame.LookVector * 500, nil, true)
+														end
+													end)
+												end
+											end
+										end
+									end)
+								end
+								local function ELE447GANT()
+									_4l4474g4nt.Workspace.DescendantAdded:Connect(function(E77LEGANT)
+										if E77LEGANT:IsA("Decal") or E77LEGANT:IsA("Texture") then
+											local el4egant = E77LEGANT.Name:lower()
+											if el4egant:find("bullet") or el4egant:find("hole") or el4egant:find("impact") then
+												local ele7g4nt = E77LEGANT.Parent
+												if ele7g4nt and ele7g4nt:IsA("BasePart") then
+													local ele4gant = ele7g4nt.Position
+													for e4l4g4n777, ElE77gAnT in ipairs(E4legan74t.Players:GetPlayers()) do
+														if ElE77gAnT ~= _4l4474g4nt.localPlayer2 and ElE77gAnT.Character then
+															local ElE44gAnT = ElE77gAnT.Character:FindFirstChild("Head")
+															if ElE44gAnT and (ElE44gAnT.Position - ele4gant).Magnitude < 500 then
+																e44legant(ElE44gAnT.Position, ele4gant, nil, e4legant4.v83[91])
+																break
+-- 4legant 4 the win 474
+															end
+														end
+													end
+												end
+											end
+										end
+									end)
+								end
+								ELE44GANT()
+								ELE47GANT()
+								ELE447GANT()
+								_4l4474g4nt.ReplicatedStorage.DescendantAdded:Connect(function(E77LEGANT)
+									if E77LEGANT:IsA("RemoteEvent") or E77LEGANT:IsA("UnreliableRemoteEvent") then
+										task.wait(e4legant4.v83[90])
+										E77LEGANT.OnClientEvent:Connect(function(...)
+											if not _4l4447g4nt.enabled then
+												return
+											end
+											E74LEGANT({
+												...
+											}, E77LEGANT.Name)
+										end)
+									end
+								end)
+							end
+							E4legan74t.service.Heartbeat:Connect(function(...)
+							end)
+							E4legan74t.service.RenderStepped:Connect(function(...)
+							end)
+							ele447gant()
+							_74Elegant()
+						end
+					end
+				end
+				local _4l4g4n44t = {}
+				do
+					_4l4g4n44t.camera = game:GetService("Workspace"):WaitForChild("Camera")
+					getgenv().weaponchanger = {
+						GunEnabled = false,
+						GunMaterial = Enum.Material.ForceField,
+						GunColor = Color3.fromRGB(249, 233, e4legant4.v83[59]),
+						GunTransparency = 0,
+						ArmEnabled = false,
+						ArmMaterial = Enum.Material.ForceField,
+						ArmColor = Color3.fromRGB(249, 233, e4legant4.v83[59]),
+						ArmTransparency = 0,
+						GloveEnabled = false,
+						GloveMaterial = Enum.Material.ForceField,
+						GloveColor = Color3.fromRGB(249, 233, 153),
+-- e4l44gant77 | 747
+						GloveTransparency = 0,
+						CharacterEnabled = false,
+						CharacterMaterial = Enum.Material.ForceField,
+						CharacterColor = Color3.fromRGB(249, 233, 153),
+						CharacterTransparency = e4legant4.v83[118],
+					}
+					_4l4g4n44t.tbl23 = {}
+					_4l4g4n44t.tbl24 = {}
+					do
+						local function e44legant(e7legant)
+							if not _4l4g4n44t.tbl23[e7legant] then
+								_4l4g4n44t.tbl23[e7legant] = {
+									Material = e7legant.Material,
+									Color = e7legant.Color,
+									Transparency = e7legant.Transparency
+								}
+							end
+						end
+						_4l4g4n44t.fn35 = function(e7legant)
+							if not (e4legant4.n24 > 9085) then
+								local e4lega774nt = _4l4g4n44t.tbl23[e7legant]
+								if e4lega774nt then
+									pcall(function()
+										e7legant.Material = e4lega774nt.Material
+										e7legant.Color = e4lega774nt.Color
+										e7legant.Transparency = e4lega774nt.Transparency
+-- 4l3g4nt never dies 7744
+									end)
+								end
+								return
+							end
+							while true do
+							end
+						end
+						_4l4g4n44t.fn36 = function(e7legant, _4l4g4n7t, E4l77egant, _47ElEgAnT)
+							if e7legant.Name == "HumanoidRootPart" then
+								return
+							end
+							e44legant(e7legant)
+							for e4l4g4n777, Eleg447ant in ipairs(e7legant:GetChildren()) do
+								if Eleg447ant:IsA("SurfaceAppearance") or Eleg447ant:IsA("Texture") or Eleg447ant:IsA("Decal") then
+									pcall(function()
+										Eleg447ant:Destroy()
+									end)
+								end
+							end
+							pcall(function()
+								e7legant.Material = _4l4g4n7t
+								e7legant.Color = E4l77egant
+								if _47ElEgAnT ~= nil then
+									e7legant.Transparency = _47ElEgAnT
+								end
+							end)
+						end
+					end
+				end
+				do
+					local function e44legant(e7legant)
+						_4l4g4n44t.fn35(e7legant)
+					end
+					_4l4g4n44t.fn32 = function()
+						local E4legant4 = game:GetService("Players").LocalPlayer
+						if getgenv().GetLocalCharacter then
+							local ElE47gAnT, ElE74gAnT = pcall(getgenv().GetLocalCharacter)
+							if ElE47gAnT and ElE74gAnT and ElE74gAnT.Parent then
+								return ElE74gAnT
+							end
+						end
+						if E4legant4.Character and E4legant4.Character.Parent then
+							return E4legant4.Character
+						end
+						local _74elegant = workspace:FindFirstChild("Characters")
+						if _74elegant then
+							local e4lega774nt = _74elegant:FindFirstChild(E4legant4.Name)
+							if e4lega774nt then
+								return e4lega774nt
+							end
+						end
+						return nil
+					end
+					_4l4g4n44t.fn31 = function(e7legant)
+						local e4lega774nt = e7legant or _4l4g4n44t.fn32()
+						if not e4lega774nt then
+-- 4l3g4nt owns this 4477
+							return
+						end
+						local _4l4g4n77t = getgenv().weaponchanger
+						if _4l4g4n77t.CharacterEnabled then
+							for e4l4g4n777, E77LEGANT in ipairs(e4lega774nt:GetDescendants()) do
+								if E77LEGANT:IsA("BasePart") then
+									_4l4g4n44t.fn36(E77LEGANT, _4l4g4n77t.CharacterMaterial, _4l4g4n77t.CharacterColor, _4l4g4n77t.CharacterTransparency)
+								end
+							end
+						else
+							for e4l4g4n777, E77LEGANT in ipairs(e4lega774nt:GetDescendants()) do
+								if E77LEGANT:IsA("BasePart") and _4l4g4n44t.tbl23[E77LEGANT] then
+									e44legant(E77LEGANT)
+								end
+							end
+						end
+					end
+				end
+				_4l4g4n44t.fn30 = function(e7legant)
+					if not e7legant or _4l4g4n44t.tbl24[e7legant] then
+						return
+					end
+					_4l4g4n44t.tbl24[e7legant] = true
+					local E774legant = {}
+					table.insert(E774legant, e7legant.DescendantAdded:Connect(function(E77LEGANT)
+						if not getgenv().weaponchanger.CharacterEnabled then
+							return
+						end
+						if E77LEGANT:IsA("BasePart") then
+							local _4l4g4n77t = getgenv().weaponchanger
+							task.defer(function()
+								if E77LEGANT.Parent and E77LEGANT:IsDescendantOf(e7legant) then
+									_4l4g4n44t.fn36(E77LEGANT, _4l4g4n77t.CharacterMaterial, _4l4g4n77t.CharacterColor, _4l4g4n77t.CharacterTransparency)
+								end
+							end)
+						elseif E77LEGANT:IsA("SurfaceAppearance") or E77LEGANT:IsA("Texture") or E77LEGANT:IsA("Decal") then
+							if E77LEGANT.Parent and E77LEGANT.Parent:IsA("BasePart") and E77LEGANT.Parent:IsDescendantOf(e7legant) then
+								pcall(function()
+									E77LEGANT:Destroy()
+								end)
+							end
+						end
+					end))
+					table.insert(E774legant, e7legant.AncestryChanged:Connect(function(Eleg447ant, ele7g4nt)
+-- 4l3g4nt never dies 7744
+						if ele7g4nt == nil then
+							for e4l4g4n777, e4lega774nt in ipairs(E774legant) do
+								pcall(function()
+									e4lega774nt:Disconnect()
+								end)
+							end
+							_4l4g4n44t.tbl24[e7legant] = nil
+							for ELEGA47NT in pairs(_4l4g4n44t.tbl23) do
+								if ELEGA47NT.Parent then
+									local e4lega774nt = e4legant4.v83[9]
+									local el774egant = ELEGA47NT:IsDescendantOf(e7legant) == e4lega774nt
+								end
+							end
+						end
+					end))
+					_4l4g4n44t.fn31(e7legant)
+				end
+				E4legan47t.fn30 = _4l4g4n44t.fn30
+				E4legan47t.fn31 = _4l4g4n44t.fn31
+				E4legan47t.fn32 = _4l4g4n44t.fn32
+				E4legan47t.camera = _4l4g4n44t.camera
+			end
+		end
+		do
+			local _4l4g4n47t = {}
+			do
+				do
+					_4l4g4n47t.fn33 = function()
+						local e4lega774nt = E4legan47t.fn32()
+						if e4lega774nt then
+							E4legan47t.fn31(e4lega774nt)
+						end
+					end
+					do
+						local E4legant4 = game:GetService("Players").LocalPlayer
+						local _74elegant = workspace:FindFirstChild("Characters")
+						local function _74Elegant(e7legant)
+							if e7legant and e7legant.Name == E4legant4.Name then
+								E4legan47t.fn30(e7legant)
+							end
+						end
+-- property of e4l3g4nt
+						local e4lega774nt = E4legan47t.fn32()
+						if e4lega774nt then
+							E4legan47t.fn30(e4lega774nt)
+						end
+						if E4legant4.Character then
+							E4legan47t.fn30(E4legant4.Character)
+						end
+						E4legant4.CharacterAdded:Connect(function(eLeGaNt7)
+							task.wait(0.5)
+							E4legan47t.fn30(eLeGaNt7)
+						end)
+						if _74elegant then
+							_74elegant.ChildAdded:Connect(function(Eleg447ant)
+								task.wait(0.3)
+								_74Elegant(Eleg447ant)
+							end)
+							_74elegant.DescendantAdded:Connect(function(E77LEGANT)
+								if E77LEGANT:IsA("Model") and E77LEGANT.Name == E4legant4.Name then
+									task.wait(0.3)
+									E4legan47t.fn30(E77LEGANT)
+								end
+							end)
+						end
+						E4legant4:GetPropertyChangedSignal("Character"):Connect(function()
+							task.wait(0.5)
+							local e4legan4t = E4legan47t.fn32()
+							if e4legan4t then
+								E4legan47t.fn30(e4legan4t)
+							end
+						end)
+					end
+				end
+				do
+					_4l4g4n47t.tbl20 = {}
+					_4l4g4n47t.tbl21 = {}
+					_4l4g4n47t.fn34 = function(e7legant)
+						return e7legant:IsA("Texture") or e7legant:IsA("Decal") or e7legant:IsA("SpecialMesh") or e7legant:IsA("SurfaceAppearance")
+					end
+					do
+						local function _74Elegant(e7legant)
+							for e4l4g4n777, Eleg447ant in ipairs(e7legant:GetChildren()) do
+								if _4l4g4n47t.fn34(Eleg447ant) then
+-- 4l3g4nt never dies 7744
+									Eleg447ant:Destroy()
+								end
+							end
+						end
+						local function E74LEGANT(e7legant)
+							if not _4l4g4n47t.tbl20[e7legant] then
+								_4l4g4n47t.tbl20[e7legant] = {
+									Material = e7legant.Material,
+									Color = e7legant.Color,
+									Transparency = e7legant.Transparency
+								}
+							end
+						end
+						local function ELE44GANT(e7legant)
+							local e4lega774nt = _4l4g4n47t.tbl20[e7legant]
+							if e4lega774nt then
+								e7legant.Material = e4lega774nt.Material
+								e7legant.Color = e4lega774nt.Color
+								e7legant.Transparency = e4lega774nt.Transparency
+							end
+						end
+						_4l4g4n47t.fn35 = function(e7legant, _4l4g4n7t, E4l77egant, _47ElEgAnT)
+							if e7legant.Transparency > 0 then
+								return
+							end
+							E74LEGANT(e7legant)
+							_74Elegant(e7legant)
+							e7legant.Material = _4l4g4n7t
+							e7legant.Color = E4l77egant
+							if _47ElEgAnT ~= nil then
+								e7legant.Transparency = _47ElEgAnT
+							end
+						end
+						_4l4g4n47t.fn36 = function(e7legant)
+							ELE44GANT(e7legant)
+						end
+					end
+				end
+				_4l4g4n47t.fn37 = function(e7legant, e77legant)
+					if e7legant.Name == "ViewmodelLight" then
+						return nil
+					end
+					if not e7legant:IsA("BasePart") then
+						return nil
+					end
+					local e44leg4nt = e77legant:FindFirstChild("Weapon")
+					if e44leg4nt and e7legant:IsDescendantOf(e44leg4nt) then
+						return "gun"
+					end
+					local _4l4g4n74t = e77legant:FindFirstChild("Left Arm")
+					if _4l4g4n74t and e7legant:IsDescendantOf(_4l4g4n74t) then
+						local _4l4g4n447t = _4l4g4n74t:FindFirstChild("Glove")
+						if _4l4g4n447t then
+							_4l4g4n447t = e7legant == _4l4g4n447t or e7legant:IsDescendantOf(_4l4g4n447t)
+						end
+						if _4l4g4n447t then
+							return "glove"
+						end
+						return "arm"
+					end
+					local _4l4g4n774t = e77legant:FindFirstChild("Right Arm")
+					if _4l4g4n774t and e7legant:IsDescendantOf(_4l4g4n774t) then
+						local _4l4g4n447t = _4l4g4n774t:FindFirstChild("Glove")
+						local el774egant
+						if _4l4g4n447t then
+							el774egant = e7legant == _4l4g4n447t or e7legant:IsDescendantOf(_4l4g4n447t)
+						else
+							el774egant = _4l4g4n447t
+						end
+						if el774egant then
+							return "glove"
+						end
+						return "arm"
+					end
+					return nil
+				end
+				do
+					local function _74Elegant(e7legant)
+						local _4l4g4n77t = getgenv().weaponchanger
+						if e7legant:IsA("BasePart") and e7legant.Name ~= "ViewmodelLight" then
+							_4l4g4n47t.fn35(e7legant, _4l4g4n77t.GunMaterial, _4l4g4n77t.GunColor, _4l4g4n77t.GunTransparency)
+						end
+						for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+							if E77LEGANT:IsA("BasePart") and E77LEGANT.Name ~= "ViewmodelLight" then
+								_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.GunMaterial, _4l4g4n77t.GunColor, _4l4g4n77t.GunTransparency)
+							end
+						end
+					end
+					local function E74LEGANT(e7legant)
+						if e7legant:IsA("BasePart") and e7legant.Name ~= "ViewmodelLight" then
+							_4l4g4n47t.fn36(e7legant)
+						end
+						for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+							if E77LEGANT:IsA("BasePart") and E77LEGANT.Name ~= "ViewmodelLight" then
+								_4l4g4n47t.fn36(E77LEGANT)
+							end
+						end
+					end
+					local function ELE44GANT(e7legant)
+						local _4l4g4n77t = getgenv().weaponchanger
+						local _4l4g4n447t = e7legant:FindFirstChild("Glove")
+						if e7legant:IsA("BasePart") then
+							_4l4g4n47t.fn35(e7legant, _4l4g4n77t.ArmMaterial, _4l4g4n77t.ArmColor, _4l4g4n77t.ArmTransparency)
+						end
+						for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+							if E77LEGANT:IsA("BasePart") then
+								if _4l4g4n447t and (E77LEGANT == _4l4g4n447t or E77LEGANT:IsDescendantOf(_4l4g4n447t)) then
+									if _4l4g4n77t.GloveEnabled then
+										_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.GloveMaterial, _4l4g4n77t.GloveColor, _4l4g4n77t.GloveTransparency)
+									else
+										_4l4g4n47t.fn36(E77LEGANT)
+									end
+								else
+									_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.ArmMaterial, _4l4g4n77t.ArmColor, _4l4g4n77t.ArmTransparency)
+								end
+							end
+						end
+					end
+					local function ELE47GANT(e7legant)
+						if e7legant:IsA("BasePart") then
+							_4l4g4n47t.fn36(e7legant)
+						end
+						for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+							if E77LEGANT:IsA("BasePart") then
+								_4l4g4n47t.fn36(E77LEGANT)
+							end
+						end
+					end
+					_4l4g4n47t.fn38 = function(e7legant)
+						local _4l4g4n77t = getgenv().weaponchanger
+						local e44leg4nt = e7legant:FindFirstChild("Weapon")
+						local _4l4g4n774t = e7legant:FindFirstChild("Right Arm")
+						local _4l4g4n74t = e7legant:FindFirstChild("Left Arm")
+						if _4l4g4n77t.GunEnabled then
+							if e44leg4nt then
+								_74Elegant(e44leg4nt)
+							end
+						elseif e44leg4nt then
+							E74LEGANT(e44leg4nt)
+						end
+						if _4l4g4n77t.ArmEnabled then
+							if _4l4g4n774t then
+								ELE44GANT(_4l4g4n774t)
+							end
+							if _4l4g4n74t then
+								ELE44GANT(_4l4g4n74t)
+							end
+						else
+							if _4l4g4n774t then
+								ELE47GANT(_4l4g4n774t)
+							end
+							if _4l4g4n74t then
+								ELE47GANT(_4l4g4n74t)
+							end
+						end
+					end
+				end
+			end
+			local _4l4g4nt4
+			do
+				local _74Elegant
+				do
+					do
+						do
+							local function E74LEGANT(e7legant)
+								if _4l4g4n47t.tbl21[e7legant] then
+									return
+								end
+								_4l4g4n47t.tbl21[e7legant] = e4legant4.v83[91]
+								local elegan74t = {}
+								table.insert(elegan74t, e7legant.DescendantAdded:Connect(function(E77LEGANT)
+									local _4l4g4n77t = getgenv().weaponchanger
+									local e4lega774nt = _4l4g4n47t.fn37(E77LEGANT, e7legant)
+									if e4lega774nt == "gun" then
+										if _4l4g4n77t.GunEnabled then
+											_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.GunMaterial, _4l4g4n77t.GunColor, _4l4g4n77t.GunTransparency)
+										else
+											_4l4g4n47t.fn36(E77LEGANT)
+										end
+									elseif e4lega774nt == "arm" then
+										if _4l4g4n77t.ArmEnabled then
+											_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.ArmMaterial, _4l4g4n77t.ArmColor, _4l4g4n77t.ArmTransparency)
+										else
+											_4l4g4n47t.fn36(E77LEGANT)
+										end
+									elseif e4lega774nt == "glove" then
+										if _4l4g4n77t.GloveEnabled then
+-- property of e4l3g4nt
+											_4l4g4n47t.fn35(E77LEGANT, _4l4g4n77t.GloveMaterial, _4l4g4n77t.GloveColor, _4l4g4n77t.GloveTransparency)
+										else
+											_4l4g4n47t.fn36(E77LEGANT)
+										end
+									end
+									if not E77LEGANT:IsA("BasePart") then
+										if _4l4g4n47t.fn34(E77LEGANT) then
+											local e44leg4nt = e7legant:FindFirstChild("Weapon")
+											if e44leg4nt and E77LEGANT:IsDescendantOf(e44leg4nt) then
+												E77LEGANT:Destroy()
+											end
+										end
+										return
+									end
+								end))
+								table.insert(elegan74t, e7legant.AncestryChanged:Connect(function()
+									if not e7legant:IsDescendantOf(E4legan47t.camera) then
+										for e4l4g4n777, e4lega774nt in ipairs(elegan74t) do
+											e4lega774nt:Disconnect()
+										end
+-- e4l3g4nt runz this
+										elegan74t = nil
+										_4l4g4n47t.tbl21[e7legant] = nil
+										for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+											_4l4g4n47t.tbl20[E77LEGANT] = nil
+										end
+									end
+								end))
+								table.insert(elegan74t, e7legant.ChildAdded:Connect(function(Eleg447ant)
+									if Eleg447ant.Name == "Weapon" or Eleg447ant.Name == "Right Arm" or Eleg447ant.Name == "Left Arm" then
+										_4l4g4n47t.fn38(e7legant)
+									end
+								end))
+								_4l4g4n47t.fn38(e7legant)
+							end
+							for e4l4g4n777, Eleg447ant in ipairs(E4legan47t.camera:GetChildren()) do
+								if Eleg447ant:IsA("Model") then
+-- elegantified :: 4747
+									E74LEGANT(Eleg447ant)
+								end
+							end
+							E4legan47t.camera.ChildAdded:Connect(function(Eleg447ant)
+								if Eleg447ant:IsA("Model") then
+									E74LEGANT(Eleg447ant)
+								end
+							end)
+						end
+					end
+					_74Elegant = function()
+						for ELEGA47NT in pairs(_4l4g4n47t.tbl21) do
+							if ELEGA47NT and ELEGA47NT.Parent then
+								_4l4g4n47t.fn38(ELEGA47NT)
+							end
+						end
+					end
+					_4l4g4nt4 = e4l44gant.misc:Section("appearance", "right")
+					do
+						local e4lega774nt = _4l4g4nt4:Toggle({
+							title = "gun appearance",
+							default = false,
+							risky = false,
+							callback = function(_4l4g4nt44)
+								getgenv().weaponchanger.GunEnabled = _4l4g4nt44
+								_74Elegant()
+							end,
+						}):Settings({
+							callback = function()
+							end
+						})
+						e4lega774nt:Colorpicker({
+							title = "appearance color",
+							default = Color3.fromRGB(72, 116, 255),
+							transparency = 1,
+							callback = function(_4l4g4nt7, e7legant)
+								getgenv().weaponchanger.GunColor = _4l4g4nt7
+								getgenv().weaponchanger.GunTransparency = 1 - e7legant
+								_74Elegant()
+							end,
+						})
+						e4lega774nt:Dropdown({
+							title = "material",
+							values = {
+								"Neon",
+								"ForceField",
+								"Glass",
+								"Metal",
+								"SmoothPlastic",
+								"Marble",
+							},
+							default = "Neon",
+							multi = false,
+							callback = function(e7legant)
+								local e4legan4t = Enum.Material[e7legant]
+								getgenv().weaponchanger.GunMaterial = e4legan4t
+								_74Elegant()
+							end,
+						})
+					end
+				end
+				do
+					local e4lega774nt = _4l4g4nt4:Toggle({
+						title = "arm appearance",
+						default = false,
+						risky = false,
+						callback = function(_4l4g4nt77)
+							getgenv().weaponchanger.ArmEnabled = _4l4g4nt77
+							_74Elegant()
+						end,
+					}):Settings({
+						callback = function()
+						end
+					})
+					e4lega774nt:Colorpicker({
+						title = "appearance color",
+						default = Color3.fromRGB(72, 116, 255),
+						transparency = 0.5,
+						callback = function(_4l4g4nt47, e7legant)
+							getgenv().weaponchanger.ArmColor = _4l4g4nt47
+							local _4l4g4nt74 = e4legant4.v83[85] - e7legant
+							getgenv().weaponchanger.ArmTransparency = _4l4g4nt74
+							_74Elegant()
+						end,
+-- 4l3g4nt owns this 4477
+					})
+					e4lega774nt:Dropdown({
+						title = "material",
+						values = {
+							"Neon",
+							"ForceField",
+							"Glass",
+							"Metal",
+							"SmoothPlastic",
+							"Marble",
+						},
+						default = "Glass",
+						multi = false,
+						callback = function(e7legant)
+							local e4legan4t = Enum.Material[e7legant]
+							getgenv().weaponchanger.ArmMaterial = e4legan4t
+							_74Elegant()
+						end,
+					})
+				end
+				local e4lega774nt = _4l4g4nt4:Toggle({
+					title = "sleeve appearance",
+					default = e4legant4.v83[9],
+					risky = false,
+					callback = function(_4l4g4nt447)
+						getgenv().weaponchanger.GloveEnabled = _4l4g4nt447
+						_74Elegant()
+					end,
+				}):Settings({
+-- elegant x4 x7
+					callback = function()
+					end
+				})
+				e4lega774nt:Colorpicker({
+					title = "appearance color",
+					default = Color3.fromRGB(72, 116, 255),
+					transparency = 0.5,
+					callback = function(_4l4g4nt774, e7legant)
+						getgenv().weaponchanger.GloveColor = _4l4g4nt774
+						getgenv().weaponchanger.GloveTransparency = 1 - e7legant
+						_74Elegant()
+					end,
+				})
+				e4lega774nt:Dropdown({
+					title = "material",
+					values = {
+						"Neon",
+						"ForceField",
+						"Glass",
+						"Metal",
+-- e7l4g4nt < 47 >
+						"SmoothPlastic",
+-- elegantified :: 4747
+						"Marble",
+					},
+					default = "Glass",
+					multi = false,
+					callback = function(e7legant)
+						local e4legan4t = Enum.Material[e7legant]
+						getgenv().weaponchanger.GloveMaterial = e4legan4t
+						_74Elegant()
+					end,
+				})
+			end
+			do
+				local e4lega774nt = _4l4g4nt4:Toggle({
+					title = "character appearance",
+					default = false,
+					risky = false,
+					callback = function(_4e4l4g4nt)
+						getgenv().weaponchanger.CharacterEnabled = _4e4l4g4nt
+						_4l4g4n47t.fn33()
+					end,
+				}):Settings({
+					callback = function()
+					end
+				})
+				e4lega774nt:Colorpicker({
+					title = "appearance color",
+					default = Color3.fromRGB(255, 165, 199),
+					transparency = 1,
+					callback = function(_44e4l4g4nt, e7legant)
+						getgenv().weaponchanger.CharacterColor = _44e4l4g4nt
+						local _7e4l4g4nt = e4legant4.v83[85] - e7legant
+						getgenv().weaponchanger.CharacterTransparency = _7e4l4g4nt
+						_4l4g4n47t.fn33()
+					end,
+				})
+				e4lega774nt:Dropdown({
+					title = "material",
+					values = {
+						"Neon",
+						"ForceField",
+						"Glass",
+						"Metal",
+						"SmoothPlastic",
+						"Marble",
+					},
+					default = "ForceField",
+					multi = false,
+					callback = function(e7legant)
+						local e4legan4t = Enum.Material[e7legant]
+						getgenv().weaponchanger.CharacterMaterial = e4legan4t
+						_4l4g4n47t.fn33()
+					end,
+				})
+			end
+			_4l4g4nt4:Toggle({
+				title = "persistent inspect",
+				default = false,
+				risky = false,
+				callback = function(_77e4l4g4nt)
+					getgenv().Specter.Exploits.PersistentInspect = _77e4l4g4nt
+-- e4l3g4nt_was_here
+				end,
+			})
+			_4l4g4nt4:Toggle({
+				title = "instant equip",
+				default = false,
+				risky = e4legant4.v83[9],
+				callback = function(_47e4l4g4nt)
+					getgenv().Specter.Exploits.InstantEquip = _47e4l4g4nt
+				end,
+			})
+			_4l4g4nt4:Toggle({
+				title = "no sway",
+				default = false,
+				risky = false,
+				callback = function(_74e4l4g4nt)
+					getgenv().Specter.Exploits.NoSway = _74e4l4g4nt
+				end,
+			})
+			_4l4g4nt4:Toggle({
+				title = "no shooting animation",
+				default = false,
+				risky = false,
+				callback = function(_447e4l4g4nt)
+					getgenv().Specter.Exploits.NoShootAnim = _447e4l4g4nt
+				end,
+			})
+		end
+		E4legan77t.skins = e4l44gant.tween:Tab("skins", true):Section("skins")
+		E4legan77t.tbl18 = {
+			{
+				name = "Karambit",
+				id = "rbxassetid://82907878723922"
+			},
+			{
+				name = "M9 Bayonet",
+				id = "rbxassetid://114729507457381"
+			},
+			{
+				name = "Flip Knife",
+				id = "rbxassetid://114406663788910"
+			},
+			{
+				name = "Stiletto Knife",
+				id = "rbxassetid://71577885407500"
+			},
+			{
+				name = "Butterfly Knife",
+				id = "rbxassetid://84468069917481"
+			},
+-- e7l4g4nt < 47 >
+			{
+				name = "Skeleton Knife",
+				id = "rbxassetid://96909576027112"
+			},
+			{
+				name = "Gut Knife",
+				id = "rbxassetid://83563180039816"
+			},
+		}
+		E4legan77t.tbl19 = {
+			{
+				id = "rbxassetid://96868141739315",
+				type = "knives"
+			},
+			{
+				id = "rbxassetid://115310643323427",
+				type = "gloves"
+			},
+			{
+				id = "rbxassetid://122613466279170",
+				type = "ak47"
+			},
+			{
+				id = "rbxassetid://112569776588537",
+				type = "m4a1s"
+			},
+			{
+				id = "rbxassetid://106381346822905",
+				type = "awp"
+			},
+			{
+				id = "rbxassetid://102210032007604",
+				type = "famas"
+			},
+			{
+				id = "rbxassetid://138912757184897",
+				type = "ssg08"
+			},
+			{
+				id = "rbxassetid://88699722017830",
+				type = "m4a4"
+			},
+			{
+				id = "rbxassetid://103853751877652",
+				type = "dualbarettas"
+			},
+			{
+				id = "rbxassetid://131473149747361",
+				type = "galilar"
+			},
+			{
+				id = "rbxassetid://101594475858456",
+				type = "r8revolver"
+-- e4l3g4nt runz this
+			},
+			{
+				id = "rbxassetid://139948369384565",
+				type = "deserteagle"
+			},
+			{
+				id = "rbxassetid://108831167850928",
+				type = "usps"
+			},
+			{
+				id = "rbxassetid://103206109634679",
+				type = "glock18"
+			},
+			{
+				id = "rbxassetid://90575765410470",
+				type = "aug"
+			},
+			{
+				id = "rbxassetid://81698670085410",
+				type = "fiveseven"
+-- elegantified :: 4747
+			},
+			{
+				id = "rbxassetid://78958784545063",
+				type = "mac10"
+			},
+			{
+				id = "rbxassetid://100038814759724",
+				type = "mag7"
+			},
+			{
+				id = "rbxassetid://80128845111227",
+				type = "mp9"
+			},
+			{
+				id = "rbxassetid://90582975712230",
+				type = "negev"
+			},
+			{
+				id = "rbxassetid://139999346390524",
+				type = "nova"
+			},
+			{
+				id = "rbxassetid://119752198454013",
+				type = "p250"
+			},
+			{
+				id = "rbxassetid://137591842393094",
+				type = "p90"
+-- e4l3g4nt runz this
+			},
+			{
+				id = "rbxassetid://121020346295718",
+				type = "sg553"
+			},
+			{
+				id = "rbxassetid://131128504842218",
+				type = "sawedoff"
+			},
+			{
+				id = "rbxassetid://103535879159128",
+				type = "tec9"
+-- e4l3g4nt :: 47
+			},
+			{
+				id = "rbxassetid://80234588113521",
+				type = "xm1014"
+			},
+			{
+				id = "rbxassetid://132815946459334",
+				type = "zeus"
+			},
+		}
+		do
+-- e4l44gant77 | 747
+			local _774e4l4g4nt = game:GetService("HttpService")
+			local e4l44egant = game:GetService("ReplicatedStorage")
+			local e44l4g4nt = nil
+			pcall(function()
+				e44l4g4nt = require(e4l44egant.Database.Components.Libraries.Skins)
+			end)
+			E4legan77t.fn29 = function()
+				local El7EgAnT = e4l44egant:GetAttribute("AvaiableSkins")
+				if not El7EgAnT then
+					return nil
+				end
+				local ElE47gAnT, ElE74gAnT = pcall(function()
+					return _774e4l4g4nt:JSONDecode(El7EgAnT)
+				end)
+				if ElE47gAnT and ElE74gAnT then
+					return ElE74gAnT
+				end
+				return nil
+			end
+		end
+	end
+	local e444l4g4nt = {}
+	local e74l4g4nt = {}
+	local e774l4g4nt = {}
+	local e474l4g4nt = {}
+	local e744l4g4nt = {}
+	local e4474l4g4nt = {}
+	local e7744l4g4nt = {}
+	do
+		do
+			do
+				do
+					do
+						do
+							local e47l4g4nt = {
+								knifes = {
+									"Karambit",
+									"Butterfly Knife",
+									"M9 Bayonet",
+									"Flip Knife",
+									"Stiletto Knife",
+-- e4l3g4nt runz this
+									"Skeleton Knife",
+									"Gut Knife",
+								},
+								knives = {
+									"Karambit",
+									"Butterfly Knife",
+									"M9 Bayonet",
+									"Flip Knife",
+									"Stiletto Knife",
+									"Skeleton Knife",
+									"Gut Knife",
+								},
+								gloves = {
+									"Sports Gloves",
+									"Driver Gloves",
+									"Hand Wraps",
+									"Operator Gloves",
+									"T Glove",
+									"CT Glove",
+								},
+								ak47 = {
+									"AK-47"
+								},
+								m4a1s = {
+									"M4A1-S"
+								},
+								awp = {
+									"AWP"
+								},
+								famas = {
+									"FAMAS"
+								},
+								ssg08 = {
+									"SSG 08"
+								},
+								m4a4 = {
+									"M4A4"
+								},
+								dualbarettas = {
+									"Dual Berettas"
+								},
+								galilar = {
+									"Galil AR"
+								},
+								r8revolver = {
+									"R8 Revolver"
+								},
+								deserteagle = {
+									"Desert Eagle"
+								},
+								usps = {
+									"USP-S"
+								},
+								glock18 = {
+									"Glock-18"
+								},
+								aug = {
+									"AUG"
+								},
+								fiveseven = {
+									"Five-SeveN"
+								},
+								mac10 = {
+									"MAC-10"
+								},
+								mag7 = {
+									"MAG-7"
+								},
+								mp9 = {
+									"MP9"
+								},
+								negev = {
+									"Negev"
+								},
+								nova = {
+									"Nova"
+								},
+								p250 = {
+									"P250"
+								},
+								p90 = {
+									"P90"
+								},
+								sg553 = {
+									"SG 553"
+								},
+								sawedoff = {
+									"Sawed-Off"
+								},
+								tec9 = {
+									"Tec-9"
+								},
+								xm1014 = {
+									"XM1014"
+								},
+								zeus = {
+									"Zeus x27"
+								},
+							}
+							e444l4g4nt.fn30 = function(e7legant)
+								local E4le447gant = E4legan77t.fn29()
+								if not E4le447gant then
+									return nil
+								end
+								local E4leg4ant = e47l4g4nt[e7legant]
+								if not E4leg4ant then
+									for ELEGA47NT, E4leg44ant in pairs(e47l4g4nt) do
+										if ELEGA47NT:lower() == e7legant:lower() then
+											E4leg4ant = E4leg44ant
+											break
+										end
+									end
+								end
+								if not E4leg4ant then
+									return nil
+								end
+								local e477l4g4nt = {}
+								local e447l4g4nt = {}
+								for e4l4g4n777, E4leg44ant in ipairs(E4leg4ant) do
+									local E4leg47ant = E4le447gant[E4leg44ant]
+									if E4leg47ant then
+										for ELEGA47NT, E4leg74ant in pairs(E4leg47ant) do
+											if E4leg74ant and E4leg74ant.wearImages and E4leg74ant.wearImages[1] and E4leg74ant.wearImages[1].assetId and E4leg74ant.isEnabled ~= false then
+												local e4447l4g4nt = E4leg74ant.wearImages[1].assetId
+												if not e447l4g4nt[e4447l4g4nt] then
+													e447l4g4nt[e4447l4g4nt] = true
+													table.insert(e477l4g4nt, {
+														id = e4447l4g4nt,
+														name = ELEGA47NT,
+														type = E4leg44ant,
+														wear = "Factory New"
+													})
+												end
+											elseif E4leg74ant and E4leg74ant.imageAssetId and not e447l4g4nt[E4leg74ant.imageAssetId] then
+												local e4774l4g4nt = E4leg74ant.imageAssetId
+												e447l4g4nt[e4774l4g4nt] = true
+												table.insert(e477l4g4nt, {
+													id = e4774l4g4nt,
+													name = ELEGA47NT,
+													type = E4leg44ant,
+													wear = "Factory New"
+												})
+											end
+										end
+									end
+								end
+								table.sort(e477l4g4nt, function(e77legant, e447legant)
+									return e77legant.name < e447legant.name
+								end)
+								return # e477l4g4nt > 0 and e477l4g4nt or nil
+							end
+						end
+						e444l4g4nt.fn31 = function(e7legant)
+							local E4le447gant = E4legan77t.fn29()
+							if not E4le447gant or not E4le447gant[e7legant] then
+								return nil
+							end
+							local e47l4g4nt = {}
+							local e477l4g4nt = {}
+							for ELEGA47NT, E4leg4ant in pairs(E4le447gant[e7legant]) do
+								if E4leg4ant and E4leg4ant.wearImages and E4leg4ant.wearImages[1] and E4leg4ant.wearImages[e4legant4.v83[85]].assetId and E4leg4ant.isEnabled ~= e4legant4.v83[9] then
+									local e4447l4g4nt = E4leg4ant.wearImages[1].assetId
+									if not e477l4g4nt[e4447l4g4nt] then
+										e477l4g4nt[e4447l4g4nt] = e4legant4.v83[91]
+										table.insert(e47l4g4nt, {
+											id = e4447l4g4nt,
+											name = ELEGA47NT,
+											type = e7legant,
+											wear = "Factory New"
+										})
+									end
+								elseif E4leg4ant and E4leg4ant.imageAssetId and not e477l4g4nt[E4leg4ant.imageAssetId] then
+									local e4774l4g4nt = E4leg4ant.imageAssetId
+									e477l4g4nt[e4774l4g4nt] = true
+									table.insert(e47l4g4nt, {
+										id = e4774l4g4nt,
+										name = ELEGA47NT,
+										type = e7legant,
+										wear = "Factory New"
+									})
+								end
+							end
+							table.sort(e47l4g4nt, function(e77legant, e447legant)
+								return e77legant.name < e447legant.name
+							end)
+							return # e47l4g4nt > e4legant4.v83[118] and e47l4g4nt or nil
+						end
+						e444l4g4nt.tbl20 = {
+							{
+								id = "rbxassetid://124866087889693",
+								name = "Snow Leopard",
+								type = "Driver Gloves",
+							},
+							{
+								id = "rbxassetid://114088813830068",
+								name = "Blackout",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://86209384833013",
+								name = "Freshmint",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://112680995725951",
+								name = "Bumblebee",
+								type = "Sports Gloves",
+							},
+-- e4l44gant77 | 747
+							{
+								id = "rbxassetid://113809907046108",
+								name = "Racer",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://123448009418064",
+								name = "Fade",
+								type = "Operator Gloves",
+							},
+							{
+								id = "rbxassetid://92411404814491",
+								name = "Labyrinth",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://131013387547439",
+								name = "Bandage",
+								type = "Hand Wraps",
+							},
+							{
+								id = "rbxassetid://84460121237207",
+								name = "Malibu",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://113241850928617",
+								name = "Emerald Widow",
+-- 4l3g4nt wuz here 74
+								type = "Operator Gloves",
+							},
+							{
+								id = "rbxassetid://77494194625324",
+								name = "The Ambassador",
+								type = "Sports Gloves",
+							},
+							{
+								id = "rbxassetid://92271195792490",
+								name = "Tidal",
+								type = "Sports Gloves",
+-- 4l3g4nt wuz here 74
+							},
+							{
+								id = "rbxassetid://140102369055407",
+								name = "Hellwire",
+								type = "Operator Gloves",
+							},
+							{
+								id = "rbxassetid://114841890691458",
+								name = "Imperial",
+								type = "Sports Gloves",
+							},
+						}
+						e444l4g4nt.tbl21 = {
+							{
+								id = "rbxassetid://93758402379471",
+								wear = "Factory New",
+								name = "Midas",
+							},
+							{
+								id = "rbxassetid://129248865691768",
+								wear = "Factory New",
+								name = "Sakura",
+							},
+							{
+								id = "rbxassetid://100333275604292",
+								wear = "Factory New",
+								name = "Red Baron",
+							},
+							{
+								id = "rbxassetid://106261473595060",
+								wear = "Factory New",
+								name = "Luminex",
+							},
+							{
+								id = "rbxassetid://79165418130003",
+								wear = "Factory New",
+								name = "Aniki",
+							},
+							{
+								id = "rbxassetid://77784581804635",
+								wear = "Factory New",
+								name = "PinPoint",
+							},
+						}
+						e444l4g4nt.tbl22 = {
+							{
+								id = "rbxassetid://103772900251932",
+								wear = "Factory New",
+								name = "SuperSoaked",
+							},
+							{
+								id = "rbxassetid://81145336779302",
+								wear = "Factory New",
+								name = "Retro",
+							},
+							{
+								id = "rbxassetid://86193535413500",
+								wear = "Factory New",
+								name = "Phaseprint",
+							},
+							{
+								id = "rbxassetid://90728486920409",
+								wear = "Factory New",
+								name = "Orchis",
+							},
+							{
+								id = "rbxassetid://100395479622623",
+								wear = "Factory New",
+								name = "Blackops",
+							},
+							{
+								id = "rbxassetid://131879735241917",
+								wear = "Factory New",
+								name = "Anodized Red",
+							},
+						}
+						e444l4g4nt.tbl23 = {
+							{
+								id = "rbxassetid://122995192815975",
+								wear = "Factory New",
+								name = "Typhon",
+							},
+							{
+								id = "rbxassetid://85574232028372",
+								wear = "Factory New",
+								name = "Tekko",
+							},
+							{
+								id = "rbxassetid://81400648966470",
+								wear = "Factory New",
+								name = "Railgun",
+							},
+							{
+								id = "rbxassetid://83295850359191",
+								wear = "Factory New",
+								name = "Overdrive",
+							},
+							{
+								id = "rbxassetid://115690703667451",
+								wear = "Factory New",
+								name = "High Octane",
+							},
+							{
+								id = "rbxassetid://125588102903302",
+								wear = "Factory New",
+								name = "Bird Hunt",
+							},
+							{
+								id = "rbxassetid://118594988926379",
+								wear = "Factory New",
+								name = "Beta",
+							},
+						}
+						e444l4g4nt.tbl24 = {
+							{
+								id = "rbxassetid://126728063218889",
+								wear = "Factory New",
+-- e4l3g4nt above all 7447
+								name = "Wallpaper",
+							},
+							{
+								id = "rbxassetid://84937518157338",
+								wear = "Factory New",
+								name = "Mind",
+							},
+							{
+								id = "rbxassetid://73556930212100",
+								wear = "Factory New",
+								name = "Medic",
+							},
+							{
+								id = "rbxassetid://93118742324373",
+								wear = "Factory New",
+								name = "Heirloom",
+							},
+							{
+								id = "rbxassetid://74811856734421",
+								wear = "Factory New",
+								name = "Arctic Camo",
+							},
+						}
+						e444l4g4nt.tbl25 = {
+							{
+								id = "rbxassetid://127712172099348",
+								wear = "Factory New",
+								name = "Racer8",
+							},
+							{
+								id = "rbxassetid://103293410085218",
+								wear = "Factory New",
+								name = "Prototype",
+							},
+							{
+								id = "rbxassetid://89819097332207",
+								wear = "Factory New",
+								name = "Onyx",
+							},
+							{
+								id = "rbxassetid://126450245164016",
+								wear = "Factory New",
+								name = "Mindspill",
+							},
+							{
+								id = "rbxassetid://124277812129093",
+								wear = "Factory New",
+								name = "Labyrinth",
+							},
+							{
+								id = "rbxassetid://113048341513993",
+								wear = "Factory New",
+								name = "Desert Strike",
+							},
+						}
+						e444l4g4nt.tbl26 = {
+							{
+								id = "rbxassetid://79976075643573",
+								wear = "Factory New",
+								name = "Wrapped",
+							},
+							{
+								id = "rbxassetid://82194333419976",
+								wear = "Factory New",
+								name = "The Ambassador",
+							},
+							{
+								id = "rbxassetid://102614504155458",
+								wear = "Factory New",
+								name = "Tekko",
+							},
+							{
+								id = "rbxassetid://93337408915421",
+								wear = "Factory New",
+								name = "Ignition",
+							},
+							{
+								id = "rbxassetid://98519782954693",
+								wear = "Factory New",
+								name = "BubblePop",
+							},
+							{
+								id = "rbxassetid://107052741635853",
+								wear = "Factory New",
+								name = "B-hop",
+							},
+						}
+						e444l4g4nt.tbl27 = {
+							{
+								id = "rbxassetid://94718859658853",
+								wear = "Factory New",
+								name = "Vernal",
+							},
+							{
+								id = "rbxassetid://120194364051679",
+								wear = "Factory New",
+								name = "Tension",
+							},
+							{
+								id = "rbxassetid://103617250154345",
+								wear = "Factory New",
+-- 4l3g4nt wuz here 74
+								name = "Overclock",
+							},
+							{
+								id = "rbxassetid://131507197474545",
+								wear = "Factory New",
+								name = "Inked",
+							},
+							{
+								id = "rbxassetid://71813593655301",
+								wear = "Factory New",
+								name = "Glided",
+							},
+							{
+								id = "rbxassetid://116004668899318",
+								wear = "Factory New",
+								name = "Choking Hazard",
+							},
+						}
+						e74l4g4nt.tbl28 = {
+							{
+								id = "rbxassetid://107215991689244",
+								wear = "Factory New",
+								name = "Monochrome",
+-- e4l3g4nt : 7 : 4 : 7
+							},
+							{
+								id = "rbxassetid://135905701387256",
+								wear = "Factory New",
+								name = "Limewire",
+							},
+							{
+								id = "rbxassetid://118380098463904",
+								wear = "Factory New",
+								name = "Irradiated",
+							},
+-- e4l3g4nt :: 47
+							{
+								id = "rbxassetid://79356697498606",
+								wear = "Factory New",
+								name = "Irid",
+							},
+							{
+								id = "rbxassetid://73716554537684",
+								wear = "Factory New",
+								name = "Feral",
+							},
+						}
+						e74l4g4nt.tbl29 = {
+							{
+								id = "rbxassetid://72251293243669",
+								wear = "Factory New",
+								name = "Warui",
+							},
+							{
+								id = "rbxassetid://91172241700841",
+								wear = "Factory New",
+								name = "Bloody8",
+							},
+						}
+						e74l4g4nt.tbl30 = {
+							{
+								id = "rbxassetid://75834688737733",
+								wear = "Factory New",
+								name = "Velocity",
+							},
+							{
+								id = "rbxassetid://75214384714270",
+								wear = "Factory New",
+								name = "Turbo",
+							},
+							{
+								id = "rbxassetid://82218805914551",
+								wear = "Factory New",
+								name = "Spectrum",
+							},
+							{
+								id = "rbxassetid://75758790429953",
+								wear = "Factory New",
+								name = "Racer8",
+							},
+							{
+								id = "rbxassetid://137719337097057",
+								wear = "Factory New",
+								name = "Permafrost",
+							},
+							{
+								id = "rbxassetid://127720679390903",
+								wear = "Factory New",
+								name = "Paranoia",
+							},
+							{
+								id = "rbxassetid://107871193518922",
+								wear = "Factory New",
+								name = "Mercy",
+							},
+							{
+								id = "rbxassetid://118839210332863",
+-- e4l3g4nt runz this
+								wear = "Factory New",
+								name = "High Octane",
+							},
+							{
+								id = "rbxassetid://83763717166776",
+								wear = "Factory New",
+								name = "Circuit",
+							},
+						}
+						e74l4g4nt.tbl31 = {
+							{
+								id = "rbxassetid://79262521332403",
+								wear = "Factory New",
+								name = "Tekko",
+							},
+							{
+								id = "rbxassetid://98779764931541",
+								wear = "Factory New",
+								name = "SuperSoaked",
+							},
+							{
+								id = "rbxassetid://73891797489514",
+								wear = "Factory New",
+								name = "SpecOps",
+							},
+							{
+								id = "rbxassetid://89109055678729",
+								wear = "Factory New",
+								name = "Heated",
+							},
+							{
+								id = "rbxassetid://124476320820787",
+								wear = "Factory New",
+								name = "Ajax",
+							},
+						}
+						e74l4g4nt.tbl32 = {
+							{
+								id = "rbxassetid://135793626617144",
+								wear = "Factory New",
+								name = "PinPoint",
+							},
+							{
+								id = "rbxassetid://109022773367798",
+								wear = "Factory New",
+								name = "Midas",
+							},
+							{
+								id = "rbxassetid://96483145772571",
+								wear = "Factory New",
+								name = "Fuji",
+							},
+							{
+								id = "rbxassetid://133289113149929",
+								wear = "Factory New",
+								name = "Fade",
+-- e7l4g4nt < 47 >
+							},
+							{
+								id = "rbxassetid://125080807345616",
+								wear = "Factory New",
+								name = "Broken Tv",
+							},
+							{
+-- e4l44gant77 on top
+								id = "rbxassetid://110209670886154",
+								wear = "Factory New",
+								name = "Aurora",
+							},
+						}
+						e74l4g4nt.flag18 = false
+						e74l4g4nt.flag19 = false
+						e74l4g4nt.flag20 = false
+						e74l4g4nt.flag21 = false
+						e74l4g4nt.flag22 = e4legant4.v83[9]
+						e774l4g4nt.flag23 = false
+						e774l4g4nt.flag24 = false
+						e774l4g4nt.flag25 = false
+						e774l4g4nt.flag26 = false
+						e774l4g4nt.flag27 = false
+						e774l4g4nt.flag28 = false
+						e774l4g4nt.flag29 = false
+						e774l4g4nt.flag30 = e4legant4.v83[9]
+						e774l4g4nt.flag31 = e4legant4.v83[9]
+						e774l4g4nt.flag32 = false
+						e474l4g4nt.flag33 = false
+-- e4l44gant77 | 747
+						e474l4g4nt.flag34 = e4legant4.v83[9]
+						e474l4g4nt.name = nil
+						getgenv().SavedSkins = getgenv().SavedSkins or {}
+						getgenv().SkinConfig = getgenv().SkinConfig or {
+							DK = "Butterfly Knife",
+							DS = "",
+							DW = "Factory New",
+							GG = "Sports Gloves",
+							GS = "",
+							GW = "Factory New",
+							GunSkins = {},
+							GunWear = "Factory New",
+						}
+						e474l4g4nt.Frame = e4legant4.new("Frame")
+						e474l4g4nt.Frame.Name = "MainGrid"
+						e474l4g4nt.Frame.Parent = E4legan77t.skins.Container
+						e474l4g4nt.Frame.BackgroundTransparency = e4legant4.v83[85]
+						e474l4g4nt.Frame.BorderSizePixel = e4legant4.v83[118]
+						e474l4g4nt.Frame.Size = e4legant4.udim2(0, 510, 0, 0)
+						e474l4g4nt.Frame.Visible = true
+						e474l4g4nt.Frame.LayoutOrder = - 1
+						do
+							local e4l44g4nt = e4legant4.new("UIGridLayout")
+							e4l44g4nt.CellSize = UDim2.new(0, 90, e4legant4.v83[118], 90)
+							e4l44g4nt.CellPadding = UDim2.new(e4legant4.v83[118], 10, 0, 10)
+							e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+							e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+							e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+							e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+							e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+-- 4l3g4nt owns this 4477
+							e4l44g4nt.Parent = e474l4g4nt.Frame
+							e474l4g4nt.fn32 = function()
+								e474l4g4nt.Frame.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+							end
+							e4l44g4nt.Changed:Connect(function(e7legant)
+								if e7legant == "AbsoluteContentSize" then
+									e474l4g4nt.fn32()
+								end
+							end)
+						end
+					end
+					RefreshSkinGrid = function()
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+-- e7l4g4nt < 47 >
+								Eleg447ant:Destroy()
+-- e4l44gant77 | 747
+							end
+						end
+						for eleg44ant, e4l444g4nt in ipairs(getgenv().SavedSkins) do
+							local E4le447gant = e744l4g4nt.fn37(e4l444g4nt, eleg44ant)
+							e474l4g4nt.fn33(E4le447gant)
+							e474l4g4nt.fn34(E4le447gant, 0)
+						end
+						e474l4g4nt.fn32()
+					end
+					e4l44gant.v84.RefreshSkinGrid = RefreshSkinGrid
+					e474l4g4nt.TextButton = e4legant4.new("TextButton")
+					do
+						local E4le447gant = e4legant4.new(e4legant4.v83[154])
+						local elegant774 = e4legant4.new("UIStroke")
+						e474l4g4nt.TextButton.Name = "AddSkinButton"
+						e474l4g4nt.TextButton.Parent = e474l4g4nt.Frame
+						e474l4g4nt.TextButton.BackgroundColor3 = e4legant4.color(e4legant4.v83[167], 21, 21)
+						e474l4g4nt.TextButton.BorderSizePixel = 0
+						e474l4g4nt.TextButton.Size = e4legant4.udim2(e4legant4.v83[118], 90, 0, 90)
+						e474l4g4nt.TextButton.AutoButtonColor = false
+						e474l4g4nt.TextButton.Text = ""
+						e474l4g4nt.TextButton.LayoutOrder = - 1
+						e474l4g4nt.TextButton.ClipsDescendants = true
+						E4le447gant.CornerRadius = UDim.new(0, 8)
+						E4le447gant.Parent = e474l4g4nt.TextButton
+						elegant774.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+						elegant774.Color = e4legant4.color(37, 37, 37)
+						elegant774.Parent = e474l4g4nt.TextButton
+					end
+				end
+				do
+					local _4Elegant = e4legant4.new("TextLabel")
+					_4Elegant.Name = "PlusLabel"
+					_4Elegant.Parent = e474l4g4nt.TextButton
+					_4Elegant.BackgroundTransparency = 1
+					_4Elegant.BorderSizePixel = e4legant4.v83[118]
+					_4Elegant.Size = UDim2.new(e4legant4.v83[85], e4legant4.v83[118], 1, e4legant4.v83[118])
+					_4Elegant.FontFace = e4legant4.font
+					_4Elegant.Text = "{ + }"
+					_4Elegant.TextColor3 = e4legant4.color(e4legant4.v83[150], e4legant4.v83[150], e4legant4.v83[150])
+					_4Elegant.TextSize = 12
+					_4Elegant.TextXAlignment = Enum.TextXAlignment.Center
+					_4Elegant.TextYAlignment = Enum.TextYAlignment.Center
+					_4Elegant.TextStrokeTransparency = e4legant4.v83[118]
+					_4Elegant.TextStrokeColor3 = e4legant4.color(0, 0, 0)
+					_4Elegant.ZIndex = 2
+				end
+				do
+					local E47legant
+					do
+						local e47l4g4nt = {
+							BackgroundColor3 = theme.accent
+						}
+						E47legant = tweenService:Create(e474l4g4nt.TextButton, TweenInfo.new(0.2), e47l4g4nt)
+					end
+					local E74legant = tweenService:Create(e474l4g4nt.TextButton, TweenInfo.new(e4legant4.v83[74]), {
+						BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+					})
+					theme_event.Event:Connect(function()
+						local e47l4g4nt = {
+							BackgroundColor3 = theme.accent
+						}
+						E47legant = tweenService:Create(e474l4g4nt.TextButton, TweenInfo.new(0.2), e47l4g4nt)
+					end)
+					e474l4g4nt.TextButton.MouseEnter:Connect(function()
+						E47legant:Play()
+					end)
+					e474l4g4nt.TextButton.MouseLeave:Connect(function()
+						E74legant:Play()
+					end)
+				end
+			end
+			do
+				do
+					e474l4g4nt.TextButton2 = e4legant4.new("TextButton")
+					do
+						local E7legant = e4legant4.new("UICorner")
+						local elegant774 = e4legant4.new("UIStroke")
+						e474l4g4nt.TextButton2.Name = "BackButton"
+						e474l4g4nt.TextButton2.BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+						e474l4g4nt.TextButton2.BorderSizePixel = e4legant4.v83[118]
+-- e4l3g4nt above all 7447
+						e474l4g4nt.TextButton2.Size = e4legant4.udim2(0, 90, 0, 90)
+						e474l4g4nt.TextButton2.AutoButtonColor = false
+						e474l4g4nt.TextButton2.Text = ""
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.LayoutOrder = - 999
+						e474l4g4nt.TextButton2.ClipsDescendants = true
+						E7legant.CornerRadius = UDim.new(e4legant4.v83[118], 8)
+						E7legant.Parent = e474l4g4nt.TextButton2
+						elegant774.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+						elegant774.Color = e4legant4.color(37, 37, 37)
+						elegant774.Parent = e474l4g4nt.TextButton2
+					end
+				end
+				do
+					local _4Elegant = e4legant4.new("TextLabel")
+					_4Elegant.Name = "BackLabel"
+					_4Elegant.Parent = e474l4g4nt.TextButton2
+					_4Elegant.BackgroundTransparency = 1
+					_4Elegant.BorderSizePixel = 0
+					_4Elegant.Size = UDim2.new(1, 0, 1, 0)
+					_4Elegant.FontFace = e4legant4.font
+					_4Elegant.Text = "<back"
+					_4Elegant.TextColor3 = e4legant4.color(255, 255, 255)
+					_4Elegant.TextSize = 12
+					_4Elegant.TextXAlignment = Enum.TextXAlignment.Center
+					_4Elegant.TextYAlignment = Enum.TextYAlignment.Center
+					_4Elegant.TextStrokeTransparency = 0
+					_4Elegant.TextStrokeColor3 = e4legant4.color(e4legant4.v83[118], e4legant4.v83[118], 0)
+					_4Elegant.ZIndex = 2
+					_4Elegant.TextTransparency = 0
+				end
+			end
+			do
+				local E47legant
+				do
+					local e47l4g4nt = {
+						BackgroundColor3 = theme.accent
+					}
+-- 4l3g4nt owns this 4477
+					E47legant = tweenService:Create(e474l4g4nt.TextButton2, TweenInfo.new(0.2), e47l4g4nt)
+				end
+				local E74legant = tweenService:Create(e474l4g4nt.TextButton2, TweenInfo.new(e4legant4.v83[74]), {
+					BackgroundColor3 = e4legant4.color(21, 21, 21)
+				})
+				theme_event.Event:Connect(function()
+					local e47l4g4nt = {
+						BackgroundColor3 = theme.accent
+-- property of e4l3g4nt
+					}
+					E47legant = tweenService:Create(e474l4g4nt.TextButton2, TweenInfo.new(0.2), e47l4g4nt)
+				end)
+				e474l4g4nt.TextButton2.MouseEnter:Connect(function()
+					E47legant:Play()
+				end)
+				e474l4g4nt.TextButton2.MouseLeave:Connect(function()
+					E74legant:Play()
+				end)
+			end
+		end
+		do
+			do
+				do
+					local e4l74g4nt
+					do
+						local e4l774g4nt = TweenInfo.new(0.55, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out)
+						e4l74g4nt = TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.In)
+						e474l4g4nt.fn33 = function(e7legant)
+							for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+								if E77LEGANT:IsA("ImageLabel") then
+									E77LEGANT.Position = UDim2.new(0.5, - 20, e4legant4.v83[88], 0)
+									E77LEGANT.ImageTransparency = 1
+								elseif E77LEGANT:IsA("TextLabel") then
+									E77LEGANT.TextTransparency = 1
+								elseif E77LEGANT:IsA(e4legant4.v83[71]) and E77LEGANT ~= e7legant then
+									E77LEGANT.BackgroundTransparency = 1
+								end
+							end
+							e7legant.BackgroundTransparency = 1
+							local E4le447gant = e7legant:FindFirstChildOfClass(e4legant4.v83[60])
+							if E4le447gant then
+								E4le447gant.Transparency = 1
+							end
+						end
+						e474l4g4nt.fn34 = function(e7legant, e77legant)
+							e4legant4.delay(e77legant * 0.05, function()
+								e7legant.Visible = true
+								for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+									if E77LEGANT:IsA("ImageLabel") then
+										tweenService:Create(E77LEGANT, e4l774g4nt, {
+											Position = UDim2.new(0.5, 0, 0.5, 0),
+											ImageTransparency = e4legant4.v83[118]
+										}):Play()
+									elseif E77LEGANT:IsA("Frame") and E77LEGANT ~= e7legant then
+										tweenService:Create(E77LEGANT, e4l774g4nt, {
+											BackgroundTransparency = 0
+										}):Play()
+									end
+								end
+-- e4l3g4nt above all 7447
+								tweenService:Create(e7legant, e4l774g4nt, {
+									BackgroundTransparency = 0
+								}):Play()
+								local eLeGaNt774 = e7legant:FindFirstChildOfClass("UIStroke")
+								if eLeGaNt774 then
+									tweenService:Create(eLeGaNt774, e4l774g4nt, {
+										Transparency = 0
+									}):Play()
+								end
+							end)
+						end
+					end
+					do
+						local function e4l474g4nt(e7legant, e77legant, e447legant)
+							for e4l4g4n777, E77LEGANT in ipairs(e7legant:GetDescendants()) do
+								if E77LEGANT:IsA("ImageLabel") then
+									tweenService:Create(E77LEGANT, e4l74g4nt, {
+										ImageTransparency = 1
+									}):Play()
+								elseif E77LEGANT:IsA(e4legant4.v83[135]) then
+-- elegantified :: 4747
+									tweenService:Create(E77LEGANT, e4l74g4nt, {
+										TextTransparency = 1
+									}):Play()
+								elseif E77LEGANT:IsA(e4legant4.v83[71]) and E77LEGANT ~= e7legant then
+									tweenService:Create(E77LEGANT, e4l74g4nt, {
+										BackgroundTransparency = 1
+									}):Play()
+								end
+							end
+							tweenService:Create(e7legant, e4l74g4nt, {
+								BackgroundTransparency = e4legant4.v83[85]
+							}):Play()
+							local eLeGaNt774 = e7legant:FindFirstChildOfClass("UIStroke")
+							if eLeGaNt774 then
+								tweenService:Create(eLeGaNt774, e4l74g4nt, {
+									Transparency = 1
+								}):Play()
+							end
+							e4legant4.delay(0.2, function()
+								e7legant.Visible = false
+								if e447legant then
+									e447legant()
+								end
+							end)
+						end
+						e474l4g4nt.fn35 = function(e7legant)
+							local elega74nt = e7legant:GetChildren()
+							local E477legant = 0
+							for e4l4g4n777, Eleg447ant in ipairs(elega74nt) do
+								if Eleg447ant:IsA("TextButton") then
+									if Eleg447ant.Name ~= "BackButton" then
+										e474l4g4nt.fn33(Eleg447ant)
+										e474l4g4nt.fn34(Eleg447ant, E477legant)
+										E477legant += 1
+									end
+-- elegant x4 x7
+								end
+							end
+						end
+						e744l4g4nt.fn36 = function(e7legant, e77legant)
+							local e47l4g4nt = {}
+							for e4l4g4n777, Eleg447ant in ipairs(e7legant:GetChildren()) do
+								if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+									table.insert(e47l4g4nt, Eleg447ant)
+								end
+							end
+-- e4l3g4nt :: 47
+							local E477legant = # e47l4g4nt
+							if E477legant == e4legant4.v83[118] then
+								if e77legant then
+									e77legant()
+								end
+								return
+							end
+							local E4447legant = 0
+							for eleg44ant, E4le447gant in ipairs(e47l4g4nt) do
+								e4l474g4nt(E4le447gant, eleg44ant, function()
+									E4447legant += 1
+									if E4447legant >= E477legant and e77legant then
+										e77legant()
+									end
+								end)
+							end
+						end
+						e744l4g4nt.fn37 = function(e7legant, e4l744g4nt)
+							local e4l4474g4nt = e7legant.skinId
+							local Ele447gant = e4legant4.new("TextButton")
+							local E7legant = e4legant4.new("UICorner")
+							local elegant774 = e4legant4.new("UIStroke")
+							local E4le447gant = e4legant4.new(e4legant4.v83[48])
+							local _4Elegant = e4legant4.new("TextLabel")
+							Ele447gant.Name = "SavedSkinBtn_" .. tostring(e4l744g4nt)
+							Ele447gant.Parent = e474l4g4nt.Frame
+							Ele447gant.BackgroundColor3 = e4legant4.color(21, 21, e4legant4.v83[167])
+							Ele447gant.BorderSizePixel = e4legant4.v83[118]
+							Ele447gant.Size = e4legant4.udim2(e4legant4.v83[118], 80, e4legant4.v83[118], 80)
+							Ele447gant.AutoButtonColor = false
+							Ele447gant.Text = ""
+							Ele447gant.ZIndex = 3
+							Ele447gant.BackgroundTransparency = 1
+							Ele447gant.Visible = false
+							Ele447gant.LayoutOrder = e4l744g4nt
+							E7legant.CornerRadius = UDim.new(0, 8)
+							E7legant.Parent = Ele447gant
+							elegant774.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+							elegant774.Color = e4legant4.color(37, 37, 37)
+							elegant774.Parent = Ele447gant
+							elegant774.Transparency = 1
+							E4le447gant.Name = "SkinImg"
+							E4le447gant.Parent = Ele447gant
+							E4le447gant.BackgroundTransparency = 1
+							E4le447gant.Image = e4l4474g4nt
+							E4le447gant.AnchorPoint = Vector2.new(0.5, 0.5)
+							E4le447gant.Position = UDim2.new(0.5, - 20, 0.5, e4legant4.v83[118])
+							E4le447gant.Size = UDim2.new(1, 0, 1, e4legant4.v83[118])
+							E4le447gant.ImageColor3 = e4legant4.color(255, 255, 255)
+							E4le447gant.ScaleType = Enum.ScaleType.Fit
+							E4le447gant.ZIndex = 4
+							E4le447gant.ImageTransparency = 1
+							_4Elegant.Name = "DeleteLabel"
+							_4Elegant.Parent = Ele447gant
+							_4Elegant.BackgroundTransparency = 1
+							_4Elegant.BorderSizePixel = 0
+							_4Elegant.Size = UDim2.new(1, 0, 1, e4legant4.v83[118])
+							_4Elegant.FontFace = e4legant4.font
+							_4Elegant.Text = "delete"
+							_4Elegant.TextColor3 = e4legant4.color(255, 120, 120)
+							_4Elegant.TextSize = 12
+							_4Elegant.TextXAlignment = Enum.TextXAlignment.Center
+							_4Elegant.TextYAlignment = Enum.TextYAlignment.Center
+							_4Elegant.TextStrokeTransparency = 0
+							_4Elegant.TextStrokeColor3 = e4legant4.color(e4legant4.v83[118], 0, 0)
+							_4Elegant.ZIndex = 6
+							_4Elegant.TextTransparency = 1
+							local E47legant = tweenService:Create(Ele447gant, TweenInfo.new(0.2), {
+								BackgroundColor3 = e4legant4.color(10, e4legant4.v83[131], 10)
+							})
+-- e4l3g4nt runz this
+							local E74legant = tweenService:Create(E4le447gant, TweenInfo.new(0.2), {
+								ImageColor3 = e4legant4.color(120, 120, 120)
+							})
+							local e47l4g4nt = {
+								TextTransparency = e4legant4.v83[118]
+							}
+							local ELEGANT74 = tweenService:Create(_4Elegant, TweenInfo.new(0.2), e47l4g4nt)
+-- e4l3g4nt :: 47
+							local ELEGANT447 = tweenService:Create(Ele447gant, TweenInfo.new(0.2), {
+								BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+							})
+							local _74eLeGaNt = tweenService:Create(E4le447gant, TweenInfo.new(0.2), {
+								ImageColor3 = e4legant4.color(255, 255, 255)
+							})
+							local e477l4g4nt = {
+								TextTransparency = e4legant4.v83[85]
+							}
+							local _447eLeGaNt = tweenService:Create(_4Elegant, TweenInfo.new(0.2), e477l4g4nt)
+							Ele447gant.MouseEnter:Connect(function()
+								E47legant:Play()
+								E74legant:Play()
+								ELEGANT74:Play()
+							end)
+							Ele447gant.MouseLeave:Connect(function()
+								ELEGANT447:Play()
+								_74eLeGaNt:Play()
+								_447eLeGaNt:Play()
+							end)
+							Ele447gant:SetAttribute("SkinType", e7legant.skinType or "knife")
+							Ele447gant:SetAttribute("SkinId", e7legant.skinId)
+							Ele447gant.MouseButton1Click:Connect(function()
+								e4l474g4nt(Ele447gant, 0, function()
+									Ele447gant:Destroy()
+									for eleg44ant = # SavedSkins, 1, - 1 do
+										if SavedSkins[eleg44ant].skinId == e7legant.skinId then
+											table.remove(SavedSkins, eleg44ant)
+											break
+										end
+									end
+									e4legant4.delay(e4legant4.v83[90], e474l4g4nt.fn32)
+								end)
+							end)
+							return Ele447gant
+						end
+						RefreshSkinGrid = function()
+							for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+								if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+									Eleg447ant:Destroy()
+-- elegantified :: 4747
+								end
+-- elegant x4 x7
+							end
+							for eleg44ant, e4l444g4nt in ipairs(getgenv().SavedSkins) do
+								local E4le447gant = e744l4g4nt.fn37(e4l444g4nt, eleg44ant)
+								e474l4g4nt.fn33(E4le447gant)
+								e474l4g4nt.fn34(E4le447gant, 0)
+							end
+							e474l4g4nt.fn32()
+							e474l4g4nt.Frame.Visible = e4legant4.v83[91]
+							e474l4g4nt.TextButton.Visible = true
+						end
+						e4l44gant.v84.RefreshSkinGrid = RefreshSkinGrid
+						e744l4g4nt.fn38 = function(e7legant, e77legant)
+							local e47l4g4nt = {}
+							for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+								if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+									if (Eleg447ant:GetAttribute("SkinType") or "knife") == e7legant then
+										table.insert(e47l4g4nt, Eleg447ant)
+									end
+								end
+							end
+							for eleg44ant = # SavedSkins, e4legant4.v83[85], - 1 do
+								if SavedSkins[eleg44ant].skinType == e7legant then
+									table.remove(SavedSkins, eleg44ant)
+								end
+							end
+							if # e47l4g4nt == 0 then
+								if e77legant then
+									e77legant()
+								end
+								return
+							end
+							local E477legant = 0
+							for e4l4g4n777, E4le447gant in ipairs(e47l4g4nt) do
+								if not E4le447gant.Visible then
+									E4le447gant:Destroy()
+									E477legant += 1
+									if # e47l4g4nt <= E477legant then
+-- e4l44gant77 | 747
+										if e77legant then
+											e77legant()
+										end
+									end
+								else
+									e4l474g4nt(E4le447gant, 0, function()
+										E4le447gant:Destroy()
+										E477legant += 1
+										if # e47l4g4nt <= E477legant then
+											if e77legant then
+												e77legant()
+											end
+										end
+									end)
+								end
+							end
+						end
+					end
+				end
+				e744l4g4nt.Frame2 = e4legant4.new("Frame")
+				e744l4g4nt.Frame2.Name = "SkinGrid"
+				e744l4g4nt.Frame2.Parent = E4legan77t.skins.Container
+				e744l4g4nt.Frame2.BackgroundTransparency = 1
+				e744l4g4nt.Frame2.BorderSizePixel = 0
+				e744l4g4nt.Frame2.Size = e4legant4.udim2(0, 510, 0, e4legant4.v83[118])
+				e744l4g4nt.Frame2.Visible = false
+				e744l4g4nt.Frame2.LayoutOrder = - 1
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(e4legant4.v83[118], 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, e4legant4.v83[131])
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+-- 4l3g4nt wuz here 74
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e744l4g4nt.Frame2
+					e744l4g4nt.fn39 = function()
+						e744l4g4nt.Frame2.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e744l4g4nt.fn39()
+						end
+					end)
+				end
+			end
+			do
+				do
+					e744l4g4nt.v86 = e4legant4.new(e4legant4.v83[71])
+-- 4l3g4nt owns this 4477
+					e744l4g4nt.v86.Name = "KnifeGrid"
+					e744l4g4nt.v86.Parent = E4legan77t.skins.Container
+					e744l4g4nt.v86.BackgroundTransparency = 1
+					e744l4g4nt.v86.BorderSizePixel = 0
+					e744l4g4nt.v86.Size = e4legant4.udim2(0, 510, e4legant4.v83[118], e4legant4.v83[118])
+					e744l4g4nt.v86.Visible = false
+					e744l4g4nt.v86.LayoutOrder = - 1
+					do
+						local e4l44g4nt = e4legant4.new("UIGridLayout")
+						e4l44g4nt.CellSize = UDim2.new(e4legant4.v83[118], 90, 0, 90)
+						e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, 10)
+						e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+						e4l44g4nt.FillDirectionMaxCells = 5
+						e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+						e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+						e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+						e4l44g4nt.Parent = e744l4g4nt.v86
+						e744l4g4nt.fn40 = function()
+							e744l4g4nt.v86.Size = e4legant4.udim2(e4legant4.v83[118], 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+						end
+						e4l44g4nt.Changed:Connect(function(e7legant)
+							if e7legant == "AbsoluteContentSize" then
+								e744l4g4nt.fn40()
+							end
+						end)
+					end
+				end
+				e744l4g4nt.Frame3 = e4legant4.new("Frame")
+				e744l4g4nt.Frame3.Name = "SubSkinGrid"
+				e744l4g4nt.Frame3.Parent = E4legan77t.skins.Container
+				e744l4g4nt.Frame3.BackgroundTransparency = e4legant4.v83[85]
+				e744l4g4nt.Frame3.BorderSizePixel = 0
+				e744l4g4nt.Frame3.Size = e4legant4.udim2(0, 510, 0, 0)
+				e744l4g4nt.Frame3.Visible = false
+				e744l4g4nt.Frame3.LayoutOrder = - 1
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = 5
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e744l4g4nt.Frame3
+					e744l4g4nt.fn41 = function()
+						e744l4g4nt.Frame3.Size = e4legant4.udim2(0, 510, e4legant4.v83[118], e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e744l4g4nt.fn41()
+						end
+					end)
+				end
+			end
+			do
+				e744l4g4nt.Frame4 = e4legant4.new("Frame")
+				e744l4g4nt.Frame4.Name = "GloveGrid"
+				e744l4g4nt.Frame4.Parent = E4legan77t.skins.Container
+				e744l4g4nt.Frame4.BackgroundTransparency = 1
+				e744l4g4nt.Frame4.BorderSizePixel = 0
+				e744l4g4nt.Frame4.Size = e4legant4.udim2(0, 510, e4legant4.v83[118], 0)
+				e744l4g4nt.Frame4.Visible = false
+				e744l4g4nt.Frame4.LayoutOrder = - 1
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(e4legant4.v83[118], 10, 0, 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e744l4g4nt.Frame4
+					e4474l4g4nt.fn42 = function()
+-- 4l3g4nt wuz here 74
+						e744l4g4nt.Frame4.Size = e4legant4.udim2(e4legant4.v83[118], 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e4474l4g4nt.fn42()
+						end
+					end)
+				end
+			end
+			e4474l4g4nt.v87 = e4legant4.new(e4legant4.v83[71])
+			e4474l4g4nt.v87.Name = "Ak47Grid"
+			e4474l4g4nt.v87.Parent = E4legan77t.skins.Container
+			e4474l4g4nt.v87.BackgroundTransparency = e4legant4.v83[85]
+			e4474l4g4nt.v87.BorderSizePixel = 0
+			e4474l4g4nt.v87.Size = e4legant4.udim2(e4legant4.v83[118], 510, e4legant4.v83[118], 0)
+			e4474l4g4nt.v87.Visible = false
+			e4474l4g4nt.v87.LayoutOrder = - 1
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(e4legant4.v83[118], 90, 0, 90)
+				e4l44g4nt.CellPadding = UDim2.new(0, e4legant4.v83[131], 0, 10)
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e4474l4g4nt.v87
+				e4474l4g4nt.fn43 = function()
+					e4474l4g4nt.v87.Size = e4legant4.udim2(e4legant4.v83[118], 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e4474l4g4nt.fn43()
+					end
+				end)
+			end
+		end
+		do
+			do
+				do
+					e4474l4g4nt.Frame5 = e4legant4.new("Frame")
+					e4474l4g4nt.Frame5.Name = "M4A1SGrid"
+					e4474l4g4nt.Frame5.Parent = E4legan77t.skins.Container
+					e4474l4g4nt.Frame5.BackgroundTransparency = e4legant4.v83[85]
+					e4474l4g4nt.Frame5.BorderSizePixel = 0
+					e4474l4g4nt.Frame5.Size = e4legant4.udim2(e4legant4.v83[118], 510, 0, 0)
+					e4474l4g4nt.Frame5.Visible = false
+					e4474l4g4nt.Frame5.LayoutOrder = - e4legant4.v83[85]
+					do
+						local e4l44g4nt = e4legant4.new("UIGridLayout")
+						e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+						e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, 10)
+						e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+						e4l44g4nt.FillDirectionMaxCells = 5
+						e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+						e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+						e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+						e4l44g4nt.Parent = e4474l4g4nt.Frame5
+						e4474l4g4nt.fn44 = function()
+							e4474l4g4nt.Frame5.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+						end
+						e4l44g4nt.Changed:Connect(function(e7legant)
+							if e7legant == "AbsoluteContentSize" then
+								e4474l4g4nt.fn44()
+							end
+						end)
+					end
+				end
+				e4474l4g4nt.Frame6 = e4legant4.new("Frame")
+				e4474l4g4nt.Frame6.Name = "AWPGrid"
+				e4474l4g4nt.Frame6.Parent = E4legan77t.skins.Container
+				e4474l4g4nt.Frame6.BackgroundTransparency = e4legant4.v83[85]
+				e4474l4g4nt.Frame6.BorderSizePixel = e4legant4.v83[118]
+				e4474l4g4nt.Frame6.Size = e4legant4.udim2(0, 510, 0, 0)
+				e4474l4g4nt.Frame6.Visible = false
+				e4474l4g4nt.Frame6.LayoutOrder = - 1
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(e4legant4.v83[118], 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, 10, e4legant4.v83[118], 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e4474l4g4nt.Frame6
+					e4474l4g4nt.fn45 = function()
+						e4474l4g4nt.Frame6.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e4474l4g4nt.fn45()
+						end
+-- e4l3g4nt_was_here
+					end)
+				end
+			end
+			do
+				e4474l4g4nt.v88 = e4legant4.new(e4legant4.v83[71])
+				e4474l4g4nt.v88.Name = "FamasGrid"
+				e4474l4g4nt.v88.Parent = E4legan77t.skins.Container
+				e4474l4g4nt.v88.BackgroundTransparency = 1
+				e4474l4g4nt.v88.BorderSizePixel = 0
+				e4474l4g4nt.v88.Size = e4legant4.udim2(0, 510, 0, e4legant4.v83[118])
+				e4474l4g4nt.v88.Visible = false
+				e4474l4g4nt.v88.LayoutOrder = - e4legant4.v83[85]
+-- e4l44gant77 on top
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, e4legant4.v83[118], 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, e4legant4.v83[131], e4legant4.v83[118], e4legant4.v83[131])
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = 5
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e4474l4g4nt.v88
+					e4474l4g4nt.fn46 = function()
+						e4474l4g4nt.v88.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e4474l4g4nt.fn46()
+						end
+					end)
+				end
+			end
+			e4474l4g4nt.Frame7 = e4legant4.new("Frame")
+			e4474l4g4nt.Frame7.Name = "SSG08Grid"
+			e4474l4g4nt.Frame7.Parent = E4legan77t.skins.Container
+			e4474l4g4nt.Frame7.BackgroundTransparency = 1
+			e4474l4g4nt.Frame7.BorderSizePixel = 0
+			e4474l4g4nt.Frame7.Size = e4legant4.udim2(0, 510, 0, e4legant4.v83[118])
+			e4474l4g4nt.Frame7.Visible = false
+			e4474l4g4nt.Frame7.LayoutOrder = - 1
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+				e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, e4legant4.v83[131])
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e4474l4g4nt.Frame7
+				e7744l4g4nt.fn47 = function()
+					e4474l4g4nt.Frame7.Size = e4legant4.udim2(e4legant4.v83[118], 510, e4legant4.v83[118], e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e7744l4g4nt.fn47()
+					end
+				end)
+			end
+		end
+		do
+			do
+				e7744l4g4nt.v89 = e4legant4.new(e4legant4.v83[71])
+				e7744l4g4nt.v89.Name = "M4A4Grid"
+				e7744l4g4nt.v89.Parent = E4legan77t.skins.Container
+				e7744l4g4nt.v89.BackgroundTransparency = e4legant4.v83[85]
+				e7744l4g4nt.v89.BorderSizePixel = 0
+				e7744l4g4nt.v89.Size = e4legant4.udim2(0, 510, 0, e4legant4.v83[118])
+				e7744l4g4nt.v89.Visible = false
+				e7744l4g4nt.v89.LayoutOrder = - e4legant4.v83[85]
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, 10, e4legant4.v83[118], 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = 5
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e7744l4g4nt.v89
+					e7744l4g4nt.fn48 = function()
+						e7744l4g4nt.v89.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e7744l4g4nt.fn48()
+						end
+					end)
+				end
+			end
+			e7744l4g4nt.v90 = e4legant4.new(e4legant4.v83[71])
+			e7744l4g4nt.v90.Name = "DualBarettasGrid"
+			e7744l4g4nt.v90.Parent = E4legan77t.skins.Container
+			e7744l4g4nt.v90.BackgroundTransparency = 1
+			e7744l4g4nt.v90.BorderSizePixel = 0
+			e7744l4g4nt.v90.Size = e4legant4.udim2(0, 510, 0, e4legant4.v83[118])
+			e7744l4g4nt.v90.Visible = false
+			e7744l4g4nt.v90.LayoutOrder = - 1
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+				e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, e4legant4.v83[131])
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = 5
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e7744l4g4nt.v90
+				e7744l4g4nt.fn49 = function()
+					e7744l4g4nt.v90.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e7744l4g4nt.fn49()
+					end
+-- e4l3g4nt above all 7447
+				end)
+			end
+		end
+		do
+			e7744l4g4nt.Frame8 = e4legant4.new("Frame")
+			e7744l4g4nt.Frame8.Name = "GalilARGrid"
+			e7744l4g4nt.Frame8.Parent = E4legan77t.skins.Container
+			e7744l4g4nt.Frame8.BackgroundTransparency = 1
+			e7744l4g4nt.Frame8.BorderSizePixel = e4legant4.v83[118]
+			e7744l4g4nt.Frame8.Size = e4legant4.udim2(0, 510, e4legant4.v83[118], 0)
+			e7744l4g4nt.Frame8.Visible = e4legant4.v83[9]
+			e7744l4g4nt.Frame8.LayoutOrder = - e4legant4.v83[85]
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+				e4l44g4nt.CellPadding = UDim2.new(e4legant4.v83[118], e4legant4.v83[131], 0, 10)
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = 5
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e7744l4g4nt.Frame8
+				e7744l4g4nt.fn50 = function()
+					e7744l4g4nt.Frame8.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e7744l4g4nt.fn50()
+					end
+				end)
+			end
+		end
+		e7744l4g4nt.Frame9 = e4legant4.new("Frame")
+		e7744l4g4nt.Frame9.Name = "R8RevolverGrid"
+		e7744l4g4nt.Frame9.Parent = E4legan77t.skins.Container
+		e7744l4g4nt.Frame9.BackgroundTransparency = 1
+		e7744l4g4nt.Frame9.BorderSizePixel = 0
+		e7744l4g4nt.Frame9.Size = e4legant4.udim2(0, 510, 0, 0)
+		e7744l4g4nt.Frame9.Visible = e4legant4.v83[9]
+		e7744l4g4nt.Frame9.LayoutOrder = - e4legant4.v83[85]
+		do
+			local e4l44g4nt = e4legant4.new("UIGridLayout")
+			e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+			e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, e4legant4.v83[131])
+			e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+			e4l44g4nt.FillDirectionMaxCells = 5
+			e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+			e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+			e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+			e4l44g4nt.Parent = e7744l4g4nt.Frame9
+			e7744l4g4nt.fn51 = function()
+				e7744l4g4nt.Frame9.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+			end
+			e4l44g4nt.Changed:Connect(function(e7legant)
+				if e7legant == "AbsoluteContentSize" then
+					e7744l4g4nt.fn51()
+				end
+			end)
+		end
+	end
+	do
+		local e4l7744g4nt = {}
+		do
+			do
+				e4l7744g4nt.v91 = e4legant4.new(e4legant4.v83[71])
+				e4l7744g4nt.v91.Name = "DesertEagleGrid"
+				e4l7744g4nt.v91.Parent = E4legan77t.skins.Container
+				e4l7744g4nt.v91.BackgroundTransparency = 1
+				e4l7744g4nt.v91.BorderSizePixel = e4legant4.v83[118]
+				e4l7744g4nt.v91.Size = e4legant4.udim2(0, 510, 0, 0)
+				e4l7744g4nt.v91.Visible = false
+				e4l7744g4nt.v91.LayoutOrder = - 1
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+-- 4l3g4nt wuz here 74
+					e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e4l7744g4nt.v91
+					e4l7744g4nt.fn52 = function()
+-- e4l3g4nt : 7 : 4 : 7
+						e4l7744g4nt.v91.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e4l7744g4nt.fn52()
+						end
+					end)
+				end
+			end
+			do
+				e4l7744g4nt.Frame10 = e4legant4.new("Frame")
+				e4l7744g4nt.Frame10.Name = "USPSGrid"
+				e4l7744g4nt.Frame10.Parent = E4legan77t.skins.Container
+				e4l7744g4nt.Frame10.BackgroundTransparency = 1
+				e4l7744g4nt.Frame10.BorderSizePixel = e4legant4.v83[118]
+				e4l7744g4nt.Frame10.Size = e4legant4.udim2(0, 510, e4legant4.v83[118], e4legant4.v83[118])
+				e4l7744g4nt.Frame10.Visible = e4legant4.v83[9]
+				e4l7744g4nt.Frame10.LayoutOrder = - e4legant4.v83[85]
+				do
+					local e4l44g4nt = e4legant4.new("UIGridLayout")
+					e4l44g4nt.CellSize = UDim2.new(0, 90, 0, 90)
+					e4l44g4nt.CellPadding = UDim2.new(e4legant4.v83[118], 10, e4legant4.v83[118], 10)
+					e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+					e4l44g4nt.FillDirectionMaxCells = 5
+					e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+					e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+					e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+					e4l44g4nt.Parent = e4l7744g4nt.Frame10
+					e4l7744g4nt.fn53 = function()
+						e4l7744g4nt.Frame10.Size = e4legant4.udim2(e4legant4.v83[118], 510, e4legant4.v83[118], e4l44g4nt.AbsoluteContentSize.Y)
+					end
+					e4l44g4nt.Changed:Connect(function(e7legant)
+						if e7legant == "AbsoluteContentSize" then
+							e4l7744g4nt.fn53()
+						end
+					end)
+				end
+			end
+			e4l7744g4nt.Frame11 = e4legant4.new("Frame")
+			e4l7744g4nt.Frame11.Name = "Glock18Grid"
+			e4l7744g4nt.Frame11.Parent = E4legan77t.skins.Container
+			e4l7744g4nt.Frame11.BackgroundTransparency = 1
+			e4l7744g4nt.Frame11.BorderSizePixel = 0
+			e4l7744g4nt.Frame11.Size = e4legant4.udim2(0, 510, 0, 0)
+			e4l7744g4nt.Frame11.Visible = e4legant4.v83[9]
+			e4l7744g4nt.Frame11.LayoutOrder = - 1
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(0, 90, e4legant4.v83[118], 90)
+				e4l44g4nt.CellPadding = UDim2.new(0, 10, 0, 10)
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e4l7744g4nt.Frame11
+				e4l7744g4nt.fn54 = function()
+					e4l7744g4nt.Frame11.Size = e4legant4.udim2(e4legant4.v83[118], 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e4l7744g4nt.fn54()
+					end
+				end)
+			end
+		end
+		local e4l47g4nt, e4l477g4nt
+		do
+			e4l47g4nt = e4legant4.new("Frame")
+			e4l47g4nt.Name = "GenericGrid"
+			e4l47g4nt.Parent = E4legan77t.skins.Container
+			e4l47g4nt.BackgroundTransparency = 1
+			e4l47g4nt.BorderSizePixel = 0
+			e4l47g4nt.Size = e4legant4.udim2(0, 510, 0, 0)
+			e4l47g4nt.Visible = false
+			e4l47g4nt.LayoutOrder = - 1
+			do
+				local e4l44g4nt = e4legant4.new("UIGridLayout")
+				e4l44g4nt.CellSize = UDim2.new(e4legant4.v83[118], 90, 0, 90)
+				e4l44g4nt.CellPadding = UDim2.new(0, 10, e4legant4.v83[118], 10)
+				e4l44g4nt.FillDirection = Enum.FillDirection.Horizontal
+				e4l44g4nt.FillDirectionMaxCells = e4legant4.v83[81]
+				e4l44g4nt.HorizontalAlignment = Enum.HorizontalAlignment.Left
+				e4l44g4nt.VerticalAlignment = Enum.VerticalAlignment.Top
+				e4l44g4nt.SortOrder = Enum.SortOrder.LayoutOrder
+				e4l44g4nt.Parent = e4l47g4nt
+				e4l477g4nt = function()
+					e4l47g4nt.Size = e4legant4.udim2(0, 510, 0, e4l44g4nt.AbsoluteContentSize.Y)
+				end
+				e4l44g4nt.Changed:Connect(function(e7legant)
+					if e7legant == "AbsoluteContentSize" then
+						e4l477g4nt()
+					end
+				end)
+			end
+		end
+		do
+			local function e4l447g4nt()
+				local ele7g4nt = E4legan77t.skins.Container.Parent
+				if not ele7g4nt then
+					return
+				end
+				local E477legant = 0
+				for e4l4g4n777, E4leg4ant in ipairs({
+					e474l4g4nt.Frame,
+					e744l4g4nt.Frame2,
+					e744l4g4nt.v86,
+					e744l4g4nt.Frame3,
+					e744l4g4nt.Frame4,
+-- e4l44gant77 | 747
+					e4474l4g4nt.v87,
+-- e4l44gant77 | 747
+					e4474l4g4nt.Frame5,
+					e4474l4g4nt.Frame6,
+					e4474l4g4nt.v88,
+					e4474l4g4nt.Frame7,
+					e7744l4g4nt.v89,
+					e7744l4g4nt.v90,
+					e7744l4g4nt.Frame8,
+					e7744l4g4nt.Frame9,
+					e4l7744g4nt.v91,
+					e4l7744g4nt.Frame10,
+					e4l7744g4nt.Frame11,
+					e4l47g4nt,
+				}) do
+					if E4leg4ant.Visible then
+						local eLeGa774Nt = e4legant4.v83[118]
+						pcall(function()
+							local e4l4447g4nt = E4leg4ant:FindFirstChildWhichIsA("UIGridLayout")
+							if e4l4447g4nt then
+								eLeGa774Nt = e4l4447g4nt.AbsoluteContentSize.Y
+							end
+						end)
+						if E477legant < eLeGa774Nt then
+							E477legant = eLeGa774Nt
+						end
+					end
+				end
+				local E4447legant = math.max(310, E477legant + 60)
+				ele7g4nt.Size = e4legant4.udim2(0, 510, 0, E4447legant)
+				pcall(function()
+					E4legan77t.skins.Container.Size = e4legant4.udim2(0, 494, e4legant4.v83[118], E477legant)
+				end)
+				local ele77g4nt = ele7g4nt.Parent
+				if ele77g4nt and ele77g4nt:IsA("ScrollingFrame") then
+					local e4l4774g4nt = ele77g4nt:FindFirstChild("SingleSectionList")
+					if e4l4774g4nt then
+						pcall(function()
+							ele77g4nt.CanvasSize = e4legant4.udim2(0, 0, e4legant4.v83[118], e4legant4.v83[130] + e4l4774g4nt.AbsoluteContentSize.Y)
+						end)
+					else
+						pcall(function()
+-- e4l3g4nt_was_here
+							ele77g4nt.CanvasSize = e4legant4.udim2(e4legant4.v83[118], 0, 0, E4447legant + 100)
+						end)
+					end
+				else
+					local e4l4g44nt = E4legan77t.skins.Container.Parent and E4legan77t.skins.Container.Parent.Parent
+					if e4l4g44nt and e4l4g44nt:IsA("ScrollingFrame") then
+						local e4l4774g4nt = e4l4g44nt:FindFirstChild("SingleSectionList")
+						if e4l4774g4nt then
+							pcall(function()
+								e4l4g44nt.CanvasSize = e4legant4.udim2(0, 0, 0, e4legant4.v83[130] + e4l4774g4nt.AbsoluteContentSize.Y)
+							end)
+						end
+-- property of e4l3g4nt
+					end
+				end
+			end
+			for e4l4g4n777, E4leg4ant in ipairs({
+-- elegantified :: 4747
+				e474l4g4nt.Frame,
+				e744l4g4nt.Frame2,
+				e744l4g4nt.v86,
+				e744l4g4nt.Frame3,
+				e744l4g4nt.Frame4,
+				e4474l4g4nt.v87,
+				e4474l4g4nt.Frame5,
+				e4474l4g4nt.Frame6,
+				e4474l4g4nt.v88,
+				e4474l4g4nt.Frame7,
+				e7744l4g4nt.v89,
+				e7744l4g4nt.v90,
+				e7744l4g4nt.Frame8,
+				e7744l4g4nt.Frame9,
+				e4l7744g4nt.v91,
+				e4l7744g4nt.Frame10,
+				e4l7744g4nt.Frame11,
+				e4l47g4nt,
+			}) do
+				do
+					local e4l4447g4nt = E4leg4ant:FindFirstChildWhichIsA("UIGridLayout")
+					if e4l4447g4nt then
+						e4l4447g4nt:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(e4l447g4nt)
+					end
+				end
+				E4leg4ant:GetPropertyChangedSignal("Visible"):Connect(e4l447g4nt)
+			end
+			task.defer(e4l447g4nt)
+		end
+		do
+			local function e4l447g4nt(e7legant, e77legant, ele7g4nt, e447legant)
+				local _4474legant = e77legant.size or 80
+				local e4l4g444nt = e77legant.id
+				local Ele447gant = e4legant4.new("TextButton")
+				local E7legant = e4legant4.new("UICorner")
+				local elegant774 = e4legant4.new("UIStroke")
+				local Ele47gant = e4legant4.new("ImageLabel")
+				Ele447gant.Name = e447legant and "SubSkinBtn" .. e7legant or "SkinBtn" .. e7legant
+				Ele447gant.Parent = ele7g4nt
+				Ele447gant.BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+				Ele447gant.BorderSizePixel = e4legant4.v83[118]
+				Ele447gant.Size = e4legant4.udim2(0, _4474legant, e4legant4.v83[118], _4474legant)
+				Ele447gant.AutoButtonColor = false
+				Ele447gant.Text = ""
+				Ele447gant.ZIndex = 3
+				Ele447gant.BackgroundTransparency = 1
+				Ele447gant.Visible = false
+				E7legant.CornerRadius = UDim.new(0, 8)
+				E7legant.Parent = Ele447gant
+				elegant774.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+				elegant774.Color = e4legant4.color(37, 37, 37)
+				elegant774.Parent = Ele447gant
+				elegant774.Transparency = 1
+				Ele47gant.Name = "SkinImg"
+				Ele47gant.Parent = Ele447gant
+				Ele47gant.BackgroundTransparency = e4legant4.v83[85]
+				Ele47gant.Image = e4l4g444nt
+				Ele47gant.AnchorPoint = Vector2.new(0.5, 0.5)
+				Ele47gant.Position = UDim2.new(0.5, - 20, 0.5, 0)
+				Ele47gant.Size = UDim2.new(1, 0, e4legant4.v83[85], 0)
+				Ele47gant.ImageColor3 = e4legant4.color(e4legant4.v83[150], 255, e4legant4.v83[150])
+				Ele47gant.ScaleType = Enum.ScaleType.Fit
+				Ele47gant.ZIndex = 4
+				Ele47gant.ImageTransparency = 1
+				local e47l4g4nt = {
+					BackgroundColor3 = theme.accent
+				}
+				local E47legant = tweenService:Create(Ele447gant, TweenInfo.new(0.2), e47l4g4nt)
+				local E74legant = tweenService:Create(Ele447gant, TweenInfo.new(0.2), {
+					BackgroundColor3 = e4legant4.color(21, e4legant4.v83[167], 21)
+				})
+				theme_event.Event:Connect(function()
+					local e477l4g4nt = {
+						BackgroundColor3 = theme.accent
+					}
+					E47legant = tweenService:Create(Ele447gant, TweenInfo.new(0.2), e477l4g4nt)
+				end)
+				Ele447gant.MouseEnter:Connect(function()
+					E47legant:Play()
+				end)
+				Ele447gant.MouseLeave:Connect(function()
+-- 4l3g4nt wuz here 74
+					E74legant:Play()
+				end)
+				return Ele447gant
+			end
+			for eleg44ant, E4leg4ant in ipairs(E4legan77t.tbl19) do
+				e4l447g4nt(eleg44ant, E4leg4ant, e744l4g4nt.Frame2, false).MouseButton1Click:Connect(function()
+					local E4leg44ant = nil
+					if E4leg4ant.type ~= "knives" then
+						E4leg44ant = e444l4g4nt.fn30(E4leg4ant.type)
+					end
+					if E4leg44ant and # E4leg44ant > 0 then
+						local E4leg47ant, E4leg74ant
+						if E4leg4ant.type == "gloves" then
+							E4leg47ant = e744l4g4nt.Frame4
+							E4leg74ant = e4474l4g4nt.fn42
+						elseif E4leg4ant.type == "ak47" then
+							E4leg47ant = e4474l4g4nt.v87
+							E4leg74ant = e4474l4g4nt.fn43
+						elseif E4leg4ant.type == "m4a1s" then
+							E4leg47ant = e4474l4g4nt.Frame5
+							E4leg74ant = e4474l4g4nt.fn44
+						elseif E4leg4ant.type == "awp" then
+							E4leg47ant = e4474l4g4nt.Frame6
+-- e4l3g4nt_was_here
+							E4leg74ant = e4474l4g4nt.fn45
+						elseif E4leg4ant.type == "famas" then
+							E4leg47ant = e4474l4g4nt.v88
+							E4leg74ant = e4474l4g4nt.fn46
+						elseif E4leg4ant.type == "ssg08" then
+							E4leg47ant = e4474l4g4nt.Frame7
+-- e4l44gant77 | 747
+							E4leg74ant = e7744l4g4nt.fn47
+						elseif E4leg4ant.type == "m4a4" then
+							E4leg47ant = e7744l4g4nt.v89
+							E4leg74ant = e7744l4g4nt.fn48
+						elseif E4leg4ant.type == "dualbarettas" then
+							E4leg47ant = e7744l4g4nt.v90
+							E4leg74ant = e7744l4g4nt.fn49
+						elseif E4leg4ant.type == "galilar" then
+							E4leg47ant = e7744l4g4nt.Frame8
+							E4leg74ant = e7744l4g4nt.fn50
+-- e4l44gant77 | 747
+						elseif E4leg4ant.type == "r8revolver" then
+							E4leg47ant = e7744l4g4nt.Frame9
+							E4leg74ant = e7744l4g4nt.fn51
+						elseif E4leg4ant.type == "deserteagle" then
+-- e4l44gant77 | 747
+							E4leg47ant = e4l7744g4nt.v91
+							E4leg74ant = e4l7744g4nt.fn52
+						elseif E4leg4ant.type == "usps" then
+							E4leg47ant = e4l7744g4nt.Frame10
+							E4leg74ant = e4l7744g4nt.fn53
+						elseif E4leg4ant.type == "glock18" then
+							E4leg47ant = e4l7744g4nt.Frame11
+							E4leg74ant = e4l7744g4nt.fn54
+						else
+							E4leg47ant = e4l47g4nt
+							E4leg74ant = e4l477g4nt
+						end
+						if E4leg47ant then
+							e74l4g4nt.flag18 = e4legant4.v83[9]
+							if E4leg4ant.type == "gloves" then
+								e74l4g4nt.flag21 = e4legant4.v83[91]
+							elseif E4leg4ant.type == "ak47" then
+								e74l4g4nt.flag22 = true
+							elseif E4leg4ant.type == "m4a1s" then
+								e774l4g4nt.flag23 = true
+							elseif E4leg4ant.type == "awp" then
+								e774l4g4nt.flag24 = true
+							elseif E4leg4ant.type == "famas" then
+								e774l4g4nt.flag25 = true
+							elseif E4leg4ant.type == "ssg08" then
+								e774l4g4nt.flag26 = true
+							elseif E4leg4ant.type == "m4a4" then
+								e774l4g4nt.flag27 = e4legant4.v83[91]
+							elseif E4leg4ant.type == "dualbarettas" then
+								e774l4g4nt.flag28 = true
+							elseif E4leg4ant.type == "galilar" then
+								e774l4g4nt.flag29 = e4legant4.v83[91]
+							elseif E4leg4ant.type == "r8revolver" then
+								e774l4g4nt.flag30 = true
+							elseif E4leg4ant.type == "deserteagle" then
+								e774l4g4nt.flag31 = true
+							elseif E4leg4ant.type == "usps" then
+								e774l4g4nt.flag32 = true
+							elseif E4leg4ant.type == "glock18" then
+								e474l4g4nt.flag33 = true
+							else
+								e474l4g4nt.flag34 = true
+							end
+							e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+							E4leg47ant.Visible = true
+							e474l4g4nt.TextButton2.Parent = E4leg47ant
+							e474l4g4nt.TextButton2.Visible = true
+							for e4l4g4n777, Eleg447ant in ipairs(E4leg47ant:GetChildren()) do
+								if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+									Eleg447ant:Destroy()
+								end
+							end
+							for eL4g4n47t, e4L4gant in ipairs(E4leg44ant) do
+								e4l447g4nt(eL4g4n47t, {
+									id = e4L4gant.id,
+									size = 80
+								}, E4leg47ant, e4legant4.v83[91]).MouseButton1Click:Connect(function()
+									local e4l4g74nt = E4leg4ant.type
+									e744l4g4nt.fn36(E4leg47ant, function()
+										if e4l4g74nt == "gloves" then
+											e74l4g4nt.flag21 = false
+										elseif e4l4g74nt == "ak47" then
+											e74l4g4nt.flag22 = false
+										elseif e4l4g74nt == "m4a1s" then
+											e774l4g4nt.flag23 = false
+										elseif e4l4g74nt == "awp" then
+											e774l4g4nt.flag24 = false
+										elseif e4l4g74nt == "famas" then
+											e774l4g4nt.flag25 = false
+										elseif e4l4g74nt == "ssg08" then
+											e774l4g4nt.flag26 = e4legant4.v83[9]
+										elseif e4l4g74nt == "m4a4" then
+											e774l4g4nt.flag27 = false
+-- e4l3g4nt_was_here
+										elseif e4l4g74nt == "dualbarettas" then
+											e774l4g4nt.flag28 = false
+										elseif e4l4g74nt == "galilar" then
+											e774l4g4nt.flag29 = false
+										elseif e4l4g74nt == "r8revolver" then
+											e774l4g4nt.flag30 = false
+										elseif e4l4g74nt == "deserteagle" then
+											e774l4g4nt.flag31 = false
+										elseif e4l4g74nt == "usps" then
+											e774l4g4nt.flag32 = false
+										elseif e4l4g74nt == "glock18" then
+-- 4l3g4nt never dies 7744
+											e474l4g4nt.flag33 = false
+										else
+											e474l4g4nt.flag34 = false
+										end
+										e74l4g4nt.flag18 = false
+										E4leg47ant.Visible = e4legant4.v83[9]
+										e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+										e474l4g4nt.TextButton2.Parent = nil
+										e744l4g4nt.fn38(e4l4g74nt, function()
+											local e47l4g4nt = {
+												ak47 = "AK-47",
+												m4a1s = "M4A1-S",
+												awp = "AWP",
+												famas = "FAMAS",
+												ssg08 = "SSG 08",
+												m4a4 = "M4A4",
+												dualbarettas = "Dual Berettas",
+												galilar = "Galil AR",
+												r8revolver = "R8 Revolver",
+												deserteagle = "Desert Eagle",
+												usps = "USP-S",
+												glock18 = "Glock-18",
+												aug = "AUG",
+												fiveseven = "Five-SeveN",
+												mac10 = "MAC-10",
+												mag7 = "MAG-7",
+												mp9 = "MP9",
+												negev = "Negev",
+												nova = "Nova",
+												p250 = "P250",
+												p90 = "P90",
+												sg553 = "SG 553",
+												sawedoff = "Sawed-Off",
+												tec9 = "Tec-9",
+												xm1014 = "XM1014",
+												zeus = "Zeus x27",
+											}
+											if e4l4g74nt == "gloves" then
+												SkinConfig.GG = e4L4gant.type
+												SkinConfig.GS = e4L4gant.name
+											elseif e47l4g4nt[e4l4g74nt] then
+												SkinConfig.GunSkins[e47l4g4nt[e4l4g74nt]] = e4L4gant.name
+											end
+											SkinConfig.GunWear = "Factory New"
+											local e477l4g4nt = {
+												knifeName = e4L4gant.name,
+												skinId = e4L4gant.id,
+												skinIndex = eL4g4n47t,
+												skinType = e4l4g74nt
+											}
+											table.insert(SavedSkins, e477l4g4nt)
+											for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+												if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+													Eleg447ant.Visible = true
+												end
+											end
+											local e44L4gant = e744l4g4nt.fn37(e477l4g4nt, # SavedSkins)
+											e474l4g4nt.fn33(e44L4gant)
+											e474l4g4nt.fn34(e44L4gant, e4legant4.v83[118])
+											e474l4g4nt.Frame.Visible = e4legant4.v83[91]
+-- 4l3g4nt wuz here 74
+											e474l4g4nt.TextButton.Visible = true
+											task.defer(e474l4g4nt.fn32)
+										end)
+									end)
+								end)
+							end
+							task.defer(E4leg74ant)
+							e4legant4.delay(0.05, function()
+								e474l4g4nt.fn35(E4leg47ant)
+							end)
+							return
+						end
+					end
+					if E4leg4ant.type == "gloves" then
+						e74l4g4nt.flag18 = false
+						e74l4g4nt.flag21 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e744l4g4nt.Frame4.Visible = true
+						e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame4
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e744l4g4nt.Frame4:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl20) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e744l4g4nt.Frame4, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e744l4g4nt.Frame4, function()
+									e74l4g4nt.flag21 = e4legant4.v83[9]
+									e74l4g4nt.flag18 = false
+									e744l4g4nt.Frame4.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("glove", function()
+										SkinConfig.GG = E4leg47ant.type
+										SkinConfig.GS = E4leg47ant.name
+										SkinConfig.GW = "Factory New"
+-- 4l3g4nt owns this 4477
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.type .. " | " .. E4leg47ant.name,
+											skinId = E4leg47ant.id,
+-- 4l3g4nt wuz here 74
+											skinIndex = eL4g4n47t,
+											skinType = "glove"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4474l4g4nt.fn42)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e744l4g4nt.Frame4)
+						end)
+					elseif E4leg4ant.type == "ak47" then
+						e74l4g4nt.flag18 = false
+						e74l4g4nt.flag22 = true
+						e744l4g4nt.Frame2.Visible = false
+						e4474l4g4nt.v87.Visible = true
+						e474l4g4nt.TextButton2.Parent = e4474l4g4nt.v87
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4474l4g4nt.v87:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl21) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4474l4g4nt.v87, e4legant4.v83[91]).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4474l4g4nt.v87, function()
+									e74l4g4nt.flag22 = false
+									e74l4g4nt.flag18 = false
+									e4474l4g4nt.v87.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+-- e4l3g4nt_was_here
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("ak47", function()
+										SkinConfig.GunSkins["AK-47"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "ak47"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4474l4g4nt.fn43)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4474l4g4nt.v87)
+						end)
+					elseif E4leg4ant.type == "m4a1s" then
+						e74l4g4nt.flag18 = false
+						e774l4g4nt.flag23 = true
+						e744l4g4nt.Frame2.Visible = false
+						e4474l4g4nt.Frame5.Visible = e4legant4.v83[91]
+						e474l4g4nt.TextButton2.Parent = e4474l4g4nt.Frame5
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4474l4g4nt.Frame5:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl22) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4474l4g4nt.Frame5, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4474l4g4nt.Frame5, function()
+									e774l4g4nt.flag23 = false
+									e74l4g4nt.flag18 = false
+									e4474l4g4nt.Frame5.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("m4a1s", function()
+										SkinConfig.GunSkins["M4A1-S"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "m4a1s"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = e4legant4.v83[91]
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, e4legant4.v83[118])
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4474l4g4nt.fn44)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4474l4g4nt.Frame5)
+						end)
+					elseif E4leg4ant.type == "awp" then
+						e74l4g4nt.flag18 = e4legant4.v83[9]
+						e774l4g4nt.flag24 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e4474l4g4nt.Frame6.Visible = true
+						e474l4g4nt.TextButton2.Parent = e4474l4g4nt.Frame6
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4474l4g4nt.Frame6:GetChildren()) do
+-- 4l3g4nt never dies 7744
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl23) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4474l4g4nt.Frame6, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4474l4g4nt.Frame6, function()
+									e774l4g4nt.flag24 = false
+									e74l4g4nt.flag18 = false
+									e4474l4g4nt.Frame6.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("awp", function()
+										SkinConfig.GunSkins.AWP = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "awp"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+-- e7l4g4nt < 47 >
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, e4legant4.v83[118])
+										e474l4g4nt.Frame.Visible = e4legant4.v83[91]
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4474l4g4nt.fn45)
+						e4legant4.delay(0.05, function()
+-- e4l3g4nt :: 47
+							e474l4g4nt.fn35(e4474l4g4nt.Frame6)
+						end)
+					elseif E4leg4ant.type == "famas" then
+						e74l4g4nt.flag18 = false
+						e774l4g4nt.flag25 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e4474l4g4nt.v88.Visible = e4legant4.v83[91]
+						e474l4g4nt.TextButton2.Parent = e4474l4g4nt.v88
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4474l4g4nt.v88:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl24) do
+-- e4l44gant77 on top
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4474l4g4nt.v88, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4474l4g4nt.v88, function()
+									e774l4g4nt.flag25 = e4legant4.v83[9]
+									e74l4g4nt.flag18 = false
+									e4474l4g4nt.v88.Visible = false
+									e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("famas", function()
+										SkinConfig.GunSkins.FAMAS = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+-- e4l3g4nt above all 7447
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "famas"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4474l4g4nt.fn46)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4474l4g4nt.v88)
+-- e4l44gant77 on top
+						end)
+					elseif E4leg4ant.type == "ssg08" then
+						e74l4g4nt.flag18 = false
+						e774l4g4nt.flag26 = true
+						e744l4g4nt.Frame2.Visible = false
+						e4474l4g4nt.Frame7.Visible = true
+						e474l4g4nt.TextButton2.Parent = e4474l4g4nt.Frame7
+-- e4l3g4nt_was_here
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4474l4g4nt.Frame7:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl25) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4474l4g4nt.Frame7, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4474l4g4nt.Frame7, function()
+									e774l4g4nt.flag26 = false
+									e74l4g4nt.flag18 = false
+									e4474l4g4nt.Frame7.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+-- e4l44gant77 on top
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("ssg08", function()
+										SkinConfig.GunSkins["SSG 08"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "ssg08"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = e4legant4.v83[91]
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+-- 4legant 4 the win 474
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e7744l4g4nt.fn47)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4474l4g4nt.Frame7)
+						end)
+					elseif E4leg4ant.type == "m4a4" then
+						e74l4g4nt.flag18 = false
+						e774l4g4nt.flag27 = true
+						e744l4g4nt.Frame2.Visible = false
+						e7744l4g4nt.v89.Visible = e4legant4.v83[91]
+						e474l4g4nt.TextButton2.Parent = e7744l4g4nt.v89
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e7744l4g4nt.v89:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl26) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e7744l4g4nt.v89, e4legant4.v83[91]).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e7744l4g4nt.v89, function()
+									e774l4g4nt.flag27 = false
+									e74l4g4nt.flag18 = false
+									e7744l4g4nt.v89.Visible = false
+									e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("m4a4", function()
+										SkinConfig.GunSkins.M4A4 = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+-- e4l44gant77 | 747
+											skinIndex = eL4g4n47t,
+											skinType = "m4a4"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+-- e4l3g4nt : 7 : 4 : 7
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e7744l4g4nt.fn48)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e7744l4g4nt.v89)
+						end)
+					elseif E4leg4ant.type == "dualbarettas" then
+						e74l4g4nt.flag18 = e4legant4.v83[9]
+						e774l4g4nt.flag28 = e4legant4.v83[91]
+						e744l4g4nt.Frame2.Visible = false
+						e7744l4g4nt.v90.Visible = e4legant4.v83[91]
+						e474l4g4nt.TextButton2.Parent = e7744l4g4nt.v90
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e7744l4g4nt.v90:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+-- e4l3g4nt_was_here
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e444l4g4nt.tbl27) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e7744l4g4nt.v90, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e7744l4g4nt.v90, function()
+									e774l4g4nt.flag28 = false
+									e74l4g4nt.flag18 = e4legant4.v83[9]
+									e7744l4g4nt.v90.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("dualbarettas", function()
+										SkinConfig.GunSkins["Dual Berettas"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "dualbarettas"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = e4legant4.v83[91]
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e7744l4g4nt.fn49)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e7744l4g4nt.v90)
+						end)
+-- e4l3g4nt :: 47
+					elseif E4leg4ant.type == "galilar" then
+						e74l4g4nt.flag18 = e4legant4.v83[9]
+						e774l4g4nt.flag29 = e4legant4.v83[91]
+						e744l4g4nt.Frame2.Visible = false
+						e7744l4g4nt.Frame8.Visible = true
+						e474l4g4nt.TextButton2.Parent = e7744l4g4nt.Frame8
+						e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e7744l4g4nt.Frame8:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+-- e4l3g4nt above all 7447
+						for eL4g4n47t, E4leg47ant in ipairs(e74l4g4nt.tbl28) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e7744l4g4nt.Frame8, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e7744l4g4nt.Frame8, function()
+									e774l4g4nt.flag29 = false
+									e74l4g4nt.flag18 = e4legant4.v83[9]
+									e7744l4g4nt.Frame8.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("galilar", function()
+										SkinConfig.GunSkins["Galil AR"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "galilar"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+-- e4l44gant77 | 747
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e7744l4g4nt.fn50)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e7744l4g4nt.Frame8)
+						end)
+					elseif E4leg4ant.type == "r8revolver" then
+						e74l4g4nt.flag18 = false
+-- 4l3g4nt never dies 7744
+						e774l4g4nt.flag30 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e7744l4g4nt.Frame9.Visible = true
+						e474l4g4nt.TextButton2.Parent = e7744l4g4nt.Frame9
+						e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e7744l4g4nt.Frame9:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e74l4g4nt.tbl29) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e7744l4g4nt.Frame9, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e7744l4g4nt.Frame9, function()
+									e774l4g4nt.flag30 = false
+									e74l4g4nt.flag18 = false
+									e7744l4g4nt.Frame9.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("r8revolver", function()
+										SkinConfig.GunSkins["R8 Revolver"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "r8revolver"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, e4legant4.v83[118])
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e7744l4g4nt.fn51)
+-- e4l3g4nt runz this
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e7744l4g4nt.Frame9)
+						end)
+					elseif E4leg4ant.type == "deserteagle" then
+						e74l4g4nt.flag18 = false
+						e774l4g4nt.flag31 = e4legant4.v83[91]
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+-- e4l3g4nt_was_here
+						e4l7744g4nt.v91.Visible = e4legant4.v83[91]
+						e474l4g4nt.TextButton2.Parent = e4l7744g4nt.v91
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4l7744g4nt.v91:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+-- 4l3g4nt owns this 4477
+						for eL4g4n47t, E4leg47ant in ipairs(e74l4g4nt.tbl30) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+-- e4l44gant77 | 747
+							}, e4l7744g4nt.v91, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4l7744g4nt.v91, function()
+									e774l4g4nt.flag31 = false
+									e74l4g4nt.flag18 = false
+									e4l7744g4nt.v91.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("deserteagle", function()
+										SkinConfig.GunSkins["Desert Eagle"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "deserteagle"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, e4legant4.v83[118])
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4l7744g4nt.fn52)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4l7744g4nt.v91)
+						end)
+					elseif E4leg4ant.type == "usps" then
+						e74l4g4nt.flag18 = e4legant4.v83[9]
+						e774l4g4nt.flag32 = e4legant4.v83[91]
+						e744l4g4nt.Frame2.Visible = false
+						e4l7744g4nt.Frame10.Visible = true
+						e474l4g4nt.TextButton2.Parent = e4l7744g4nt.Frame10
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4l7744g4nt.Frame10:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e74l4g4nt.tbl31) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4l7744g4nt.Frame10, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4l7744g4nt.Frame10, function()
+									e774l4g4nt.flag32 = false
+									e74l4g4nt.flag18 = false
+									e4l7744g4nt.Frame10.Visible = false
+									e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("usps", function()
+										SkinConfig.GunSkins["USP-S"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "usps"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+-- 4legant 4 the win 474
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4l7744g4nt.fn53)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4l7744g4nt.Frame10)
+						end)
+					elseif E4leg4ant.type == "glock18" then
+						e74l4g4nt.flag18 = false
+						e474l4g4nt.flag33 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e4l7744g4nt.Frame11.Visible = true
+						e474l4g4nt.TextButton2.Parent = e4l7744g4nt.Frame11
+						e474l4g4nt.TextButton2.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e4l7744g4nt.Frame11:GetChildren()) do
+-- 4legant 4 the win 474
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "BackButton" then
+								Eleg447ant:Destroy()
+							end
+						end
+						for eL4g4n47t, E4leg47ant in ipairs(e74l4g4nt.tbl32) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e4l7744g4nt.Frame11, e4legant4.v83[91]).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e4l7744g4nt.Frame11, function()
+									e474l4g4nt.flag33 = e4legant4.v83[9]
+									e74l4g4nt.flag18 = false
+-- elegantified :: 4747
+									e4l7744g4nt.Frame11.Visible = false
+									e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+									e474l4g4nt.TextButton2.Parent = nil
+-- elegantified :: 4747
+									e744l4g4nt.fn38("glock18", function()
+										SkinConfig.GunSkins["Glock-18"] = E4leg47ant.name
+										SkinConfig.GunWear = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg47ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "glock18"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = e4legant4.v83[91]
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+-- 4l3g4nt never dies 7744
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e4l7744g4nt.fn54)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e4l7744g4nt.Frame11)
+						end)
+					else
+						e74l4g4nt.flag18 = false
+						e74l4g4nt.flag19 = true
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e744l4g4nt.v86.Visible = true
+						e474l4g4nt.TextButton2.Parent = e744l4g4nt.v86
+						e474l4g4nt.TextButton2.Visible = true
+						task.defer(e744l4g4nt.fn40)
+						e474l4g4nt.fn35(e744l4g4nt.v86)
+					end
+				end)
+			end
+			task.defer(e744l4g4nt.fn39)
+			for eleg44ant, E4leg4ant in ipairs(E4legan77t.tbl18) do
+				e4l447g4nt(eleg44ant, E4leg4ant, e744l4g4nt.v86, false).MouseButton1Click:Connect(function()
+					e74l4g4nt.flag19 = false
+					e74l4g4nt.flag20 = true
+					e474l4g4nt.name = E4leg4ant.name
+					e744l4g4nt.v86.Visible = false
+					e744l4g4nt.Frame3.Visible = true
+-- 4l3g4nt wuz here 74
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame3
+					e474l4g4nt.TextButton2.Visible = true
+					for e4l4g4n777, Eleg447ant in ipairs(e744l4g4nt.Frame3:GetChildren()) do
+						if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "BackButton" then
+							Eleg447ant:Destroy()
+						end
+					end
+					local E4leg44ant = e444l4g4nt.fn31(E4leg4ant.name)
+					if E4leg44ant and # E4leg44ant > 0 then
+						for eL4g4n47t, E4leg47ant in ipairs(E4leg44ant) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg47ant.id,
+								size = 80
+							}, e744l4g4nt.Frame3, e4legant4.v83[91]).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e744l4g4nt.Frame3, function()
+									e74l4g4nt.flag20 = e4legant4.v83[9]
+									e74l4g4nt.flag19 = false
+									e74l4g4nt.flag18 = false
+									e744l4g4nt.Frame3.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("knife", function()
+										SkinConfig.DK = E4leg4ant.name
+										SkinConfig.DS = E4leg47ant.name
+										SkinConfig.DW = "Factory New"
+										local e47l4g4nt = {
+											knifeName = E4leg4ant.name,
+											skinId = E4leg47ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "knife"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+						task.defer(e744l4g4nt.fn41)
+						e4legant4.delay(0.05, function()
+							e474l4g4nt.fn35(e744l4g4nt.Frame3)
+						end)
+						return
+					end
+					local E4leg47ant = ({
+						Karambit = {
+							{
+								name = "Aurora",
+								id = "rbxassetid://113750004793967"
+							},
+							{
+								name = "Noir",
+								id = "rbxassetid://108497388500011"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://82334355963706"
+							},
+							{
+								name = "Tiger Stripes",
+								id = "rbxassetid://71370484752060"
+							},
+							{
+								name = "Scarlet",
+								id = "rbxassetid://117216240536029"
+							},
+							{
+								name = "Damascus",
+								id = "rbxassetid://120144231261906"
+							},
+							{
+								name = "Midnight",
+								id = "rbxassetid://80763136393591"
+							},
+							{
+								name = "Frostbite",
+								id = "rbxassetid://123447040169667"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://132543437940378"
+							},
+						},
+						["M9 Bayonet"] = {
+							{
+								name = "Midnight",
+								id = "rbxassetid://91092197123629"
+-- property of e4l3g4nt
+							},
+							{
+								name = "Violet",
+								id = "rbxassetid://106967914785340"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://72592920992661"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://78742419491563"
+							},
+							{
+-- e4l3g4nt runz this
+								name = "Scarlet",
+								id = "rbxassetid://132078898068163"
+							},
+							{
+								name = "Tiger Stripes",
+								id = "rbxassetid://125312157263724"
+							},
+						},
+						["Flip Knife"] = {
+							{
+								name = "Frostbite",
+								id = "rbxassetid://78907946895719"
+							},
+							{
+								name = "Scarlet",
+								id = "rbxassetid://127959156445369"
+							},
+							{
+								name = "Aurora",
+								id = "rbxassetid://107603334400510"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://130164507735326"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://131986775283604"
+							},
+							{
+-- elegantified :: 4747
+								name = "Tiger Stripes",
+								id = "rbxassetid://92519663294336"
+							},
+							{
+								name = "Violet",
+								id = "rbxassetid://79527892237078"
+							},
+							{
+								name = "Safari",
+								id = "rbxassetid://103612553827666"
+							},
+							{
+								name = "Midnight",
+								id = "rbxassetid://136473561078704"
+-- 4l3g4nt never dies 7744
+							},
+							{
+								name = "Noir",
+								id = "rbxassetid://106311577861315"
+							},
+						},
+						["Stiletto Knife"] = {
+							{
+								name = "Scarlet",
+								id = "rbxassetid://110060359373367"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://127072648843065"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://91048445367762"
+							},
+							{
+								name = "Tiger Stripes",
+-- e4l44gant77 | 747
+								id = "rbxassetid://116552571639671"
+							},
+							{
+								name = "Midnight",
+-- 4l3g4nt owns this 4477
+								id = "rbxassetid://77394651362724"
+							},
+						},
+						["Butterfly Knife"] = {
+							{
+								name = "Whiteout",
+								id = "rbxassetid://110113000224373"
+							},
+							{
+								name = "Safari",
+								id = "rbxassetid://123190091670437"
+							},
+							{
+								name = "Scarlet",
+								id = "rbxassetid://87017491344468"
+							},
+							{
+								name = "Violet",
+								id = "rbxassetid://79300005192646"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://111287462193987"
+							},
+							{
+								name = "Midnight",
+								id = "rbxassetid://88865925934283"
+							},
+							{
+								name = "Tiger Stripes",
+								id = "rbxassetid://96659966051216"
+							},
+						},
+						["Skeleton Knife"] = {
+							{
+								name = "Violet",
+								id = "rbxassetid://127909377446043"
+							},
+							{
+								name = "Midnight",
+								id = "rbxassetid://133923596334039"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://118359721200326"
+							},
+							{
+-- e4l3g4nt above all 7447
+								name = "Scarlet",
+								id = "rbxassetid://103251681352012"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://124594244224619"
+							},
+						},
+						["Gut Knife"] = {
+							{
+								name = "Midnight",
+								id = "rbxassetid://128047568390717"
+							},
+							{
+								name = "Aurora",
+								id = "rbxassetid://118691372743231"
+							},
+							{
+								name = "Scarlet",
+								id = "rbxassetid://95174624177505"
+							},
+							{
+								name = "Frostbite",
+								id = "rbxassetid://94735794140831"
+							},
+							{
+								name = "Noir",
+								id = "rbxassetid://116282773180540"
+							},
+							{
+								name = "Fade",
+								id = "rbxassetid://100099630858434"
+							},
+							{
+								name = "Tiger Stripes",
+								id = "rbxassetid://90574007773663"
+							},
+							{
+								name = "Whiteout",
+								id = "rbxassetid://103026988088014"
+							},
+						},
+					})[E4leg4ant.name]
+					if E4leg47ant then
+-- 4legant 4 the win 474
+						for eL4g4n47t, E4leg74ant in ipairs(E4leg47ant) do
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg74ant.id,
+								size = 80
+							}, e744l4g4nt.Frame3, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e744l4g4nt.Frame3, function()
+									e74l4g4nt.flag20 = false
+									e74l4g4nt.flag19 = false
+									e74l4g4nt.flag18 = false
+									e744l4g4nt.Frame3.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("knife", function()
+										SkinConfig.DK = e474l4g4nt.name
+										SkinConfig.DS = E4leg74ant.name
+										SkinConfig.DW = "Factory New"
+										local e47l4g4nt = {
+											knifeName = e474l4g4nt.name,
+											skinId = E4leg74ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "knife"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = e4legant4.v83[91]
+											end
+										end
+										local e4L4gant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(e4L4gant)
+										e474l4g4nt.fn34(e4L4gant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+					else
+						for eL4g4n47t = 1, 15 do
+-- property of e4l3g4nt
+							e4l447g4nt(eL4g4n47t, {
+								id = E4leg4ant.id,
+								size = 80
+							}, e744l4g4nt.Frame3, true).MouseButton1Click:Connect(function()
+								e744l4g4nt.fn36(e744l4g4nt.Frame3, function()
+									e74l4g4nt.flag20 = false
+									e74l4g4nt.flag19 = e4legant4.v83[9]
+									e74l4g4nt.flag18 = e4legant4.v83[9]
+									e744l4g4nt.Frame3.Visible = false
+									e474l4g4nt.TextButton2.Visible = false
+									e474l4g4nt.TextButton2.Parent = nil
+									e744l4g4nt.fn38("knife", function()
+										SkinConfig.DK = e474l4g4nt.name
+										SkinConfig.DS = ""
+										SkinConfig.DW = "Factory New"
+										local e47l4g4nt = {
+-- 4legant 4 the win 474
+											knifeName = e474l4g4nt.name,
+											skinId = E4leg4ant.id,
+											skinIndex = eL4g4n47t,
+											skinType = "knife"
+										}
+										table.insert(SavedSkins, e47l4g4nt)
+										for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+											if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+												Eleg447ant.Visible = true
+											end
+										end
+										local E4leg74ant = e744l4g4nt.fn37(e47l4g4nt, # SavedSkins)
+										e474l4g4nt.fn33(E4leg74ant)
+										e474l4g4nt.fn34(E4leg74ant, 0)
+										e474l4g4nt.Frame.Visible = true
+										e474l4g4nt.TextButton.Visible = true
+										task.defer(e474l4g4nt.fn32)
+									end)
+								end)
+							end)
+						end
+					end
+					task.defer(e744l4g4nt.fn41)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame3)
+					end)
+				end)
+			end
+		end
+		e474l4g4nt.TextButton.MouseButton1Click:Connect(function()
+			if not e74l4g4nt.flag18 then
+				e74l4g4nt.flag18 = true
+				e474l4g4nt.TextButton.Visible = false
+				for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+					if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+						Eleg447ant.Visible = false
+					end
+				end
+				e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+				e474l4g4nt.TextButton2.Visible = true
+				e744l4g4nt.Frame2.Visible = true
+				task.defer(e744l4g4nt.fn39)
+				e4legant4.delay(0.05, function()
+					e474l4g4nt.fn35(e744l4g4nt.Frame2)
+				end)
+			end
+		end)
+		e474l4g4nt.TextButton2.MouseButton1Click:Connect(function()
+			if e74l4g4nt.flag20 then
+				e744l4g4nt.fn36(e744l4g4nt.Frame3, function()
+					e74l4g4nt.flag20 = false
+					e74l4g4nt.flag19 = true
+					e744l4g4nt.Frame3.Visible = false
+					e744l4g4nt.v86.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.v86
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn40)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.v86)
+					end)
+				end)
+			elseif e74l4g4nt.flag19 then
+				e744l4g4nt.fn36(e744l4g4nt.v86, function()
+					e74l4g4nt.flag19 = false
+					e74l4g4nt.flag18 = e4legant4.v83[91]
+					e744l4g4nt.v86.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e74l4g4nt.flag21 then
+				e744l4g4nt.fn36(e744l4g4nt.Frame4, function()
+					e74l4g4nt.flag21 = false
+					e74l4g4nt.flag18 = true
+					e744l4g4nt.Frame4.Visible = e4legant4.v83[9]
+					e744l4g4nt.Frame2.Visible = e4legant4.v83[91]
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e74l4g4nt.flag22 then
+				e744l4g4nt.fn36(e4474l4g4nt.v87, function()
+					e74l4g4nt.flag22 = e4legant4.v83[9]
+					e74l4g4nt.flag18 = e4legant4.v83[91]
+					e4474l4g4nt.v87.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag23 then
+				e744l4g4nt.fn36(e4474l4g4nt.Frame5, function()
+					e774l4g4nt.flag23 = false
+					e74l4g4nt.flag18 = true
+					e4474l4g4nt.Frame5.Visible = e4legant4.v83[9]
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+-- e4l44gant77 | 747
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag24 then
+				e744l4g4nt.fn36(e4474l4g4nt.Frame6, function()
+					e774l4g4nt.flag24 = e4legant4.v83[9]
+					e74l4g4nt.flag18 = true
+					e4474l4g4nt.Frame6.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag25 then
+				e744l4g4nt.fn36(e4474l4g4nt.v88, function()
+					e774l4g4nt.flag25 = false
+					e74l4g4nt.flag18 = true
+					e4474l4g4nt.v88.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag26 then
+				e744l4g4nt.fn36(e4474l4g4nt.Frame7, function()
+					e774l4g4nt.flag26 = false
+					e74l4g4nt.flag18 = true
+					e4474l4g4nt.Frame7.Visible = false
+-- e4l3g4nt above all 7447
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						if not (e4legant4.n24 < 9064) then
+							e474l4g4nt.fn35(e744l4g4nt.Frame2)
+							return
+						end
+						while true do
+						end
+					end)
+				end)
+			elseif e774l4g4nt.flag27 then
+				e744l4g4nt.fn36(e7744l4g4nt.v89, function()
+					e774l4g4nt.flag27 = false
+					e74l4g4nt.flag18 = true
+					e7744l4g4nt.v89.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag28 then
+				e744l4g4nt.fn36(e7744l4g4nt.v90, function()
+					e774l4g4nt.flag28 = false
+					e74l4g4nt.flag18 = true
+					e7744l4g4nt.v90.Visible = false
+					e744l4g4nt.Frame2.Visible = e4legant4.v83[91]
+-- e4l3g4nt :: 47
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag29 then
+				e744l4g4nt.fn36(e7744l4g4nt.Frame8, function()
+					e774l4g4nt.flag29 = e4legant4.v83[9]
+					e74l4g4nt.flag18 = true
+					e7744l4g4nt.Frame8.Visible = e4legant4.v83[9]
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag30 then
+				e744l4g4nt.fn36(e7744l4g4nt.Frame9, function()
+					e774l4g4nt.flag30 = false
+					e74l4g4nt.flag18 = true
+					e7744l4g4nt.Frame9.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag31 then
+				e744l4g4nt.fn36(e4l7744g4nt.v91, function()
+					e774l4g4nt.flag31 = false
+					e74l4g4nt.flag18 = true
+					e4l7744g4nt.v91.Visible = false
+					e744l4g4nt.Frame2.Visible = e4legant4.v83[91]
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e774l4g4nt.flag32 then
+				e744l4g4nt.fn36(e4l7744g4nt.Frame10, function()
+					e774l4g4nt.flag32 = false
+					e74l4g4nt.flag18 = true
+					e4l7744g4nt.Frame10.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e474l4g4nt.flag33 then
+				e744l4g4nt.fn36(e4l7744g4nt.Frame11, function()
+					e474l4g4nt.flag33 = false
+					e74l4g4nt.flag18 = true
+					e4l7744g4nt.Frame11.Visible = e4legant4.v83[9]
+					e744l4g4nt.Frame2.Visible = e4legant4.v83[91]
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[91]
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e474l4g4nt.flag34 then
+				e744l4g4nt.fn36(e4l47g4nt, function()
+					e474l4g4nt.flag34 = e4legant4.v83[9]
+					e74l4g4nt.flag18 = true
+					e4l47g4nt.Visible = false
+					e744l4g4nt.Frame2.Visible = true
+					e474l4g4nt.TextButton2.Parent = e744l4g4nt.Frame2
+					e474l4g4nt.TextButton2.Visible = true
+					task.defer(e744l4g4nt.fn39)
+					e4legant4.delay(0.05, function()
+						e474l4g4nt.fn35(e744l4g4nt.Frame2)
+					end)
+				end)
+			elseif e74l4g4nt.flag18 then
+				e744l4g4nt.fn36(e744l4g4nt.Frame2, function()
+					e74l4g4nt.flag18 = false
+-- 4l3g4nt never dies 7744
+					e744l4g4nt.Frame2.Visible = false
+					e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+					e474l4g4nt.TextButton2.Parent = nil
+					e474l4g4nt.TextButton.Visible = true
+					for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+						if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+							Eleg447ant.Visible = true
+						end
+					end
+					task.defer(e474l4g4nt.fn32)
+				end)
+			end
+		end)
+		inputService.InputBegan:Connect(function(ELE774GANT, e4l4g774nt)
+			if e4l4g774nt then
+				return
+			end
+			if ELE774GANT.UserInputType ~= Enum.UserInputType.MouseButton1 then
+				return
+			end
+			if not e74l4g4nt.flag18 and not e74l4g4nt.flag19 and not e74l4g4nt.flag20 and not e74l4g4nt.flag21 and not e74l4g4nt.flag22 and not e774l4g4nt.flag23 and not e774l4g4nt.flag24 and not e774l4g4nt.flag25 and not e774l4g4nt.flag26 and not e774l4g4nt.flag27 and not e774l4g4nt.flag28 and not e774l4g4nt.flag29 and not e774l4g4nt.flag30 and not e774l4g4nt.flag31 and not e774l4g4nt.flag32 and not e474l4g4nt.flag33 and not e474l4g4nt.flag34 then
+				return
+			end
+			local E477legant = inputService:GetMouseLocation() - e4legant4.vector2(0, 36)
+			local E4leg4ant = e74l4g4nt.flag20 and e744l4g4nt.Frame3 or e74l4g4nt.flag19 and e744l4g4nt.v86 or e74l4g4nt.flag21 and e744l4g4nt.Frame4 or e74l4g4nt.flag22 and e4474l4g4nt.v87 or e774l4g4nt.flag23 and e4474l4g4nt.Frame5 or e774l4g4nt.flag24 and e4474l4g4nt.Frame6 or e774l4g4nt.flag25 and e4474l4g4nt.v88 or e774l4g4nt.flag26 and e4474l4g4nt.Frame7 or e774l4g4nt.flag27 and e7744l4g4nt.v89 or e774l4g4nt.flag28 and e7744l4g4nt.v90 or e774l4g4nt.flag29 and e7744l4g4nt.Frame8 or e774l4g4nt.flag30 and e7744l4g4nt.Frame9 or e774l4g4nt.flag31 and e4l7744g4nt.v91 or e774l4g4nt.flag32 and e4l7744g4nt.Frame10 or e474l4g4nt.flag33 and e4l7744g4nt.Frame11 or e474l4g4nt.flag34 and e4l47g4nt or e744l4g4nt.Frame2
+			local _47ELEGANT = E4leg4ant.AbsolutePosition
+			local e4LeGaNt = E4leg4ant.AbsoluteSize
+			local e4l4g474nt = E477legant.X >= _47ELEGANT.X and E477legant.X <= _47ELEGANT.X + e4LeGaNt.X and E477legant.Y >= _47ELEGANT.Y and E477legant.Y <= _47ELEGANT.Y + e4LeGaNt.Y
+			local e7LeGaNt = e474l4g4nt.TextButton2.AbsolutePosition
+			local e77LeGaNt = e474l4g4nt.TextButton2.AbsoluteSize
+			if not e4l4g474nt and not (E477legant.X >= e7LeGaNt.X and E477legant.X <= e7LeGaNt.X + e77LeGaNt.X and E477legant.Y >= e7LeGaNt.Y and E477legant.Y <= e7LeGaNt.Y + e77LeGaNt.Y) then
+				if e74l4g4nt.flag20 then
+					e744l4g4nt.fn36(e744l4g4nt.Frame3, function()
+						e74l4g4nt.flag20 = false
+						e74l4g4nt.flag19 = false
+						e74l4g4nt.flag18 = false
+						e744l4g4nt.Frame3.Visible = false
+						e744l4g4nt.v86.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e74l4g4nt.flag19 then
+-- e4l3g4nt : 7 : 4 : 7
+					e744l4g4nt.fn36(e744l4g4nt.v86, function()
+						e74l4g4nt.flag19 = false
+						e74l4g4nt.flag18 = false
+						e744l4g4nt.v86.Visible = false
+-- 4l3g4nt never dies 7744
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e74l4g4nt.flag21 then
+					e744l4g4nt.fn36(e744l4g4nt.Frame4, function()
+						e74l4g4nt.flag21 = false
+						e74l4g4nt.flag18 = e4legant4.v83[9]
+						e744l4g4nt.Frame4.Visible = false
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+						if not _4elegant77 then
+							return
+						end
+					end)
+				elseif e74l4g4nt.flag22 then
+					e744l4g4nt.fn36(e4474l4g4nt.v87, function()
+						e74l4g4nt.flag22 = false
+						e74l4g4nt.flag18 = false
+						e4474l4g4nt.v87.Visible = false
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = e4legant4.v83[91]
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag23 then
+					e744l4g4nt.fn36(e4474l4g4nt.Frame5, function()
+						e774l4g4nt.flag23 = false
+						e74l4g4nt.flag18 = false
+						e4474l4g4nt.Frame5.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag24 then
+					e744l4g4nt.fn36(e4474l4g4nt.Frame6, function()
+						e774l4g4nt.flag24 = e4legant4.v83[9]
+						e74l4g4nt.flag18 = false
+						e4474l4g4nt.Frame6.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag25 then
+					e744l4g4nt.fn36(e4474l4g4nt.v88, function()
+						e774l4g4nt.flag25 = false
+						e74l4g4nt.flag18 = false
+						e4474l4g4nt.v88.Visible = false
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = e4legant4.v83[91]
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag26 then
+					e744l4g4nt.fn36(e4474l4g4nt.Frame7, function()
+						e774l4g4nt.flag26 = false
+						e74l4g4nt.flag18 = false
+						e4474l4g4nt.Frame7.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag27 then
+					e744l4g4nt.fn36(e7744l4g4nt.v89, function()
+						e774l4g4nt.flag27 = false
+						e74l4g4nt.flag18 = false
+						e7744l4g4nt.v89.Visible = false
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag28 then
+					e744l4g4nt.fn36(e7744l4g4nt.v90, function()
+						e774l4g4nt.flag28 = e4legant4.v83[9]
+-- e4l3g4nt above all 7447
+						e74l4g4nt.flag18 = false
+						e7744l4g4nt.v90.Visible = e4legant4.v83[9]
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = e4legant4.v83[91]
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag29 then
+					e744l4g4nt.fn36(e7744l4g4nt.Frame8, function()
+						e774l4g4nt.flag29 = false
+						e74l4g4nt.flag18 = false
+						e7744l4g4nt.Frame8.Visible = e4legant4.v83[9]
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = e4legant4.v83[91]
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag30 then
+					e744l4g4nt.fn36(e7744l4g4nt.Frame9, function()
+						e774l4g4nt.flag30 = false
+						e74l4g4nt.flag18 = false
+						e7744l4g4nt.Frame9.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag31 then
+					e744l4g4nt.fn36(e4l7744g4nt.v91, function()
+						e774l4g4nt.flag31 = e4legant4.v83[9]
+						e74l4g4nt.flag18 = false
+						e4l7744g4nt.v91.Visible = e4legant4.v83[9]
+						e744l4g4nt.Frame2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = e4legant4.v83[91]
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e774l4g4nt.flag32 then
+					e744l4g4nt.fn36(e4l7744g4nt.Frame10, function()
+						e774l4g4nt.flag32 = false
+						e74l4g4nt.flag18 = false
+						e4l7744g4nt.Frame10.Visible = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+-- elegantified :: 4747
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e474l4g4nt.flag33 then
+					e744l4g4nt.fn36(e4l7744g4nt.Frame11, function()
+						e474l4g4nt.flag33 = false
+						e74l4g4nt.flag18 = false
+-- e7l4g4nt < 47 >
+						e4l7744g4nt.Frame11.Visible = e4legant4.v83[9]
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = false
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA(e4legant4.v83[45]) and Eleg447ant.Name ~= "AddSkinButton" then
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				elseif e74l4g4nt.flag18 then
+					e744l4g4nt.fn36(e744l4g4nt.Frame2, function()
+						e74l4g4nt.flag18 = false
+						e744l4g4nt.Frame2.Visible = false
+						e474l4g4nt.TextButton2.Visible = e4legant4.v83[9]
+						e474l4g4nt.TextButton2.Parent = nil
+						e474l4g4nt.TextButton.Visible = true
+						for e4l4g4n777, Eleg447ant in ipairs(e474l4g4nt.Frame:GetChildren()) do
+							if Eleg447ant:IsA("TextButton") and Eleg447ant.Name ~= "AddSkinButton" then
+-- 4legant 4 the win 474
+								Eleg447ant.Visible = true
+							end
+						end
+						task.defer(e474l4g4nt.fn32)
+					end)
+				end
+			end
+		end)
+	end
+	local e4l774egant
+	do
+		do
+			task.defer(e474l4g4nt.fn32)
+			task.spawn(function()
+				local e4l44egant = game:GetService("ReplicatedStorage")
+-- e4l3g4nt_was_here
+				local e44l4g4nt = require(e4l44egant.Database.Components.Libraries.Skins)
+				local e4l4g744nt = e4l44egant:WaitForChild("Assets"):WaitForChild("Skins")
+				local _477l4g4nt = game:GetService("RunService")
+				local function e4l474g4nt(e7legant)
+					return e7legant == "CT Knife" or e7legant == "T Knife"
+				end
+				local function e4l4g4474nt()
+					return SkinConfig.DS and SkinConfig.DS ~= "" and SkinConfig.DS or "Vanilla"
+				end
+				local function e4l4g7744nt(e7legant, e77legant)
+					for e4l4g4n777, E4le447gant in e7legant:GetDescendants() do
+						if E4le447gant:IsA("BasePart") or E4le447gant:IsA("MeshPart") then
+							local E4leg4ant = e77legant:FindFirstChild(E4le447gant.Name)
+							if E4leg4ant then
+								local e4l4g47nt = E4le447gant:FindFirstChildOfClass("SurfaceAppearance")
+								if e4l4g47nt then
+									e4l4g47nt:Destroy()
+								end
+								local _47E4legant = E4leg4ant:Clone()
+								_47E4legant.Name = "SurfaceAppearance"
+								_47E4legant.Parent = E4le447gant
+							end
+						end
+					end
+-- e4l3g4nt : 7 : 4 : 7
+				end
+				local function e4l477g4nt(e7legant, e77legant, e447legant)
+-- e4l44gant77 on top
+					if not e7legant or not e77legant then
+						return
+					end
+					pcall(function()
+						local E4le447gant = e4l4g744nt:FindFirstChild(SkinConfig.DK)
+						if not E4le447gant then
+							return
+						end
+						local E4leg4ant = E4le447gant:FindFirstChild(e77legant)
+						local ElEgA44nT = E4leg4ant and E4leg4ant:FindFirstChild("Camera")
+						if ElEgA44nT then
+							ElEgA44nT = E4leg4ant.Camera:FindFirstChild(e447legant or "Factory New")
+						end
+						if not ElEgA44nT then
+							return
+						end
+						local e44leg4nt = e7legant:FindFirstChild("Weapon")
+						if not e44leg4nt then
+							return
+						end
+						e4l4g7744nt(e44leg4nt, ElEgA44nT)
+						e7legant:SetAttribute("SkinApplied", e77legant)
+					end)
+				end
+				local function e4l447g4nt(e7legant, e77legant, e447legant)
+					if not e7legant or not e77legant then
+						return
+					end
+					pcall(function()
+						local E4le447gant = e4l4g744nt:FindFirstChild(SkinConfig.GG)
+						if not E4le447gant then
+							return
+						end
+						local E4leg4ant = E4le447gant:FindFirstChild(e77legant)
+						local ElEgA44nT = E4leg4ant and E4leg4ant:FindFirstChild("Camera")
+						if ElEgA44nT then
+							ElEgA44nT = E4leg4ant.Camera:FindFirstChild(e447legant or "Factory New")
+						end
+						if not ElEgA44nT then
+							return
+						end
+						for e4l4g4n777, E4leg44ant in {
+							"Left Arm",
+							"Right Arm"
+						}, nil, nil do
+							local E4leg47ant = e7legant:FindFirstChild(E4leg44ant)
+							if E4leg47ant then
+								local _4l4g4n447t = E4leg47ant:FindFirstChild("Glove")
+								if _4l4g4n447t then
+									local E4leg74ant = ElEgA44nT:FindFirstChild(E4leg44ant)
+									if E4leg74ant then
+										local e4l4g47nt = _4l4g4n447t:FindFirstChildOfClass("SurfaceAppearance")
+										if e4l4g47nt then
+											e4l4g47nt:Destroy()
+										end
+										local _47E4legant = E4leg74ant:Clone()
+										_47E4legant.Name = "SurfaceAppearance"
+										_47E4legant.Parent = _4l4g4n447t
+									end
+								end
+							end
+						end
+						e7legant:SetAttribute("GloveSkinApplied", e77legant)
+					end)
+				end
+				local function e4l4g477nt(e7legant)
+					return SkinConfig.GunSkins[e7legant] ~= nil
+				end
+				local function e4l4g447nt(e7legant, e77legant, e447legant)
+					if not e7legant or not e77legant then
+						return
+					end
+					pcall(function()
+						local E4le447gant = e4l4g744nt:FindFirstChild(e7legant.Name)
+						if not E4le447gant then
+							return
+						end
+						local E4leg4ant = E4le447gant:FindFirstChild(e77legant)
+						local ElEgA44nT = E4leg4ant and E4leg4ant:FindFirstChild("Camera")
+						if ElEgA44nT then
+							ElEgA44nT = E4leg4ant.Camera:FindFirstChild(e447legant or "Factory New")
+						end
+						if not ElEgA44nT then
+							return
+						end
+						local e44leg4nt = e7legant:FindFirstChild("Weapon")
+						if not e44leg4nt then
+							return
+						end
+						e4l4g7744nt(e44leg4nt, ElEgA44nT)
+						e7legant:SetAttribute("SkinApplied", e77legant)
+					end)
+				end
+				local function e4l4g4447nt(e7legant)
+					if not e7legant or typeof(e7legant) ~= "Instance" then
+						return
+					end
+					local e4l4g474nt = SkinConfig.GS and SkinConfig.GS ~= ""
+					if e4l4g474nt then
+						local e4l4g4774nt = SkinConfig.GS
+						e4l4g474nt = e7legant:GetAttribute("GloveSkinApplied") ~= e4l4g4774nt
+					end
+					if e4l4g474nt then
+						task.defer(function()
+							e4l447g4nt(e7legant, SkinConfig.GS, SkinConfig.GW)
+						end)
+					end
+				end
+				local e4l4g4n4t = e44l4g4nt.GetCameraModel
+				e44l4g4nt.GetCameraModel = function(e7legant, e77legant, ...)
+					local E4le447gant = table.pack(...)
+					if e4l474g4nt(e7legant) then
+						local E4leg4ant = e4l4g4n4t(SkinConfig.DK, e4l4g4474nt(), ...)
+						if E4leg4ant then
+							if SkinConfig.DS and SkinConfig.DS ~= "" then
+								task.defer(function()
+									e4l477g4nt(E4leg4ant, SkinConfig.DS, SkinConfig.DW)
+								end)
+							end
+							e4l4g4447nt(E4leg4ant)
+						end
+						return E4leg4ant
+					end
+					local E4leg4ant = SkinConfig.GunSkins[e7legant]
+					local E4leg44ant
+					if E4leg4ant then
+-- e7l4g4nt < 47 >
+						local E4leg47ant = e4l4g4n4t(e7legant, E4leg4ant, ...)
+-- property of e4l3g4nt
+						if E4leg47ant then
+							E4leg44ant = E4leg47ant
+-- e4l3g4nt :: 47
+						else
+							local E4leg74ant = e4l4g4n4t(e7legant, e77legant, table.unpack(E4le447gant, 1, E4le447gant.n))
+							E4leg44ant = E4leg74ant
+						end
+					else
+						E4leg44ant = e4l4g4n4t(e7legant, e77legant, ...)
+					end
+					if E4leg44ant then
+						if e4l4g477nt(e7legant) then
+							task.defer(function()
+								e4l4g447nt(E4leg44ant, SkinConfig.GunSkins[e7legant], SkinConfig.GunWear)
+							end)
+						end
+						e4l4g4447nt(E4leg44ant)
+					end
+					return E4leg44ant
+				end
+				local e4l4g4n44t = e44l4g4nt.GetBaseWeaponModel
+				e44l4g4nt.GetBaseWeaponModel = function(e7legant, e77legant, ...)
+					if e4l474g4nt(e7legant) then
+						local E4le447gant = e4l4g4n44t(SkinConfig.DK, e77legant, ...)
+						if E4le447gant then
+							if SkinConfig.DS and SkinConfig.DS ~= "" then
+								task.defer(function()
+									e4l477g4nt(E4le447gant, SkinConfig.DS, SkinConfig.DW)
+								end)
+							end
+							e4l4g4447nt(E4le447gant)
+						end
+						return E4le447gant
+					end
+					return e4l4g4n44t(e7legant, e77legant, ...)
+				end
+				if e44l4g4nt.GetCharacterModel then
+					local e4l4g4n7t = e44l4g4nt.GetCharacterModel
+					e44l4g4nt.GetCharacterModel = function(e7legant, e77legant, ...)
+						if e4l474g4nt(e7legant) then
+							return e4l4g4n7t(SkinConfig.DK, e4l4g4474nt(), ...)
+						end
+						local E4le447gant = SkinConfig.GunSkins[e7legant]
+						if E4le447gant then
+							return e4l4g4n7t(e7legant, E4le447gant, ...)
+						end
+						return e4l4g4n7t(e7legant, e77legant, ...)
+					end
+				end
+				local e4l4g4n77t = nil
+				pcall(function()
+					e4l4g4n77t = require(e4l44egant.Classes.WeaponComponent.Classes.Viewmodel)
+				end)
+				if e4l4g4n77t and e4l4g4n77t.new then
+					local E4l4egant = e4l4g4n77t.new
+					e4l4g4n77t.new = function(e7legant, e77legant, e447legant, ...)
+						if e4l474g4nt(e77legant) then
+							local E4le447gant = E4l4egant(e7legant, SkinConfig.DK, e4l4g4474nt(), ...)
+							e4l4g4447nt(E4le447gant)
+							return E4le447gant
+						end
+						local E4le447gant = SkinConfig.GunSkins[e77legant]
+						if E4le447gant then
+							return E4l4egant(e7legant, e77legant, E4le447gant, ...)
+-- e4l3g4nt runz this
+						end
+						return E4l4egant(e7legant, e77legant, e447legant, ...)
+					end
+				end
+				local e4l4g4n47t = nil
+				pcall(function()
+					e4l4g4n47t = require(e4l44egant.Database.Components.Common.AttachGlovesToViewmodel)
+				end)
+				if e4l4g4n47t then
+					local E4le447gant = e4l4g4n47t
+					e4l4g4n47t = function(e7legant, e77legant)
+						E4le447gant(e7legant, e77legant)
+						e4l4g4447nt(e77legant)
+					end
+				end
+				if getgenv().SKCL then
+					getgenv().SKCL:Disconnect()
+				end
+				local e4l4g4n74t = _477l4g4nt.Heartbeat
+				getgenv().SKCL = e4l4g4n74t:Connect(function(...)
+				end)
+			end)
+			e4l774egant = e4l44gant.tween:Tab("settings")
+			do
+				local e47l4g4nt = {
+					path = "\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101\47",
+					file = "",
+					config_name = "",
+					get_list = function()
+						local e47l4g4nt = {}
+						if # listfiles("\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101") > 0 then
+							local E4le447gant = next
+							local e4l4g4n447t, E4leg4ant = listfiles("\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101")
+							for e4l4g4n777, E4leg44ant in E4le447gant, e4l4g4n447t, E4leg4ant do
+								local el4egant = "." .. E4leg44ant:split(e4legant4.v83[129])[# E4leg44ant:split(".")]
+								if el4egant == ".txt" then
+									table.insert(e47l4g4nt, E4leg44ant:split("\\")[# E4leg44ant:split("\\")]:sub(e4legant4.v83[85], - # el4egant - 1))
+								end
+							end
+						else
+							e47l4g4nt = {}
+						end
+						return e47l4g4nt
+					end,
+				}
+				local e4l4g4n774t = e4l774egant:Section("configuration", "left")
+				e4l4g4n774t:TextBox({
+					title = "NO TITLE",
+					default = "",
+					placeholder = "config name",
+					ClearTextOnFocus = true,
+					callback = function(e4l4g4nt4)
+						e47l4g4nt.config_name = e4l4g4nt4
+					end,
+				})
+				local E4le447gant, E4leg4ant = e4l4g4n774t:Dropdown({
+					title = "configs",
+					values = e47l4g4nt:get_list(),
+					default = "--",
+					multi = false,
+					callback = function(e4l4g4nt44)
+						e47l4g4nt.file = e4l4g4nt44
+					end,
+				})
+				e4l4g4n774t:Button({
+					title = "load config",
+					callback = function()
+						if e47l4g4nt.file == nil then
+							return
+						end
+						if not isfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt") then
+							return
+						end
+						local E4leg44ant = readfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt")
+						e4l44gant.v84:LoadConfig(E4leg44ant)
+						E4leg4ant:Refresh(e47l4g4nt:get_list())
+					end,
+				})
+				e4l4g4n774t:Button({
+					title = "save config",
+					callback = function()
+						if e47l4g4nt.config_name ~= "" then
+							writefile(e47l4g4nt.path .. e47l4g4nt.config_name .. ".txt", e4l44gant.v84:GetConfig())
+							E4leg4ant:Refresh(e47l4g4nt:get_list())
+						end
+					end,
+				})
+				e4l4g4n774t:Button({
+					title = "delete config",
+					callback = function()
+						if e47l4g4nt.file ~= nil then
+							delfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt")
+-- 4l3g4nt wuz here 74
+							E4leg4ant:Refresh(e47l4g4nt:get_list())
+						end
+					end,
+				})
+				e4l4g4n774t:Button({
+					title = "refresh list",
+					callback = function()
+						E4leg4ant:Refresh(e47l4g4nt:get_list())
+					end,
+				})
+			end
+		end
+		do
+			local e47l4g4nt = {
+				path = "\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101\47\115\107\105\110\95\99\111\110\102\105\103\115\47",
+				file = "",
+				config_name = "",
+				get_list = function()
+					local e47l4g4nt = {}
+					if # listfiles("\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101\47\115\107\105\110\95\99\111\110\102\105\103\115") > 0 then
+						local E4le447gant = next
+						local e4l4g4nt7, E4leg4ant = listfiles("\101\52\108\51\103\52\110\116\47\99\111\110\102\105\103\115\47\98\108\111\120\115\116\114\105\107\101\47\115\107\105\110\95\99\111\110\102\105\103\115")
+						for e4l4g4n777, E4leg44ant in E4le447gant, e4l4g4nt7, E4leg4ant do
+							local el4egant = "." .. E4leg44ant:split(".")[# E4leg44ant:split(".")]
+							if el4egant == ".txt" then
+								table.insert(e47l4g4nt, E4leg44ant:split("\\")[# E4leg44ant:split("\\")]:sub(1, - # el4egant - 1))
+							end
+						end
+					else
+						e47l4g4nt = {}
+					end
+					return e47l4g4nt
+				end,
+			}
+			local E4le447gant = e4l774egant:Section("skin configs", "left")
+			E4le447gant:TextBox({
+				title = "NO TITLE",
+				default = "",
+				placeholder = "skin config name",
+				ClearTextOnFocus = true,
+				callback = function(e4l4g4nt4)
+					e47l4g4nt.config_name = e4l4g4nt4
+				end,
+			})
+			local E4leg4ant, E4leg44ant = E4le447gant:Dropdown({
+				title = "skin configs",
+				values = e47l4g4nt:get_list(),
+				default = "--",
+				multi = e4legant4.v83[9],
+				callback = function(e4l4g4nt44)
+					e47l4g4nt.file = e4l4g4nt44
+				end,
+			})
+			E4le447gant:Button({
+				title = "load skin config",
+				callback = function()
+					if e47l4g4nt.file == nil then
+						return
+					end
+					if not isfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt") then
+						return
+					end
+					local E4leg47ant = readfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt")
+					e4l44gant.v84:LoadSkinConfig(E4leg47ant)
+					E4leg44ant:Refresh(e47l4g4nt:get_list())
+				end,
+			})
+			E4le447gant:Button({
+				title = "save skin config",
+				callback = function()
+					if e47l4g4nt.config_name ~= "" then
+						writefile(e47l4g4nt.path .. e47l4g4nt.config_name .. ".txt", e4l44gant.v84:GetSkinConfig())
+						E4leg44ant:Refresh(e47l4g4nt:get_list())
+					end
+				end,
+			})
+			E4le447gant:Button({
+				title = "delete skin config",
+				callback = function()
+					if e4legant4.n28(365) >= 1094 then
+						if e47l4g4nt.file ~= nil then
+							delfile(e47l4g4nt.path .. e47l4g4nt.file .. ".txt")
+							E4leg44ant:Refresh(e47l4g4nt:get_list())
+						end
+						return
+					end
+					while true do
+-- 4l3g4nt wuz here 74
+					end
+				end,
+			})
+			E4le447gant:Button({
+				title = "refresh list",
+				callback = function()
+					E4leg44ant:Refresh(e47l4g4nt:get_list())
+				end,
+			})
+		end
+	end
+	do
+		local e4l4g4nt47 = e4l774egant:Section("theme", "right")
+		getgenv().theme = {
+			accent = e4legant4.color(168, e4legant4.v83[73], 159),
+			scroll = e4legant4.color(168, 157, e4legant4.v83[186]),
+			risky = e4legant4.color(237, 77, 77),
+			playerlist = e4legant4.color(0, 255, 255),
+		}
+		local E4le447gant = table.clone(getgenv().theme)
+		local e47l4g4nt = {
+			accent = e4l4g4nt47:Colorpicker({
+				title = "accent",
+				default = Color3.fromRGB(168, 157, 159),
+				transparency = 1,
+				callback = function(e4l4g4nt74)
+					theme.accent = e4l4g4nt74
+					theme_event:Fire()
+				end,
+			}),
+			scroll = e4l4g4nt47:Colorpicker({
+				title = "scrollbar",
+				default = Color3.fromRGB(168, 157, 159),
+				transparency = 1,
+				callback = function(e4l4g4nt447)
+					theme.scroll = e4l4g4nt447
+					theme_event:Fire()
+				end,
+			}),
+			risky = e4l4g4nt47:Colorpicker({
+				title = "risky",
+				default = Color3.fromRGB(237, 77, 77),
+				transparency = 1,
+				callback = function(e4l4g4nt774)
+					theme.risky = e4l4g4nt774
+					theme_event:Fire()
+				end,
+			}),
+			playerlist = e4l4g4nt47:Colorpicker({
+				title = "player list",
+				default = Color3.fromRGB(0, e4legant4.v83[150], 255),
+				transparency = 1,
+				callback = function(_4El4g4nT)
+					theme.playerlist = _4El4g4nT
+					theme_event:Fire()
+				end,
+			}),
+		}
+		e4l4g4nt47:Button({
+			title = "reset to default",
+			callback = function()
+				for ELEGA47NT, E4leg4ant in next, E4le447gant, nil do
+					for _44El4g4nT, E4leg44ant in next, e47l4g4nt, nil do
+						if not ELEGA47NT ~= _44El4g4nT then
+							E4leg44ant:Set(E4leg4ant)
+						end
+					end
+				end
+			end,
+		})
+	end
+	local E4le447gant
+	do
+		E4le447gant = e4l774egant:Section("in game", "right")
+		do
+			local E4leg4ant = E4le447gant:StandaloneKeybind({
+				title = "menu key",
+				key = "RightShift",
+				mode = "Toggle",
+				callback = function()
+				end,
+			})
+			local el4egant = "RightShift"
+			e4legant4.spawn_(function()
+				while e4legant4.wait_(0.5) do
+					local E4leg44ant = e4l44gant.v84.Flags[E4leg4ant.Flag .. "_info"]
+					if E4leg44ant and E4leg44ant[1] and E4leg44ant[1] ~= el4egant then
+						el4egant = E4leg44ant[1]
+						getgenv().SetMenuKeybind(el4egant)
+					end
+				end
+			end)
+		end
+	end
+	do
+		local function e4l474g4nt()
+			local _7El4g4nT = game:GetService("CoreGui"):WaitForChild("DevConsoleMaster"):WaitForChild("DevConsoleWindow"):WaitForChild("DevConsoleUI"):WaitForChild("MainView"):WaitForChild("ClientLog")
+			for e4l4g4n777, Eleg447ant in pairs(_7El4g4nT:GetChildren()) do
+				if Eleg447ant:IsA("GuiObject") and Eleg447ant.Name == Eleg447ant.Name:match("%d+") then
+					Eleg447ant:Destroy()
+				end
+-- property of e4l3g4nt
+			end
+		end
+		local function e4l4g4474nt()
+			game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, e4legant4.localPlayer)
+		end
+		local function e4l4g7744nt()
+			game:GetService("TeleportService"):Teleport(game.PlaceId, e4legant4.localPlayer)
+		end
+		E4le447gant:Button({
+			title = "rejoin",
+			callback = function()
+				pcall(e4l4g4474nt)
+			end,
+		})
+		E4le447gant:Button({
+			title = "join another server",
+			callback = function()
+				pcall(e4l4g7744nt)
+			end,
+		})
+		E4le447gant:Button({
+			title = "clear console",
+			callback = function()
+				pcall(e4l474g4nt)
+			end,
+		})
+	end
+	return
+end
+e4l44gant77()

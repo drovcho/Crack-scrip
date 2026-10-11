@@ -8,21 +8,6 @@
     ================================================================
     discord.gg/candyware   -   do not leak   -   buyer build
 --]]
-
-local _0x = {138,251,138,196,138,251,138,194,122,138,203,138,207,138,203,138,250,138,249}
-local _k = (function(...) local z = select('#', ...) return (z * 9) end)(1,2,3,4,5,6,7,8,9,10)
-local _t = {}
-local _j = function(...) return ... end
-local _g = (getfenv and getfenv()) or _ENV or {}
-for _i = 1, #_0x do
-    _t[#_t + 1] = string["char"](bit32["bxor"](_0x[_i], _k))
-end
-local _o = table["concat"](_t)
-local _p = _g[_j("pr".."in".."t")] or _j(print)
-if _p then
-    _p(_o)
-end
-
 -- ================= environment =================
 local Services = setmetatable({}, { __index = function() return nil end })
 local Players          = Services and Services.Players
